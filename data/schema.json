@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openbook-search.example/schema/catalog-v1.json",
+  "title": "OpenBook Search catalog",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "books"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": 1 },
+    "generated_at": { "type": ["string", "null"], "format": "date-time" },
+    "partitioned": { "type": "boolean" },
+    "total_records": { "type": "integer", "minimum": 0 },
+    "books": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/book" }
+    }
+  },
+  "$defs": {
+    "format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "url"],
+      "properties": {
+        "type": { "enum": ["azw3", "epub", "html", "mobi", "pdf", "read", "text"] },
+        "url": { "type": "string", "pattern": "^https?://" }
+      }
+    },
+    "provider": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "source_id", "source_url", "formats", "access", "license", "verified_legal"],
+      "properties": {
+        "source": { "type": "string", "minLength": 1 },
+        "source_id": { "type": "string" },
+        "source_url": { "type": "string", "pattern": "^(https?://)?$|^https?://" },
+        "language": { "type": "string", "pattern": "^[a-z]{2,3}$" },
+        "formats": { "type": "array", "items": { "$ref": "#/$defs/format" } },
+        "access": { "$ref": "#/$defs/access" },
+        "license": { "type": "string" },
+        "verified_legal": { "type": "boolean" }
+      }
+    },
+    "access": {
+      "enum": ["public_domain", "open_access", "creative_commons", "author_free", "digital_lending", "preview", "metadata_only", "unknown"]
+    },
+    "book": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "authors", "language", "year", "publisher", "isbn", "doi", "subjects", "source", "source_url", "cover_url", "formats", "access", "license", "verified_legal", "resource_type", "identifiers", "providers"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "subtitle": { "type": "string" },
+        "description": { "type": "string", "maxLength": 4000 },
+        "authors": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "language": { "type": "string", "pattern": "^[a-z]{2,3}$" },
+        "year": { "type": ["integer", "null"], "minimum": 100, "maximum": 3000 },
+        "publisher": { "type": "string" },
+        "isbn": { "type": "array", "items": { "type": "string", "pattern": "^(?:[0-9]{13}|[0-9]{9}[0-9X])$" } },
+        "doi": { "type": "string" },
+        "subjects": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "source": { "type": "string", "minLength": 1 },
+        "source_url": { "type": "string", "pattern": "^(https?://)?$|^https?://" },
+        "cover_url": { "type": "string", "pattern": "^(https?://)?$|^https?://" },
+        "formats": { "type": "array", "items": { "$ref": "#/$defs/format" } },
+        "access": { "$ref": "#/$defs/access" },
+        "license": { "type": "string" },
+        "verified_legal": { "type": "boolean" },
+        "resource_type": { "enum": ["book", "textbook", "article", "thesis", "other"] },
+        "identifiers": { "type": "object", "additionalProperties": { "type": "string" } },
+        "providers": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/provider" } }
+      }
+    }
+  }
+}

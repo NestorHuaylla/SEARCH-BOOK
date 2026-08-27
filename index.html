@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; img-src 'self' https:; connect-src 'self' https://openlibrary.org https://gutendex.com; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"
+    >
+    <meta
+      name="description"
+      content="Busca libros, textos y publicaciones disponibles legalmente de forma gratuita."
+    >
+    <meta name="theme-color" content="#f7f5ef">
+    <title>OpenBook Search</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#results">Saltar a los resultados</a>
+
+    <header class="hero">
+      <div class="hero__content">
+        <a class="brand" href="./" aria-label="OpenBook Search, inicio">
+          <span class="brand__mark" aria-hidden="true">O</span>
+          <span>OpenBook Search</span>
+        </a>
+        <p class="eyebrow">Conocimiento abierto, en un solo lugar</p>
+        <h1>Encuentra libros que puedes leer <em>legalmente</em>.</h1>
+        <p class="hero__intro">
+          Dominio público, Open Access, Creative Commons, préstamos y previews
+          autorizados reunidos en un catálogo transparente.
+        </p>
+
+        <form id="search-form" class="search" role="search">
+          <label class="sr-only" for="search-input">Buscar libro, autor, ISBN o tema</label>
+          <div class="search__box">
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22">
+              <path d="m21 21-4.35-4.35m2.35-5.15A7.5 7.5 0 1 1 4 11.5a7.5 7.5 0 0 1 15 0Z" />
+            </svg>
+            <input
+              id="search-input"
+              name="q"
+              type="search"
+              autocomplete="off"
+              spellcheck="false"
+              placeholder="Título, autor, ISBN, DOI o una descripción…"
+            >
+            <button type="submit">Buscar</button>
+          </div>
+
+          <details class="advanced-search">
+            <summary>Búsqueda avanzada</summary>
+            <p class="advanced-search__intro">
+              Combina los datos que conozcas. También puedes buscar sin escribir una consulta general.
+            </p>
+            <div class="advanced-search__grid">
+              <label class="field field--wide" for="filter-title">
+                <span>Título</span>
+                <input id="filter-title" name="title" type="search" placeholder="Ej. Software Engineering">
+              </label>
+              <label class="field" for="filter-author">
+                <span>Autor</span>
+                <input id="filter-author" name="author" type="search" placeholder="Ej. Ian Sommerville">
+              </label>
+              <label class="field" for="filter-identifier">
+                <span>ISBN o DOI</span>
+                <input id="filter-identifier" name="identifier" type="search" placeholder="978… o 10.…">
+              </label>
+              <label class="field field--wide" for="filter-subject">
+                <span>Tema o descripción</span>
+                <input id="filter-subject" name="subject" type="search" placeholder="Ej. arquitectura de software distribuido">
+              </label>
+              <label class="field" for="filter-publisher">
+                <span>Editorial</span>
+                <input id="filter-publisher" name="publisher" type="search" placeholder="Editorial o universidad">
+              </label>
+              <label class="field" for="filter-edition">
+                <span>Edición</span>
+                <input id="filter-edition" name="edition" type="search" placeholder="Ej. 10">
+              </label>
+              <label class="field" for="filter-resource-type">
+                <span>Tipo de recurso</span>
+                <select id="filter-resource-type" name="resourceType">
+                  <option value="">Todos</option>
+                  <option value="book">Libro</option>
+                  <option value="textbook">Texto universitario</option>
+                  <option value="article">Artículo</option>
+                  <option value="thesis">Tesis</option>
+                  <option value="other">Otro</option>
+                </select>
+              </label>
+              <div class="field field--years">
+                <span>Año</span>
+                <div class="filter-row">
+                  <label for="filter-year-from"><span class="sr-only">Desde</span><input id="filter-year-from" name="yearFrom" type="number" min="0" max="2100" placeholder="Desde"></label>
+                  <label for="filter-year-to"><span class="sr-only">Hasta</span><input id="filter-year-to" name="yearTo" type="number" min="0" max="2100" placeholder="Hasta"></label>
+                </div>
+              </div>
+              <label class="check-field" for="filter-exact-title">
+                <input id="filter-exact-title" name="exactTitle" type="checkbox">
+                <span>Exigir título exacto</span>
+              </label>
+            </div>
+            <p class="search-syntax">
+              Sintaxis rápida: <code>titulo:"…"</code> <code>autor:"…"</code>
+              <code>idioma:es</code> <code>formato:pdf</code> <code>edicion:10</code>
+            </p>
+          </details>
+        </form>
+
+        <div class="examples" aria-label="Ejemplos de búsqueda">
+          <span>Prueba:</span>
+          <button class="example-query" type="button" data-query="métodos numéricos español">métodos numéricos</button>
+          <button class="example-query" type="button" data-query="algorithms sedgewick">algorithms</button>
+          <button class="example-query" type="button" data-query="quiero un libro detallado sobre python programación y datos">descripción larga</button>
+          <button class="example-query" type="button" data-query="titulo:&quot;Fundamentos de algoritmia&quot; autor:Brassard idioma:es">búsqueda precisa</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="main">
+      <section class="catalog-bar" aria-label="Estado del catálogo">
+        <div>
+          <span id="catalog-count" class="catalog-bar__number">—</span>
+          <span>recursos indexados</span>
+        </div>
+        <div id="catalog-date" class="catalog-bar__date">Cargando catálogo…</div>
+      </section>
+
+      <section id="search-workspace" class="workspace" hidden>
+        <aside class="filters" aria-label="Filtros de búsqueda">
+          <div class="filters__heading">
+            <h2>Filtros</h2>
+            <button id="clear-filters" class="text-button" type="button">Limpiar</button>
+          </div>
+
+          <label for="filter-language">Idioma</label>
+          <select id="filter-language" name="language">
+            <option value="">Todos</option>
+          </select>
+
+          <label for="filter-format">Formato</label>
+          <select id="filter-format" name="format">
+            <option value="">Todos</option>
+          </select>
+
+          <label for="filter-availability">Disponibilidad</label>
+          <select id="filter-availability" name="availability">
+            <option value="">Cualquiera</option>
+            <option value="direct">Lectura o archivo directo</option>
+            <option value="open">Sólo acceso abierto</option>
+          </select>
+
+          <label for="filter-access">Tipo de acceso</label>
+          <select id="filter-access" name="access">
+            <option value="">Todos</option>
+          </select>
+
+          <label for="filter-source">Fuente</label>
+          <select id="filter-source" name="source">
+            <option value="">Todas</option>
+          </select>
+        </aside>
+
+        <section class="results-panel">
+          <div class="results-heading">
+            <div>
+              <p id="results-summary" class="results-summary" aria-live="polite"></p>
+              <h2 id="results-title">Resultados</h2>
+            </div>
+            <label class="sort-label" for="sort-results">
+              Ordenar
+              <select id="sort-results">
+                <option value="relevance">Relevancia</option>
+                <option value="availability">Mejor acceso</option>
+                <option value="year-desc">Más recientes</option>
+                <option value="title">Título</option>
+              </select>
+            </label>
+          </div>
+
+          <div id="query-interpretation" class="query-interpretation" hidden>
+            <strong>Interpretamos</strong>
+            <div id="query-interpretation-chips"></div>
+          </div>
+
+          <section id="language-summary" class="language-summary" aria-labelledby="language-summary-title" hidden>
+            <div>
+              <p class="results-summary">Clasificación por idioma</p>
+              <h3 id="language-summary-title">Español e inglés, por separado</h3>
+              <p id="spanish-availability"></p>
+              <small>El idioma corresponde a la ficha o edición declarada por la fuente; no supone que dos fichas sean traducciones entre sí.</small>
+            </div>
+            <div class="language-tabs" aria-label="Filtrar resultados por idioma">
+              <button type="button" data-result-language="">Todos <span data-language-count="all">0</span></button>
+              <button type="button" data-result-language="es">Español <span data-language-count="es">0</span></button>
+              <button type="button" data-result-language="en">English <span data-language-count="en">0</span></button>
+              <span class="language-tabs__other">Otros <b data-language-count="other">0</b></span>
+            </div>
+          </section>
+
+          <div id="status" class="status" role="status" aria-live="polite">
+            Escribe una búsqueda para comenzar.
+          </div>
+          <section id="outside-filters" class="filter-rescue" aria-labelledby="outside-filters-title" hidden>
+            <div class="filter-rescue__heading">
+              <div>
+                <p class="results-summary">Coincidencias fuera de tus filtros</p>
+                <h3 id="outside-filters-title">Sí reconocimos el libro</h3>
+                <p id="outside-filters-message"></p>
+              </div>
+              <button id="show-outside-filters" type="button">Limpiar filtros y mostrar</button>
+            </div>
+            <div id="outside-filters-results" class="results results--compact"></div>
+          </section>
+          <div id="results" class="results" tabindex="-1"></div>
+          <button id="load-more" class="load-more" type="button" hidden>Mostrar más</button>
+          <nav id="external-searches" class="external-searches" aria-label="Continuar en catálogos bibliográficos" hidden>
+            <div>
+              <strong>Seguir buscando esta obra</strong>
+              <p>Consulta otras ediciones, fichas, bibliotecas o previews en catálogos externos.</p>
+            </div>
+            <div class="external-searches__links">
+              <a data-catalog="open-library" href="https://openlibrary.org" target="_blank" rel="noopener noreferrer external">Open Library</a>
+              <a data-catalog="open-library-es" href="https://openlibrary.org" target="_blank" rel="noopener noreferrer external">Open Library · español</a>
+              <a data-catalog="google-books" href="https://books.google.com" target="_blank" rel="noopener noreferrer external">Google Books</a>
+              <a data-catalog="google-books-es" href="https://books.google.com" target="_blank" rel="noopener noreferrer external">Google Books · español</a>
+              <a data-catalog="gutenberg" href="https://www.gutenberg.org" target="_blank" rel="noopener noreferrer external">Gutenberg</a>
+              <a data-catalog="worldcat" href="https://search.worldcat.org" target="_blank" rel="noopener noreferrer external">WorldCat</a>
+            </div>
+            <small>Una ficha o preview no implica que exista una descarga PDF autorizada.</small>
+          </nav>
+        </section>
+      </section>
+
+      <section id="welcome" class="welcome" aria-labelledby="welcome-title">
+        <div class="welcome__lead">
+          <p class="eyebrow">Acceso claro</p>
+          <h2 id="welcome-title">Sabes qué puedes hacer antes de abrir el enlace.</h2>
+        </div>
+        <div class="access-guide">
+          <article><span class="badge badge--public-domain">Dominio público</span><p>Obras libres de restricciones de copyright aplicables.</p></article>
+          <article><span class="badge badge--open-access">Open Access</span><p>Texto completo ofrecido legalmente por una fuente abierta.</p></article>
+          <article><span class="badge badge--cc">Creative Commons</span><p>Uso permitido bajo una licencia Creative Commons identificada.</p></article>
+          <article><span class="badge badge--lending">Préstamo</span><p>Acceso temporal mediante un servicio de préstamo digital.</p></article>
+          <article><span class="badge badge--preview">Preview</span><p>Vista parcial autorizada por el proveedor.</p></article>
+          <article><span class="badge badge--metadata">Sólo ficha</span><p>Información bibliográfica sin descarga confirmada.</p></article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>OpenBook Search enlaza únicamente a fuentes originales. No aloja libros ni archivos PDF.</p>
+      <p><a href="README.md">Proyecto y política de copyright</a></p>
+    </footer>
+
+    <template id="book-card-template">
+      <article class="book-card">
+        <div class="book-cover-wrap">
+          <div class="book-cover-placeholder" aria-hidden="true"><span>OB</span></div>
+          <img class="book-cover" alt="" loading="lazy" decoding="async" hidden>
+        </div>
+        <div class="book-card__body">
+          <div class="book-card__badges"></div>
+          <h3 class="book-card__title"></h3>
+          <p class="book-card__authors"></p>
+          <p class="book-card__meta"></p>
+          <p class="book-card__subjects"></p>
+          <p class="book-card__description"></p>
+          <div class="book-card__providers"></div>
+          <details class="book-card__details">
+            <summary>Detalles bibliográficos</summary>
+            <dl></dl>
+          </details>
+          <div class="book-card__actions"></div>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="assets/js/app.js"></script>
+  </body>
+</html>

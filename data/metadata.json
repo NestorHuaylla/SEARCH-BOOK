@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-26T15:19:16.096707Z",
+  "total_records": 1085,
+  "catalog_sha256": "d25a3f1796ea868c077ce09c53ffb3ea5b65a293f87ee4bf5c262adfaf77a7a0",
+  "providers": {
+    "Free Programming Books": {
+      "records": 173,
+      "status": "ok",
+      "retained": false
+    },
+    "Internet Archive": {
+      "records": 50,
+      "status": "retained",
+      "retained": true
+    },
+    "Open Library": {
+      "records": 345,
+      "status": "retained",
+      "retained": true
+    },
+    "OpenAlex": {
+      "records": 100,
+      "status": "retained",
+      "retained": true
+    },
+    "OpenStax": {
+      "records": 110,
+      "status": "retained",
+      "retained": true
+    },
+    "Project Gutenberg": {
+      "records": 320,
+      "status": "retained",
+      "retained": true
+    },
+    "Standard Ebooks": {
+      "records": 15,
+      "status": "retained",
+      "retained": true
+    }
+  },
+  "shards": [
+    {
+      "path": "data/shards/books-0000.json",
+      "records": 1000,
+      "bytes": 1847170
+    },
+    {
+      "path": "data/shards/books-0001.json",
+      "records": 85,
+      "bytes": 241986
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+data/books.json linguist-generated=true
+data/metadata.json linguist-generated=true
+data/shards/*.json linguist-generated=true
+
