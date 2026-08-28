@@ -1,8 +1,14 @@
 {
   "schema_version": 1,
+<<<<<<< HEAD
   "generated_at": "2026-08-28T20:57:09.205670Z",
   "total_records": 1606,
   "catalog_sha256": "0c9fa3f316693f6ba51de08c4add53821e0353b896aea21a1198eb42696fabde",
+=======
+  "generated_at": "2026-08-28T17:31:34.983929Z",
+  "total_records": 1091,
+  "catalog_sha256": "ab38485955ab8f367eb311e5b2983e18c53beb06c7f8f35072077d7edee7a8cf",
+>>>>>>> 85d843f759f88765ccd4a404e9e101dbc983fcf3
   "providers": {
     "DOAB": {
       "records": 300,
@@ -18,48 +24,61 @@
       "records": 50,
       "status": "ok",
       "retained": false
+<<<<<<< HEAD
     },
     "OAPEN Library": {
       "records": 300,
       "status": "retained",
       "retained": true
+=======
+>>>>>>> 85d843f759f88765ccd4a404e9e101dbc983fcf3
     },
     "Open Library": {
       "records": 345,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenAlex": {
       "records": 100,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenStax": {
       "records": 110,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "Project Gutenberg": {
       "records": 320,
-      "status": "retained",
-      "retained": true
+      "status": "error",
+      "retained": true,
+      "error": "Project Gutenberg: request failed: 403 Client Error: Forbidden for url: https://gutendex.com/books/"
     },
     "Standard Ebooks": {
       "records": 15,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     }
   },
   "shards": [
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
+<<<<<<< HEAD
       "bytes": 2192405
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 606,
       "bytes": 1595422
+=======
+      "bytes": 1891817
+    },
+    {
+      "path": "data/shards/books-0001.json",
+      "records": 91,
+      "bytes": 254550
+>>>>>>> 85d843f759f88765ccd4a404e9e101dbc983fcf3
     }
   ]
 }
