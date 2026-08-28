@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T15:19:16.096707Z",
-  "total_records": 1085,
-  "catalog_sha256": "d25a3f1796ea868c077ce09c53ffb3ea5b65a293f87ee4bf5c262adfaf77a7a0",
+  "generated_at": "2026-08-28T17:31:34.983929Z",
+  "total_records": 1091,
+  "catalog_sha256": "ab38485955ab8f367eb311e5b2983e18c53beb06c7f8f35072077d7edee7a8cf",
   "providers": {
     "Free Programming Books": {
       "records": 173,
@@ -11,45 +11,46 @@
     },
     "Internet Archive": {
       "records": 50,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "Open Library": {
       "records": 345,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenAlex": {
       "records": 100,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenStax": {
       "records": 110,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "Project Gutenberg": {
       "records": 320,
-      "status": "retained",
-      "retained": true
+      "status": "error",
+      "retained": true,
+      "error": "Project Gutenberg: request failed: 403 Client Error: Forbidden for url: https://gutendex.com/books/"
     },
     "Standard Ebooks": {
       "records": 15,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     }
   },
   "shards": [
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 1847170
+      "bytes": 1891817
     },
     {
       "path": "data/shards/books-0001.json",
-      "records": 85,
-      "bytes": 241986
+      "records": 91,
+      "bytes": 254550
     }
   ]
 }
