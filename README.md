@@ -34,14 +34,18 @@ La obtención, normalización, almacenamiento, búsqueda y UI son capas separada
 | Free Programming Books | RAW oficial de la lista española | Recurso curado como disponible gratuitamente; licencia CC sólo cuando la lista la declara |
 | Project Gutenberg | [Gutendex `/books`](https://gutendex.com/), snapshot y consulta en vivo ES/EN | Sólo expone archivos cuando Gutendex declara `copyright=false`; dominio público en Estados Unidos y sujeto a la jurisdicción del usuario |
 | Open Library | [`/search.json`](https://openlibrary.org/dev/docs/api/search), snapshot y consulta en vivo | Distingue lectura pública, préstamo, preview y sólo ficha; no genera URLs PDF |
-| OpenStax | API pública del CMS | PDF/lectura de OpenStax; la licencia exacta se obtiene de la ficha individual |
+| OpenStax | API pública del CMS, snapshot y consulta en vivo | PDF/lectura enlazados directamente por OpenStax; la licencia exacta se obtiene de la ficha individual |
+| OAPEN Library | [REST Search oficial](https://www.oapen.org/article/8185269-search-using-a-rest-api), snapshot diario | PDF/EPUB sólo desde bitstreams `ORIGINAL` o URLs de descarga explícitas en los metadatos oficiales |
+| DOAB | [REST Search oficial](https://www.doabooks.org/en/article/api-search-doab), snapshot diario | Directorio OA; enlaza el archivo/editor únicamente cuando DOAB publica una URL de descarga explícita |
 | Standard Ebooks | Feed Atom público de novedades | Usa únicamente enclosures y derechos del feed oficial |
 | OpenAlex | [`/works`](https://developers.openalex.org/api-reference/works) | Sólo `best_oa_location` confirmada como OA; PDF sólo si esa ubicación lo proporciona |
-| Internet Archive | Advanced Search | Nunca genera archivos; CC/dominio público sólo con metadatos explícitos y préstamo cuando está restringido |
+| Internet Archive | Advanced Search + Item Metadata API, snapshot y consulta en vivo | CC/dominio público sólo con licencia explícita; archivos únicamente desde nombres devueltos por la API; préstamo cuando está restringido |
 
 Open Library solicita bajo volumen, caché y un `User-Agent` identificable. La sincronización hace pocas consultas configurables y conserva el último snapshot ante fallos. En el navegador, cada consulta nueva se busca por separado en español e inglés, de forma secuencial y con pausa entre solicitudes; los resultados se mantienen en caché durante la sesión. La integración pide metadatos de edición y no atribuye a una edición el archivo de otra.
 
 Gutendex se consulta en vivo por separado para español e inglés. Es un proyecto comunitario que refleja el catálogo de Project Gutenberg, no una API oficial de Gutenberg; por eso funciona como descubrimiento complementario y el snapshot local sigue siendo la base estable.
+
+OpenStax e Internet Archive permiten consultas CORS desde el navegador y se amplían en vivo. OAPEN y DOAB no permiten esas llamadas desde GitHub Pages, por lo que se sincroniza una porción reciente y configurable de cada catálogo; la interfaz conserva enlaces de continuación hacia sus buscadores oficiales.
 
 Standard Ebooks publica libremente el feed de novedades; otros feeds pueden requerir membresía. Por eso la integración predeterminada no intenta descargar el catálogo completo ni hace scraping.
 
@@ -107,6 +111,10 @@ Todas las opciones son variables de entorno y son opcionales.
 | `OPENBOOK_OPENLIBRARY_QUERIES` | 3 temas en español | Consultas separadas por `;` |
 | `OPENBOOK_OPENSTAX_FETCH_DETAILS` | `1` | `0` evita fichas individuales y reduce precisión |
 | `OPENBOOK_OPENSTAX_MAX_BOOKS` | `0` (todos) | Límite de libros OpenStax |
+| `OPENBOOK_OAPEN_LIMIT` | `750` | Libros recientes de OAPEN por sincronización |
+| `OPENBOOK_OAPEN_QUERY` | `dc.type:book` | Consulta REST usada para OAPEN |
+| `OPENBOOK_DOAB_LIMIT` | `750` | Libros recientes de DOAB por sincronización |
+| `OPENBOOK_DOAB_QUERY` | `dc.type:book` | Consulta REST usada para DOAB |
 | `OPENBOOK_OPENALEX_LIMIT` | `25` | Resultados OA por consulta |
 | `OPENBOOK_OPENALEX_QUERIES` | 4 temas | Consultas separadas por `;` |
 | `OPENALEX_API_KEY` | vacío | API key, cuando OpenAlex la exija |
@@ -180,7 +188,7 @@ Un provider no debe construir enlaces de descarga a partir de suposiciones. Si s
 
 ## Búsqueda, seguridad y rendimiento
 
-La búsqueda combina el índice local con descubrimiento en vivo de ediciones de Open Library y obras de dominio público encontradas mediante Gutendex. Usa normalización Unicode y de ordinales, coincidencias ponderadas, trigramas y distancia Damerau-Levenshtein acotada. Las consultas descriptivas largas usan una cobertura mínima dinámica en vez de exigir que coincida la mitad de todas las palabras conversacionales. El resumen, cuando una fuente lo aporta, se indexa con menor peso que título, autor y materia.
+La búsqueda combina el índice local con descubrimiento en vivo de Open Library, Project Gutenberg (Gutendex), OpenStax e Internet Archive. Usa normalización Unicode y de ordinales, coincidencias ponderadas, trigramas y distancia Damerau-Levenshtein acotada. Las consultas cortas exigen una cobertura alta de términos para evitar coincidencias parciales ruidosas; las descripciones largas aplican un umbral dinámico. El resumen se indexa con menor peso que título, autor y materia, y los resultados legales con PDF reciben un desempate moderado sin sustituir la relevancia textual.
 
 Admite frases exactas y operadores en español o inglés:
 
@@ -195,9 +203,9 @@ Los campos disponibles son `titulo/title`, `autor/author`, `isbn`, `doi`, `edito
 
 Los resultados se clasifican en fichas en español, fichas en inglés y otros idiomas. Esa separación utiliza el idioma declarado por la fuente; no afirma que dos fichas sean traducciones de la misma obra. Open Library sólo entra en un grupo cuando la respuesta incluye una edición concreta de ese idioma. Si no se confirma una edición española, la interfaz lo dice y ofrece continuar en catálogos bibliográficos.
 
-Una ficha encontrada en vivo no se presenta como descarga por su mera existencia. Si una edición de Open Library declara lectura pública se muestra **Leer**; si declara préstamo se clasifica como préstamo; en los demás casos se enlaza únicamente la ficha. Gutendex sólo aporta formatos cuando declara `copyright=false`. Cuando un filtro como PDF oculta una coincidencia bibliográfica, la interfaz la muestra en una sección separada y ofrece limpiar los filtros. También proporciona búsquedas de continuación generales y en español en Open Library y Google Books, además de Gutenberg y WorldCat.
+Una ficha encontrada en vivo no se presenta como descarga por su mera existencia. Si una edición de Open Library declara lectura pública se muestra **Leer online**; si declara préstamo se clasifica como préstamo; en los demás casos se enlaza únicamente la ficha. Gutendex sólo aporta formatos cuando declara `copyright=false`. OpenStax usa sus URLs PDF explícitas e Internet Archive requiere licencia abierta y archivos enumerados por la Item Metadata API. OAPEN/DOAB sólo publican botones de archivo para bitstreams o enlaces de descarga declarados por la fuente. El filtro **PDF directo** y el orden **PDF primero** permiten separar esos resultados.
 
-La UI no usa `innerHTML` con datos externos: crea nodos y asigna `textContent`. Todos los enlaces pasan por una lista de esquemas HTTP(S), las imágenes usan lazy loading y la CSP bloquea scripts remotos, objetos y URLs ejecutables. `connect-src` sólo permite el propio sitio, Open Library y Gutendex. No existen claves en el frontend; Google Books permanece como enlace externo porque su API requiere una clave identificadora.
+La UI no usa `innerHTML` con datos externos: crea nodos y asigna `textContent`. Todos los enlaces pasan por una lista de esquemas HTTP(S), las imágenes usan lazy loading y la CSP bloquea scripts remotos, objetos y URLs ejecutables. `connect-src` sólo permite el propio sitio y las cuatro fuentes consultadas en vivo. No existen claves en el frontend; Google Books permanece como enlace externo porque su API requiere una clave identificadora.
 
 El frontend no descarga el catálogo al abrir la portada. En la primera búsqueda carga hasta seis shards en paralelo. Por encima de 5.000 obras, el JSON canónico también queda particionado para evitar un archivo gigante. Esta arquitectura es apropiada para una primera etapa de decenas de miles de fichas; cerca de 100.000, el tiempo/memoria dependerá del dispositivo y conviene migrar la interfaz de búsqueda a un índice dedicado manteniendo los providers.
 

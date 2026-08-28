@@ -496,7 +496,9 @@ h1 em { color: var(--green); font-weight: inherit; }
 .book-card__details dd { min-width: 0; margin: 0; overflow-wrap: anywhere; }
 .book-card__actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1rem; }
 .book-card__actions a { padding: .5rem .75rem; border: 1px solid var(--green); border-radius: 7px; text-decoration: none; font-size: .82rem; font-weight: 750; }
-.book-card__actions a:first-child { background: var(--green); color: white; }
+.book-card__actions a.download-action { background: var(--green); color: white; }
+.book-card__actions a.read-action { background: var(--mint); color: var(--green-dark); }
+.book-card__actions a.source-action { border-color: var(--line); color: var(--ink-soft); }
 
 .badge { display: inline-flex; align-items: center; width: fit-content; padding: .23rem .5rem; border-radius: 999px; font-size: .69rem; font-weight: 800; letter-spacing: .025em; }
 .badge--public-domain { background: #e2ead2; color: #3e5815; }

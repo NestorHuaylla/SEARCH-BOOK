@@ -21,9 +21,11 @@ from scripts import SCHEMA_VERSION
 from scripts.config import DATA_DIR, SHARDS_DIR, Settings
 from scripts.deduplicate import deduplicate
 from scripts.providers.base import BaseProvider
+from scripts.providers.doab import DOABProvider
 from scripts.providers.free_programming_books import FreeProgrammingBooksProvider
 from scripts.providers.gutenberg import GutenbergProvider
 from scripts.providers.internetarchive import InternetArchiveProvider
+from scripts.providers.oapen import OAPENProvider
 from scripts.providers.openalex import OpenAlexProvider
 from scripts.providers.openlibrary import OpenLibraryProvider
 from scripts.providers.openstax import OpenStaxProvider
@@ -38,6 +40,8 @@ PROVIDER_TYPES: tuple[type[BaseProvider], ...] = (
     GutenbergProvider,
     OpenLibraryProvider,
     OpenStaxProvider,
+    OAPENProvider,
+    DOABProvider,
     StandardEbooksProvider,
     OpenAlexProvider,
     InternetArchiveProvider,

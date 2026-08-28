@@ -18,6 +18,10 @@ const IMPLICIT_LANGUAGE_ALIASES = new Map([
   ["deu", "de"], ["aleman", "de"], ["german", "de"],
 ]);
 
+const IMPLICIT_FORMAT_ALIASES = new Map([
+  ["pdf", "pdf"], ["epub", "epub"], ["mobi", "mobi"], ["azw3", "azw3"],
+]);
+
 const FIELD_ALIASES = new Map([
   ["title", "title"], ["titulo", "title"],
   ["author", "author"], ["autor", "author"],
@@ -64,6 +68,9 @@ const ACCESS_WEIGHT = {
 
 const TRUSTED_CATALOG_SOURCES = new Set([
   "OpenStax",
+  "OAPEN Library",
+  "DOAB",
+  "Internet Archive",
   "Standard Ebooks",
   "Project Gutenberg",
   "OpenAlex",
@@ -75,7 +82,8 @@ const STOP_WORDS = new Set([
   "con", "cual", "cuales", "de", "del", "detallado", "detallada", "donde", "ed", "edicion",
   "edition", "el", "en", "encuentra", "encontrar", "ese", "esta", "este", "for", "in", "la",
   "las", "libro", "los", "me", "muy", "necesito", "of", "para", "por", "que", "quiero",
-  "sea", "sobre", "the", "to", "trata", "un", "una", "y",
+  "sea", "sobre", "the", "to", "trata", "un", "una", "y", "descarga", "descargar", "download",
+  "free", "gratis", "gratuita", "gratuito",
 ]);
 
 export function normalizeText(value) {
@@ -117,9 +125,12 @@ export function parseSearchQuery(query) {
   }
 
   const requestedLanguages = new Set();
+  const requestedFormats = new Set();
   normalizeText([...terms, ...phrases].join(" ")).split(" ").forEach((token) => {
     const language = IMPLICIT_LANGUAGE_ALIASES.get(token);
     if (language) requestedLanguages.add(language);
+    const format = IMPLICIT_FORMAT_ALIASES.get(token);
+    if (format) requestedFormats.add(format);
   });
   for (const value of fields.language || []) {
     const language = LANGUAGE_ALIASES.get(normalizeText(value));
@@ -133,6 +144,7 @@ export function parseSearchQuery(query) {
     phrases,
     text: normalizeText([...terms, ...phrases].join(" ")),
     requestedLanguages: [...requestedLanguages],
+    requestedFormats: [...requestedFormats],
     hasStructuredFields: Object.keys(fields).length > 0,
   };
 }
@@ -345,7 +357,7 @@ function scoreBook(book, parsed) {
 
   const queryTokens = [...new Set(parsed.text.split(" ").filter(Boolean))];
   const contentQueryTokens = queryTokens.filter((token) =>
-    !IMPLICIT_LANGUAGE_ALIASES.has(token) && !STOP_WORDS.has(token)
+    !IMPLICIT_LANGUAGE_ALIASES.has(token) && !IMPLICIT_FORMAT_ALIASES.has(token) && !STOP_WORDS.has(token)
   );
   const normalizedQuery = contentQueryTokens.join(" ");
   const { exactIsbn, exactDoi } = queryIdentifierMatches(parsed, doc);
@@ -365,33 +377,45 @@ function scoreBook(book, parsed) {
   if (exactDoi) score += 760;
 
   let matchedTokens = 0;
+  let bestMatchedValue = 0;
   for (const token of contentQueryTokens) {
     const fieldMatches = [
-      { value: bestTokenScore(token, doc.titleTokens, { fuzzy: true }), weight: 118 },
-      { value: bestTokenScore(token, doc.authorTokens, { fuzzy: true }), weight: 96 },
-      { value: bestTokenScore(token, doc.subjectTokens), weight: 72 },
-      { value: bestTokenScore(token, doc.publisherTokens), weight: 44 },
+      { field: "title", value: bestTokenScore(token, doc.titleTokens, { fuzzy: true }), weight: 118 },
+      { field: "author", value: bestTokenScore(token, doc.authorTokens, { fuzzy: true }), weight: 96 },
+      { field: "topic", value: bestTokenScore(token, doc.subjectTokens), weight: 72 },
+      { field: "publisher", value: bestTokenScore(token, doc.publisherTokens), weight: 44 },
     ];
     const best = fieldMatches.reduce((current, candidate) =>
       candidate.value * candidate.weight > current.value * current.weight ? candidate : current,
     { value: 0, weight: 0 });
     if (best.value >= 0.42) {
       matchedTokens += 1;
+      bestMatchedValue = Math.max(bestMatchedValue, best.value);
       score += best.value * best.weight;
     }
   }
 
   if (contentQueryTokens.length && matchedTokens === 0 && !exactIsbn && !exactDoi) return 0;
-  if (contentQueryTokens.length >= 2 && contentQueryTokens.length <= 4
-    && matchedTokens / contentQueryTokens.length < 0.5 && !exactIsbn && !exactDoi) return 0;
-  if (contentQueryTokens.length >= 5
-    && matchedTokens < Math.max(2, Math.ceil(contentQueryTokens.length * 0.3))
-    && !exactIsbn && !exactDoi) return 0;
+  const requiredMatches = contentQueryTokens.length <= 2
+    ? contentQueryTokens.length
+    : contentQueryTokens.length <= 4
+      ? Math.ceil(contentQueryTokens.length * 0.67)
+      : Math.max(3, Math.ceil(contentQueryTokens.length * 0.4));
+  if (matchedTokens < requiredMatches && !exactIsbn && !exactDoi) return 0;
+  if (contentQueryTokens.length === 1 && bestMatchedValue < 0.6 && !exactIsbn && !exactDoi) return 0;
+  score -= (contentQueryTokens.length - matchedTokens) * 38;
   if (!contentQueryTokens.length && !phraseValues.length && !parsed.hasStructuredFields && parsed.raw) return 0;
   if (!contentQueryTokens.length && !phraseValues.length && !parsed.hasStructuredFields && !parsed.raw) score = 1;
 
   if (parsed.requestedLanguages.some((language) => bookLanguages(book).includes(language))) score += 90;
+  if (parsed.requestedFormats.length) {
+    const formats = new Set((book.formats || []).map((format) => format.type));
+    if (!parsed.requestedFormats.some((format) => formats.has(format))) return 0;
+    score += 110;
+  }
   score += ACCESS_WEIGHT[book.access] || 0;
+  if (book.verified_legal) score += 18;
+  if ((book.formats || []).some((format) => format.type === "pdf")) score += 16;
   if (doc.sources.some((source) => TRUSTED_CATALOG_SOURCES.has(source))) score += 22;
   return score;
 }
@@ -403,6 +427,7 @@ function matchesUiFilters(book, doc, filters) {
   if (filters.source && !doc.sources.includes(filters.source)) return false;
   if (filters.resourceType && book.resource_type !== filters.resourceType) return false;
   if (filters.availability === "direct" && !(book.formats || []).length) return false;
+  if (filters.availability === "pdf" && !(book.formats || []).some((item) => item.type === "pdf")) return false;
   if (filters.availability === "open" && !["public_domain", "open_access", "creative_commons", "author_free"].includes(book.access)) return false;
   if (filters.title && !looseFieldMatch(doc.title, filters.title, { exact: Boolean(filters.exactTitle) })) return false;
   if (filters.author && !looseFieldMatch(doc.authors, filters.author)) return false;
@@ -437,11 +462,19 @@ export function searchBooks(books, query, filters = {}, sort = "relevance") {
     if (sort === "year-desc") return (right.book.year || 0) - (left.book.year || 0) || right.score - left.score;
     if (sort === "title") return left.book.title.localeCompare(right.book.title, "es", { sensitivity: "base" });
     if (sort === "availability") {
+      const leftPdf = Number((left.book.formats || []).some((format) => format.type === "pdf"));
+      const rightPdf = Number((right.book.formats || []).some((format) => format.type === "pdf"));
       const leftAccess = ACCESS_WEIGHT[left.book.access] || 0;
       const rightAccess = ACCESS_WEIGHT[right.book.access] || 0;
-      return rightAccess - leftAccess
+      return rightPdf - leftPdf
+        || rightAccess - leftAccess
         || (right.book.formats?.length || 0) - (left.book.formats?.length || 0)
         || right.score - left.score;
+    }
+    if (sort === "pdf") {
+      const leftPdf = Number((left.book.formats || []).some((format) => format.type === "pdf"));
+      const rightPdf = Number((right.book.formats || []).some((format) => format.type === "pdf"));
+      return rightPdf - leftPdf || right.score - left.score;
     }
     return right.score - left.score || (Number(right.book.verified_legal) - Number(left.book.verified_legal));
   });

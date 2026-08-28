@@ -36,7 +36,8 @@ const OPEN_LIBRARY_LANGUAGE = new Map([["es", "spa"], ["en", "eng"]]);
 
 const DISCOVERY_NOISE = new Set([
   "author", "autor", "book", "by", "ed", "edicion", "edition", "english", "espanol",
-  "ingles", "libro", "por", "spanish",
+  "ingles", "libro", "por", "spanish", "descarga", "descargar", "download", "epub", "free",
+  "gratis", "gratuita", "gratuito", "mobi", "pdf",
 ]);
 
 const ACCESS_RANK = {
@@ -257,6 +258,13 @@ export async function discoverOpenLibraryBilingual(query, options = {}) {
 function identityKeys(book) {
   const keys = new Set();
   const language = book.language || "und";
+  const openStaxSlug = normalizeText(book.identifiers?.openstax_slug || "");
+  if (openStaxSlug) keys.add(`openstax:${openStaxSlug}`);
+  for (const provider of book.providers || []) {
+    if (provider.source && provider.source_id) {
+      keys.add(`source:${normalizeText(provider.source)}:${normalizeText(provider.source_id)}`);
+    }
+  }
   for (const isbn of cleanIsbn(book.isbn)) keys.add(`isbn:${isbn}|${language}`);
   const title = normalizeText(book.title)
     .replace(/\b(?:edition|edicion|ed|global)\b/g, " ")
@@ -341,5 +349,9 @@ export function externalCatalogLinks(query) {
     googleBooksSpanish: `https://books.google.com/books?q=${encoded}&lr=lang_es`,
     worldCat: `https://search.worldcat.org/search?q=${encoded}`,
     gutenberg: `https://www.gutenberg.org/ebooks/search/?query=${encoded}`,
+    oapen: `https://library.oapen.org/discover?query=${encoded}`,
+    doab: `https://directory.doabooks.org/discover?query=${encoded}`,
+    internetArchive: `https://archive.org/search?query=${encoded}`,
+    openStax: "https://openstax.org/subjects",
   };
 }

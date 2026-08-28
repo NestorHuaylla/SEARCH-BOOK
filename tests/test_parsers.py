@@ -5,6 +5,8 @@ import pytest
 from scripts.providers.free_programming_books import FreeProgrammingBooksProvider
 from scripts.providers.gutenberg import GutenbergProvider
 from scripts.providers.internetarchive import InternetArchiveProvider
+from scripts.providers.doab import DOABProvider
+from scripts.providers.oapen import OAPENProvider
 from scripts.providers.openalex import OpenAlexProvider
 from scripts.providers.openlibrary import OpenLibraryProvider
 from scripts.providers.openstax import OpenStaxProvider
@@ -157,7 +159,7 @@ def test_openalex_parser_requires_confirmed_oa_for_pdf():
     assert OpenAlexProvider.parse_work(item)["formats"] == []
 
 
-def test_internet_archive_parser_never_invents_download_url():
+def test_internet_archive_parser_uses_only_explicit_item_files():
     record = InternetArchiveProvider.parse_doc(
         {
             "identifier": "legal-item",
@@ -165,8 +167,98 @@ def test_internet_archive_parser_never_invents_download_url():
             "creator": "Author",
             "language": "spa",
             "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
-        }
+        },
+        {
+            "metadata": {},
+            "files": [
+                {"name": "legal-item.pdf", "format": "Text PDF", "source": "derivative"},
+                {"name": "legal-item_meta.xml", "format": "Metadata"},
+            ],
+        },
     )
     assert record["access"] == "creative_commons"
-    assert record["formats"] == []
+    assert record["formats"] == [
+        {"type": "pdf", "url": "https://archive.org/download/legal-item/legal-item.pdf"}
+    ]
     assert record["source_url"] == "https://archive.org/details/legal-item"
+
+
+def test_internet_archive_restricted_item_never_exposes_files():
+    record = InternetArchiveProvider.parse_doc(
+        {
+            "identifier": "restricted-item",
+            "title": "Restricted item",
+            "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+        },
+        {
+            "metadata": {"nodownload": "true"},
+            "files": [{"name": "restricted.pdf", "format": "Text PDF"}],
+        },
+    )
+    assert record["access"] == "digital_lending"
+    assert record["formats"] == []
+
+
+def test_oapen_dspace_parser_extracts_original_pdf_and_metadata():
+    record = OAPENProvider.parse_item(
+        {
+            "uuid": "uuid-1",
+            "handle": "20.500.12657/1",
+            "name": "Fallback",
+            "metadata": [
+                {"key": "dc.title", "value": "Open Mathematics"},
+                {"key": "dc.contributor.author", "value": "Ada Pérez"},
+                {"key": "dc.language", "value": "English"},
+                {"key": "dc.date.issued", "value": "2025"},
+                {"key": "oapen.identifier.doi", "value": "10.1000/open.math"},
+                {"key": "dc.rights.uri", "value": "https://creativecommons.org/licenses/by/4.0/"},
+            ],
+            "bitstreams": [
+                {
+                    "bundleName": "ORIGINAL",
+                    "mimeType": "application/pdf",
+                    "name": "book.pdf",
+                    "retrieveLink": "/rest/bitstreams/pdf-1/retrieve",
+                },
+                {
+                    "bundleName": "THUMBNAIL",
+                    "mimeType": "image/jpeg",
+                    "name": "book.jpg",
+                    "retrieveLink": "/rest/bitstreams/cover-1/retrieve",
+                },
+            ],
+        }
+    )
+    assert record["title"] == "Open Mathematics"
+    assert record["language"] == "en"
+    assert record["access"] == "creative_commons"
+    assert record["formats"] == [
+        {"type": "pdf", "url": "https://library.oapen.org/rest/bitstreams/pdf-1/retrieve"}
+    ]
+
+
+def test_doab_parser_uses_explicit_publisher_download_url():
+    record = DOABProvider.parse_item(
+        {
+            "uuid": "uuid-2",
+            "handle": "20.500.12854/2",
+            "name": "Open Biology",
+            "metadata": [{"key": "dc.title", "value": "Open Biology"}],
+            "bitstreams": [
+                {
+                    "bundleName": "THUMBNAIL",
+                    "mimeType": "image/jpeg",
+                    "name": "book.jpg",
+                    "retrieveLink": "/rest/bitstreams/cover-2/retrieve",
+                    "metadata": [{
+                        "key": "oapen.identifier.downloadUrl",
+                        "value": "https://publisher.example/open-biology.pdf",
+                    }],
+                }
+            ],
+        }
+    )
+    assert record["formats"] == [
+        {"type": "pdf", "url": "https://publisher.example/open-biology.pdf"}
+    ]
+    assert record["verified_legal"] is True

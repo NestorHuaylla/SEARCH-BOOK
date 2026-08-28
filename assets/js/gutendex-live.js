@@ -19,13 +19,17 @@ function safeUrl(value) {
 
 function discoveryQuery(query) {
   const parsed = parseSearchQuery(query);
-  return [
+  const raw = [
     ...(parsed.fields.title || []),
     ...(parsed.fields.author || []),
     ...(parsed.fields.subject || []),
     ...parsed.terms,
     ...parsed.phrases,
   ].join(" ").trim() || String(query || "").trim();
+  const intentWords = new Set([
+    "descarga", "descargar", "download", "epub", "free", "gratis", "gratuita", "gratuito", "mobi", "pdf",
+  ]);
+  return raw.split(/\s+/).filter((token) => !intentWords.has(normalizeText(token))).join(" ") || raw;
 }
 
 export function buildGutendexSearchUrl(query, { language = "", topic = false } = {}) {

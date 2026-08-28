@@ -1,16 +1,26 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T15:19:16.096707Z",
-  "total_records": 1085,
-  "catalog_sha256": "d25a3f1796ea868c077ce09c53ffb3ea5b65a293f87ee4bf5c262adfaf77a7a0",
+  "generated_at": "2026-08-28T20:57:09.205670Z",
+  "total_records": 1606,
+  "catalog_sha256": "0c9fa3f316693f6ba51de08c4add53821e0353b896aea21a1198eb42696fabde",
   "providers": {
+    "DOAB": {
+      "records": 300,
+      "status": "retained",
+      "retained": true
+    },
     "Free Programming Books": {
       "records": 173,
-      "status": "ok",
-      "retained": false
+      "status": "retained",
+      "retained": true
     },
     "Internet Archive": {
       "records": 50,
+      "status": "ok",
+      "retained": false
+    },
+    "OAPEN Library": {
+      "records": 300,
       "status": "retained",
       "retained": true
     },
@@ -44,12 +54,12 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 1847170
+      "bytes": 2192405
     },
     {
       "path": "data/shards/books-0001.json",
-      "records": 85,
-      "bytes": 241986
+      "records": 606,
+      "bytes": 1595422
     }
   ]
 }

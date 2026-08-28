@@ -5,6 +5,8 @@ import {
   mergeCatalogRecords,
 } from "./open-library-live.js";
 import { discoverGutendexBilingual } from "./gutendex-live.js";
+import { discoverInternetArchive } from "./internet-archive-live.js";
+import { discoverOpenStax } from "./openstax-live.js";
 
 const $ = (selector) => document.querySelector(selector);
 const catalogCount = $("#catalog-count");
@@ -235,9 +237,11 @@ function ensureDiscovery(query) {
     };
     const request = Promise.allSettled([
       withTimeout((signal) => discoverOpenLibraryBilingual(query, { signal, limit: 10 }), 16000),
-      withTimeout((signal) => discoverGutendexBilingual(query, { signal }), 6000),
+      withTimeout((signal) => discoverGutendexBilingual(query, { signal }), 8000),
+      withTimeout((signal) => discoverOpenStax(query, { signal, limit: 12 }), 12000),
+      withTimeout((signal) => discoverInternetArchive(query, { signal, limit: 8 }), 16000),
     ]).then((settled) => {
-      const sourceNames = ["Open Library", "Project Gutenberg"];
+      const sourceNames = ["Open Library", "Project Gutenberg", "OpenStax", "Internet Archive"];
       const failedSources = settled.flatMap((result, index) => {
         if (result.status === "fulfilled") return [];
         console.warn(`No se pudo consultar ${sourceNames[index]}`, result.reason);
@@ -359,7 +363,7 @@ function renderCard(book) {
 
   const actions = card.querySelector(".book-card__actions");
   const seen = new Set();
-  const formatPriority = { read: 0, html: 1, pdf: 2, epub: 3, azw3: 4, mobi: 5, text: 6 };
+  const formatPriority = { pdf: 0, epub: 1, read: 2, html: 3, azw3: 4, mobi: 5, text: 6 };
   const providerFormats = (book.providers || []).flatMap((provider) =>
     (provider.formats || []).map((format) => ({ ...format, source: provider.source }))
   ).sort((left, right) => (formatPriority[left.type] ?? 9) - (formatPriority[right.type] ?? 9));
@@ -368,8 +372,12 @@ function renderCard(book) {
     const key = `${format.type}:${format.url}`;
     if (seen.has(key)) return;
     seen.add(key);
-    const label = ["read", "html"].includes(format.type) ? "Leer" : format.type.toUpperCase();
-    const action = createAction(label, format.url);
+    const label = format.type === "pdf" ? "Descargar PDF"
+      : format.type === "epub" ? "Descargar EPUB"
+        : ["read", "html"].includes(format.type) ? "Leer online"
+          : `Descargar ${format.type.toUpperCase()}`;
+    const isDownload = !["read", "html"].includes(format.type);
+    const action = createAction(label, format.url, isDownload ? "download-action" : "read-action");
     if (action) {
       action.title = `${label} en ${format.source}`;
       actions.append(action);
@@ -445,6 +453,10 @@ function updateExternalSearches(query) {
   externalSearches.querySelector('[data-catalog="google-books"]').href = links.googleBooks;
   externalSearches.querySelector('[data-catalog="google-books-es"]').href = links.googleBooksSpanish;
   externalSearches.querySelector('[data-catalog="gutenberg"]').href = links.gutenberg;
+  externalSearches.querySelector('[data-catalog="oapen"]').href = links.oapen;
+  externalSearches.querySelector('[data-catalog="doab"]').href = links.doab;
+  externalSearches.querySelector('[data-catalog="internet-archive"]').href = links.internetArchive;
+  externalSearches.querySelector('[data-catalog="openstax"]').href = links.openStax;
   externalSearches.querySelector('[data-catalog="worldcat"]').href = links.worldCat;
   externalSearches.hidden = false;
 }
@@ -544,7 +556,7 @@ async function performSearch({ updateUrl = true } = {}) {
   languageSummary.hidden = true;
   loadMoreButton.hidden = true;
   status.hidden = false;
-  status.textContent = "Buscando en el catálogo, Open Library y Project Gutenberg…";
+  status.textContent = "Buscando en el catálogo y en cuatro fuentes abiertas en vivo…";
   resultsSummary.textContent = "Buscando";
   resultsTitle.textContent = currentQuery ? `“${currentQuery}”` : "Búsqueda avanzada";
   renderInterpretation(currentQuery, filters);

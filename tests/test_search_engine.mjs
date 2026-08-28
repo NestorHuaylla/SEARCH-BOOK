@@ -126,6 +126,14 @@ test("applies format and subject filters", () => {
     ["2"],
   );
   assert.deepEqual(searchBooks(books, "métodos", { format: "pdf" }), []);
+  assert.deepEqual(searchBooks(books, "python", { availability: "pdf" }).map((book) => book.id), ["5"]);
+});
+
+test("rejects partial two-word noise and prioritizes direct PDFs", () => {
+  assert.deepEqual(searchBooks(books, "algorithms chemistry").map((book) => book.id), []);
+  assert.deepEqual(searchBooks(books, "python pdf gratis").map((book) => book.id), ["5"]);
+  const ranked = searchBooks(books, "", {}, "pdf");
+  assert.equal(ranked[0].formats.some((format) => format.type === "pdf"), true);
 });
 
 test("parses quoted field operators in Spanish and English", () => {

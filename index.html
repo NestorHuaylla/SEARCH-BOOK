@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; img-src 'self' https:; connect-src 'self' https://openlibrary.org https://gutendex.com; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"
+      content="default-src 'self'; img-src 'self' https:; connect-src 'self' https://openlibrary.org https://gutendex.com https://openstax.org https://archive.org; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests"
     >
     <meta
       name="description"
@@ -28,7 +28,8 @@
         <h1>Encuentra libros que puedes leer <em>legalmente</em>.</h1>
         <p class="hero__intro">
           Dominio público, Open Access, Creative Commons, préstamos y previews
-          autorizados reunidos en un catálogo transparente.
+          autorizados reunidos en un catálogo transparente, con PDFs directos
+          de OpenStax, OAPEN, DOAB e Internet Archive cuando la fuente los confirma.
         </p>
 
         <form id="search-form" class="search" role="search">
@@ -148,6 +149,7 @@
           <select id="filter-availability" name="availability">
             <option value="">Cualquiera</option>
             <option value="direct">Lectura o archivo directo</option>
+            <option value="pdf">PDF directo</option>
             <option value="open">Sólo acceso abierto</option>
           </select>
 
@@ -173,6 +175,7 @@
               <select id="sort-results">
                 <option value="relevance">Relevancia</option>
                 <option value="availability">Mejor acceso</option>
+                <option value="pdf">PDF primero</option>
                 <option value="year-desc">Más recientes</option>
                 <option value="title">Título</option>
               </select>
@@ -226,9 +229,13 @@
               <a data-catalog="google-books" href="https://books.google.com" target="_blank" rel="noopener noreferrer external">Google Books</a>
               <a data-catalog="google-books-es" href="https://books.google.com" target="_blank" rel="noopener noreferrer external">Google Books · español</a>
               <a data-catalog="gutenberg" href="https://www.gutenberg.org" target="_blank" rel="noopener noreferrer external">Gutenberg</a>
+              <a data-catalog="openstax" href="https://openstax.org/subjects" target="_blank" rel="noopener noreferrer external">OpenStax</a>
+              <a data-catalog="oapen" href="https://library.oapen.org" target="_blank" rel="noopener noreferrer external">OAPEN</a>
+              <a data-catalog="doab" href="https://directory.doabooks.org" target="_blank" rel="noopener noreferrer external">DOAB</a>
+              <a data-catalog="internet-archive" href="https://archive.org" target="_blank" rel="noopener noreferrer external">Internet Archive</a>
               <a data-catalog="worldcat" href="https://search.worldcat.org" target="_blank" rel="noopener noreferrer external">WorldCat</a>
             </div>
-            <small>Una ficha o preview no implica que exista una descarga PDF autorizada.</small>
+            <small>“Descargar PDF” sólo aparece cuando la fuente oficial publica un archivo directo; una ficha o preview por sí sola no basta.</small>
           </nav>
         </section>
       </section>

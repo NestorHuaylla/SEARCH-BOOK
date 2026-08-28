@@ -22,6 +22,8 @@ ACCESS_SCORE = {
 
 SOURCE_SCORE = {
     "OpenStax": 20,
+    "OAPEN Library": 20,
+    "DOAB": 19,
     "Standard Ebooks": 20,
     "Project Gutenberg": 18,
     "OpenAlex": 16,
@@ -190,4 +192,11 @@ def _stable_identity_key(record: dict[str, Any]) -> str:
     if openlibrary_id:
         return f"ol:{normalize_text(openlibrary_id)}{language_suffix}"
     authors = "|".join(sorted(normalize_text(author) for author in record.get("authors", [])))
-    return f"text:{normalize_text(record['title'])}|{authors}{language_suffix}"
+    if authors:
+        return f"text:{normalize_text(record['title'])}|{authors}{language_suffix}"
+    # A title alone is not a safe work identity (many directories contain
+    # distinct untitled/anonymous editions with the same display title).
+    # Source + source_id is already the final deduplication key, so it is also
+    # the collision-free fallback for the published stable id.
+    source_id = normalize_text(record.get("identifiers", {}).get("source_id", ""))
+    return f"source:{normalize_text(record.get('source'))}|{source_id}|{normalize_text(record['title'])}{language_suffix}"

@@ -1,6 +1,38 @@
 from scripts.deduplicate import deduplicate
 
 
+def test_same_title_without_authors_keeps_distinct_stable_ids():
+    base = {
+        "title": "Editorial",
+        "authors": [],
+        "language": "en",
+        "year": 2025,
+        "publisher": "",
+        "isbn": [],
+        "doi": "",
+        "subjects": [],
+        "source": "Directory",
+        "source_url": "https://example.org/book",
+        "cover_url": "",
+        "formats": [],
+        "access": "open_access",
+        "license": "Open Access",
+        "verified_legal": True,
+        "resource_type": "book",
+    }
+    records = deduplicate([
+        {**base, "id": "directory:1", "identifiers": {"source_id": "1"}},
+        {
+            **base,
+            "id": "directory:2",
+            "source_url": "https://example.org/book-2",
+            "identifiers": {"source_id": "2"},
+        },
+    ])
+    assert len(records) == 2
+    assert len({record["id"] for record in records}) == 2
+
+
 def record(source, source_id, *, title="Métodos numéricos", authors=None, isbn=None, doi=""):
     return {
         "id": f"{source}:{source_id}",
