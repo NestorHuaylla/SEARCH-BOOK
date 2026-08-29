@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T20:57:09.205670Z",
-  "total_records": 1606,
-  "catalog_sha256": "0c9fa3f316693f6ba51de08c4add53821e0353b896aea21a1198eb42696fabde",
+  "generated_at": "2026-08-29T11:48:49.373026Z",
+  "total_records": 2006,
+  "catalog_sha256": "66a3fa7ea127fb57b9ff01188ce602698f3e0e73ff96da50116e0c4bc12d8884",
   "providers": {
     "DOAB": {
-      "records": 300,
-      "status": "retained",
-      "retained": true
+      "records": 750,
+      "status": "ok",
+      "retained": false
     },
     "Free Programming Books": {
       "records": 173,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "Internet Archive": {
       "records": 50,
@@ -21,45 +21,52 @@
     },
     "OAPEN Library": {
       "records": 300,
-      "status": "retained",
-      "retained": true
+      "status": "error",
+      "retained": true,
+      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
     },
     "Open Library": {
       "records": 345,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenAlex": {
       "records": 100,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "OpenStax": {
       "records": 110,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     },
     "Project Gutenberg": {
       "records": 320,
-      "status": "retained",
-      "retained": true
+      "status": "error",
+      "retained": true,
+      "error": "Project Gutenberg: request failed: 403 Client Error: Forbidden for url: https://gutendex.com/books/"
     },
     "Standard Ebooks": {
       "records": 15,
-      "status": "retained",
-      "retained": true
+      "status": "ok",
+      "retained": false
     }
   },
   "shards": [
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2192405
+      "bytes": 2318151
     },
     {
       "path": "data/shards/books-0001.json",
-      "records": 606,
-      "bytes": 1595422
+      "records": 1000,
+      "bytes": 2507695
+    },
+    {
+      "path": "data/shards/books-0002.json",
+      "records": 6,
+      "bytes": 43639
     }
   ]
 }
