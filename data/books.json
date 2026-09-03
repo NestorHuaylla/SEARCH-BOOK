@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T09:50:57.035248Z",
+  "generated_at": "2026-09-03T10:04:59.549228Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -25928,50 +25928,6 @@
       ]
     },
     {
-      "id": "work:84d52f0c8eb945fd14c408a2",
-      "title": "Castle Of Illusion, El Renacer De Un Clásico",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Cristian Teixeira"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "castle of illusion",
-        "mickey mouse",
-        "android",
-        "ios"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/CastleOfIllusionElRenacerDeUnClasico",
-      "cover_url": "https://archive.org/services/img/CastleOfIllusionElRenacerDeUnClasico",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "CastleOfIllusionElRenacerDeUnClasico",
-        "internet_archive": "CastleOfIllusionElRenacerDeUnClasico"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "CastleOfIllusionElRenacerDeUnClasico",
-          "source_url": "https://archive.org/details/CastleOfIllusionElRenacerDeUnClasico",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:306ea5f7f1672c22d1945ca3",
       "title": "Cataract Management in Demanding Cases",
       "subtitle": "Pediatric and Refractive Cataract Surgery",
@@ -35848,6 +35804,57 @@
       ]
     },
     {
+      "id": "work:6f88b571f24f753338e1e88d",
+      "title": "Crossing Cultures: Encounters, Clashes and their Reception in Antiquity: AMPAH Conference Proceedings (Campobasso, 15th-16th May 2026)",
+      "subtitle": "",
+      "description": "This volume collects the proceedings of 2025 AMPAH (Annual Meeting of Postgraduates in Ancient History), held at the University of Molise, and investigates the multiple forms taken by cultural encounters, clashes, and the reception of such episodes in the ancient and late antique world. Through an interdisciplinary approach combining history, archaeology, philology, the history of religions, literature, and material culture, the contributions explore how individuals, communities, and political powers constructed, negotiated, and reformulated identities, boundaries, and representations of otherness. From the theoretical discussion of the concept of Romanization and its interpretative limits to the analysis of Greek cults reinterpreted through a Roman lens, of Christian reworkings of the classical tradition, and of frontier dynamics in the Mediterranean world, the volume shows how cultural contact cannot be reduced to a simple process of assimilation or opposition. Its various sections highlight the permeability of religious, political, ethnic, and literary boundaries, examining both phenomena of syncretism and appropriation and the dynamics of conflict, exclusion, and the construction of the “Other.” The contributions together outline a complex and plural picture in which cultures and identities emerge as historically situated, mobile, and relational realities, continually produced through exchanges, frictions, mediations, and reuses. The volume thus aims to offer not only a reflection on the ancient world, but also a critical tool for rethinking, in light of the past, the modern categories of culture, boundary, identity, and belonging.",
+      "authors": [],
+      "language": "it",
+      "year": 2026,
+      "publisher": "FedOA - Federico II University Press",
+      "isbn": [],
+      "doi": "10.6093/978-88-6887-450-6",
+      "subjects": [
+        "Cultural encounters, Identity, Otherness, Frontiers, Syncretism",
+        "thema EDItEUR::N History and Archaeology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181663",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/32be9d60-62c3-4a4c-90c0-880c63c0b8b6/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/824"
+        }
+      ],
+      "access": "open_access",
+      "license": "All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181663",
+        "handle": "20.500.12854/181663",
+        "dspace_uuid": "9fd00dfd-a65d-4516-8294-12a66063e7c7"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181663",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181663",
+          "language": "it",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/824"
+            }
+          ],
+          "access": "open_access",
+          "license": "All rights reserved",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:99510bdc47b979f622f0b570",
       "title": "Crowdsourcing",
       "subtitle": "Innovations in Digital Collaboration",
@@ -38534,6 +38541,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:9564cac1b5ebad7bd66c0ade",
+      "title": "Death Race: El juego disponible para los más jugones",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Death Race"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IsenaDeathRace",
+      "cover_url": "https://archive.org/services/img/IsenaDeathRace",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IsenaDeathRace",
+        "internet_archive": "IsenaDeathRace"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IsenaDeathRace",
+          "source_url": "https://archive.org/details/IsenaDeathRace",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -67602,7 +67650,7 @@
       ],
       "language": "en",
       "year": 2019,
-      "publisher": "",
+      "publisher": "Griffith Research Online",
       "isbn": [],
       "doi": "10.1016/j.future.2019.02.028",
       "subjects": [
@@ -86070,47 +86118,6 @@
       ]
     },
     {
-      "id": "work:90c708c09c8df27aab692586",
-      "title": "Las crónicas de Diana",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Jose Angel Argento Victoria"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Diana chronicles"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Httparchive.orgdetailsdianachronicles",
-      "cover_url": "https://archive.org/services/img/Httparchive.orgdetailsdianachronicles",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Httparchive.orgdetailsdianachronicles",
-        "internet_archive": "Httparchive.orgdetailsdianachronicles"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Httparchive.orgdetailsdianachronicles",
-          "source_url": "https://archive.org/details/Httparchive.orgdetailsdianachronicles",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:ac4f10671040dc5e06828ea1",
       "title": "LAS CUATRO ESPOSAS",
       "subtitle": "",
@@ -91174,6 +91181,58 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:eeed19e0d7ad863c32b9f0b9",
+      "title": "LʼInternazionale dimenticata",
+      "subtitle": "Storia del movimento cooperativo nellʼOttocento europeo (1848-1895)",
+      "description": "",
+      "authors": [
+        "Boscarello, Samuel"
+      ],
+      "language": "it",
+      "year": 2026,
+      "publisher": "Viella editrice",
+      "isbn": [],
+      "doi": "10.52056/9791257012304",
+      "subjects": [
+        "thema EDItEUR::J Society and Social Sciences"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181661",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://www.viella.it/download/9006/fd3eed0ae739/internazionale-dimenticata.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181661",
+        "handle": "20.500.12854/181661",
+        "dspace_uuid": "ff665c39-77b2-499a-b3c0-b1783a752bc0"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181661",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181661",
+          "language": "it",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://www.viella.it/download/9006/fd3eed0ae739/internazionale-dimenticata.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -110456,57 +110515,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ee90940904982fd18ab02fd1",
-      "title": "Pediatric Surgical Procedures",
-      "subtitle": "An Updated Guide - Volume 2",
-      "description": "Surgical procedures are always tailored to achieve the best possible outcome for the patient. This point is of utmost importance and interest, from the earliest known civilization (Pharaonic Egypt) to today, especially for our kids. Junior Pediatric Surgeons are treated with respect by their seniors in training, as they will care for the future community. The need for young pediatric surgeons to update their knowledge is a mandate, and this will be reflected in pediatric care, which was the ambition behind this series. As surgical art has no limits, we aim to simplify surgical knowledge and skills in an engaging way across disciplines. Recent advances in technology have improved surgical outcomes, particularly in Pediatric Surgery. Laparoscopy and robotics are widely used and will be surgeons' tools in the coming decades. Therefore, we present this in chapters with numerous illustrations and figures to guide the surgeon's decisions and support competent training and skill development. In the second volume of our book, seven chapters are included, starting with a neonatal surgery section covering two common neonatal diseases. Then, Section 2 presents two major reconstructive procedures: a unique collection of rare median cleft lip cases with more than 30 figures, followed by cleft palate management from another perspective. Section 3 covers pediatric urology in two chapters. The final chapter in this volume presents the concept of functional surgery in a specific surgical context, with the most recent treatment from a leading center in this field. This second volume is a further step toward achieving our goals by providing scientific and educational content for every pediatric surgeon and, hopefully, whetting readers' appetites for future volumes of the updated guide to pediatric surgical procedures.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008022",
-      "subjects": [
-        "Pediatrics",
-        "thema EDItEUR::M Medicine and Nursing::MK Medical specialties, branches of medicine::MKD Paediatric medicine"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180964",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/40ff308f-bc8d-41bb-baa7-0e9c0100d32f/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAlIAN/0016574_Authors_Book (2026-02-23 16:15:06).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180964",
-        "handle": "20.500.12854/180964",
-        "dspace_uuid": "fbff5098-90c0-4afd-b7fc-28460c8a2fad"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180964",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180964",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAlIAN/0016574_Authors_Book (2026-02-23 16:15:06).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -134763,58 +134771,6 @@
       ]
     },
     {
-      "id": "work:23beb4d643efb8b142ca7d9f",
-      "title": "Shoulder Injuries and Treatment",
-      "subtitle": "",
-      "description": "Shoulder Injuries and Treatment delivers a comprehensive and practical resource for healthcare professionals managing the full spectrum of shoulder pathology in today's active population. This volume integrates evidence-based conservative management with the latest surgical interventions, providing orthopedic surgeons, sports medicine physicians, physical therapists, and rehabilitation specialists with the essential knowledge needed to optimize patient outcomes. The text emphasizes a holistic, multidisciplinary approach that extends beyond traditional treatment boundaries, incorporating manual therapy techniques, advanced rehabilitation protocols, and innovative surgical strategies for complex conditions, including rotator cuff injuries, shoulder instability, and traumatic shoulder disorders. What sets this book apart is its unique focus on the biopsychosocial aspects of shoulder care, recognizing that successful treatment requires addressing not only biomechanical deficits but also neuromuscular control, psychological factors, and individual patient goals. From weekend warriors seeking a return to recreational activities to elite athletes demanding peak performance, the clinical strategies presented accommodate diverse patient populations and activity levels. The volume's strength lies in its practical application of current research, offering clinicians evidence-based treatment algorithms, patient selection criteria, and rehabilitation progressions that can be immediately implemented in clinical practice. Enhanced by detailed discussions of anatomy, biomechanics, and diagnostic approaches, this resource bridges the gap between theoretical knowledge and real-world application. Whether managing acute traumatic injuries, chronic degenerative conditions, or post-surgical rehabilitation, healthcare providers will find invaluable guidance for developing individualized treatment plans that prioritize functional restoration and long-term shoulder health. This essential reference serves as the definitive guide for modern shoulder care, combining established principles with innovative approaches to meet the evolving demands of contemporary orthopedic and sports medicine practices.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008021",
-      "subjects": [
-        "Oral surgery",
-        "Dentistry",
-        "thema EDItEUR::M Medicine and Nursing::MK Medical specialties, branches of medicine::MKE Dentistry::MKEP Oral and maxillofacial surgery"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180963",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/d31e341d-0b4c-46fd-849e-027b58f093b9/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAkIAN/0016573_Authors_Book (2025-12-11 10:02:14).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180963",
-        "handle": "20.500.12854/180963",
-        "dspace_uuid": "c86b2c43-fe51-415c-8377-dd69b58a081a"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180963",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180963",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAkIAN/0016573_Authors_Book (2025-12-11 10:02:14).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:f53825e60ec9dab996f929f8",
       "title": "Signals and Systems",
       "subtitle": "",
@@ -140110,58 +140066,6 @@
             {
               "type": "pdf",
               "url": "https://intech-files.s3.amazonaws.com/a04Tc00000GPH80IAH/0016933_Authors_Book (2026-06-29 08:51:30).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ed3a0dc53d6f8209fe130380",
-      "title": "Sustainable Waste Management and Energy Valorization",
-      "subtitle": "Challenges and Technological Innovations",
-      "description": "Amid rapid industrialization and technological advancement, the generation of hazardous waste is becoming an ever-increasing threat to environmental integrity and human health. Treating is no longer an optional matter of compliance, but a global task for sustainable development. This book serves as a bridge between existing practice and current research, covering much ground in the field. It provides a pedagogical framework that is particularly useful to scientists, engineers, policymakers, and students for developing strategies to reduce the hazards posed by hazardous waste.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008018",
-      "subjects": [
-        "Waste management",
-        "Environmental engineering",
-        "thema EDItEUR::T Technology, Engineering, Agriculture, Industrial processes::TQ Environmental science, engineering and technology::TQS Sanitary and municipal engineering::TQSR Waste treatment and disposal"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180962",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5b6efd01-c310-496d-83ee-08acc7b3a5e4/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAhIAN/0016570_Authors_Book (2026-03-06 10:38:57).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180962",
-        "handle": "20.500.12854/180962",
-        "dspace_uuid": "cd3addbe-362c-4d1e-8d93-56cfc4c90bd6"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180962",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180962",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAhIAN/0016570_Authors_Book (2026-03-06 10:38:57).pdf"
             }
           ],
           "access": "creative_commons",
@@ -176551,47 +176455,6 @@
       ]
     },
     {
-      "id": "work:f80afc49ab109f0d08b4f1a3",
-      "title": "Track 01 Carlos Sagnay de la Bastida en Radio Cristal, 16 Julio 2014.",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Carlos Sagnay de la Bastida."
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Carlos Sagnay de la Bastida en Radio Cristal."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Track01_201409",
-      "cover_url": "https://archive.org/services/img/Track01_201409",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Track01_201409",
-        "internet_archive": "Track01_201409"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Track01_201409",
-          "source_url": "https://archive.org/details/Track01_201409",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:25b1725fc188ecb6e3b9ab8d",
       "title": "Tractatus logico-philosophicus",
       "subtitle": "",
@@ -182731,6 +182594,50 @@
       ]
     },
     {
+      "id": "work:186a342c868bf707c9f3f523",
+      "title": "VELIKO 02",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gonxalo Verde"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Veliko",
+        "pdf",
+        "fanzine",
+        "vylcam"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/veliko-02",
+      "cover_url": "https://archive.org/services/img/veliko-02",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "veliko-02",
+        "internet_archive": "veliko-02"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "veliko-02",
+          "source_url": "https://archive.org/details/veliko-02",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:4dfac20c5398e2cd8fec8fd3",
       "title": "Velvet: Algorithms for de novo short read assembly using de Bruijn graphs",
       "subtitle": "",
@@ -184497,6 +184404,73 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:a3eb7a41f7aa1f0ca3810167",
+      "title": "Von Goldemail bis Stahlbeton",
+      "subtitle": "Neue Forschungen zur Kunstgeschichte: Festschrift für Klaus Gereon Beuckers zum 60. Geburtstag",
+      "description": "From close and meticulous observation to broad historical perspective, from bold theses to carefully argued interpretations, from the Holy Cologne to Holstein – from gold enamels to reinforced concrete: as both a scholar and a teacher, Klaus Gereon Beuckers has long ranked among the leading art historians of his generation. To mark his 60th birthday, his students, colleagues, and friends now honour him with this Festschrift. It brings together sixty contributions that reflect the breadth of his research interests, develop ideas inspired by shared conversations, and explore the exceptional, the unexpected, the long overlooked, and the newly worthy of consideration. They range from medieval ecclesiastical architecture, treasury art, and monumental as well as portable works of art to Ottonian manuscript illumination and questions of art education, while also addressing phenomena in the art and architecture of the long twentieth century. Together, they open up a rich panorama of new research in art history.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Universitätsverlag Kiel | Kiel University Publishing",
+      "isbn": [],
+      "doi": "10.38072/978-3-910591-66-0",
+      "subjects": [
+        "Festschrift",
+        "Mittelalter",
+        "Architektur",
+        "Schatzkunst",
+        "Buchmalerei",
+        "Kunst der Moderne",
+        "commemorative volume",
+        "Middle Ages",
+        "architecture",
+        "treasury art",
+        "manuscript illumination",
+        "modern art",
+        "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGA History of art",
+        "thema EDItEUR::A The Arts::AM Architecture",
+        "thema EDItEUR::N History and Archaeology::NH History",
+        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRV Aspects of religion::QRVJ Prayers and liturgical material",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies",
+        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GL Library and information sciences / Museology::GLZ Museology and heritage studies"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181662.2",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/19247038-62c4-431c-baca-6a6903617a0e/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.38072/978-3-910591-66-0"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/ · CC-BY-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181662.2",
+        "handle": "20.500.12854/181662.2",
+        "dspace_uuid": "6f2f55b3-353a-4560-8acf-1f535f8cc3b5"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181662.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181662.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.38072/978-3-910591-66-0"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/3.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -188272,6 +188246,57 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:64e608bbe752d70feca5599c",
+      "title": "Xf+ N 2s Z& Cm 4^zvy R",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "@System-tl9xx"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Xf+ N 2s Z& Cm 4^zvy R"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/www.youtube.comsystem-tl9xx",
+      "cover_url": "https://archive.org/services/img/www.youtube.comsystem-tl9xx",
+      "formats": [
+        {
+          "type": "text",
+          "url": "https://archive.org/download/www.youtube.comsystem-tl9xx/Xf%2BN2sZ%26Cm4%5EzvyR.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "www.youtube.comsystem-tl9xx",
+        "internet_archive": "www.youtube.comsystem-tl9xx"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "www.youtube.comsystem-tl9xx",
+          "source_url": "https://archive.org/details/www.youtube.comsystem-tl9xx",
+          "language": "es",
+          "formats": [
+            {
+              "type": "text",
+              "url": "https://archive.org/download/www.youtube.comsystem-tl9xx/Xf%2BN2sZ%26Cm4%5EzvyR.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
