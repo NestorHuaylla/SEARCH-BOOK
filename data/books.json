@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T10:04:59.549228Z",
+  "generated_at": "2026-09-04T09:51:10.285139Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -23703,6 +23703,94 @@
       ]
     },
     {
+      "id": "work:ead2d2e9d35d7acfb7b853e4",
+      "title": "Brigadier Gerard Stories",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Standard Ebooks",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Napoleonic Wars, 1800-1815--Fiction",
+        "Adventure stories, English",
+        "War stories, English",
+        "France--History, Military--19th century--Fiction",
+        "Adventure",
+        "Fiction",
+        "Shorts"
+      ],
+      "source": "Standard Ebooks",
+      "source_url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+      "cover_url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover-thumbnail.jpg",
+      "formats": [
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories_advanced.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.kepub.epub?source=feed"
+        },
+        {
+          "type": "azw3",
+          "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.azw3?source=feed"
+        },
+        {
+          "type": "html",
+          "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/text/single-page"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain / CC0 in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories"
+      },
+      "providers": [
+        {
+          "source": "Standard Ebooks",
+          "source_id": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+          "source_url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+          "language": "en",
+          "formats": [
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories_advanced.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.kepub.epub?source=feed"
+            },
+            {
+              "type": "azw3",
+              "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/arthur-conan-doyle_brigadier-gerard-stories.azw3?source=feed"
+            },
+            {
+              "type": "html",
+              "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/text/single-page"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain / CC0 in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f4e8953e9d252ce421715130",
       "title": "Brokering Development?",
       "subtitle": "The Private Sector and Unalleviated Poverty in Tanzania's Agricultural Growth Corridors",
@@ -25923,6 +26011,50 @@
           "formats": [],
           "access": "open_access",
           "license": "Open Access; see official item record",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:84d52f0c8eb945fd14c408a2",
+      "title": "Castle Of Illusion, El Renacer De Un Clásico",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Cristian Teixeira"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "castle of illusion",
+        "mickey mouse",
+        "android",
+        "ios"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/CastleOfIllusionElRenacerDeUnClasico",
+      "cover_url": "https://archive.org/services/img/CastleOfIllusionElRenacerDeUnClasico",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "CastleOfIllusionElRenacerDeUnClasico",
+        "internet_archive": "CastleOfIllusionElRenacerDeUnClasico"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "CastleOfIllusionElRenacerDeUnClasico",
+          "source_url": "https://archive.org/details/CastleOfIllusionElRenacerDeUnClasico",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
           "verified_legal": true
         }
       ]
@@ -29006,58 +29138,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:35c363b46446b39f61ecbc87",
-      "title": "Chronic Obstructive Pulmonary Disease",
-      "subtitle": "Contemporary and Consummate Management of a Systemic Disorder",
-      "description": "Chronic Obstructive Pulmonary Disease (COPD) is a common and complex disorder that requires frequent updates of one’s knowledge base. The annual updates to the guidelines for the management of COPD, issued by the Global Initiative for Chronic Obstructive Lung Disease (GOLD) since its inception at the turn of the century, are a testament to the need for ongoing, informed updates in confronting the disease. Likewise, this editor and publisher have produced a succession of books on COPD since the first volume in 2012. In its latest iteration, preserving its open-access and peer-reviewed format, the present book combines the knowledge and experience of professionals from diverse backgrounds worldwide, presenting scientific information in an academic format that aims to contribute to the extensive and progressive research and practice in COPD.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008030",
-      "subjects": [
-        "Respiratory therapy",
-        "Allied health",
-        "thema EDItEUR::M Medicine and Nursing::MJ Clinical and internal medicine::MJL Respiratory medicine"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180966",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/98406130-10a2-4f6c-80e3-e33402e1cb0e/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAtIAN/0016582_Authors_Book (2026-02-21 11:45:26).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180966",
-        "handle": "20.500.12854/180966",
-        "dspace_uuid": "d30a99f1-1244-4547-9ef2-d45a6038493e"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180966",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180966",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAtIAN/0016582_Authors_Book (2026-02-21 11:45:26).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -38541,47 +38621,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:9564cac1b5ebad7bd66c0ade",
-      "title": "Death Race: El juego disponible para los más jugones",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Francisco Marbel"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Death Race"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IsenaDeathRace",
-      "cover_url": "https://archive.org/services/img/IsenaDeathRace",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IsenaDeathRace",
-        "internet_archive": "IsenaDeathRace"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IsenaDeathRace",
-          "source_url": "https://archive.org/details/IsenaDeathRace",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -52435,58 +52474,6 @@
       ]
     },
     {
-      "id": "work:062c02c5c8efda3be020002f",
-      "title": "Epidemic and Pandemic Preparedness and Management",
-      "subtitle": "",
-      "description": "Humanity has experienced multiple biological threats; most recently, the COVID-19 pandemic highlighted the lack of planning for preparation, mitigation, and recovery from these events, resulting in millions of infections and a large number of deaths. The book focuses on ensuring that communities have plans to address and mitigate these threats.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008059",
-      "subjects": [
-        "General practice",
-        "Family medicine",
-        "thema EDItEUR::M Medicine and Nursing::MB Medicine: general issues::MBP Health systems and services"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180969",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/bdbf8b2a-6030-4f39-bbe3-2273b522db81/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBMIA3/0016611_Authors_Book (2026-06-21 10:15:44).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180969",
-        "handle": "20.500.12854/180969",
-        "dspace_uuid": "3e5a3c2a-9e28-433c-b520-0a81d3997474"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180969",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180969",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBMIA3/0016611_Authors_Book (2026-06-21 10:15:44).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:39d814104db07929780ffe33",
       "title": "Epigenetics",
       "subtitle": "Role in Development and Pathogenesis",
@@ -52654,57 +52641,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:8ade0c91527a3c6818a26526",
-      "title": "Epoxy",
-      "subtitle": "Materials, Applications and Advanced Technologies",
-      "description": "Epoxy resins are versatile, high-performance materials essential to modern industry, used in coatings, adhesives, composites, and advanced technologies. This book offers a concise and comprehensive overview of recent developments in epoxy science, from conventional systems to sustainable, bio-based, and nanostructured materials. It highlights their exceptional mechanical, thermal, and dielectric properties, as well as innovations to improve performance and environmental compatibility. Combining scientific fundamentals with practical insights, the volume serves as a valuable reference for researchers, engineers, and students interested in the design and application of next-generation epoxy materials.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008044",
-      "subjects": [
-        "Condensed matter physics",
-        "thema EDItEUR::P Mathematics and Science::PH Physics::PHF Materials / States of matter::PHFC Condensed matter physics (liquid state and solid state physics)"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180968",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/8ecb0366-8bcc-484d-8e6c-8d56e21fc152/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWB7IAN/0016596_Authors_Book (2026-02-25 19:09:58).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180968",
-        "handle": "20.500.12854/180968",
-        "dspace_uuid": "b2b94d4a-1e74-41f1-a1ac-b610a0098d6f"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180968",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180968",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWB7IAN/0016596_Authors_Book (2026-02-25 19:09:58).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -55100,6 +55036,60 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:a1ce87bbfe544cc23848057c",
+      "title": "Famiglie ai vertici del comune di Genova",
+      "subtitle": "(1099-1216)",
+      "description": "",
+      "authors": [
+        "Filangieri, Luca"
+      ],
+      "language": "it",
+      "year": 2026,
+      "publisher": "Viella editrice",
+      "isbn": [],
+      "doi": "10.52056/9791257012694",
+      "subjects": [
+        "Genova",
+        "medioevo",
+        "thema EDItEUR::N History and Archaeology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181668",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://www.viella.it/download/9010/3214fe143b96/famiglie-ai-vertici.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181668",
+        "handle": "20.500.12854/181668",
+        "dspace_uuid": "60eb1b20-1390-4a17-bd0e-67b82eabff66"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181668",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181668",
+          "language": "it",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://www.viella.it/download/9010/3214fe143b96/famiglie-ai-vertici.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -62615,58 +62605,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:251fdda17c1f1a2e77de85af",
-      "title": "Globalization",
-      "subtitle": "From Technological Transition to Climate and Geopolitical Challenges",
-      "description": "The world is being reconfigured. Across five interconnected chapters, this book offers a multidisciplinary roadmap to the forces redefining our century: climate breakdown, shifts in geopolitical power, technological acceleration, and their implications for societies, economies, and businesses. Beginning with a panoramic overview of globalization at a crossroads, the book reveals how climate pressures, fractured supply chains, multipolar rivalry, and digital transformation are redrawing the map of international cooperation and competition. It provides an explanation of climate change as an economic force, demonstrating how global warming, extreme weather events, and resource depletion are redefining development pathways, financial systems, and global inequality. Building on this macro perspective, the content dives into the turbulence of geopolitics, revealing how rising nationalism, great-power rivalry, and regional conflicts have created a new, unstable world order. The focus then shifts to the corporate sphere, showing how companies navigate transition risk, geopolitical uncertainty, and environmental, social, and governance pressures, supported by innovative decision-making frameworks. Finally, the book also establishes that in the technological transition, artificial intelligence, resource-intensive computing, and electronic waste are colliding with ecological limits, demanding new regulatory models, ethical principles, and corporate responsibilities. This work is intended for students, managers, policymakers, and specialists and provides an integrated lens that links climate, the economy, geopolitics, business strategy, and technology governance. It enables readers to understand global change and act within it by anticipating its risks and seizing its opportunities. In a time defined by uncertainty and transformation, this book offers the clarity needed to navigate the emerging world.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008070",
-      "subjects": [
-        "Globalization",
-        "International economics",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTQ Globalization"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180971",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/50aedced-f5d7-41b7-b3d0-f8bb96be400f/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBXIA3/0016622_Authors_Book (2026-02-17 12:20:17).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180971",
-        "handle": "20.500.12854/180971",
-        "dspace_uuid": "1b7c92ef-5ecb-4871-a0a0-5f298522ec74"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180971",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180971",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBXIA3/0016622_Authors_Book (2026-02-17 12:20:17).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -71853,6 +71791,57 @@
           ],
           "access": "public_domain",
           "license": "Public domain / CC0 in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b3a7e14d6dee1146ca68bd7b",
+      "title": "Il fascismo e la società moderna",
+      "subtitle": "Saggi in memoria di Alberto De Bernardi",
+      "description": "",
+      "authors": [],
+      "language": "it",
+      "year": 2026,
+      "publisher": "Viella editrice",
+      "isbn": [],
+      "doi": "10.52056/9791257012656",
+      "subjects": [
+        "Fascismo",
+        "thema EDItEUR::N History and Archaeology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181666",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://www.viella.it/download/9008/7b23376627a0/fascismo-e-societa-moderna.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181666",
+        "handle": "20.500.12854/181666",
+        "dspace_uuid": "195b547e-8f9a-4101-a876-11d1954434ba"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181666",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181666",
+          "language": "it",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://www.viella.it/download/9008/7b23376627a0/fascismo-e-societa-moderna.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -85809,6 +85798,89 @@
       ]
     },
     {
+      "id": "work:e6fee37b50130f49d7519951",
+      "title": "La Sociedad de Naciones",
+      "subtitle": "diplomacia cultural y cooperación intelectual en España y el mundo atlántico",
+      "description": "After the First World War, the League of Nations established a system of multilateral diplomacy and global governance that gave rise to a range of structures for intellectual co operation, which would later serve as a direct precursor to UNESCO. The scientific and cultural exchange networks, development cooperation policies, the World Health Organization, the open science movement, and the proliferation of international academic bodies that characterise the present day all trace their origins to the League’s initiatives in this field. This book presents the outcomes of the international conference held at the Casa de Velázquez and UC3M in November 2024, devoted to examining the actions, structures and dynamics developed within the League of Nations and within the local and national ecosystems that aligned themselves with its aims. The volume offers an initial forum for reflecting on the role of cultural diplomacy and intellectual co operation in the League’s promotion of a culture of peace, with particular attention to Spain, as well as Portugal and the Ibero American countries, whose active participation in its organisations and co operation networks has traditionally received limited scholarly attention.",
+      "authors": [
+        "RIBAGORDA, ALVARO",
+        "Sánchez Román, José Antonio",
+        "NEILA HERNANDEZ, JOSE LUIS",
+        "Acosta López, Alejandro",
+        "Romero Sire, Ana Isabel",
+        "Pedrazuela Fuentes, Mario",
+        "Gutiérrez Castillo, Víctor Luis",
+        "Mejía Salazar, Alexis Alfredo",
+        "Palacio, Joaquín",
+        "Bermejo-Roldán, Jesús Manuel",
+        "Roig Sanz, Diana",
+        "Rodríguez-Casañ, Rubén",
+        "Carbó-Catalan, Elisabet",
+        "Lopez-Ocon, Leoncio",
+        "Nunes, Maria Fátima",
+        "Salgueiro, Ângela",
+        "Lopes, Quintino",
+        "Alves, Kelly Ludkiewicz",
+        "Corell-Domènech, Mavi",
+        "Silva Guijarro, Víctor H.",
+        "EIROA, MATILDE",
+        "HUGUET, MONTSERRAT",
+        "GONZÁLEZ GÓMEZ, Sofía",
+        "Uña Ruano, Rafael",
+        "Franco, Marie",
+        "Núñez Rodríguez, Alberto",
+        "Vadillo Muñoz, Julián",
+        "Varela Fernandez, Dario",
+        "García Naharro, Fernando"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Universidad Carlos III de Madrid. Figuerola Institute of Social Science History",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Sociedad de Naciones",
+        "League of Nations",
+        "thema EDItEUR::L Law",
+        "thema EDItEUR::N History and Archaeology::NH History"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181665",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/9aa68887-80ec-4c69-9dc5-49d4d9613727/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://e-archivo.uc3m.es/bitstreams/7000ed84-5bb4-4b70-a14b-a9892c4642a4/download"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181665",
+        "handle": "20.500.12854/181665",
+        "dspace_uuid": "2debb36e-2db1-42de-bc3c-3faa3d3f5c5e"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181665",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181665",
+          "language": "es",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://e-archivo.uc3m.es/bitstreams/7000ed84-5bb4-4b70-a14b-a9892c4642a4/download"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:1b053560b21ae3582b814415",
       "title": "La última ilusión",
       "subtitle": "La crisis de la revolución en América Latina, 1979-1991",
@@ -86113,6 +86185,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:90c708c09c8df27aab692586",
+      "title": "Las crónicas de Diana",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Jose Angel Argento Victoria"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Diana chronicles"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Httparchive.orgdetailsdianachronicles",
+      "cover_url": "https://archive.org/services/img/Httparchive.orgdetailsdianachronicles",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Httparchive.orgdetailsdianachronicles",
+        "internet_archive": "Httparchive.orgdetailsdianachronicles"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Httparchive.orgdetailsdianachronicles",
+          "source_url": "https://archive.org/details/Httparchive.orgdetailsdianachronicles",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -97557,57 +97670,6 @@
       ]
     },
     {
-      "id": "work:8b3a3fdc8c043291b3317e23",
-      "title": "Metacognition in Action",
-      "subtitle": "Insights into Learning, AI, and Self-Regulation",
-      "description": "Metacognition in Action - Insights into Learning, AI, and Self-Regulation presents a timely and interdisciplinary examination of how reflective thinking influences learning, emotional regulation, and intelligent systems. This edited volume brings together insights from education, psychology, and artificial intelligence to show how metacognitive strategies enhance digital learning environments, foster self-regulation, and support mental well-being. Readers will discover how metacognition operates across diverse contexts, from AI-supported classrooms to therapeutic frameworks, making this book an essential resource for educators, researchers, clinicians, and technologists. With its clear structure and wide-ranging perspectives, the volume highlights the transformative power of metacognitive awareness in navigating complex cognitive tasks, making ethical decisions, and fostering adaptive growth. Whether your interest lies in cognitive frameworks, digital pedagogy, or the intersection of AI and human thought, Metacognition in Action - Insights into Learning, AI, and Self-Regulation provides both practical insights and conceptual clarity for understanding and applying metacognition in the twenty-first century.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008066",
-      "subjects": [
-        "Educational psychology",
-        "thema EDItEUR::J Society and Social Sciences::JN Education::JNC Educational psychology"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180970",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/fe93d361-e8be-456b-aecd-1f592679d1b0/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBTIA3/0016618_Authors_Book (2025-12-18 08:34:26).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180970",
-        "handle": "20.500.12854/180970",
-        "dspace_uuid": "08c66933-0408-45b9-8dbd-a2bf5bdca4fa"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180970",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180970",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWBTIA3/0016618_Authors_Book (2025-12-18 08:34:26).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:20fad4ad2dd7513799e28ff0",
       "title": "Metapersons",
       "subtitle": "Transcendence and Life",
@@ -105528,50 +105590,6 @@
       ]
     },
     {
-      "id": "work:5746585d5c6c803c4a6df2b1",
-      "title": "Numerical methods for kinetic equations",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Giacomo Dimarco",
-        "Lorenzo Pareschi"
-      ],
-      "language": "en",
-      "year": 2014,
-      "publisher": "HAL (Le Centre pour la Communication Scientifique Directe)",
-      "isbn": [],
-      "doi": "10.1017/s0962492914000063",
-      "subjects": [
-        "Gas Dynamics and Kinetic Theory",
-        "Computational Fluid Dynamics and Aerodynamics",
-        "Lattice Boltzmann Simulation Studies"
-      ],
-      "source": "OpenAlex",
-      "source_url": "https://hal.science/hal-00986714",
-      "cover_url": "",
-      "formats": [],
-      "access": "open_access",
-      "license": "other-oa",
-      "verified_legal": true,
-      "resource_type": "article",
-      "identifiers": {
-        "source_id": "W1974987146",
-        "openalex_id": "W1974987146"
-      },
-      "providers": [
-        {
-          "source": "OpenAlex",
-          "source_id": "W1974987146",
-          "source_url": "https://hal.science/hal-00986714",
-          "language": "en",
-          "formats": [],
-          "access": "open_access",
-          "license": "other-oa",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:aa2c0d04a01cf76cf9be0a8b",
       "title": "Numerical Methods for Scientists and Engineers",
       "subtitle": "",
@@ -105753,6 +105771,62 @@
           "formats": [],
           "access": "creative_commons",
           "license": "CC BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:982b43c54f55c2dac303adf5",
+      "title": "Numerical Methods for the Variable-Order Fractional Advection-Diffusion Equation with a Nonlinear Source Term",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Peixian Zhuang",
+        "F. Liu",
+        "Vo Anh",
+        "Ian Turner"
+      ],
+      "language": "en",
+      "year": 2009,
+      "publisher": "QUT ePrints (Queensland University of Technology)",
+      "isbn": [],
+      "doi": "10.1137/080730597",
+      "subjects": [
+        "Fractional Differential Equations Solutions",
+        "Differential Equations and Numerical Methods",
+        "Nanofluid Flow and Heat Transfer"
+      ],
+      "source": "OpenAlex",
+      "source_url": "https://eprints.qut.edu.au/29755/1/numerical_methods_for_the_variable-order_fra.pdf",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://eprints.qut.edu.au/29755/1/numerical_methods_for_the_variable-order_fra.pdf"
+        }
+      ],
+      "access": "open_access",
+      "license": "Open Access; license not reported by OpenAlex",
+      "verified_legal": true,
+      "resource_type": "article",
+      "identifiers": {
+        "source_id": "W2021735811",
+        "openalex_id": "W2021735811"
+      },
+      "providers": [
+        {
+          "source": "OpenAlex",
+          "source_id": "W2021735811",
+          "source_url": "https://eprints.qut.edu.au/29755/1/numerical_methods_for_the_variable-order_fra.pdf",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://eprints.qut.edu.au/29755/1/numerical_methods_for_the_variable-order_fra.pdf"
+            }
+          ],
+          "access": "open_access",
+          "license": "Open Access; license not reported by OpenAlex",
           "verified_legal": true
         }
       ]
@@ -134466,6 +134540,58 @@
       ]
     },
     {
+      "id": "work:e601ed78ee82ad2d18719b80",
+      "title": "Shared Places",
+      "subtitle": "On Religion and Space",
+      "description": "Inspired by cosmological representations and world maps from medieval and early modern Europe, this book addresses the contemporary relevance of spatiality for the study of religion and related disciplines. How is religious plurality spatially performed? Which visions, imaginations and utopias are mirrored in those places? Such questions lead the reader on an imaginary journey, from the peaks of the Alps to subterranean tunnels, from Victorian funerary sites to digital memorials, weaving through unique urban architecture, museums and interactive exhibitions.",
+      "authors": [
+        "Pezzoli-Olgiati, Daria"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783748969792",
+      "subjects": [
+        "QRA"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181670",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/8ccf6d68-d721-4906-822e-c2b3ee63c2e0/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783748969792"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181670",
+        "handle": "20.500.12854/181670",
+        "dspace_uuid": "b0b8cef4-ae2f-40c0-8fda-c8093cd9f9fc"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181670",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181670",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783748969792"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:578baad5e565567d3b4388f0",
       "title": "She who sleeps : $b A romance of New York and the Nile",
       "subtitle": "",
@@ -137263,6 +137389,58 @@
       ]
     },
     {
+      "id": "work:9664162e3b0b9b7ebbeaff7b",
+      "title": "Sozialverwaltungs- und Gerichtsverfahren in England",
+      "subtitle": "",
+      "description": "The book introduces to English procedural law. After discussing system differences (common law, equity), general aspects (legislation, constitutional law, public law, interpretation of law, judicial controls including judicial review) and proceedings before the civil courts, the author turns his attention to legal protection in social matters. First, the administrative procedures in the National Health System and Social Security System are explained. This is followed by a general overview of proceedings before the First-tier Tribunal, as well as an explanation of special rules for two selected chambers and appeal proceedings before the Upper Tribunal. Finally, the author discusses alternative dispute resolutions and legal aid law.",
+      "authors": [
+        "Husmann, Manfred"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783748972013",
+      "subjects": [
+        "LAM"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181669",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ebf3f811-3d01-45ed-ae6e-3811e8977b41/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783748972013"
+        }
+      ],
+      "access": "open_access",
+      "license": "All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181669",
+        "handle": "20.500.12854/181669",
+        "dspace_uuid": "809ffa57-2269-4a6d-bfef-123b138e329a"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181669",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181669",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783748972013"
+            }
+          ],
+          "access": "open_access",
+          "license": "All rights reserved",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:eea5013645d4f6aab39f31da",
       "title": "Space Station 1",
       "subtitle": "",
@@ -138954,6 +139132,66 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:fa3b72bc632dd8c47c56d5b1",
+      "title": "STRATEGIC VECTORS OF DIGITAL TRANSFORMATION AND THEIR IMPACT ON THE SOCIAL AND ECONOMIC SECURITY OF THE STATE",
+      "subtitle": "",
+      "description": "This monograph is devoted to the study of the strategic directions of the digital transformation of the national economy and business adaptation to the challenges of the digital era. The publication examines current trends in the digitalization of economic processes, the impact of information and communication technologies on the competitiveness of enterprises, industries, and countries, as well as the development of new approaches to management, marketing, and business operations within the digital economy. Special attention is paid to the digital transformation of Ukraine under the conditions of wartime challenges and post-war recovery. The monograph analyzes the role of digital technologies in the development of the agricultural sector, support for small and medium-sized enterprises, ensuring food security, modernization of public administration, and Ukraine’s integration into the European economic area. The book explores the prospects for the development of the Internet of Things (IoT), 5G mobile technologies, digital marketing, information security, artificial intelligence, smart infrastructure, and digital services. Considerable attention is given to strategic planning for digital transformation, assessing the level of digital maturity of the economy, analyzing the risks and opportunities associated with digitalization, and strengthening the socio-economic and national security of the state. The monograph is based on modern scientific approaches and employs a wide range of research methods, including systems analysis, SWOT analysis, modeling, generalization, and strategic forecasting. Its practical value lies in providing recommendations aimed at improving the effectiveness of digital transformation processes, fostering the innovative potential of enterprises, and enhancing the competitiveness of the national economy. The monograph will be of interest to researchers, academics, doctoral and postgraduate students, university students, business executives, specialists in digital economy, public administration, information technologies, and marketing, as well as everyone interested in the digital transformation of the economy and the development of modern business.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "PC TECHNOLOGY CENTER",
+      "isbn": [],
+      "doi": "10.15587/978-617-8360-27-6",
+      "subjects": [
+        "digitalization",
+        "national economy",
+        "IT sphere",
+        "strategy",
+        "concept",
+        "digital transformation",
+        "breakthrough digital technologies",
+        "electronic system",
+        "digital governance",
+        "cybersecurity",
+        "thema EDItEUR::4 Educational purpose qualifiers"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181667",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/e3f5c437-d4c2-4b50-bbf2-c92a0b133a4a/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://monograph.com.ua/catalog/book/978-617-8360-27-6"
+        }
+      ],
+      "access": "open_access",
+      "license": "All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181667",
+        "handle": "20.500.12854/181667",
+        "dspace_uuid": "cbf3d4eb-1ada-4249-b66a-af0d45e833a2"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181667",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181667",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://monograph.com.ua/catalog/book/978-617-8360-27-6"
+            }
+          ],
+          "access": "open_access",
+          "license": "All rights reserved",
           "verified_legal": true
         }
       ]
@@ -146150,97 +146388,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:eef16425286cc694b438bd0b",
-      "title": "The Birds",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Aristophanes"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Standard Ebooks",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Comedy plays",
-        "Greek drama (Comedy) -- Translations into English",
-        "Birds -- Drama",
-        "Athens (Greece) -- Social life and customs -- Drama",
-        "Gods, Greek -- Drama",
-        "Imaginary societies -- Drama",
-        "Aristophanes -- Translations into English",
-        "Comedy",
-        "Drama",
-        "Satire"
-      ],
-      "source": "Standard Ebooks",
-      "source_url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
-      "cover_url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover-thumbnail.jpg",
-      "formats": [
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society_advanced.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.kepub.epub?source=feed"
-        },
-        {
-          "type": "azw3",
-          "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.azw3?source=feed"
-        },
-        {
-          "type": "html",
-          "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/text/single-page"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain / CC0 in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society"
-      },
-      "providers": [
-        {
-          "source": "Standard Ebooks",
-          "source_id": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
-          "source_url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
-          "language": "en",
-          "formats": [
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society_advanced.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.kepub.epub?source=feed"
-            },
-            {
-              "type": "azw3",
-              "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/aristophanes_the-birds_the-athenian-society.azw3?source=feed"
-            },
-            {
-              "type": "html",
-              "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/text/single-page"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -162906,58 +163053,6 @@
       ]
     },
     {
-      "id": "work:8177ea06f9825304ac3ec57c",
-      "title": "The Pituitary in Focus",
-      "subtitle": "Integrated Approaches to Etiology, Pathophysiology, and Complication Management",
-      "description": "This book serves as a supplemental reference for advancing both the science and practice of pituitary medicine. The book thereby provides clinicians and investigators with an integrated approach to the diagnosis, pathophysiology, and management of pituitary disorders. From hormone-secreting adenomas to incidentalomas, from pituitary apoplexy to long-term hypopituitarism, the book addresses the spectrum of pituitary conditions across all age groups. Readers will gain insight into advances in molecular genetics, imaging technologies, and minimally invasive surgical techniques, as well as emerging therapies for refractory and aggressive tumors. Authored by leading global experts and edited by Dr. Maleeha Ahmad, FRCS, FACS, a practicing, fellowship-trained neurosurgeon with a decade of expertise in complex pituitary and skull base pathology, this reference aims to serve as a practical resource for neurosurgeons, endocrinologists, radiologists, pathologists, and allied professionals engaged in pituitary medicine. Whether navigating complex diagnostic dilemmas or refining operative strategies, this book serves as an essential companion text for advancing the evolving science and art of pituitary care.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008025",
-      "subjects": [
-        "Endocrinology",
-        "Metabolism",
-        "thema EDItEUR::M Medicine and Nursing::MJ Clinical and internal medicine::MJG Endocrinology"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180965",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/e959da53-8408-4b4f-abd0-5b4c7c8f10d0/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAoIAN/0016577_Authors_Book (2026-02-23 14:02:08).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180965",
-        "handle": "20.500.12854/180965",
-        "dspace_uuid": "cf8cb539-0521-4e44-b873-86a4660d3846"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180965",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180965",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAoIAN/0016577_Authors_Book (2026-02-23 14:02:08).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:9a9943473ee0f446d52e0f8c",
       "title": "The Place Called Dagon",
       "subtitle": "",
@@ -176455,6 +176550,47 @@
       ]
     },
     {
+      "id": "work:f80afc49ab109f0d08b4f1a3",
+      "title": "Track 01 Carlos Sagnay de la Bastida en Radio Cristal, 16 Julio 2014.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Carlos Sagnay de la Bastida."
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Carlos Sagnay de la Bastida en Radio Cristal."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Track01_201409",
+      "cover_url": "https://archive.org/services/img/Track01_201409",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Track01_201409",
+        "internet_archive": "Track01_201409"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Track01_201409",
+          "source_url": "https://archive.org/details/Track01_201409",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:25b1725fc188ecb6e3b9ab8d",
       "title": "Tractatus logico-philosophicus",
       "subtitle": "",
@@ -182594,50 +182730,6 @@
       ]
     },
     {
-      "id": "work:186a342c868bf707c9f3f523",
-      "title": "VELIKO 02",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gonxalo Verde"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Veliko",
-        "pdf",
-        "fanzine",
-        "vylcam"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/veliko-02",
-      "cover_url": "https://archive.org/services/img/veliko-02",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "veliko-02",
-        "internet_archive": "veliko-02"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "veliko-02",
-          "source_url": "https://archive.org/details/veliko-02",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4dfac20c5398e2cd8fec8fd3",
       "title": "Velvet: Algorithms for de novo short read assembly using de Bruijn graphs",
       "subtitle": "",
@@ -183955,6 +184047,61 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:59663a8d5cff2c11f02424d2",
+      "title": "Voci della persuasione",
+      "subtitle": "Scrittrici e retorica nell’Italia del Rinascimento",
+      "description": "",
+      "authors": [],
+      "language": "it",
+      "year": 2026,
+      "publisher": "Gruppo editoriale Tab Srl",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "donne",
+        "letteratura italiana",
+        "genere",
+        "Cinquecento",
+        "Seicento",
+        "DSBC"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181664",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/88c987bc-361e-42f6-9ac9-564a286b0c9d/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.tabedizioni.it/web/content/453141"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181664",
+        "handle": "20.500.12854/181664",
+        "dspace_uuid": "78585823-4f73-4da6-bd85-e6f039e938c8"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181664",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181664",
+          "language": "it",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.tabedizioni.it/web/content/453141"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -187973,58 +188120,6 @@
       ]
     },
     {
-      "id": "work:102f25a3c555c36073002b5a",
-      "title": "Wound Healing",
-      "subtitle": "Mechanisms and Pharmacological Interventions",
-      "description": "Wound Healing – Mechanisms and Pharmacological Interventions offers a comprehensive view of the biological, clinical, and technological foundations of tissue repair. From molecular pathways and biomarker discovery to enzymatic, pharmacological, and regenerative approaches, the volume brings together international experts to highlight the mechanisms that drive effective wound care. This book offers a translational perspective that connects fundamental biology with clinical innovation. Chapters explore the interplay between inflammation, angiogenesis, and extracellular matrix remodeling, together with clinical assessment of hard-to-heal wounds, enzymatic and other types of debridement, and emerging therapies designed to promote functional and minimally scarring regeneration. While centered on the biological and pharmacological mechanisms of wound repair, the volume also situates these topics within the broader context of current scientific progress. Emerging disciplines such as artificial intelligence, machine learning, bioinformatics, and materials science are opening new perspectives for personalized wound management and regenerative medicine. By integrating fundamental knowledge with therapeutic innovation, this book provides a basis for understanding today’s advances and anticipating those yet to come. This book is designed for clinicians, biomedical researchers, and students seeking a comprehensive understanding of wound repair. It reviews the state of the art in molecular and pharmacological interventions, looking forward to the technologies and scientific paradigms that will define the next generation of regenerative therapies.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1008032",
-      "subjects": [
-        "Critical care",
-        "Intensive care medicine",
-        "thema EDItEUR::M Medicine and Nursing::MK Medical specialties, branches of medicine::MKP Accident and emergency medicine"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180967",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/52faae47-b879-4b4e-807a-eac7389de852/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAvIAN/0016584_Authors_Book (2026-02-27 11:45:27).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180967",
-        "handle": "20.500.12854/180967",
-        "dspace_uuid": "0214d50a-b3bc-43c7-aa85-2547024ee73d"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180967",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180967",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc00000BcWAvIAN/0016584_Authors_Book (2026-02-27 11:45:27).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3607501a6128f7fbc40bebc1",
       "title": "Writing Guide with Handbook",
       "subtitle": "",
@@ -188246,57 +188341,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:64e608bbe752d70feca5599c",
-      "title": "Xf+ N 2s Z& Cm 4^zvy R",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "@System-tl9xx"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Xf+ N 2s Z& Cm 4^zvy R"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/www.youtube.comsystem-tl9xx",
-      "cover_url": "https://archive.org/services/img/www.youtube.comsystem-tl9xx",
-      "formats": [
-        {
-          "type": "text",
-          "url": "https://archive.org/download/www.youtube.comsystem-tl9xx/Xf%2BN2sZ%26Cm4%5EzvyR.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "www.youtube.comsystem-tl9xx",
-        "internet_archive": "www.youtube.comsystem-tl9xx"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "www.youtube.comsystem-tl9xx",
-          "source_url": "https://archive.org/details/www.youtube.comsystem-tl9xx",
-          "language": "es",
-          "formats": [
-            {
-              "type": "text",
-              "url": "https://archive.org/download/www.youtube.comsystem-tl9xx/Xf%2BN2sZ%26Cm4%5EzvyR.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
