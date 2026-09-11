@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T10:06:25.086670Z",
+  "generated_at": "2026-09-11T09:56:12.311696Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -6558,47 +6558,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181428",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116754",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/88081944-c108-40b2-b387-0ad5465cca61/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116754/1/9783112212110.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/d347202c-97ba-40a2-b26f-098c20b238f2/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/d347202c-97ba-40a2-b26f-098c20b238f2/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116754/1/9783112212110.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181428",
+        "source_id": "20.500.12657/116754",
         "handle": "20.500.12854/181428",
         "dspace_uuid": "4fa539df-870b-4093-bb1a-142e93fe9fc0",
         "oapen_library_source_id": "20.500.12657/116754",
         "oapen_library_handle": "20.500.12657/116754",
-        "oapen_library_dspace_uuid": "69ca2419-103a-4a97-b022-d6a6204c9415"
+        "oapen_library_dspace_uuid": "69ca2419-103a-4a97-b022-d6a6204c9415",
+        "doab_source_id": "20.500.12854/181428"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181428",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181428",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116754/1/9783112212110.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116754",
@@ -6612,6 +6598,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181428",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181428",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116754/1/9783112212110.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -6694,47 +6695,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHB General and world history",
         "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181263",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116711",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/10ad045f-1c29-4815-a0ce-0f44a6f67299/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116711/1/9783111683164.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/731cba7f-4cba-497b-a560-73d463f273e1/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/731cba7f-4cba-497b-a560-73d463f273e1/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116711/1/9783111683164.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181263",
+        "source_id": "20.500.12657/116711",
         "handle": "20.500.12854/181263",
         "dspace_uuid": "60065cd7-4ba8-4269-87f0-4c487fa172b1",
         "oapen_library_source_id": "20.500.12657/116711",
         "oapen_library_handle": "20.500.12657/116711",
-        "oapen_library_dspace_uuid": "0cbc7b43-b4c3-4c93-a58f-c081561b0c07"
+        "oapen_library_dspace_uuid": "0cbc7b43-b4c3-4c93-a58f-c081561b0c07",
+        "doab_source_id": "20.500.12854/181263"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181263",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181263",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116711/1/9783111683164.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116711",
@@ -6748,6 +6735,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181263",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181263",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116711/1/9783111683164.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -17147,444 +17149,6 @@
       ]
     },
     {
-      "id": "work:646ca86c7c2e93933f33b8bc",
-      "title": "As You Like It",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "William Shakespeare"
-      ],
-      "language": "und",
-      "year": 1734,
-      "publisher": "Arden Shakespeare",
-      "isbn": [
-        "9781652652991",
-        "9781606461532",
-        "9780199536153",
-        "9781417740949",
-        "0934048142",
-        "1528705149",
-        "9780660193809",
-        "0764142720",
-        "049726093X",
-        "9570601108",
-        "9780743466585",
-        "0460876279",
-        "0831704837",
-        "1072825112",
-        "1556853106",
-        "9788174761194",
-        "9780573601071",
-        "1440612358",
-        "0750233419",
-        "9780497907112",
-        "9780451521316",
-        "9780451526786",
-        "9781412132572",
-        "165265299X",
-        "0671479237",
-        "9751405122",
-        "9781724470775",
-        "9781561036578",
-        "9783533022275",
-        "0563553073",
-        "9781903436042",
-        "0451520998",
-        "9780804910064",
-        "0613848292",
-        "0333149386",
-        "9780665837395",
-        "1412132568",
-        "0671722565",
-        "0553212907",
-        "9780198320487",
-        "9781108005753",
-        "0694516651",
-        "0486482502",
-        "0198319967",
-        "9798602190229",
-        "9789570601107",
-        "9780887941184",
-        "1606461532",
-        "9780521063623",
-        "0198129483",
-        "0613642244",
-        "345833209X",
-        "9780192819550",
-        "9780694516650",
-        "0521666368",
-        "9780198328698",
-        "0497258471",
-        "0495911178",
-        "0416178308",
-        "9789751405128",
-        "9780451516671",
-        "9780416178401",
-        "0671488430",
-        "0486404323",
-        "9780451501684",
-        "0198320485",
-        "1467792748",
-        "101929664X",
-        "0517151294",
-        "1561036579",
-        "0341675032",
-        "9780497253387",
-        "9789500306324",
-        "8449422388",
-        "060631282X",
-        "9780563553120",
-        "1675339414",
-        "0140714715",
-        "074348486X",
-        "1982109408",
-        "9781412156394",
-        "9780521519748",
-        "9780671722562",
-        "9781423779162",
-        "9781072825111",
-        "0660193809",
-        "9781840025279",
-        "0883017601",
-        "1583962123",
-        "9781904271222",
-        "0606334807",
-        "1853260592",
-        "0521075270",
-        "9781613826263",
-        "0416178405",
-        "0140714170",
-        "9780198319252",
-        "9783498061937",
-        "0646210335",
-        "9780671479237",
-        "9781717444646",
-        "1350106682",
-        "0746309104",
-        "0750233508",
-        "0573001014",
-        "9780393927627",
-        "049790201X",
-        "9781467797658",
-        "9780553212907",
-        "9781497522961",
-        "9781847027474",
-        "9798656629911",
-        "3498061933",
-        "9780486482507",
-        "9781411401044",
-        "0873522788",
-        "0521063620",
-        "1467797677",
-        "9780808508762",
-        "8719752199",
-        "9798642059821",
-        "0497253380",
-        "9780746309100",
-        "0573601070",
-        "9780665837487",
-        "0198319347",
-        "0140621253",
-        "9780521294126",
-        "9781017679687",
-        "0521519748",
-        "0415026814",
-        "3150077346",
-        "0198319797",
-        "9780563397441",
-        "9781440612350",
-        "9780333358948",
-        "9780517064894",
-        "0613182014",
-        "9781846379215",
-        "9780497256883",
-        "9781554810529",
-        "9798656636711",
-        "4102020128",
-        "9781412132565",
-        "9781467797672",
-        "0671531441",
-        "9780517151297",
-        "9798618361163",
-        "9780140714715",
-        "158201289X",
-        "9780143130239",
-        "9780415146685",
-        "0708945104",
-        "1405891963",
-        "0198328699",
-        "9781854596765",
-        "9781599867717",
-        "9788449422386",
-        "9780140707144",
-        "9780198319795",
-        "0819139149",
-        "0174436610",
-        "0415146682",
-        "1412156394",
-        "0804910065",
-        "9035108345",
-        "9781423794844",
-        "9783464109250",
-        "0451513630",
-        "0743466586",
-        "9780198129486",
-        "2742741569",
-        "1423794842",
-        "9780141012278",
-        "9781440628450",
-        "0451521315",
-        "0451509331",
-        "9783150077344",
-        "0192819550",
-        "9781350106680",
-        "9789035108349",
-        "9780497258474",
-        "0887941184",
-        "9780764142727",
-        "1724470779",
-        "9780812969221",
-        "052122232X",
-        "9780671531447",
-        "1108005756",
-        "1515424979",
-        "9780174435426",
-        "9780934048149",
-        "9780497260934",
-        "0521294126",
-        "3533022285",
-        "9780613642248",
-        "0451524608",
-        "9780497261825",
-        "9780521732505",
-        "9780613182010",
-        "159166358X",
-        "9780934048156",
-        "9780819139146",
-        "9780333149386",
-        "1847027474",
-        "225316111X",
-        "1554810523",
-        "9780521781374",
-        "0754050866",
-        "9580455805",
-        "9780646210339",
-        "1840025271",
-        "1434610918",
-        "0665837399",
-        "0451501683",
-        "0497256886",
-        "1423779169",
-        "3533022277",
-        "9781583962121",
-        "9064031266",
-        "9780237285494",
-        "9783125765207",
-        "1932219048",
-        "0517064898",
-        "0174435428",
-        "1904271219",
-        "9780415026819",
-        "0623011107",
-        "9780460876278",
-        "9780883017609",
-        "0521094704",
-        "9781853260599",
-        "0497900289",
-        "9781434610911",
-        "3251202456",
-        "9780174435877",
-        "0143130234",
-        "0808508768",
-        "0521786495",
-        "9780606312820",
-        "9780665667084",
-        "0877209278",
-        "1440628459",
-        "9781421813790",
-        "0141012277",
-        "9780312399320",
-        "0745150284",
-        "087720926X",
-        "9781932219043",
-        "9798624388406",
-        "1467797650",
-        "0497907119",
-        "1403946345",
-        "9781904271215",
-        "9781440610370",
-        "9780141800066",
-        "0451526783",
-        "173170335X",
-        "9781591663584",
-        "9789064031267",
-        "9781403946348",
-        "9780606334808",
-        "9780521094702",
-        "9781528705141",
-        "9780573001017",
-        "1017679681",
-        "9798626143294",
-        "1613826265",
-        "9780140621259",
-        "9780750233507",
-        "9780750233415",
-        "1467797669",
-        "9789580455806",
-        "9780786449651",
-        "9781787248137",
-        "0563397446",
-        "9781515424970",
-        "9780521666367",
-        "1417740949",
-        "9798615344336",
-        "9780671488437",
-        "9781467792745",
-        "9781935550068",
-        "9783533022282",
-        "9784102020128",
-        "9780140714173",
-        "0934048150",
-        "9780451518880",
-        "0174435878",
-        "9780877209263",
-        "017443586X",
-        "9781686056611",
-        "9788719752199",
-        "0665837488",
-        "1787248135",
-        "1846379210",
-        "9782742741564",
-        "9781932219449",
-        "1557834423",
-        "0312399324",
-        "1440610371",
-        "0451518888",
-        "149752296X",
-        "9781675714430",
-        "1675714436",
-        "0665667086",
-        "0563176148",
-        "0141800062",
-        "9781467797665",
-        "9781434609922",
-        "0198319258",
-        "312576520X",
-        "1686056613",
-        "9780743484862",
-        "9781556853104",
-        "9780521222327",
-        "9500306328",
-        "1775413179",
-        "0786449659",
-        "9781582012896",
-        "0497261820",
-        "3464109259",
-        "9780873522786",
-        "8174761195",
-        "9780341675037",
-        "0199536155",
-        "9780416178302",
-        "9780563176145",
-        "9781405891967",
-        "9780198319962",
-        "9780495911173",
-        "9781557834423",
-        "9781731703354",
-        "9780754050865",
-        "9781982109400",
-        "9782253161110",
-        "1904271227",
-        "9780521075275",
-        "1854596764",
-        "0237285495",
-        "056355312X",
-        "9780521786492",
-        "014070714X",
-        "9780877209270",
-        "9780486404325",
-        "0393927628",
-        "9781775413172",
-        "1935550063",
-        "9780745150284",
-        "9780497900281",
-        "1903436044",
-        "0333358945",
-        "9783458332091",
-        "1421813793",
-        "9783251202454",
-        "9781019296646",
-        "9780831704834",
-        "9780192834195",
-        "0812969227",
-        "9781585102792",
-        "9780708945100",
-        "9780198319344",
-        "1412132576",
-        "9780451524607",
-        "9780671729530",
-        "0521732506",
-        "9780451509338",
-        "0192834193",
-        "1599867710",
-        "9780174435860",
-        "9780174436614",
-        "9780613848299",
-        "1434609928",
-        "9780451513632",
-        "9780563553076",
-        "1585102792",
-        "1932219447",
-        "1717444644",
-        "9780451520999",
-        "1411401042",
-        "9780623011102",
-        "9780497902018",
-        "9781675339411",
-        "0451516672",
-        "052178137X",
-        "0671729535"
-      ],
-      "doi": "",
-      "subjects": [],
-      "source": "Open Library",
-      "source_url": "https://openlibrary.org/works/OL362698W",
-      "cover_url": "https://covers.openlibrary.org/b/id/7338874-M.jpg",
-      "formats": [
-        {
-          "type": "read",
-          "url": "https://archive.org/details/as_you_like_it_version_3_2012_librivox"
-        }
-      ],
-      "access": "open_access",
-      "license": "",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "OL362698W",
-        "openlibrary_work": "OL362698W",
-        "openlibrary_edition": "OL46337883M",
-        "internet_archive": "as_you_like_it_version_3_2012_librivox"
-      },
-      "providers": [
-        {
-          "source": "Open Library",
-          "source_id": "OL362698W",
-          "source_url": "https://openlibrary.org/works/OL362698W",
-          "language": "und",
-          "formats": [
-            {
-              "type": "read",
-              "url": "https://archive.org/details/as_you_like_it_version_3_2012_librivox"
-            }
-          ],
-          "access": "open_access",
-          "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:8d70dfa3e4e998bf18494830",
       "title": "As You Like It",
       "subtitle": "",
@@ -17669,6 +17233,444 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:d98606005d3222b797de477b",
+      "title": "As You Like It",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "William Shakespeare"
+      ],
+      "language": "de",
+      "year": 1734,
+      "publisher": "Modern Language Association of America",
+      "isbn": [
+        "9798615344336",
+        "9780198319795",
+        "1017679681",
+        "9783533022282",
+        "9780613642248",
+        "9781019296646",
+        "1515424979",
+        "9780517064894",
+        "0764142720",
+        "9781854596765",
+        "9780831704834",
+        "052122232X",
+        "0517151294",
+        "9780665837395",
+        "0451524608",
+        "9751405122",
+        "0140714715",
+        "0573601070",
+        "9781853260599",
+        "9780613182010",
+        "9789035108349",
+        "0486482502",
+        "0521063620",
+        "4102020128",
+        "9781717444646",
+        "0934048142",
+        "9781846379215",
+        "0877209278",
+        "0517064898",
+        "9789580455806",
+        "0393927628",
+        "0198319347",
+        "9781724470775",
+        "0521666368",
+        "9781599867717",
+        "9780312399320",
+        "0333358945",
+        "9782742741564",
+        "9780199536153",
+        "9781412132572",
+        "9780553212907",
+        "9780694516650",
+        "0415146682",
+        "9783458332091",
+        "9780517151297",
+        "9781935550068",
+        "0750233508",
+        "9780333149386",
+        "9780451520999",
+        "0754050866",
+        "0671488430",
+        "9789751405128",
+        "0563397446",
+        "1403946345",
+        "0694516651",
+        "225316111X",
+        "0819139149",
+        "9781787248137",
+        "0665837399",
+        "9780198319252",
+        "0623011107",
+        "9781982109400",
+        "0497261820",
+        "0416178405",
+        "0708945104",
+        "9780750233507",
+        "1846379210",
+        "8719752199",
+        "0613642244",
+        "1423779169",
+        "9798624388406",
+        "9781411401044",
+        "9780563553120",
+        "9788174761194",
+        "1554810523",
+        "0934048150",
+        "9780415026819",
+        "8174761195",
+        "1675339414",
+        "9781613826263",
+        "9780497260934",
+        "0198319258",
+        "9789500306324",
+        "9780497256883",
+        "1583962123",
+        "1412156394",
+        "9781434610911",
+        "0497900289",
+        "9780623011102",
+        "0451509331",
+        "9783498061937",
+        "0831704837",
+        "1412132576",
+        "0192819550",
+        "9780451516671",
+        "9780451501684",
+        "9781421813790",
+        "9780141012278",
+        "1440612358",
+        "9780708945100",
+        "9780521063623",
+        "0333149386",
+        "1528705149",
+        "9781904271222",
+        "0174435878",
+        "0563553073",
+        "9780671479237",
+        "0174436610",
+        "0553212907",
+        "9783150077344",
+        "9781350106680",
+        "0750233419",
+        "0646210335",
+        "1412132568",
+        "9780192834195",
+        "9780497902018",
+        "9780671531447",
+        "9781675339411",
+        "0883017601",
+        "1840025271",
+        "0606334807",
+        "9781847027474",
+        "9035108345",
+        "0671729535",
+        "3150077346",
+        "9780451526786",
+        "056355312X",
+        "9781556853104",
+        "0671531441",
+        "0521294126",
+        "0521786495",
+        "9781403946348",
+        "9781515424970",
+        "9780873522786",
+        "074348486X",
+        "9781554810529",
+        "1467792748",
+        "0804910065",
+        "1350106682",
+        "9780786449651",
+        "9780495911173",
+        "1675714436",
+        "1440628459",
+        "0563176148",
+        "9064031266",
+        "1982109408",
+        "9780174436614",
+        "0786449659",
+        "9780497900281",
+        "9781591663584",
+        "1405891963",
+        "0665667086",
+        "1775413179",
+        "159166358X",
+        "1717444644",
+        "9780754050865",
+        "9782253161110",
+        "9780521094702",
+        "9784102020128",
+        "0451513630",
+        "9780174435877",
+        "9781583962121",
+        "0521519748",
+        "9780573601071",
+        "0573001014",
+        "9780812969221",
+        "9780665667084",
+        "0746309104",
+        "1932219048",
+        "1557834423",
+        "9781423779162",
+        "9780521294126",
+        "087720926X",
+        "9780497907112",
+        "9783125765207",
+        "9780563553076",
+        "9780804910064",
+        "9780140621259",
+        "0451526783",
+        "0521075270",
+        "9780743466585",
+        "0665837488",
+        "1932219447",
+        "9780521786492",
+        "0415026814",
+        "9781423794844",
+        "1417740949",
+        "9789064031267",
+        "017443586X",
+        "014070714X",
+        "0451501683",
+        "9780606312820",
+        "9780451521316",
+        "1854596764",
+        "9780573001017",
+        "0451516672",
+        "9781467797665",
+        "9788449422386",
+        "9780140707144",
+        "9780341675037",
+        "9781467792745",
+        "9780606334808",
+        "9780764142727",
+        "9780174435860",
+        "9781582012896",
+        "0671722565",
+        "9780141800066",
+        "173170335X",
+        "9780451509338",
+        "1904271219",
+        "9780393927627",
+        "0140714170",
+        "0451521315",
+        "1423794842",
+        "9780198319962",
+        "9780415146685",
+        "0199536155",
+        "1853260592",
+        "9781932219449",
+        "9781606461532",
+        "9780198328698",
+        "1411401042",
+        "9780819139146",
+        "158201289X",
+        "9780237285494",
+        "9788719752199",
+        "9780613848299",
+        "9780521075275",
+        "9783464109250",
+        "9780563176145",
+        "9780521666367",
+        "1434610918",
+        "0312399324",
+        "0497256886",
+        "9780521519748",
+        "0198129483",
+        "0198320485",
+        "9780460876278",
+        "1686056613",
+        "060631282X",
+        "9798602190229",
+        "312576520X",
+        "9781467797672",
+        "9780563397441",
+        "9780671729530",
+        "9570601108",
+        "9780497258474",
+        "9781440628450",
+        "0812969227",
+        "9780486404325",
+        "049726093X",
+        "1847027474",
+        "9781557834423",
+        "0460876279",
+        "3533022285",
+        "1108005756",
+        "9780143130239",
+        "0887941184",
+        "9780743484862",
+        "9780750233415",
+        "9780934048156",
+        "0873522788",
+        "9781932219043",
+        "0174435428",
+        "0143130234",
+        "1467797650",
+        "9780198319344",
+        "0521732506",
+        "9780877209270",
+        "0497258471",
+        "1440610371",
+        "9781412156394",
+        "9780140714715",
+        "9781840025279",
+        "9780521222327",
+        "0495911178",
+        "9781686056611",
+        "9780486482507",
+        "3533022277",
+        "345833209X",
+        "1613826265",
+        "0141012277",
+        "0198319797",
+        "9781497522961",
+        "0486404323",
+        "9780198129486",
+        "0192834193",
+        "1434609928",
+        "9798626143294",
+        "9781904271215",
+        "9500306328",
+        "9781434609922",
+        "9780660193809",
+        "9780451513632",
+        "1421813793",
+        "9781405891967",
+        "9780887941184",
+        "1467797669",
+        "9780198320487",
+        "1467797677",
+        "9781072825111",
+        "149752296X",
+        "9781017679687",
+        "0808508768",
+        "9780808508762",
+        "9780521732505",
+        "0198328699",
+        "1724470779",
+        "0341675032",
+        "9780416178401",
+        "3251202456",
+        "9780746309100",
+        "1556853106",
+        "9781528705141",
+        "9780745150284",
+        "049790201X",
+        "9780883017609",
+        "1072825112",
+        "0613182014",
+        "9781417740949",
+        "0140621253",
+        "9780877209263",
+        "9781561036578",
+        "1599867710",
+        "165265299X",
+        "1606461532",
+        "9781108005753",
+        "9781731703354",
+        "3498061933",
+        "9798642059821",
+        "9798618361163",
+        "9781903436042",
+        "9781675714430",
+        "0613848292",
+        "9780451524607",
+        "3464109259",
+        "9781440612350",
+        "2742741569",
+        "9783251202454",
+        "9780671488437",
+        "0660193809",
+        "1787248135",
+        "9781412132565",
+        "101929664X",
+        "0497253380",
+        "9798656629911",
+        "052178137X",
+        "9780665837487",
+        "1585102792",
+        "1904271227",
+        "9781775413172",
+        "9780671722562",
+        "9780451518880",
+        "9783533022275",
+        "0198319967",
+        "9780497261825",
+        "0451520998",
+        "0743466586",
+        "9780140714173",
+        "0521094704",
+        "9780934048149",
+        "9780192819550",
+        "0497907119",
+        "9781585102792",
+        "9789570601107",
+        "9780521781374",
+        "9780333358948",
+        "1561036579",
+        "8449422388",
+        "9781652652991",
+        "9781467797658",
+        "1935550063",
+        "9780174435426",
+        "9798656636711",
+        "9781440610370",
+        "1903436044",
+        "9580455805",
+        "0671479237",
+        "9780646210339",
+        "9780416178302",
+        "0451518888",
+        "0745150284",
+        "0416178308",
+        "9780497253387",
+        "0141800062",
+        "0237285495"
+      ],
+      "doi": "",
+      "subjects": [],
+      "source": "Open Library",
+      "source_url": "https://openlibrary.org/works/OL362698W",
+      "cover_url": "https://covers.openlibrary.org/b/id/7338874-M.jpg",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://archive.org/details/as_you_like_it_version_3_2012_librivox"
+        }
+      ],
+      "access": "open_access",
+      "license": "",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "OL362698W",
+        "openlibrary_work": "OL362698W",
+        "openlibrary_edition": "OL46337883M",
+        "internet_archive": "as_you_like_it_version_3_2012_librivox"
+      },
+      "providers": [
+        {
+          "source": "Open Library",
+          "source_id": "OL362698W",
+          "source_url": "https://openlibrary.org/works/OL362698W",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://archive.org/details/as_you_like_it_version_3_2012_librivox"
+            }
+          ],
+          "access": "open_access",
+          "license": "",
           "verified_legal": true
         }
       ]
@@ -20181,49 +20183,6 @@
           "access": "author_free",
           "license": "",
           "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:e14c9bb8438910c958e6500e",
-      "title": "Batch remoto en APL",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Manuel Alfonseca Moreno"
-      ],
-      "language": "es",
-      "year": 1974,
-      "publisher": "Universidad Autónoma de Madrid, Centro de Investigación UAM-IBM",
-      "isbn": [
-        "8436000250",
-        "9788436000252"
-      ],
-      "doi": "",
-      "subjects": [],
-      "source": "Open Library",
-      "source_url": "https://openlibrary.org/works/OL6746979W",
-      "cover_url": "",
-      "formats": [],
-      "access": "metadata_only",
-      "license": "",
-      "verified_legal": false,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "OL6746979W",
-        "openlibrary_work": "OL6746979W",
-        "openlibrary_edition": "OL4630465M"
-      },
-      "providers": [
-        {
-          "source": "Open Library",
-          "source_id": "OL6746979W",
-          "source_url": "https://openlibrary.org/works/OL6746979W",
-          "language": "es",
-          "formats": [],
-          "access": "metadata_only",
-          "license": "",
-          "verified_legal": false
         }
       ]
     },
@@ -33402,72 +33361,6 @@
       ]
     },
     {
-      "id": "work:5c8978149c82ffa24319c0f5",
-      "title": "Contemporary Mathematics in Context",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "McGraw-Hill"
-      ],
-      "language": "es",
-      "year": 2002,
-      "publisher": "Schools",
-      "isbn": [
-        "9780078275371",
-        "0078275415",
-        "0078275423",
-        "0078275466",
-        "0078275377",
-        "0078307287",
-        "0078618193",
-        "9780078275401",
-        "9780078693007",
-        "9780078618208",
-        "9780078275388",
-        "9780078275418",
-        "9780078275494",
-        "9780078275463",
-        "9780078275500",
-        "0078618207",
-        "9780078275425",
-        "0078275504",
-        "9780078618192",
-        "0078275407",
-        "9780078307287",
-        "0078693004",
-        "0078275490",
-        "0078275385"
-      ],
-      "doi": "",
-      "subjects": [],
-      "source": "Open Library",
-      "source_url": "https://openlibrary.org/works/OL14996311W",
-      "cover_url": "https://covers.openlibrary.org/b/id/1089430-M.jpg",
-      "formats": [],
-      "access": "digital_lending",
-      "license": "",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "OL14996311W",
-        "openlibrary_work": "OL14996311W",
-        "openlibrary_edition": "OL9263944M",
-        "internet_archive": "contemporarymath00mcgr_0"
-      },
-      "providers": [
-        {
-          "source": "Open Library",
-          "source_id": "OL14996311W",
-          "source_url": "https://openlibrary.org/works/OL14996311W",
-          "language": "es",
-          "formats": [],
-          "access": "digital_lending",
-          "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:aed13c2896c57306f124d739",
       "title": "Contractualist State-building and Economic Freedom in Africa",
       "subtitle": "Reorienting Development Governance",
@@ -37350,6 +37243,84 @@
       ]
     },
     {
+      "id": "work:7c1b96a829c2209cb612cf23",
+      "title": "Cybernetics, or control and communication in the animal and the machine",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Norbert Wiener",
+        "Doug Hill",
+        "Sanjoy Mitter"
+      ],
+      "language": "en",
+      "year": 1948,
+      "publisher": "John Wiley & Sons, Inc.",
+      "isbn": [
+        "0262355914",
+        "0262230070",
+        "9780262537841",
+        "9781614275022",
+        "8527311046",
+        "9780262355896",
+        "1610278097",
+        "1684931142",
+        "8472234525",
+        "9781610271806",
+        "9780262730099",
+        "9781432594442",
+        "1610272005",
+        "9788527311045",
+        "1432594443",
+        "1610278461",
+        "0262355906",
+        "9781610278461",
+        "9781684931149",
+        "0262355892",
+        "168422621X",
+        "9781684226214",
+        "1610271807",
+        "9788472234529",
+        "9780262355919",
+        "0262537842",
+        "9781610278096",
+        "9780262355902",
+        "026273009X",
+        "1614275025",
+        "9781684931156",
+        "9780262230070",
+        "9781610272001",
+        "1684931150"
+      ],
+      "doi": "",
+      "subjects": [],
+      "source": "Open Library",
+      "source_url": "https://openlibrary.org/works/OL4307531W",
+      "cover_url": "https://covers.openlibrary.org/b/id/152654-M.jpg",
+      "formats": [],
+      "access": "digital_lending",
+      "license": "",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "OL4307531W",
+        "openlibrary_work": "OL4307531W",
+        "openlibrary_edition": "OL58791123M",
+        "internet_archive": "cybernetics0000norb"
+      },
+      "providers": [
+        {
+          "source": "Open Library",
+          "source_id": "OL4307531W",
+          "source_url": "https://openlibrary.org/works/OL4307531W",
+          "language": "en",
+          "formats": [],
+          "access": "digital_lending",
+          "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f08dcd3f89539d698cb64b32",
       "title": "Cyberspace",
       "subtitle": "",
@@ -37655,47 +37626,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHG Middle Eastern history",
         "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116848",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/eb2bb6f8-494c-4415-83c3-c7d9d8271ef4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/beb7d621-6126-4ffc-b204-9cc2c832a2cd/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/beb7d621-6126-4ffc-b204-9cc2c832a2cd/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181553",
+        "source_id": "20.500.12657/116848",
         "handle": "20.500.12854/181553",
         "dspace_uuid": "f8312ed9-60df-46f8-88a5-13d9468cba99",
         "oapen_library_source_id": "20.500.12657/116848",
         "oapen_library_handle": "20.500.12657/116848",
-        "oapen_library_dspace_uuid": "b4ef97ca-4977-4da0-b617-40220db8bd19"
+        "oapen_library_dspace_uuid": "b4ef97ca-4977-4da0-b617-40220db8bd19",
+        "doab_source_id": "20.500.12854/181553"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181553",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116848",
@@ -37709,6 +37666,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181553",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -39236,57 +39208,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:caf1d2a73fb936147c91baa8",
-      "title": "Dentures",
-      "subtitle": "Present State-of-the-Art and Future Perspectives",
-      "description": "There is a continuous and well-defined need for novel dental prosthetic solutions that not only support improved oral health but also encourage patient compliance. In this context, this book includes seven chapters that focus on key aspects of dentures. Complex issues such as tooth loss and its consequences, management of patients’ anxiety, modern material choices, novel technologies, and approaches to restoration design are presented, aiming to address both functional and esthetic issues caused by edentulism.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1006766",
-      "subjects": [
-        "Dentistry",
-        "thema EDItEUR::M Medicine and Nursing::MK Medical specialties, branches of medicine::MKE Dentistry"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180948",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a867f7e0-5492-48ff-89d6-8a9788913412/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc000009jNZnIAM/0016452_Authors_Book (2026-06-07 18:34:39).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180948",
-        "handle": "20.500.12854/180948",
-        "dspace_uuid": "810f2326-981e-4045-960d-420e051f838f"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180948",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180948",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc000009jNZnIAM/0016452_Authors_Book (2026-06-07 18:34:39).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -43498,47 +43419,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181375",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116760",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/b940e267-c3e5-49ee-864e-297c016206e1/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116760/1/9783111701141.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/d5b8faa5-e5e8-4a79-a4ed-85fb9b37da1a/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/d5b8faa5-e5e8-4a79-a4ed-85fb9b37da1a/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116760/1/9783111701141.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181375",
+        "source_id": "20.500.12657/116760",
         "handle": "20.500.12854/181375",
         "dspace_uuid": "db221066-728f-42fc-bded-c6e38153d6bc",
         "oapen_library_source_id": "20.500.12657/116760",
         "oapen_library_handle": "20.500.12657/116760",
-        "oapen_library_dspace_uuid": "4b06413f-7c56-4286-8e93-5b1b65192b1f"
+        "oapen_library_dspace_uuid": "4b06413f-7c56-4286-8e93-5b1b65192b1f",
+        "doab_source_id": "20.500.12854/181375"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181375",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181375",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116760/1/9783111701141.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116760",
@@ -43552,6 +43459,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181375",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181375",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116760/1/9783111701141.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -47884,47 +47806,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116734",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/e2e35712-ddd8-4c43-909f-7007875267b4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/c3e34517-d555-43b1-8888-7735b6cb1dc2/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/c3e34517-d555-43b1-8888-7735b6cb1dc2/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181541",
+        "source_id": "20.500.12657/116734",
         "handle": "20.500.12854/181541",
         "dspace_uuid": "c1229c21-ab05-4c88-8024-e186ca2a9fca",
         "oapen_library_source_id": "20.500.12657/116734",
         "oapen_library_handle": "20.500.12657/116734",
-        "oapen_library_dspace_uuid": "ac238c40-27d4-4e7e-8c97-ded3583d396d"
+        "oapen_library_dspace_uuid": "ac238c40-27d4-4e7e-8c97-ded3583d396d",
+        "doab_source_id": "20.500.12854/181541"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181541",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116734",
@@ -47938,6 +47846,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181541",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -51506,156 +51429,156 @@
       ],
       "language": "und",
       "year": 1952,
-      "publisher": "El Universo",
+      "publisher": "Proa",
       "isbn": [
-        "0571329659",
-        "8475888089",
-        "9572705202",
-        "8495589168",
-        "9780571244591",
-        "3518365010",
         "1523957980",
-        "0571229115",
-        "9783518365014",
-        "8484870200",
-        "0685111598",
-        "9788484870203",
-        "9781718023277",
-        "9786078543793",
-        "3125974844",
-        "380441642X",
-        "0802110215",
-        "9780802130341",
-        "9789509779792",
-        "9780394172040",
-        "9786074156720",
-        "0174443838",
-        "0802144632",
-        "9780660179810",
-        "9789188592118",
-        "9781535213158",
-        "9782047305584",
-        "9788490661123",
-        "8472230732",
-        "0660191687",
-        "9780571092871",
-        "0802115489",
-        "0571297013",
-        "080214442X",
-        "1411494717",
         "1522636277",
-        "9783518220405",
-        "9780774033633",
-        "849066112X",
-        "9781522636274",
-        "9783518124192",
-        "9780808509127",
-        "1523723955",
-        "0394172043",
-        "9709483730",
-        "9780900768583",
-        "9780394475295",
-        "9789572705209",
-        "9781543234176",
-        "9781626546394",
-        "9788535929607",
-        "8417423540",
-        "1535213159",
-        "0245585990",
-        "9788472230736",
-        "9780571229116",
-        "057109287X",
-        "9780571329656",
-        "9788449949746",
-        "9780606192316",
-        "060619231X",
-        "9780174443834",
-        "0023078308",
-        "6078543792",
-        "3518220403",
-        "1543234178",
-        "9782707301482",
-        "9788496118102",
-        "9780132769570",
-        "9782091801186",
-        "0785905960",
-        "9626344024",
-        "2707301485",
-        "0808509128",
-        "9781523723959",
-        "9781986458931",
-        "0573040087",
-        "9783804416420",
-        "2091801186",
-        "9789626344026",
-        "9780571058082",
-        "9780685111598",
-        "9781974288267",
-        "0571145434",
-        "9509779792",
-        "9781627651622",
-        "5751609360",
         "1718023278",
-        "9780573040085",
-        "9781557832856",
-        "9780023078309",
-        "9788495589163",
-        "0606346600",
-        "1626546398",
-        "9781523957989",
-        "9788472238657",
-        "9781537134505",
-        "9780802118219",
-        "0774033630",
-        "1974288269",
-        "0900768584",
-        "1986458938",
-        "9780660191683",
-        "9788131787601",
-        "9780844219974",
-        "9782218739477",
-        "9788417423544",
-        "9188592111",
-        "3518124196",
-        "0660179814",
-        "9780571145430",
-        "9788475888088",
-        "9780802144638",
-        "1411478207",
-        "0394475291",
-        "9780802110213",
-        "1557832854",
-        "0844219975",
-        "0571058086",
-        "9780785905967",
-        "9789709483734",
-        "8472238652",
-        "8449949742",
-        "9781411478206",
-        "1537134507",
-        "9780245585999",
-        "9780802115485",
-        "849611810X",
-        "9780802144423",
-        "0132769573",
-        "0802118216",
-        "9780571297016",
-        "1627651624",
-        "0571244599",
-        "9781411494718",
-        "0802130348",
-        "221873947X",
-        "3150092140",
-        "2047305586",
-        "6074156727",
-        "8131787605",
-        "8535929606",
-        "9780245522215",
-        "9783125974845",
-        "9780606346603",
         "0245522212",
+        "9572705202",
+        "0774033630",
+        "9709483730",
+        "9788449949746",
+        "9188592111",
+        "1411478207",
+        "9789509779792",
+        "8484870200",
         "9783150092149",
-        "9785751609368"
+        "0606346600",
+        "0394172043",
+        "9782047305584",
+        "9789188592118",
+        "3150092140",
+        "9780571297016",
+        "9788475888088",
+        "1535213159",
+        "0571058086",
+        "9780132769570",
+        "9785751609368",
+        "9780245585999",
+        "1557832854",
+        "5751609360",
+        "9788131787601",
+        "9780802115485",
+        "0245585990",
+        "9780802130341",
+        "1543234178",
+        "9783518365014",
+        "9788495589163",
+        "9781974288267",
+        "9780571145430",
+        "9783125974845",
+        "1974288269",
+        "2091801186",
+        "849611810X",
+        "9781557832856",
+        "0394475291",
+        "9780571092871",
+        "9626344024",
+        "1986458938",
+        "0685111598",
+        "0660179814",
+        "8131787605",
+        "9789572705209",
+        "0802118216",
+        "8417423540",
+        "0571244599",
+        "849066112X",
+        "9780900768583",
+        "9780660191683",
+        "9788417423544",
+        "3518220403",
+        "9780571244591",
+        "9780606346603",
+        "057109287X",
+        "9780844219974",
+        "9780660179810",
+        "3518365010",
+        "9780023078309",
+        "0571229115",
+        "0571329659",
+        "1411494717",
+        "0802144632",
+        "9781523957989",
+        "0808509128",
+        "9780394172040",
+        "9780685111598",
+        "9780808509127",
+        "9509779792",
+        "0660191687",
+        "8449949742",
+        "9781522636274",
+        "0802110215",
+        "9781986458931",
+        "2047305586",
+        "9788472230736",
+        "221873947X",
+        "9780802118219",
+        "9780245522215",
+        "9780571329656",
+        "9780774033633",
+        "380441642X",
+        "9788484870203",
+        "9788490661123",
+        "9781627651622",
+        "1523723955",
+        "8472238652",
+        "9781626546394",
+        "9783518220405",
+        "9782218739477",
+        "060619231X",
+        "3125974844",
+        "9781535213158",
+        "9782091801186",
+        "9786078543793",
+        "6074156727",
+        "0573040087",
+        "9780802144638",
+        "9780174443834",
+        "8475888089",
+        "1626546398",
+        "8535929606",
+        "9789709483734",
+        "9780606192316",
+        "9780394475295",
+        "9781543234176",
+        "8472230732",
+        "3518124196",
+        "9780573040085",
+        "9782707301482",
+        "9781411494718",
+        "8495589168",
+        "9781523723959",
+        "9781718023277",
+        "0571297013",
+        "0174443838",
+        "9783804416420",
+        "1627651624",
+        "9783518124192",
+        "9788472238657",
+        "9789626344026",
+        "1537134507",
+        "0023078308",
+        "0802115489",
+        "0785905960",
+        "9788535929607",
+        "2707301485",
+        "9780802144423",
+        "0900768584",
+        "080214442X",
+        "9788496118102",
+        "0132769573",
+        "9786074156720",
+        "0844219975",
+        "9780802110213",
+        "9781537134505",
+        "9780571229116",
+        "9780785905967",
+        "9781411478206",
+        "0571145434",
+        "0802130348",
+        "6078543792",
+        "9780571058082"
       ],
       "doi": "",
       "subjects": [],
@@ -56141,47 +56064,33 @@
         "Fernsehen",
         "thema EDItEUR::C Language and Linguistics::CJ Language teaching and learning"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116702",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/06bbeee9-3c8d-4c8b-82c4-1c41fd096269/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/d87b3874-4798-4a73-af5b-6359466d03fe/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/d87b3874-4798-4a73-af5b-6359466d03fe/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181577",
+        "source_id": "20.500.12657/116702",
         "handle": "20.500.12854/181577",
         "dspace_uuid": "b605b734-60f9-48b4-936e-eb40f8299e5c",
         "oapen_library_source_id": "20.500.12657/116702",
         "oapen_library_handle": "20.500.12657/116702",
-        "oapen_library_dspace_uuid": "be33d644-12cb-4c52-8055-d7f49d302b2b"
+        "oapen_library_dspace_uuid": "be33d644-12cb-4c52-8055-d7f49d302b2b",
+        "doab_source_id": "20.500.12854/181577"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181577",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116702",
@@ -56195,6 +56104,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181577",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -58176,47 +58100,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGZ The Arts: techniques and principles"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181334",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116866",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/1a4f3c30-2014-4fe1-8cd8-315dd7dedac8/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116866/1/9783111611167.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/ccddf5bb-523c-4211-bec6-cbe4f0579ee1/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/ccddf5bb-523c-4211-bec6-cbe4f0579ee1/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116866/1/9783111611167.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181334",
+        "source_id": "20.500.12657/116866",
         "handle": "20.500.12854/181334",
         "dspace_uuid": "4ad26c02-6506-4325-983b-7dddb1208c7d",
         "oapen_library_source_id": "20.500.12657/116866",
         "oapen_library_handle": "20.500.12657/116866",
-        "oapen_library_dspace_uuid": "35b28d8e-2204-4307-94fb-7ffddb0a21a0"
+        "oapen_library_dspace_uuid": "35b28d8e-2204-4307-94fb-7ffddb0a21a0",
+        "doab_source_id": "20.500.12854/181334"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181334",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181334",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116866/1/9783111611167.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116866",
@@ -58230,6 +58140,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181334",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181334",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116866/1/9783111611167.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -60675,47 +60600,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSR Literary reference works",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181270",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116977",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/e44f0a09-a8c6-41e3-b0a8-fd682c8f2ce9/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116977/1/9783631896150.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/fb458933-d6ab-42cd-bad4-e0903c4d8c1c/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/fb458933-d6ab-42cd-bad4-e0903c4d8c1c/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116977/1/9783631896150.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181270",
+        "source_id": "20.500.12657/116977",
         "handle": "20.500.12854/181270",
         "dspace_uuid": "8bbcbcf3-5107-485c-bbf9-7b75b86994b8",
         "oapen_library_source_id": "20.500.12657/116977",
         "oapen_library_handle": "20.500.12657/116977",
-        "oapen_library_dspace_uuid": "12098896-e8f2-4e3b-8ae0-f9099997ece8"
+        "oapen_library_dspace_uuid": "12098896-e8f2-4e3b-8ae0-f9099997ece8",
+        "doab_source_id": "20.500.12854/181270"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181270",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181270",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116977/1/9783631896150.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116977",
@@ -60729,6 +60640,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181270",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181270",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116977/1/9783631896150.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -61909,47 +61835,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116817",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/f8fc1ab4-f149-4b79-960a-6b339bd0583f/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/a2661adf-3ae5-402f-9cbd-764915ce509e/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/a2661adf-3ae5-402f-9cbd-764915ce509e/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181580",
+        "source_id": "20.500.12657/116817",
         "handle": "20.500.12854/181580",
         "dspace_uuid": "5ed97683-ad44-4126-aded-3dc7171e145c",
         "oapen_library_source_id": "20.500.12657/116817",
         "oapen_library_handle": "20.500.12657/116817",
-        "oapen_library_dspace_uuid": "c0b4bba9-c5a1-46a5-ba41-49338d8d7bfa"
+        "oapen_library_dspace_uuid": "c0b4bba9-c5a1-46a5-ba41-49338d8d7bfa",
+        "doab_source_id": "20.500.12854/181580"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181580",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116817",
@@ -61963,6 +61875,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181580",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -68953,57 +68880,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:c78f42e0df8b4360eb1184b0",
-      "title": "Heart Transplantation",
-      "subtitle": "Current Status and Recent Updates",
-      "description": "Heart Transplant – Current Status and Recent Updates provides a comprehensive and up-to-date overview of one of the most complex and evolving fields in cardiovascular medicine. This volume examines the latest advancements in donor and recipient selection, surgical techniques, immunosuppressive therapies, and innovations in mechanical circulatory support, which are revolutionizing patient outcomes. Readers will gain insights into cutting-edge strategies for managing end-stage heart failure, optimizing transplantation success, and expanding the donor pool through novel preservation and utilization methods. The book highlights emerging trends, including personalized immunosuppression protocols, advances in artificial hearts, and innovative approaches to long-term care, providing clinicians, researchers, and healthcare providers with a valuable resource for enhancing patient care. Designed for professionals involved in cardiac transplantation and heart failure management, this volume emphasizes practical applications, evidence-based practices, and future directions that are shaping the future of heart transplantation. Whether you are seeking to refine your clinical approach, stay current with technological innovations, or deepen your understanding of the current landscape, this book provides a well-rounded and insightful guide to the most recent developments in the field. Unlock essential knowledge and discover how cutting-edge research and clinical practice are transforming the prognosis and quality of life for patients worldwide, making this an indispensable resource for anyone dedicated to advancing heart transplant care.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1006451",
-      "subjects": [
-        "Cardiology",
-        "thema EDItEUR::M Medicine and Nursing::MJ Clinical and internal medicine::MJD Cardiovascular medicine"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180946",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/9bd311ee-d87d-4a7a-9a4b-906a99b1c6b1/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc0000091cK3IAI/0016426_Authors_Book (2026-01-05 08:05:30).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180946",
-        "handle": "20.500.12854/180946",
-        "dspace_uuid": "e12e6892-59c5-4a9c-b681-c5c75219de8e"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180946",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180946",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc0000091cK3IAI/0016426_Authors_Book (2026-01-05 08:05:30).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -86165,47 +86041,33 @@
         "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHR Western philosophy from c 1800",
         "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDT Topics in philosophy::QDTS Social and political philosophy"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181480",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116907",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/588d82a4-5423-4df2-8508-f9cb5e9e0e07/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116907/1/9783110728866.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/2ba7fb90-c4ba-45aa-a7eb-7e1c6966804e/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/2ba7fb90-c4ba-45aa-a7eb-7e1c6966804e/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116907/1/9783110728866.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181480",
+        "source_id": "20.500.12657/116907",
         "handle": "20.500.12854/181480",
         "dspace_uuid": "8c1e44f3-3626-4df6-84d4-31c2ab1265a7",
         "oapen_library_source_id": "20.500.12657/116907",
         "oapen_library_handle": "20.500.12657/116907",
-        "oapen_library_dspace_uuid": "8bc278b7-6729-4135-8816-2d2e50e15a26"
+        "oapen_library_dspace_uuid": "8bc278b7-6729-4135-8816-2d2e50e15a26",
+        "doab_source_id": "20.500.12854/181480"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181480",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181480",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116907/1/9783110728866.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116907",
@@ -86219,6 +86081,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181480",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181480",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116907/1/9783110728866.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -88194,6 +88071,57 @@
       ]
     },
     {
+      "id": "work:c280b3ce1aa5f22a2c2e0a53",
+      "title": "Lavoro femminile Lavori femminili",
+      "subtitle": "",
+      "description": "This book, funded by the University Federico II among the valuable initiatives for the dissemination of scientific research, took shape at the end of a series of meetings organised during the 2024–25 academic year at the Department of Law of the University of Naples Federico II, as part of a departmental research project dedicated to the theme ‘Women’s Entrepreneurship: History, Rights, Economy’. Adopting an interdisciplinary approach, the research aimed to bring together specialists from various legal fields – ranging from constitutional to civil law, from the history of modern law to labour law, and from the law of antiquity to political economy – to engage a fructuous dialogue with female entrepreneurs, professionals, representatives from the world of solidarity-based associations, local administrators and members of the legal professions who, through their testimonies, could enrich the topics under discussion and provide further insight. At the end of the workshops – which were very well followed by students on the Master’s degree programme in Law and by PhD students from various academic disciplines – the idea arose, at the participants’ own request, to collect the reflections inspired by those meetings. The issue of female entrepreneurship and, more generally, female employment remains, even today, a critical issue in Italy, where – despite European incentives – delays and gaps in legislation persist, slowing down career progression and access to leadership roles in top-level and strategic positions. This makes it desirable to propose awareness-raising and training initiatives to students, who are, and will continue to be, engaged in shaping contemporary society.",
+      "authors": [],
+      "language": "it",
+      "year": 2026,
+      "publisher": "FedOA - Federico II University Press",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Female entrepreneurship, History of Women’s Rights, Women’s Rights, Education",
+        "thema EDItEUR::L Law"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181680",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5ed442f9-348d-4309-890d-0437194ff7cd/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/826"
+        }
+      ],
+      "access": "open_access",
+      "license": "All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181680",
+        "handle": "20.500.12854/181680",
+        "dspace_uuid": "b97e55e6-2664-4867-82e8-6c3225cccb59"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181680",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181680",
+          "language": "it",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/826"
+            }
+          ],
+          "access": "open_access",
+          "license": "All rights reserved",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:42b7719c4837ba867e11b897",
       "title": "Law and the Unity of Practical Reasoning",
       "subtitle": "",
@@ -89935,47 +89863,33 @@
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRA Religion: general",
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRV Aspects of religion::QRVG Theology"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181379",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116974",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/12ce35b7-95b6-4dda-ac38-767731085400/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116974/1/9783631954669.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/7c7aeee2-d1df-49dc-80d9-c43e69102c02/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/7c7aeee2-d1df-49dc-80d9-c43e69102c02/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116974/1/9783631954669.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181379",
+        "source_id": "20.500.12657/116974",
         "handle": "20.500.12854/181379",
         "dspace_uuid": "f1e81bf1-20f2-4f8e-9717-8521a227a7f4",
         "oapen_library_source_id": "20.500.12657/116974",
         "oapen_library_handle": "20.500.12657/116974",
-        "oapen_library_dspace_uuid": "4c9d9ae3-82c2-4150-b360-b0c07fda6cf6"
+        "oapen_library_dspace_uuid": "4c9d9ae3-82c2-4150-b360-b0c07fda6cf6",
+        "doab_source_id": "20.500.12854/181379"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181379",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181379",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116974/1/9783631954669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116974",
@@ -89989,6 +89903,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181379",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181379",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116974/1/9783631954669.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -91208,47 +91137,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBD Literary studies: c 1600 to c 1800",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181355",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116746",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/9e836276-5bf0-4853-a809-23b55b739432/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116746/1/9783111610405.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/45699e2a-1d62-42e8-b6c3-cb6c662250e5/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/45699e2a-1d62-42e8-b6c3-cb6c662250e5/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116746/1/9783111610405.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181355",
+        "source_id": "20.500.12657/116746",
         "handle": "20.500.12854/181355",
         "dspace_uuid": "5829c48d-3dd8-4cae-908e-d3780af0f5cd",
         "oapen_library_source_id": "20.500.12657/116746",
         "oapen_library_handle": "20.500.12657/116746",
-        "oapen_library_dspace_uuid": "40391d91-0fcc-4fbb-9794-e5d056009410"
+        "oapen_library_dspace_uuid": "40391d91-0fcc-4fbb-9794-e5d056009410",
+        "doab_source_id": "20.500.12854/181355"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181355",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181355",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116746/1/9783111610405.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116746",
@@ -91262,6 +91177,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181355",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181355",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116746/1/9783111610405.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -98214,47 +98144,33 @@
         "Russisch",
         "thema EDItEUR::C Language and Linguistics::CF Linguistics"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116935",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/3a3218e6-b125-4547-bf35-a8a72240a9b4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/936ffcc6-b167-48df-87b6-00bcc0da57ca/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/936ffcc6-b167-48df-87b6-00bcc0da57ca/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181536",
+        "source_id": "20.500.12657/116935",
         "handle": "20.500.12854/181536",
         "dspace_uuid": "b5cdfde7-0aa2-4802-b0c0-da68e2af559c",
         "oapen_library_source_id": "20.500.12657/116935",
         "oapen_library_handle": "20.500.12657/116935",
-        "oapen_library_dspace_uuid": "a9e0ecd3-4add-4992-a47a-fa3f3f552e68"
+        "oapen_library_dspace_uuid": "a9e0ecd3-4add-4992-a47a-fa3f3f552e68",
+        "doab_source_id": "20.500.12854/181536"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181536",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116935",
@@ -98268,6 +98184,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181536",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
           "verified_legal": true
         }
       ]
@@ -100234,58 +100165,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:efd2189a60ae4b4293fd841b",
-      "title": "Mind-Body Practices in Healthcare",
-      "subtitle": "",
-      "description": "An important principle of the Hippocratic precept is \"Vis Medicatrix Naturae\" (the healing power of nature), which holds that the organism can often heal itself. Under this view, most of the physician's role is to support this innate tendency. Mind and body relations indubitably play important roles in human health, disease and healing. Safe, low-cost mind-body interventions have shown potential to support clinical treatment, and clinicians could encourage them more often. The purpose of this work is to contribute to progress towards a more integrative future. The current book aims to present academically reliable and clinically useful information. All the chapters closely correlate with the book's theme, making a valuable contribution to our project. Most chapters address subjects rarely discussed in the academic environment and seldom forgotten in healthcare education. Some chapters present theoretical frameworks, supported by pertinent scientific literature, while others present original empirical results and professional experience. The academic world will undoubtedly benefit from such contributions by authors from diverse continents and different cultural perspectives. Congratulations on your interest in this work, which the editors hope readers will find helpful and enjoyable!",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "IntechOpen",
-      "isbn": [],
-      "doi": "10.5772/intechopen.1006761",
-      "subjects": [
-        "Acupuncture",
-        "Complementary medicine",
-        "thema EDItEUR::M Medicine and Nursing::MX Complementary and alternative medicine and therapies"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/180947",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/955342c7-ed72-4c5a-8ecc-c933cf6b5808/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://intech-files.s3.amazonaws.com/a04Tc000009jNZiIAM/0016447_Authors_Book (2026-02-25 15:49:29).pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/180947",
-        "handle": "20.500.12854/180947",
-        "dspace_uuid": "dcc0d658-b786-4665-9b10-1a39cc130532"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/180947",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/180947",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://intech-files.s3.amazonaws.com/a04Tc000009jNZiIAM/0016447_Authors_Book (2026-02-25 15:49:29).pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -109323,47 +109202,33 @@
         "Spätantike",
         "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181323",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116901",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/8d6db6dd-2ada-42f2-9192-731b851cd156/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116901/1/9783112212257.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/e7f0fad1-c4a4-4739-af86-a5549bb46f74/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/e7f0fad1-c4a4-4739-af86-a5549bb46f74/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116901/1/9783112212257.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181323",
+        "source_id": "20.500.12657/116901",
         "handle": "20.500.12854/181323",
         "dspace_uuid": "d050b5d1-de2f-40e7-ba7d-64277546545e",
         "oapen_library_source_id": "20.500.12657/116901",
         "oapen_library_handle": "20.500.12657/116901",
-        "oapen_library_dspace_uuid": "30b3427c-660d-4582-8400-13e19608ce33"
+        "oapen_library_dspace_uuid": "30b3427c-660d-4582-8400-13e19608ce33",
+        "doab_source_id": "20.500.12854/181323"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181323",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181323",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116901/1/9783112212257.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116901",
@@ -109377,6 +109242,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181323",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181323",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116901/1/9783112212257.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -114851,47 +114731,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSA Literary theory",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181491",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116783",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/3ebded0d-55bb-4194-bdf5-e99609fc6028/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116783/1/9783112210093.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/cd084a02-d1cb-4d1e-8977-413c3e013ef1/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/cd084a02-d1cb-4d1e-8977-413c3e013ef1/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116783/1/9783112210093.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181491",
+        "source_id": "20.500.12657/116783",
         "handle": "20.500.12854/181491",
         "dspace_uuid": "fba58fbd-1867-48c9-b83c-2a89780427e7",
         "oapen_library_source_id": "20.500.12657/116783",
         "oapen_library_handle": "20.500.12657/116783",
-        "oapen_library_dspace_uuid": "906b6e2e-2d7d-48f2-a6e4-4703ef9bca01"
+        "oapen_library_dspace_uuid": "906b6e2e-2d7d-48f2-a6e4-4703ef9bca01",
+        "doab_source_id": "20.500.12854/181491"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181491",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181491",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116783/1/9783112210093.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116783",
@@ -114905,6 +114771,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181491",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181491",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116783/1/9783112210093.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -115368,47 +115249,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116906",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/8ec92c1b-6270-4d2f-8ec9-5452b7cc0637/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/fe048c74-d024-4094-ad5e-e42e0b127626/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/fe048c74-d024-4094-ad5e-e42e0b127626/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181561",
+        "source_id": "20.500.12657/116906",
         "handle": "20.500.12854/181561",
         "dspace_uuid": "19605138-3213-46fb-b27b-117a86eeef80",
         "oapen_library_source_id": "20.500.12657/116906",
         "oapen_library_handle": "20.500.12657/116906",
-        "oapen_library_dspace_uuid": "b886c3c3-6c65-420e-b4d0-3b17ae53f084"
+        "oapen_library_dspace_uuid": "b886c3c3-6c65-420e-b4d0-3b17ae53f084",
+        "doab_source_id": "20.500.12854/181561"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181561",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116906",
@@ -115422,6 +115289,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181561",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -118621,6 +118503,56 @@
       ]
     },
     {
+      "id": "work:98b8336614ac2d9c2df18fa3",
+      "title": "Privacy, Surveillance und Datenschutz",
+      "subtitle": "Risikonarrative und ihre kommunikativen Implikationen",
+      "description": "Who bears responsibility for the risks of digital data processing? How are these risks discussed – and what consequences does this have for those affected and for society as a whole, for the law and for the design of technology? This interdisciplinary anthology brings together critical analyses of the narratives that shape our perception of data protection, surveillance and the risks to digital fundamental rights. The contributions show that all too often, dominant narratives individualise collective risks, obscure power asymmetries and reduce complex social issues to technical or market-liberal pseudo-solutions. Users are burdened with responsibilities that they can neither comprehend nor bear. With contributions by Daniel Guagnin | Jörg Pohle | Franziska Baum | Andreas Bischof | Nils Brinker | Karoline Busse | Paola Cantarini | Simon Egbert | Elena Eulitz | Gesa Feldhusen | Aline Franzke | Michael Friedewald | Sebastian Giessler | Melita Grieshop | Clara Jacobi | Antje Kaiser | Anastassija Kostan | Sanne Kruse-Becher | Christian Ricardo Kühne | Ute Lange | Max Lukat | Carsten Ochs | Sophia Rossmann | Lukas Schmitz | Alina Schömig | Katharina Schüller | Naomi Shulman | Simona Stockreiter | Esther von der Weiden",
+      "authors": [],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783748968917",
+      "subjects": [
+        "UBH"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181681",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5572f1d1-a89f-4be6-8173-ab6954127e4d/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783748968917"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181681",
+        "handle": "20.500.12854/181681",
+        "dspace_uuid": "1425faad-4786-4cff-9db7-9e2ebb758971"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181681",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181681",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783748968917"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:73ed5d648aad0eadda71c76b",
       "title": "Private Enterprise in China",
       "subtitle": "",
@@ -120911,47 +120843,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::U Computing and Information Technology::UY Computer science"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181486",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116680",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/170c8a2a-2ebc-41ac-bcd0-23846e204c50/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116680/1/9783112236697.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/582bc454-2bf3-4498-8d37-89212e995b5a/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/582bc454-2bf3-4498-8d37-89212e995b5a/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116680/1/9783112236697.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181486",
+        "source_id": "20.500.12657/116680",
         "handle": "20.500.12854/181486",
         "dspace_uuid": "9d182ae0-11b0-4a6b-abcb-b3483ec56c18",
         "oapen_library_source_id": "20.500.12657/116680",
         "oapen_library_handle": "20.500.12657/116680",
-        "oapen_library_dspace_uuid": "8e868b0c-7f0e-4681-b9a6-b4c19f70a563"
+        "oapen_library_dspace_uuid": "8e868b0c-7f0e-4681-b9a6-b4c19f70a563",
+        "doab_source_id": "20.500.12854/181486"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181486",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181486",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116680/1/9783112236697.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116680",
@@ -120965,6 +120883,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181486",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181486",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116680/1/9783112236697.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -123229,47 +123162,33 @@
         "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNF Criminal law: procedure and offences",
         "thema EDItEUR::L Law::LA Jurisprudence and general issues"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181494",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116692",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/a7e69bd2-267c-4b73-b7cd-9deac71894f6/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116692/1/9783111714301.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/7f1e20d1-95ce-46a9-b166-578b49277e5b/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/7f1e20d1-95ce-46a9-b166-578b49277e5b/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116692/1/9783111714301.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181494",
+        "source_id": "20.500.12657/116692",
         "handle": "20.500.12854/181494",
         "dspace_uuid": "383a1818-b5bd-4857-bfb5-1f9088521c25",
         "oapen_library_source_id": "20.500.12657/116692",
         "oapen_library_handle": "20.500.12657/116692",
-        "oapen_library_dspace_uuid": "92c1acd9-d303-42be-93ce-66a853b7b4e2"
+        "oapen_library_dspace_uuid": "92c1acd9-d303-42be-93ce-66a853b7b4e2",
+        "doab_source_id": "20.500.12854/181494"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181494",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181494",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116692/1/9783111714301.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116692",
@@ -123283,6 +123202,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181494",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181494",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116692/1/9783111714301.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -132338,47 +132272,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBH Literary studies: c 1900 to c 2000",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181416",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116804",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/1e93aeb0-bb54-4ff1-a883-3a85f39b4a5c/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116804/1/9783112216569.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/b19d0980-0116-4789-b8d7-7b0893adf4b5/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/b19d0980-0116-4789-b8d7-7b0893adf4b5/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116804/1/9783112216569.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181416",
+        "source_id": "20.500.12657/116804",
         "handle": "20.500.12854/181416",
         "dspace_uuid": "631507e5-b541-46d8-a4e9-f1998266af7e",
         "oapen_library_source_id": "20.500.12657/116804",
         "oapen_library_handle": "20.500.12657/116804",
-        "oapen_library_dspace_uuid": "60d6f96c-7a76-4e15-8d83-fac6b36805cc"
+        "oapen_library_dspace_uuid": "60d6f96c-7a76-4e15-8d83-fac6b36805cc",
+        "doab_source_id": "20.500.12854/181416"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181416",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181416",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116804/1/9783112216569.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116804",
@@ -132392,6 +132312,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181416",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181416",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116804/1/9783112216569.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -134775,47 +134710,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RB Earth sciences"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116823",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/a3f3c215-a528-4bca-b2f9-9cb0dda88b00/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/9ffa2a31-2088-42f4-a53a-36aadb8bcc08/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/9ffa2a31-2088-42f4-a53a-36aadb8bcc08/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181587",
+        "source_id": "20.500.12657/116823",
         "handle": "20.500.12854/181587",
         "dspace_uuid": "b69c7079-74c5-4cfc-abe4-f43c0f99ef94",
         "oapen_library_source_id": "20.500.12657/116823",
         "oapen_library_handle": "20.500.12657/116823",
-        "oapen_library_dspace_uuid": "c44fda36-f9fc-494f-b8a6-05956cc8cce2"
+        "oapen_library_dspace_uuid": "c44fda36-f9fc-494f-b8a6-05956cc8cce2",
+        "doab_source_id": "20.500.12854/181587"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181587",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116823",
@@ -134829,6 +134750,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181587",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -140765,6 +140701,63 @@
       ]
     },
     {
+      "id": "work:a03e65e5f31bacb10653c3ab",
+      "title": "Suboptymalne harmonogramowanie produkcji w modelu hybrydowym MTO-MTS",
+      "subtitle": "",
+      "description": "The monography discusses the problem of job scheduling for the MTO-MTS (make to order – make to stock) hybrid production. The manuscript presents the developed hybrid production scheduling algorithm, taking into account the organizational and economic constraints and conditions of production enterprises as well as the deadlines for the implementation of production tasks resulting from customer orders. Classic strategies of MTO and MTS production implementation were discussed and hybrid MTO-MTS production with its variants were characterized. In addition, the problem of scheduling tasks in typical production environments, methods of developing schedules, schedule quality indicators and constraints related to this process are presented. The main goal of this thesis is developing a job scheduling method for hybrid production, meeting the deadlines resulting from customer orders and increasing the use of the company's production capacity. A job scheduling algorithm dedicated to MTO-MTS hybrid production was developed. The developed algorithm took into account economic and organizational conditions in the form of the availability of materials, storage costs, capital commitment and the probability of selling a given part. The input data for the developed algorithm is the actual data from the ERP system of the selected manufacturing company. In order to verify the proposed solution, a number of experiments were carried out, using both data from a manufacturing company in the automotive industry and simulation data. The experiment consisted in carrying out the hybrid production scheduling procedure according to the developed algorithm and comparing the obtained results with the classical dispatching rules.",
+      "authors": [
+        "Danilczuk, Wojciech",
+        "Gola, Arkadiusz"
+      ],
+      "language": "und",
+      "year": 2026,
+      "publisher": "Lublin University of Technology Publishing House",
+      "isbn": [],
+      "doi": "10.35784/9788379476886",
+      "subjects": [
+        "szeregowanie zadań",
+        "produkcja hybrydowa MTO–MTS",
+        "systemy produkcyjne",
+        "algorytmy harmonogramowania",
+        "thema EDItEUR::T Technology, Engineering, Agriculture, Industrial processes"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181682",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/f80bb072-6b88-421d-9538-cac915fb7e2c/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://rock.pollub.pl/entities/publication/0d7e11ab-2b61-4394-beee-26cf4357d51d"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "Other open license · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/181682",
+        "handle": "20.500.12854/181682",
+        "dspace_uuid": "f91b662b-6e85-4f19-bbaf-d51d4b7f66c4"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181682",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181682",
+          "language": "und",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://rock.pollub.pl/entities/publication/0d7e11ab-2b61-4394-beee-26cf4357d51d"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "Other open license · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:5245c975353db2f621a2782a",
       "title": "Successful Public Policy",
       "subtitle": "Lessons from Australia and New Zealand",
@@ -143179,47 +143172,33 @@
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity",
         "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGA History of art"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116914",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/17c486bb-4a74-43b4-b48a-3fcdc0b7fff8/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/a9b5305c-c5c6-4e92-b3da-e1fd7c1b2260/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/a9b5305c-c5c6-4e92-b3da-e1fd7c1b2260/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181598",
+        "source_id": "20.500.12657/116914",
         "handle": "20.500.12854/181598",
         "dspace_uuid": "687a85bb-db35-431c-a56e-4a8640f8a7f0",
         "oapen_library_source_id": "20.500.12657/116914",
         "oapen_library_handle": "20.500.12657/116914",
-        "oapen_library_dspace_uuid": "ca43d9d9-b925-4fd1-8487-3fd2acc1b81c"
+        "oapen_library_dspace_uuid": "ca43d9d9-b925-4fd1-8487-3fd2acc1b81c",
+        "doab_source_id": "20.500.12854/181598"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181598",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116914",
@@ -143233,6 +143212,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181598",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -143809,47 +143803,33 @@
         "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPA Political science and theory",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181425",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116761",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/196dcc63-4912-4ac2-9054-7b46fc7533b5/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116761/1/9783112229187.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/72bae647-db9a-4ac2-ab1a-af1851b3ad5c/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/72bae647-db9a-4ac2-ab1a-af1851b3ad5c/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116761/1/9783112229187.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181425",
+        "source_id": "20.500.12657/116761",
         "handle": "20.500.12854/181425",
         "dspace_uuid": "57478cdf-1849-410e-b931-885f3e0d03f3",
         "oapen_library_source_id": "20.500.12657/116761",
         "oapen_library_handle": "20.500.12657/116761",
-        "oapen_library_dspace_uuid": "65fd5044-730f-4f0b-9f10-acde25431800"
+        "oapen_library_dspace_uuid": "65fd5044-730f-4f0b-9f10-acde25431800",
+        "doab_source_id": "20.500.12854/181425"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181425",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181425",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116761/1/9783112229187.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116761",
@@ -143863,6 +143843,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181425",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181425",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116761/1/9783112229187.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -156406,238 +156401,238 @@
       ]
     },
     {
-      "id": "work:e3bc2dd14ebf324ee867ca78",
+      "id": "work:4880634766d30459753f846a",
       "title": "The Hunger Games",
       "subtitle": "",
       "description": "",
       "authors": [
         "Suzanne Collins"
       ],
-      "language": "und",
+      "language": "de",
       "year": 2008,
-      "publisher": "Scholastic Corporation",
+      "publisher": "Editorial Presença",
       "isbn": [
-        "2298027250",
-        "1407135392",
-        "9780545791878",
-        "9786074001907",
-        "9780545114073",
-        "9785271415203",
+        "1407139797",
+        "9781339030609",
         "1407196189",
-        "1484476824",
-        "1481903217",
-        "1987156587",
-        "9789655177183",
+        "9783125781535",
+        "9788427225183",
+        "0702342386",
+        "9781407196183",
+        "1742835759",
+        "1407132075",
+        "1407129031",
+        "9781407129037",
+        "0545471044",
+        "2266305751",
+        "1417831731",
+        "8804672625",
+        "9788184771695",
+        "9781407188935",
+        "9781519480026",
+        "9781407136189",
+        "3841501346",
+        "9783789132186",
         "9786555321449",
-        "9789862131367",
-        "9782266260770",
-        "9782298027259",
-        "9788372783578",
-        "818477169X",
+        "9782298079715",
+        "9780545452397",
+        "9780545425117",
+        "9789047515975",
+        "9780702332982",
+        "2266182692",
+        "0545229936",
         "1760662100",
-        "054531058X",
-        "3789121274",
-        "9781417831739",
-        "1536425516",
-        "9781477409572",
-        "9786050929997",
-        "0545626382",
-        "9785271257940",
-        "9722342398",
-        "655532144X",
-        "9784840146326",
-        "2266257226",
-        "9788804594109",
-        "9787506351539",
-        "9788427208391",
-        "9655177181",
+        "8427208391",
+        "9781987156584",
+        "1466185996",
+        "9862131365",
+        "1407135287",
+        "9786073807845",
+        "4840146322",
+        "1407133179",
+        "1477409572",
+        "1407109081",
+        "0545091020",
+        "9606665801",
+        "9781627656368",
+        "0702333026",
+        "9787506368513",
+        "1627656367",
+        "9788498675399",
+        "2298079714",
         "5271415201",
+        "9781410419866",
+        "9047515978",
+        "9000331951",
+        "2266260774",
+        "9780545310581",
+        "818477169X",
+        "8372783578",
+        "9781338321913",
+        "0606262288",
+        "9781606865811",
+        "9780545091022",
+        "9781407191294",
+        "9789722342391",
+        "1519480024",
+        "8499327974",
+        "9781338334920",
+        "9786180122756",
+        "6055943638",
+        "9789862131367",
+        "1536425516",
+        "655532144X",
+        "9781484476826",
+        "9780545229937",
+        "9781407133171",
+        "9789351035961",
+        "9780545405775",
+        "9781743629857",
+        "1407132083",
+        "0545791871",
+        "8499303323",
+        "9722342398",
+        "9789000399284",
+        "9789655177183",
+        "9788579800245",
+        "140712904X",
+        "9787506351539",
+        "8427202121",
+        "9786074001907",
+        "0545452392",
+        "9780545626385",
+        "9788804632238",
+        "9788804594109",
+        "9780702333026",
+        "6074001901",
+        "141041986X",
+        "9810844514",
+        "9786050929997",
+        "9934327074",
+        "8498675391",
+        "9782266182690",
+        "8804716703",
+        "1407188933",
+        "9781407135397",
+        "9789000331956",
+        "9781407157863",
+        "8702094193",
+        "9783789121272",
+        "9784840146326",
+        "2298027250",
+        "8579800242",
+        "8427246005",
+        "8427248466",
+        "9781477409572",
+        "0439023483",
+        "9781407192086",
+        "9782266305754",
+        "1606865811",
+        "9789710254545",
+        "9788427202122",
+        "1481903217",
+        "2266257226",
+        "9780702342387",
+        "9781407192239",
+        "0545405777",
+        "9788427246003",
+        "841314485X",
+        "9781411471047",
+        "6073807848",
+        "1407157868",
+        "9788427248465",
+        "9783841501349",
+        "9788499327976",
+        "9798855026139",
+        "9798212982115",
+        "9786064306166",
+        "9785271257940",
+        "1407153331",
+        "0545626382",
+        "9788492966806",
+        "9786055943639",
+        "8427225180",
+        "0439023521",
+        "140711168X",
+        "9788498680614",
+        "9784840146319",
+        "9876091654",
+        "618012275X",
+        "9710254545",
+        "9781407109084",
+        "0545114071",
+        "8492966807",
+        "750636851X",
+        "054531058X",
+        "9789810844516",
+        "1987156587",
+        "6064306165",
         "9788372786371",
         "8804632232",
-        "9782266182690",
-        "1407129031",
-        "9789606665806",
-        "8702094193",
-        "9000399289",
-        "9788498675399",
-        "1743629850",
-        "9780439023481",
-        "9781338321913",
-        "9780545405775",
-        "9351035964",
-        "9781407196183",
-        "9787506368513",
-        "1407188933",
-        "0545114071",
-        "1417831731",
-        "9781484476826",
-        "9781594135873",
-        "9781407157863",
-        "9782298079715",
-        "2298079714",
-        "9788427225183",
-        "9781987156584",
-        "9798212982115",
-        "8427246005",
-        "1627656367",
-        "9788804632238",
-        "9788499327976",
-        "9781407191294",
-        "0545405777",
-        "9781407136189",
-        "1407139797",
-        "9781407135281",
-        "4840146314",
-        "9788498680614",
-        "0545452392",
-        "1407109081",
-        "0606262288",
-        "8579800242",
-        "9788427246003",
-        "9789934327070",
-        "9788492966806",
-        "9000331951",
-        "8427225180",
-        "9781519480026",
-        "9780545626385",
-        "2266260774",
-        "9781742835754",
-        "8427202121",
-        "2266182692",
-        "6074001901",
-        "9047515978",
-        "9781536425512",
-        "9780702333026",
-        "1407153331",
-        "1519480024",
-        "9783789121272",
-        "9786180122756",
-        "3841501346",
-        "9781407192086",
-        "0702332984",
-        "9789175030340",
-        "9780545310581",
-        "9781407139791",
-        "9788702094190",
-        "6064306165",
-        "1742835759",
-        "9786073807845",
-        "9781411471047",
-        "9781407153339",
-        "9783789132186",
-        "9862131365",
-        "1407192086",
-        "9782266305754",
-        "9782266257220",
-        "9789351035961",
-        "9710254545",
-        "9788499303321",
-        "9789000331956",
-        "8498680611",
-        "8804594101",
         "9788804672623",
-        "8372783578",
-        "0545471044",
-        "9781407188935",
-        "5271257940",
-        "8499303323",
-        "9780702342387",
-        "9175030349",
-        "9781407129037",
-        "141041986X",
-        "9788184771695",
-        "9780606262286",
-        "9788413144856",
-        "9781410419866",
-        "9789810844516",
-        "9781338334920",
-        "9786055943639",
-        "750636851X",
+        "9781407135281",
+        "9782266260770",
         "1407191292",
-        "9781627656368",
-        "9934327074",
-        "0545425115",
-        "9783841501349",
-        "9788427248465",
-        "9781481903219",
-        "7506351536",
-        "9780545425117",
-        "6073807848",
-        "9798855026139",
-        "9783125781535",
-        "9789876091657",
-        "9780545471046",
-        "9781407192239",
-        "9781466185999",
-        "0545091020",
-        "0545229936",
-        "9781407132082",
-        "0545791871",
-        "8804672625",
-        "8498675391",
-        "9780545091022",
-        "9780545229937",
-        "4840146322",
-        "9789722342391",
-        "9786064306166",
-        "1407133179",
-        "2266305751",
-        "0702333026",
-        "9780545452397",
-        "1407136186",
-        "9781743629857",
-        "6050929998",
-        "9781407109084",
-        "9788579800245",
-        "8499327974",
-        "9781407133171",
-        "1339030608",
-        "8492966807",
-        "9788804716709",
-        "3125781531",
-        "8372786372",
-        "1606865811",
-        "8804716703",
-        "9798212979986",
-        "9788427202122",
-        "1338321919",
-        "0439023521",
-        "9781407135397",
-        "618012275X",
-        "1338334921",
-        "1407132083",
-        "9876091654",
-        "9781606865811",
-        "9789710254545",
-        "9781407111681",
-        "9781407132075",
-        "1466185996",
-        "1411471040",
-        "140712904X",
-        "9781407129044",
-        "9784840146319",
-        "1594135878",
-        "1407132075",
-        "9781760662103",
-        "9781339030609",
-        "140711168X",
-        "841314485X",
-        "1407157868",
-        "3789132187",
-        "9780702332982",
-        "9789047515975",
-        "0702342386",
+        "9782266257220",
+        "9780545791878",
         "140719223X",
-        "9789000399284",
-        "8427248466",
-        "0439023483",
-        "1407135287",
-        "9606665801",
-        "8427208391",
-        "1477409572",
+        "3789132187",
+        "9781594135873",
+        "9789175030340",
+        "1743629850",
+        "1411471040",
+        "9781466185999",
+        "9000399289",
+        "9780545114073",
+        "8804594101",
+        "1484476824",
+        "1594135878",
+        "9788372783578",
+        "9781760662103",
+        "9781407129044",
+        "9789876091657",
+        "1407135392",
+        "7506351536",
+        "9788499303321",
+        "5271257940",
+        "9781481903219",
+        "8498680611",
+        "9780439023481",
+        "1407136186",
+        "4840146314",
+        "9781742835754",
+        "9175030349",
+        "9781407132075",
+        "9780606262286",
+        "1338334921",
+        "1339030608",
+        "3125781531",
+        "9781407139791",
+        "1338321919",
+        "9781407132082",
+        "9789606665806",
+        "9788804716709",
+        "0545425115",
+        "9781417831739",
         "9780439023528",
-        "6055943638",
-        "9810844514"
+        "9798212979986",
+        "3789121274",
+        "1407192086",
+        "8372786372",
+        "9785271415203",
+        "9782298027259",
+        "9655177181",
+        "9788427208391",
+        "9780545471046",
+        "9781407153339",
+        "9788702094190",
+        "0702332984",
+        "9351035964",
+        "9789934327070",
+        "9781536425512",
+        "9781407111681",
+        "9788413144856",
+        "6050929998"
       ],
       "doi": "",
       "subjects": [],
@@ -156660,7 +156655,7 @@
           "source": "Open Library",
           "source_id": "OL5735363W",
           "source_url": "https://openlibrary.org/works/OL5735363W",
-          "language": "und",
+          "language": "de",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -177343,47 +177338,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBB Literary studies: ancient, classical and medieval",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181415",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116778",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/7e402fcf-2b9a-482a-8b76-db3533a0164d/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116778/1/9783111571416.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f3047c03-474b-4182-bd7e-82e1d6e4fd9a/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f3047c03-474b-4182-bd7e-82e1d6e4fd9a/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116778/1/9783111571416.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181415",
+        "source_id": "20.500.12657/116778",
         "handle": "20.500.12854/181415",
         "dspace_uuid": "accdbc0b-4379-46ae-b6a9-00a9df90ba1f",
         "oapen_library_source_id": "20.500.12657/116778",
         "oapen_library_handle": "20.500.12657/116778",
-        "oapen_library_dspace_uuid": "5fbfcdf8-56de-44ed-b802-f291613c9ccf"
+        "oapen_library_dspace_uuid": "5fbfcdf8-56de-44ed-b802-f291613c9ccf",
+        "doab_source_id": "20.500.12854/181415"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181415",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181415",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116778/1/9783111571416.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116778",
@@ -177397,6 +177378,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181415",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181415",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116778/1/9783111571416.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -182740,47 +182736,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history",
         "thema EDItEUR::N History and Archaeology::NH History"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181279",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116764",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/cf6219d1-e3b2-4f1a-9ce0-1719fd6ccfa7/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116764/1/9783111397122.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/6ec577bb-bf6e-4031-ab2d-ab5b38ded5ce/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/6ec577bb-bf6e-4031-ab2d-ab5b38ded5ce/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116764/1/9783111397122.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181279",
+        "source_id": "20.500.12657/116764",
         "handle": "20.500.12854/181279",
         "dspace_uuid": "d6390f34-641a-47d9-8a87-082c89c9533e",
         "oapen_library_source_id": "20.500.12657/116764",
         "oapen_library_handle": "20.500.12657/116764",
-        "oapen_library_dspace_uuid": "147d295c-2358-4b15-b941-15d256fc1a93"
+        "oapen_library_dspace_uuid": "147d295c-2358-4b15-b941-15d256fc1a93",
+        "doab_source_id": "20.500.12854/181279"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181279",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181279",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116764/1/9783111397122.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116764",
@@ -182794,6 +182776,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181279",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181279",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116764/1/9783111397122.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -186135,7 +186132,7 @@
         }
       ],
       "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/3.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
@@ -186156,7 +186153,7 @@
             }
           ],
           "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/3.0/ · CC-BY-SA",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -187660,47 +187657,33 @@
         "thema EDItEUR::N History and Archaeology::NH History",
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181441",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116741",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/89d0e738-4906-4444-ac21-3fdc5c3e3bb0/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116741/1/9783111471471.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f785436e-94e9-4860-b2dc-fbf573da9985/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f785436e-94e9-4860-b2dc-fbf573da9985/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116741/1/9783111471471.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181441",
+        "source_id": "20.500.12657/116741",
         "handle": "20.500.12854/181441",
         "dspace_uuid": "a037fa9d-ea52-465c-89f8-e7f859ef7401",
         "oapen_library_source_id": "20.500.12657/116741",
         "oapen_library_handle": "20.500.12657/116741",
-        "oapen_library_dspace_uuid": "72a13129-296f-41c4-b4d0-a5137cf63008"
+        "oapen_library_dspace_uuid": "72a13129-296f-41c4-b4d0-a5137cf63008",
+        "doab_source_id": "20.500.12854/181441"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181441",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181441",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116741/1/9783111471471.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116741",
@@ -187714,6 +187697,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181441",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181441",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116741/1/9783111471471.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -188414,47 +188412,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181313",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116684",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/dfb7c5a9-7b6e-43f5-bda5-c61ee98981dd/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116684/1/9783112222355.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/7b6b732b-627c-4494-93fa-ac0368759450/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/7b6b732b-627c-4494-93fa-ac0368759450/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116684/1/9783112222355.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181313",
+        "source_id": "20.500.12657/116684",
         "handle": "20.500.12854/181313",
         "dspace_uuid": "77d32f7d-1090-4139-b079-d8e0fe5b348c",
         "oapen_library_source_id": "20.500.12657/116684",
         "oapen_library_handle": "20.500.12657/116684",
-        "oapen_library_dspace_uuid": "29149dbb-e352-471d-b5c9-38bfa7a142e8"
+        "oapen_library_dspace_uuid": "29149dbb-e352-471d-b5c9-38bfa7a142e8",
+        "doab_source_id": "20.500.12854/181313"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181313",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181313",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116684/1/9783112222355.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116684",
@@ -188468,6 +188452,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181313",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181313",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116684/1/9783112222355.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -195677,47 +195676,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181433",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117027",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/018eda1d-5151-40c6-835f-52094e41106f/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117027/1/9781800081543.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/00173504-73a4-4130-80af-2acacb3279e0/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/00173504-73a4-4130-80af-2acacb3279e0/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117027/1/9781800081543.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181433",
+        "source_id": "20.500.12657/117027",
         "handle": "20.500.12854/181433",
         "dspace_uuid": "100231d6-c9e9-480a-ab29-60ccd3cd94c7",
         "oapen_library_source_id": "20.500.12657/117027",
         "oapen_library_handle": "20.500.12657/117027",
-        "oapen_library_dspace_uuid": "6c561d4c-21ef-47ed-b06d-91323d403289"
+        "oapen_library_dspace_uuid": "6c561d4c-21ef-47ed-b06d-91323d403289",
+        "doab_source_id": "20.500.12854/181433"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181433",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181433",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117027/1/9781800081543.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117027",
@@ -195731,6 +195716,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181433",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181433",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117027/1/9781800081543.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -195825,5 +195825,5 @@
     }
   ],
   "partitioned": false,
-  "total_records": 2423
+  "total_records": 2422
 }

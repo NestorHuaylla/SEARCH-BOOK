@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T10:06:25.086670Z",
-  "total_records": 2423,
-  "catalog_sha256": "38844c7cc80e881beb532f440a26fd846878ca98178652f332d5b0e125447692",
+  "generated_at": "2026-09-11T09:56:12.311696Z",
+  "total_records": 2422,
+  "catalog_sha256": "19048814e9f9498bd3ab086f609314647df648b184116ac96bc0f6da29537197",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -21,11 +21,12 @@
     },
     "OAPEN Library": {
       "records": 750,
-      "status": "ok",
-      "retained": false
+      "status": "error",
+      "retained": true,
+      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
     },
     "Open Library": {
-      "records": 345,
+      "records": 344,
       "status": "ok",
       "retained": false
     },
@@ -55,17 +56,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2410098
+      "bytes": 2413379
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2528635
+      "bytes": 2527881
     },
     {
       "path": "data/shards/books-0002.json",
-      "records": 423,
-      "bytes": 1188823
+      "records": 422,
+      "bytes": 1188075
     }
   ]
 }
