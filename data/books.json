@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-12T09:34:42.583097Z",
+  "generated_at": "2026-09-13T10:31:33.319464Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -23712,6 +23712,51 @@
       ]
     },
     {
+      "id": "work:9deea56bc5fe5f8d7179f4f1",
+      "title": "Boletin de Barometro Internacional 06.11.2017",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "BAROMETRO INTERNACIONAL"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "bi",
+        "boletin",
+        "06",
+        "nov",
+        "barometro"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional06.11.2017",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional06.11.2017",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "BoletinDeBarometroInternacional06.11.2017",
+        "internet_archive": "BoletinDeBarometroInternacional06.11.2017"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "BoletinDeBarometroInternacional06.11.2017",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional06.11.2017",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:34def73c6af0f519b9320a62",
       "title": "Boletin de Barometro Internacional 07.05.2018",
       "subtitle": "",
@@ -25409,74 +25454,6 @@
       ]
     },
     {
-      "id": "work:946497c5cce9c54dc5fd2869",
-      "title": "Butlletí Municipal del Masnou - 1957 juliol",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ajuntament del Masnou"
-      ],
-      "language": "es",
-      "year": 1957,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "butlleti municipal",
-        "el Masnou"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/1957-03-butlleti-municipal-del-masnou",
-      "cover_url": "https://archive.org/services/img/1957-03-butlleti-municipal-del-masnou",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "1957-03-butlleti-municipal-del-masnou",
-        "internet_archive": "1957-03-butlleti-municipal-del-masnou"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "1957-03-butlleti-municipal-del-masnou",
-          "source_url": "https://archive.org/details/1957-03-butlleti-municipal-del-masnou",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/1957-03-butlleti-municipal-del-masnou/1957-03%20Butllet%C3%AD%20Municipal%20del%20Masnou_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:9a0d0b62b7473090d44b8fc2",
       "title": "By Advice of Counsel",
       "subtitle": "",
@@ -26902,79 +26879,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:9d63f86c38dc86eeb40cc5d6",
-      "title": "Carta Abierta A Una Comunidad Que Hoy Me Avergüenza",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "LOBO"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cultura C3",
-        "Web3",
-        "descentralización",
-        "ética",
-        "acoso",
-        "comunidad",
-        "blockchain",
-        "carta abierta",
-        "LATAM",
-        "denuncia",
-        "gobernanza",
-        "transparencia",
-        "activismo",
-        "cultura digital",
-        "cypherpunk"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/carta-abierta-a-una-comunidad-que-hoy-me-averguenza",
-      "cover_url": "https://archive.org/services/img/carta-abierta-a-una-comunidad-que-hoy-me-averguenza",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/carta-abierta-a-una-comunidad-que-hoy-me-averguenza/Carta%20abierta%20a%20una%20comunidad%20que%20hoy%20me%20averg%C3%BCenza_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/carta-abierta-a-una-comunidad-que-hoy-me-averguenza/Carta%20abierta%20a%20una%20comunidad%20que%20hoy%20me%20averg%C3%BCenza_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "carta-abierta-a-una-comunidad-que-hoy-me-averguenza",
-        "internet_archive": "carta-abierta-a-una-comunidad-que-hoy-me-averguenza"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "carta-abierta-a-una-comunidad-que-hoy-me-averguenza",
-          "source_url": "https://archive.org/details/carta-abierta-a-una-comunidad-que-hoy-me-averguenza",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/carta-abierta-a-una-comunidad-que-hoy-me-averguenza/Carta%20abierta%20a%20una%20comunidad%20que%20hoy%20me%20averg%C3%BCenza_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/carta-abierta-a-una-comunidad-que-hoy-me-averguenza/Carta%20abierta%20a%20una%20comunidad%20que%20hoy%20me%20averg%C3%BCenza_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -43368,57 +43272,6 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
-        }
-      ]
-    },
-    {
-      "id": "work:d3e6584c7241d1c447644672",
-      "title": "dichero flux",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "santino cichero"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "hola bienvenidosx3 a dichero flux"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/hhgghg",
-      "cover_url": "https://archive.org/services/img/hhgghg",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/hhgghg/nombre.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "hhgghg",
-        "internet_archive": "hhgghg"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "hhgghg",
-          "source_url": "https://archive.org/details/hhgghg",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/hhgghg/nombre.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
         }
       ]
     },
@@ -62325,73 +62178,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:7d6170fd8910eb3624edf3eb",
-      "title": "Genealogía de la Casa Real más serena de España/Description genealogica de la Casa de Aguayo",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ramos, Antonio"
-      ],
-      "language": "es",
-      "year": 1781,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Genealogía de la Casa Real más serena de España/ Palacios de Gobierno de México"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/17206940358888bsb-10328266",
-      "cover_url": "https://archive.org/services/img/17206940358888bsb-10328266",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "17206940358888bsb-10328266",
-        "internet_archive": "17206940358888bsb-10328266"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "17206940358888bsb-10328266",
-          "source_url": "https://archive.org/details/17206940358888bsb-10328266",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/17206940358888bsb-10328266/17206940358888bsb10328266_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -108564,42 +108350,42 @@
       ]
     },
     {
-      "id": "work:817e95e92097a97537083272",
-      "title": "Oficio Segunda Remesa 2019 PEDZE",
+      "id": "work:f1311cd998d2e79e3ef5212b",
+      "title": "Office Lens, la mejor app para digitalizar documentos o dibujos",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Gobierno Regional de Arica y Parinacota"
+        "Francisco Marbel"
       ],
       "language": "es",
-      "year": null,
+      "year": 2015,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "PEDZE 2019"
+        "Office Lens"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
-      "cover_url": "https://archive.org/services/img/oficiosegundaremesa2019pedze",
+      "source_url": "https://archive.org/details/ISENACODEOFFICELENS",
+      "cover_url": "https://archive.org/services/img/ISENACODEOFFICELENS",
       "formats": [],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "oficiosegundaremesa2019pedze",
-        "internet_archive": "oficiosegundaremesa2019pedze"
+        "source_id": "ISENACODEOFFICELENS",
+        "internet_archive": "ISENACODEOFFICELENS"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "oficiosegundaremesa2019pedze",
-          "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
+          "source_id": "ISENACODEOFFICELENS",
+          "source_url": "https://archive.org/details/ISENACODEOFFICELENS",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -110954,6 +110740,43 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:1657d0c05fc16ee33825c26d",
+      "title": "paehec",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/PaeHec",
+      "cover_url": "https://archive.org/services/img/PaeHec",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "PaeHec",
+        "internet_archive": "PaeHec"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "PaeHec",
+          "source_url": "https://archive.org/details/PaeHec",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -123803,6 +123626,46 @@
       ]
     },
     {
+      "id": "work:68b121c92d1a6d454841494e",
+      "title": "Recetario taller migas y hormigas",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "palestina",
+        "comida palestina"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/recetario-taller-migas-y-hormigas-2",
+      "cover_url": "https://archive.org/services/img/recetario-taller-migas-y-hormigas-2",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "recetario-taller-migas-y-hormigas-2",
+        "internet_archive": "recetario-taller-migas-y-hormigas-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "recetario-taller-migas-y-hormigas-2",
+          "source_url": "https://archive.org/details/recetario-taller-migas-y-hormigas-2",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:52e65b9de4460a4a43d05e30",
       "title": "Rechtsgutsverletzungen durch KI-Systeme im Spiegel der Funktion des Strafrechts",
       "subtitle": "KI und Generalvertrauen",
@@ -133804,6 +133667,48 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:a66da1422d3fbadc6234a9df",
+      "title": "Santibañez Armenta Joao Alexis Watson",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Joao Alexis Santibáñez Armenta"
+      ],
+      "language": "es",
+      "year": 1994,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Watson",
+        "conductismo"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/SantibaezArmentaJoaoAlexisWatson",
+      "cover_url": "https://archive.org/services/img/SantibaezArmentaJoaoAlexisWatson",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "SantibaezArmentaJoaoAlexisWatson",
+        "internet_archive": "SantibaezArmentaJoaoAlexisWatson"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "SantibaezArmentaJoaoAlexisWatson",
+          "source_url": "https://archive.org/details/SantibaezArmentaJoaoAlexisWatson",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]

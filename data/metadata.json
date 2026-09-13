@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-12T09:34:42.583097Z",
+  "generated_at": "2026-09-13T10:31:33.319464Z",
   "total_records": 2428,
-  "catalog_sha256": "d32c8028e6a3a0b5c2e3f59a3d0e1cb03458f8ea93673cb67261bbf12f7a96f4",
+  "catalog_sha256": "ea2b857e6a0a68ee6ee8e8fae0672bbc2c50d12d0bea199975acba97cddeca83",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -26,8 +26,9 @@
     },
     "Open Library": {
       "records": 344,
-      "status": "ok",
-      "retained": false
+      "status": "error",
+      "retained": true,
+      "error": "Open Library: request failed: HTTPSConnectionPool(host='openlibrary.org', port=443): Max retries exceeded with url: /search.json?q=language%3Aspa+subject%3Aprogramming&fields=key%2Ctitle%2Cauthor_name%2Clanguage%2Cfirst_publish_year%2Cpublisher%2Cisbn%2Ccover_i%2Cedition_key%2Cia%2Cebook_access%2Chas_fulltext%2Cpublic_scan_b%2Cavailability&limit=100&lang=es (Caused by ConnectTimeoutError(<HTTPSConnection(host='openlibrary.org', port=443) at 0x7f5d813e2420>, 'Connection to openlibrary.org timed o"
     },
     "OpenAlex": {
       "records": 100,
@@ -55,12 +56,12 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2435819
+      "bytes": 2435416
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2549108
+      "bytes": 2546622
     },
     {
       "path": "data/shards/books-0002.json",
