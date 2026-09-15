@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T10:53:27.086299Z",
+  "generated_at": "2026-09-15T10:19:53.075463Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -19613,68 +19613,6 @@
       ]
     },
     {
-      "id": "work:0974e546e0c025a3f20af844",
-      "title": "Belastungsproben",
-      "subtitle": "Soziale Normen und NS-Vergangenheit im Materialprüfungsamt Berlin-Dahlem nach 1945",
-      "description": "Wie kam die deutsche Gesellschaft nach der Befreiung von der NS-Diktatur in der Demokratie an? Dieser Frage widmet sich Elisabeth Kölmel am Beispiel des Materialprüfungsamtes in Berlin-Dahlem und seiner Belegschaft. Der analytische Fokus liegt auf der Bedeutung sozialer Normen, denen eine zentrale Rolle dabei zukam, eine Krieg und Vernichtung dienende Behörde in eine Anstalt zu transformieren, die sich in das institutionelle Gefüge der bundesdeutschen Demokratie einfügte.",
-      "authors": [
-        "Kölmel (000900036134558X), Elisabeth"
-      ],
-      "language": "de",
-      "year": 2026,
-      "publisher": "Bielefeld University Press",
-      "isbn": [],
-      "doi": "10.64136/noik7426",
-      "subjects": [
-        "Demokratisierung nach Diktaturen",
-        "Institutionelle Transformation",
-        "Politische Kultur im Übergang",
-        "Nachriegsgesellschaft",
-        "Vergangenheitsbewältigung",
-        "Soziale Normen und Macht",
-        "Staat und Verwaltung im Wandel",
-        "thema EDItEUR::N History and Archaeology::NH History",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPP Public administration",
-        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany",
-        "thema EDItEUR::2 Language qualifiers::2A Indo-European languages::2AC Germanic and Scandinavian languages::2ACG German"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181478",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ab024d79-31ac-41a0-965c-d62305f48045/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116592/1/9783691290226.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181478",
-        "handle": "20.500.12854/181478",
-        "dspace_uuid": "b099decd-2f40-404e-8f2e-7ed7a4762d48"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181478",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181478",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116592/1/9783691290226.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:c0095b649824f570c5fa8acc",
       "title": "Beowulf: An Anglo-Saxon Epic Poem",
       "subtitle": "",
@@ -21273,81 +21211,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:70b3271ee618cf9bee5ebc65",
-      "title": "Bildung, Betreuung und Erziehung von Kindern zwischen privater und öffentlicher Verantwortung",
-      "subtitle": "Band 2: Kontexte und Handlungsfelder",
-      "description": "Im Band werden theoretisch fundierte empirische Studien präsentiert, die die vielseitigen und komplexen Ausgestaltungen des Verhältnisses von privater und öffentlicher Verantwortung in kindheitspädagogischen Handlungsfeldern analysieren. Im Fokus stehen Kindertageseinrichtungen, Familienzentren und Kindertagespflege sowie die Hilfen zur Erziehung und die Familienhilfen. Der empirische Blick wird auf Träger und Organisationen, Professionen und Akteure sowie handlungsfeldspezifische Konstellationen und Herausforderungen gerichtet.",
-      "authors": [],
-      "language": "de",
-      "year": 2026,
-      "publisher": "Beltz Juventa",
-      "isbn": [
-        "9783779996521"
-      ],
-      "doi": "",
-      "subjects": [
-        "Kindheit",
-        "Kindheitspädagogik",
-        "Aufwachsen",
-        "Soziale Ungleichheit",
-        "Flucht",
-        "Migration",
-        "Mehrsprachigkeit",
-        "Klassismus",
-        "Sozialer Status",
-        "Frühpädagogik",
-        "Betreeung",
-        "Lebenswelten",
-        "Erziehung",
-        "Hilfen zur Erziehung",
-        "Verantwortung",
-        "Familienwelten",
-        "Familie",
-        "Ungleiche Lebenslagen",
-        "Kinder",
-        "Kindertageseinrichtung",
-        "Kita",
-        "Familienzentren",
-        "Kindertagespflege",
-        "thema EDItEUR::J Society and Social Sciences::JN Education::JNL Schools and pre-schools::JNLA Pre-school and kindergarten"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181476",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5b94c1cd-c87d-443f-b6c0-31d5fc3f3155/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116570/1/9783779996521.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181476",
-        "handle": "20.500.12854/181476",
-        "dspace_uuid": "14fd34dc-22ce-4731-8e7f-8ce2546b657f"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181476",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181476",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116570/1/9783779996521.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
           "verified_legal": true
         }
       ]
@@ -29726,10 +29589,6 @@
         {
           "type": "epub",
           "url": "https://library.oapen.org/rest/bitstreams/7e759781-59a8-4d75-892b-b7bef950e6e6/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116981/1/9781529259025.pdf"
         }
       ],
       "access": "creative_commons",
@@ -29739,10 +29598,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116981",
         "handle": "20.500.12657/116981",
-        "dspace_uuid": "8918d760-4bda-42c1-b38e-0f145d4db1cd",
-        "doab_source_id": "20.500.12854/181475",
-        "doab_handle": "20.500.12854/181475",
-        "doab_dspace_uuid": "b816c401-6209-4c03-858f-74689f9270f5"
+        "dspace_uuid": "8918d760-4bda-42c1-b38e-0f145d4db1cd"
       },
       "providers": [
         {
@@ -29762,21 +29618,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181475",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181475",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116981/1/9781529259025.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -35862,6 +35703,82 @@
       ]
     },
     {
+      "id": "work:a01cffac7c2ab9470a923bfc",
+      "title": "Das Schleswig-Holstein Querungshilfen-Monitoring",
+      "subtitle": "",
+      "description": "The effectiveness of the Kiebitzholm green bridge has been monitored since 2006, and that of the four other major wildlife crossings in Schleswig-Holstein (SH) since 2019. The results of the monitoring to date show that it is possible to mitigate the negative effects of habitat fragmentation and safeguard habitat connectivity, provided that typical mistakes are avoided. Whilst the findings presented relate primarily to SH, conclusions can be drawn that are applicable far beyond the region. On the one hand, the study presents a generally applicable methodology for cost-effective effectiveness monitoring, including a novel approach to analysing automated camera-trap data on large mammals that avoids misinterpretations. On the other hand, it provides a basis for improving the definition of objectives for and the evaluation of wildlife crossings, as well as recommendations regarding the necessary planning frameworks (indicator systems and standards for measures). Once again, the results demonstrate the crucial importance of the design of the surrounding area, minimising disturbance, and connectivity to the wider landscape.",
+      "authors": [],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Universitätsverlag Kiel | Kiel University Publishing",
+      "isbn": [],
+      "doi": "10.38072/2699-7770/v42",
+      "subjects": [
+        "Querungshilfen",
+        "Biodiversität",
+        "Biotopverbund",
+        "Straßenökologie",
+        "Säugetiere",
+        "Insekten",
+        "Lebensräume",
+        "Methodik",
+        "Bewertungskriterien",
+        "Planungsstandards",
+        "monitoring",
+        "fauna passages",
+        "biodiversity",
+        "habitat connectivity",
+        "road ecology",
+        "mammals",
+        "insects",
+        "habitats",
+        "methodology",
+        "evaluation criteria",
+        "planning standards",
+        "indicators",
+        "thema EDItEUR::P Mathematics and Science::PS Biology, life sciences",
+        "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RN The environment::RNC Applied ecology::RNCB Biodiversity",
+        "thema EDItEUR::P Mathematics and Science::PS Biology, life sciences::PSV Zoology and animal sciences",
+        "thema EDItEUR::A The Arts::AM Architecture::AMV Landscape architecture and design",
+        "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RP Regional and area planning"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182181",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/f01893bc-339d-4607-8b5a-0498d46265b6/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.38072/2699-7770/v42"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182181",
+        "handle": "20.500.12854/182181",
+        "dspace_uuid": "e54ec6fd-33f3-4a2e-9c93-b94ed1ed14b0"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182181",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182181",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.38072/2699-7770/v42"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7086a4910ceb600fd3848726",
       "title": "Das Verwaltungsrecht der Vereinigten Staaten von Amerika",
       "subtitle": "Grundlagen und Grundzüge aus deutscher Sicht",
@@ -35934,6 +35851,70 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:4d0ed11258e74ce744c65921",
+      "title": "Das voluntarium indirectum",
+      "subtitle": "Eine Untersuchung über das Doppelwirkungsprinzip und seine Anwendbarkeit in der Rechtsdogmatik",
+      "description": "»Voluntarium indirectum«: The thesis examines the so-called Principle of Double Effect (»PDE«) based on the question whether it is permissible to cause the death of an innocent person if the death is the unintended side effect of an intrinsically neutral act. It comes to the conclusion that the PDE is a philosophically convincing concept and should also be applied in legal doctrine in order to consistently resolve cases such as indirect euthanasia, collateral damage and the shooting down of an aeroplane.",
+      "authors": [
+        "Löhmer, Anton"
+      ],
+      "language": "de",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59110-7",
+      "subjects": [
+        "Flugzeugabschuss",
+        "Handlungsfolgen",
+        "Lebensnotstand",
+        "Luftsicherheitsgesetz",
+        "Nebenwirkungen",
+        "Quellen der Moralität",
+        "Sozialadäquanz",
+        "Sterbehilfe",
+        "Thomas von Aquin",
+        "Weichenstellerfälle",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFV Ethical issues and debates::JBFV4 Ethical issues: euthanasia and right to die",
+        "thema EDItEUR::L Law::LA Jurisprudence and general issues::LAB Methods, theory and philosophy of law",
+        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDT Topics in philosophy::QDTQ Ethics and moral philosophy"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182184",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/65435835-0ba5-4242-9e70-fb8093e34259/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63388/das-voluntarium-indirectum"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182184",
+        "handle": "20.500.12854/182184",
+        "dspace_uuid": "5e7e9fc5-368a-45e2-8406-e4a5b2f28c6e"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182184",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182184",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63388/das-voluntarium-indirectum"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -36123,10 +36104,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/bd9ff17a-aa6a-43bd-9926-0236570ec616/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116919/1/9783689240516.pdf"
         }
       ],
       "access": "creative_commons",
@@ -36136,10 +36113,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116919",
         "handle": "20.500.12657/116919",
-        "dspace_uuid": "888cbadb-a191-40dc-9438-1dead79c1bf9",
-        "doab_source_id": "20.500.12854/181474",
-        "doab_handle": "20.500.12854/181474",
-        "doab_dspace_uuid": "92029f83-32b1-408f-9af1-0f65cfc99715"
+        "dspace_uuid": "888cbadb-a191-40dc-9438-1dead79c1bf9"
       },
       "providers": [
         {
@@ -36155,21 +36129,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181474",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181474",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116919/1/9783689240516.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -37167,10 +37126,7 @@
       "identifiers": {
         "source_id": "20.500.12657/117017",
         "handle": "20.500.12657/117017",
-        "dspace_uuid": "875fa273-a689-40fd-bb36-e67dd3cd7289",
-        "doab_source_id": "20.500.12854/181470",
-        "doab_handle": "20.500.12854/181470",
-        "doab_dspace_uuid": "3a8b820c-40f0-4dc9-97b7-fe4734a8ae46"
+        "dspace_uuid": "875fa273-a689-40fd-bb36-e67dd3cd7289"
       },
       "providers": [
         {
@@ -37181,16 +37137,6 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181470",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181470",
-          "language": "en",
-          "formats": [],
-          "access": "open_access",
-          "license": "open access",
           "verified_legal": true
         }
       ]
@@ -40842,6 +40788,69 @@
       ]
     },
     {
+      "id": "work:588dac8da472faa7387bfa74",
+      "title": "Die Bedeutung des Rechtsstaatsprinzips im Staatshaftungsrecht",
+      "subtitle": "Der rechtswidrige Staatsakt, die Rechtsverletzungsfolge und der allgemeine Unrechtsanspruch",
+      "description": "»The Significance of the Rule of Law for State Liability: Unlawful State Conduct, Legal Consequences of Breaches of Legal Duties, and a General Claim for Redress«: Does the rule of law support holding the state liable for its unlawful conduct? Engaging with Hans Kelsen’s legal theory, German legal scholar Emanuel Cordroch answers this fundamental question of constitutional law through an analysis of three basic concepts: conduct attributable to the state, legal duties, and the legal consequences of their breach. The study centres on a principle Cordroch derives from the rule of law: the state is more strictly bound by law than private persons are. Building on this concretisation, Cordroch develops a system of legal consequences, thereby substantiating the claim that the rule of law supports state liability for unlawful conduct.",
+      "authors": [
+        "Cordroch, Emanuel"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59882-3",
+      "subjects": [
+        "§ 839 BGB",
+        "Amtshaftung",
+        "Art. 20 Abs. 3 GG",
+        "Art. 34 Satz 1 GG",
+        "Drittbezogene Amtspflicht",
+        "Folgenbeseitigungsanspruch",
+        "Hans Kelsen",
+        "Rechtsbindung des Staates",
+        "Verschuldensunabhängige Haftung des Staates",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDJ State liability and compensation law",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDX Constitution",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182183",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/0a7ec192-212c-4f41-b24c-90aa57901d60/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/64362/die-bedeutung-des-rechtsstaatsprinzips-im-staatshaftungsrecht"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182183",
+        "handle": "20.500.12854/182183",
+        "dspace_uuid": "0118e776-3d6e-4df1-98de-b4db3d47232d"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182183",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182183",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/64362/die-bedeutung-des-rechtsstaatsprinzips-im-staatshaftungsrecht"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:1c3c4be26b3be53b82b65a56",
       "title": "Die Bekämpfung der Steuerumgehung durch allgemeine Antimissbrauchsvorschriften in Hongkong, Singapur und der Volksrepublik China",
       "subtitle": "Auf dem Weg zur Konvergenz auf internationaler Ebene?",
@@ -40978,6 +40987,64 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:68f4e62c3276910b6368cf2e",
+      "title": "Die Erweiterung des § 123 BGB zum verbesserten Schutz der rechtsgeschäftlichen Entscheidungsfreiheit",
+      "subtitle": "",
+      "description": "»The Extension of Section 123 of the German Civil Code for a Better Protection Against Undue Influence on Contracting Parties«: The author examines the system of protection granted by the German civil law against undue influence exerted on contracting parties. She focuses on the annulment based on fraudulent misrepresentation or threats and concludes that the best way to better protect the free will of contracting parties is to extend the existing Section 123 of the German Civil Code. She develops criteria to determine which influences can lead to the annulment of a legal act and which influences must be endured by the influenced party.",
+      "authors": [
+        "Hinzpeter-Schmidt, Rosa"
+      ],
+      "language": "de",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59214-2",
+      "subjects": [
+        "Anfechtungsrecht",
+        "Gebot fairen Verhandelns",
+        "Lösungsrechte",
+        "Privatautonomie",
+        "Selbstbestimmung",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNB Private or civil law: general",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182177",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/073f003b-85ef-4f12-8ddb-4dbb8c713d4f/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63354/die-erweiterung-des-123-bgb-zum-verbesserten-schutz-der-rechtsgeschaftlichen-entscheidungsfreiheit"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182177",
+        "handle": "20.500.12854/182177",
+        "dspace_uuid": "88109e04-e9c4-4741-8a2b-d27fc916f889"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182177",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182177",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63354/die-erweiterung-des-123-bgb-zum-verbesserten-schutz-der-rechtsgeschaftlichen-entscheidungsfreiheit"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -42145,6 +42212,70 @@
       ]
     },
     {
+      "id": "work:cbc49a7a4295989806d6a2e4",
+      "title": "Die zweckoffene Personengesellschaft",
+      "subtitle": "Ein Beitrag zur Weiterentwicklung des Handelsrechts zu einem Recht der Unternehmen",
+      "description": "»The Open-Purpose Partnership. A Contribution to Further Developing Commercial Law into a Law of Companies«: With the MoPeG coming into effect, the legislature has fundamentally modernized the law governing partnerships. Despite the new implementation, the distinction between partnerships in regard to the purpose they pursue remained unaltered. This thesis questions the concept of a merchant and argues in favor of creating a partnership with an open purpose approach in the medium term, which only comes into existence only through entry in a register.",
+      "authors": [
+        "Obermann, Tim"
+      ],
+      "language": "de",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59165-7",
+      "subjects": [
+        "Freie Berufe",
+        "Gesellschaft bürgerlichen Rechts",
+        "HaRÄG",
+        "Kaufmann",
+        "konstitutive Eintragung",
+        "MoPeG",
+        "Offene Handelsgesellschaft",
+        "Österreich",
+        "Sonderprivatrecht",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNC Company, commercial and competition law: general::LNCB Commercial law",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNC Company, commercial and competition law: general::LNCD Company law",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFA Austria",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182176",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/037ab64e-f744-4392-83db-3441b1b07966/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63349/die-zweckoffene-personengesellschaft"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182176",
+        "handle": "20.500.12854/182176",
+        "dspace_uuid": "395b2f7c-8dff-4f9c-8931-f2a7c2a09cbc"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182176",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182176",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63349/die-zweckoffene-personengesellschaft"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:e7c19c7b2785c94e9171f328",
       "title": "Diggers",
       "subtitle": "",
@@ -43182,10 +43313,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/25c52051-2848-42aa-ac4a-8a6494fe2223/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116996/1/9781040839348.pdf"
         }
       ],
       "access": "creative_commons",
@@ -43195,10 +43322,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116996",
         "handle": "20.500.12657/116996",
-        "dspace_uuid": "8bad280c-dc5c-41f3-98ef-2ea5584c912c",
-        "doab_source_id": "20.500.12854/181479",
-        "doab_handle": "20.500.12854/181479",
-        "doab_dspace_uuid": "aafa7f80-8062-4677-a863-0508b7b3d5e2"
+        "dspace_uuid": "8bad280c-dc5c-41f3-98ef-2ea5584c912c"
       },
       "providers": [
         {
@@ -43214,21 +43338,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181479",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181479",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116996/1/9781040839348.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -52663,6 +52772,61 @@
       ]
     },
     {
+      "id": "work:d9ab9d799151cb63c3b70a3b",
+      "title": "Familias contemporáneas: vínculos, cuidados y transformaciones",
+      "subtitle": "",
+      "description": "This book offers an in-depth, contemporary, and integrative perspective on one of the most universal yet constantly evolving human realities: the family. Rather than reducing the family to a single or ideal structure, the book explores the diversity of configurations, trajectories, and experiences through which people build belonging, affection, care, responsibility, and continuity across generations. Across five chapters, the book examines the historical and social transformation of contemporary families; the development of emotional bonds, attachment, and emotional security; communication, conflict, and relational repair; as well as the challenges associated with parenting, shared responsibility, childhood, adolescence, and the development of autonomy. It also explores chronic illness, disability, dependency, caregiver burden, and the importance of support networks, before addressing some of the experiences that can most profoundly alter family life: separation, divorce, domestic violence, grief, loss, and migration. The book advances an essential idea: a family’s well-being does not depend on preserving a particular form of family life unchanged, but rather on its ability to respond to the needs of its members, protect without suppressing individuality, care without controlling, provide support without hindering autonomy, and rebuild its bonds when life transforms what once seemed permanent. Families may experience conflict, absence, illness, separation, and crisis, but they can also develop new forms of connection, care, belonging, and continuity. From a relational and deeply human perspective that is sensitive to the social conditions of our time, Contemporary Families: Bonds, Care, and Transformations invites readers to understand that the family is not a finished reality, but an ongoing, everyday construction. Its members, roles, needs, and circumstances may change; nevertheless, the possibility of caring, repairing, supporting, and rebuilding remains. A family is defined not only by its ability to remain the same, but also by its capacity to transform while continuing to recognize itself as a family.",
+      "authors": [
+        "Calva-Nagua, Daniel Xavier"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Sophia Editions",
+      "isbn": [],
+      "doi": "10.64092/fvld9796",
+      "subjects": [
+        "familia",
+        "vínculos afectivo",
+        "vida familiar",
+        "thema EDItEUR::J Society and Social Sciences"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182180",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/65bfe01e-5bbc-4541-a972-7cfa54b1f770/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-60-6.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182180",
+        "handle": "20.500.12854/182180",
+        "dspace_uuid": "5fea0c48-166c-4f2e-8536-23de56b76ffb"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182180",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182180",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-60-6.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:62e808eae32adc5cd7012fc2",
       "title": "Family Medicine in the Undergraduate Curriculum",
       "subtitle": "Preparing medical students to work in evolving health care systems",
@@ -55440,6 +55604,70 @@
           "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6f8f25ede16b5898340c61c7",
+      "title": "Formulary apportionment in international tax law",
+      "subtitle": "An allocation method for the age of globalization and digitalization",
+      "description": "This thesis explores how global profits of multinational enterprises can be fairly taxed in the age of digitalization and globalization. It builds on the OECD/G20 Base Erosion and Profit Shifting initiative and the resulting two-pillar framework, which addresses the growing disconnect between value creation and taxation. Traditional profit allocation methods, such as transfer pricing based on the arm’s length principle, are increasingly ineffective and have enabled aggressive tax planning, leading to significant revenue losses for states. The author examines whether formula-based profit allocation can offer a more suitable approach, using examples from existing models in German, European, and international tax law. The paper ultimately advocates allocating global profits according to countries’ population sizes, assuming this reflects a sufficient economic nexus. Practical implementation is deliberately excluded from the scope of the study to focus on conceptual foundations.",
+      "authors": [
+        "Mautsch, Michael"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59838-0",
+      "subjects": [
+        "Arm’s Length Principle",
+        "Base Erosion and Profit Shifting (BEPS)",
+        "Business in Europe: Framework for Income Taxation (BEFIT)",
+        "Common Consolidated Corporate Tax Base (CCCTB)",
+        "Digital Economy",
+        "OECD/G20",
+        "Pillar I",
+        "Transfer Pricing",
+        "Value Creation",
+        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTQ Globalization",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNU Taxation and duties law::LNUX International taxation law",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany",
+        "thema EDItEUR::1 Place qualifiers::1Q Other geographical groupings: Oceans and seas, historical, political etc::1QF Political, socio-economic, cultural and strategic groupings::1QFE EU (European Union)"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182178",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5d542b54-c247-429b-834b-80830f3539b9/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/64358/formulary-apportionment-in-international-tax-law"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182178",
+        "handle": "20.500.12854/182178",
+        "dspace_uuid": "ff5b424c-ae9f-48b6-9059-234b19c50d0f"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182178",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182178",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/64358/formulary-apportionment-in-international-tax-law"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -67334,66 +67562,6 @@
       ]
     },
     {
-      "id": "work:2ab975622d5d1cacf2fa69cd",
-      "title": "History and Theory of Compromise",
-      "subtitle": "",
-      "description": "Interest in compromise has recently grown both in public and scholarly debates. However, there is a lack of interdisciplinary dialogue on the topic. This volume fills this gap by bringing together contributions from various relevant disciplines. They show that compromise has been a central technique to regulate social and political conflicts in different contexts. In a compromise the conflicting parties create an agreement by making mutual concessions, but do not give up their original claims. Therein lies the capacity of compromise to prevent or end escalated conflicts even in situations in which disagreements cannot be transformed into a consensus. In addition to theoretical investigations of the concept, the volume includes case studies on Europe in the Middle Ages, in the 19th and 20th centuries, and on pre-modern and contemporary Japan. The overarching question is about the preconditions of compromises. The authors examine the role of compromise in diplomacy, politics, trade, economics, and everyday life. Together they generate a comprehensive picture of the capacities and limitations of compromise in the past and today.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Politics",
-        "History",
-        "Culture",
-        "Conflict resolution_x000D_",
-        "Geschichtswissenschaften",
-        "Konflikte",
-        "Kulturwissenschaft",
-        "Politikwissenschaften",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPA Political science and theory"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181468",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/9ff0f351-e60d-4746-8fe5-147135b44845/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116696/1/9783111701462.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181468",
-        "handle": "20.500.12854/181468",
-        "dspace_uuid": "a3b99787-31c5-45b8-9528-3f53d1dbb4f2"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181468",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181468",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116696/1/9783111701462.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:64105bcbe0c8d9302c0d4242",
       "title": "History and Theory of Compromise",
       "subtitle": "",
@@ -73444,7 +73612,12 @@
       "source": "OpenAlex",
       "source_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/fld.70096",
       "cover_url": "",
-      "formats": [],
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fld.70096?download=true"
+        }
+      ],
       "access": "creative_commons",
       "license": "CC BY",
       "verified_legal": true,
@@ -73459,7 +73632,12 @@
           "source_id": "W4213211643",
           "source_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/fld.70096",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fld.70096?download=true"
+            }
+          ],
           "access": "creative_commons",
           "license": "CC BY",
           "verified_legal": true
@@ -84468,64 +84646,6 @@
       ]
     },
     {
-      "id": "work:9a6fe23823d61b42f8522e75",
-      "title": "Language and Reason in Islamic Thought",
-      "subtitle": "Faḫr al-Dīn al-Rāzī’s Reconciliation of Manṭiq and Bayān",
-      "description": "This study delves into Fakhr al-Dīn al-Rāzī's (1149–1210) theory of language, a pivotal yet underexplored facet of his intellectual legacy. Moving beyond his interactions with the Avicennian tradition, it positions al-Rāzī as an independent thinker. The work examines two often misinterpreted dimensions of his thought: his assertion that all concepts are self-evident, challenging traditional epistemology on conceptualization ( taṣawwur ) as advanced by Abū Naṣr al-Fārābī (870–950) and Ibn Sīnā (980–1037), and his refinement of ʿAbd-l-Qāhir al-Ğurğānī’s (1009–1078) theory of linguistic composition ( naẓm ), emphasizing language’s expressive capacity ( bayān ) and the Qurʾān’s unique linguistic structure. By analyzing these facets, the study reconstructs al-Rāzī’s comprehensive framework for understanding linguistic phenomena, bridging the Greek-inspired falsafa tradition and the rich Arabic linguistic heritage. This exploration offers scholars and students a nuanced perspective on Islamic intellectual history, highlighting al-Rāzī’s role in harmonizing diverse traditions and advancing a profound theory of linguistic understanding. This theory is essential for engaging with al-Rāzī’s extensive written heritage.",
-      "authors": [
-        "najafi, mostafa"
-      ],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Faḫr l-Dīn al-Rāzī",
-        "Bayān",
-        "Manṭiq",
-        "Language Theory",
-        "Logik",
-        "Sprachtheorie",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRP Islam::QRPP Islamic life and practice"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181477",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/343d8acc-7682-4e3b-b3e5-71d82cdf55a4/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116675/1/9783112205983.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181477",
-        "handle": "20.500.12854/181477",
-        "dspace_uuid": "17f516a5-294f-4812-bd44-8c486db3df42"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181477",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181477",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116675/1/9783112205983.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3cd5047a1894c5feed399da3",
       "title": "Language, Literature, and Education for the Transformative Development of Postcolonial Africa",
       "subtitle": "",
@@ -88887,69 +89007,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:03266ab751da35ec2c18b658",
-      "title": "Lottery Fantasies, Follies, and Controversies",
-      "subtitle": "A Cultural History of European Lotteries",
-      "description": "The volume explores the ways in which the lottery was imagined in early modern and long eighteenth-century Europe. It presents a series of interconnected case studies from Denmark-Norway, the German-speaking areas, Britain, the Low Countries, France, Italy, and Spain, which bring into dialogue a wide range of materials: lottery tickets and advertisements, pamphlets and periodicals, visual art, popular songs, poetry, prose fiction and plays, political, moral, and judicial treatises. This material suggests how lotteries were perceived as inviting fantasies, dreams, and daydreams; as engendering folly, superstition, and compulsive playing; as leading to social misery, bankruptcy, and suicide; as betraying questions of risk, trust, and fairness; and as being deeply embedded in the political and fi nancial development of an emerging modernity.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "History of gambling",
-        "Risk",
-        "Probability theory",
-        "Dream and imagination",
-        "Geschichte des Glücksspiels",
-        "Risiko",
-        "Wahrscheinlichkeitstheorie",
-        "Traum",
-        "Fantasie",
-        "thema EDItEUR::S Sports and Active outdoor recreation::SC Sport: general",
-        "thema EDItEUR::S Sports and Active outdoor recreation",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSK Literary studies: fiction, novelists and prose writers",
-        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC1 Popular culture",
-        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHM Anthropology::JHMC Social and cultural anthropology"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181469",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/0c2468c0-3527-47b8-a6b1-f8171aa38c88/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116655/1/9783111445540.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181469",
-        "handle": "20.500.12854/181469",
-        "dspace_uuid": "fecc9752-a2be-490e-b016-dc92c2b48139"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181469",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181469",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116655/1/9783111445540.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -96597,12 +96654,12 @@
       ],
       "language": "en",
       "year": 2007,
-      "publisher": "Anaya Multimedia",
+      "publisher": "Microsoft Press",
       "isbn": [
-        "9780735624306",
         "9788441524491",
+        "8441524491",
         "0735624305",
-        "8441524491"
+        "9780735624306"
       ],
       "doi": "",
       "subjects": [],
@@ -98960,11 +99017,15 @@
       ],
       "source": "OAPEN Library",
       "source_url": "https://library.oapen.org/handle/20.500.12657/117530",
-      "cover_url": "",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/e21484ea-924b-435c-9f47-8425d08d285e/retrieve",
       "formats": [
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/21983d19-8f5c-48f7-9363-9c1d76005429/retrieve"
+        },
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117530/4/9781800640511.pdf"
         }
       ],
       "access": "creative_commons",
@@ -99000,9 +99061,14 @@
           "source_id": "20.500.12854/182171",
           "source_url": "https://directory.doabooks.org/handle/20.500.12854/182171",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117530/4/9781800640511.pdf"
+            }
+          ],
           "access": "open_access",
-          "license": "open access",
+          "license": "open access · Other open license",
           "verified_legal": true
         }
       ]
@@ -110194,63 +110260,6 @@
       ]
     },
     {
-      "id": "work:8111646fb7d8912e75b6319c",
-      "title": "Praktiken der Wissenschaftskommunikation in Forschungsverbünden",
-      "subtitle": "Formate, Öffentlichkeiten, Nachhaltigkeit",
-      "description": "Wissenschaftskommunikation ist ein fester Bestandteil der Arbeit in interdisziplinären Forschungsverbünden. Doch welche spezifischen Praktiken und Herausforderungen sind in diesem Forschungskontext mit Projekten der Wissenschaftskommunikation verbunden? Und welche impliziten Vorannahmen und Verständnisse liegen Konzepten und Umsetzungen der Wissenschaftskommunikation zugrunde? Die Beiträger*innen des Bandes stellen ausgehend von konkreten Fallbeispielen unterschiedliche Ziele, Formen, Praktiken und Herausforderungen von Wissenschaftskommunikation in interdisziplinären Forschungsverbünden vor. Dabei werden insbesondere die oftmals nicht hinterfragten Konzepte von Formaten, Öffentlichkeiten und Nachhaltigkeit reflektiert.",
-      "authors": [],
-      "language": "de",
-      "year": 2025,
-      "publisher": "Bielefeld University Press",
-      "isbn": [],
-      "doi": "10.64136/saro4372",
-      "subjects": [
-        "Wissenschaft",
-        "Kommunikation",
-        "Sonderforschungsbereich",
-        "Öffentlichkeitsarbeit",
-        "Public Relations",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTC Communication studies",
-        "thema EDItEUR::K Economics, Finance, Business and Management::KJ Business and Management::KJS Sales and marketing::KJSP Public relations",
-        "thema EDItEUR::J Society and Social Sciences::JN Education::JND Educational systems and structures"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181472",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/de4350c0-d8c8-4655-93a2-1185c4b8465d/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116579/1/9783691290066.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181472",
-        "handle": "20.500.12854/181472",
-        "dspace_uuid": "d2ea1416-473b-4f68-962f-4861025f343c"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181472",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181472",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116579/1/9783691290066.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:2631ea23469f9d8c32eebb7f",
       "title": "Praxishandbuch Personalgewinnung in Bibliotheken",
       "subtitle": "Arbeitskräfte finden, gewinnen und halten",
@@ -111292,6 +111301,70 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
+        }
+      ]
+    },
+    {
+      "id": "work:b41247717b1e33a5cc492ab5",
+      "title": "Prince Albert of Saxe-Coburg and Gotha as Collector, Educator and Cultural Transferant",
+      "subtitle": "",
+      "description": "The contribution that Prince Albert of Saxe-Coburg and Gotha (1819–1861) made as a cultural transferant between Great Britain and the German lands has long been undervalued. Historiography has tended to overlook and/or systematically underplay Albert’s role in British political and cultural life, although recent research has challenged this view. This study reassesses Albert’s life and work and utilises cultural transfer theory to re-appraise his contribution to the development of contemporary British society. It analyses Albert’s education, his collecting and working practices and the influences that shaped his role as Prince Consort. Central to the study is Albert’s involvement in the Great Exhibition of 1851 and its aftermath. This study establishes Prince Albert as a major European cultural transferant, as demonstrated especially in the South Kensington complex of museums and other cultural institutions, also known as Albertopolis.",
+      "authors": [
+        "Riedel, Jana"
+      ],
+      "language": "en",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-58911-1",
+      "subjects": [
+        "Albertopolis",
+        "Collecting",
+        "Cultural Exchange",
+        "Cultural mediator",
+        "Cultural transfer",
+        "Great Exhibition 1851",
+        "History of art",
+        "History of Collecting",
+        "Queen Victoria",
+        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DD Western Europe::1DDU United Kingdom, Great Britain",
+        "thema EDItEUR::3 Time period qualifiers::3M c 1500 onwards to present day::3MN 19th century, c 1800 to c 1899::3MNB Early 19th century c 1800 to c 1850",
+        "thema EDItEUR::3 Time period qualifiers::3M c 1500 onwards to present day::3MN 19th century, c 1800 to c 1899::3MNQ Later 19th century c 1850 to c 1899"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182185",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/c4172d99-e28c-416f-9ae9-4d53fa0a8dd2/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63372/prince-albert-of-saxe-coburg-and-gotha-as-collector-educator-and-cultural-transferant"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182185",
+        "handle": "20.500.12854/182185",
+        "dspace_uuid": "d14a3872-fb63-486e-8fc5-90ff3558325b"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182185",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182185",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63372/prince-albert-of-saxe-coburg-and-gotha-as-collector-educator-and-cultural-transferant"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
         }
       ]
     },
@@ -129100,11 +129173,15 @@
       ],
       "source": "OAPEN Library",
       "source_url": "https://library.oapen.org/handle/20.500.12657/117531",
-      "cover_url": "",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/0da514f0-9f0c-4d58-a67b-1b43622f4c48/retrieve",
       "formats": [
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/27cb2181-4c28-4218-9075-1829a6d115c4/retrieve"
+        },
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117531/4/9781685713669.pdf"
         }
       ],
       "access": "creative_commons",
@@ -129140,9 +129217,14 @@
           "source_id": "20.500.12854/182170",
           "source_url": "https://directory.doabooks.org/handle/20.500.12854/182170",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117531/4/9781685713669.pdf"
+            }
+          ],
           "access": "open_access",
-          "license": "open access",
+          "license": "open access · Other open license",
           "verified_legal": true
         }
       ]
@@ -135652,28 +135734,47 @@
         "thema EDItEUR::M Medicine and Nursing::MB Medicine: general issues::MBS Medical sociology",
         "thema EDItEUR::M Medicine and Nursing::MB Medicine: general issues::MBN Public health and preventive medicine::MBNH Personal and public health / health education"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181985",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5ea9f219-a683-44c7-aa73-466d167e4bec/retrieve",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117444",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/4e12437d-5386-4f31-b2b2-2ea4afee6531/retrieve",
       "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/77892243-b221-446b-9e4d-e8d9ffefb886/retrieve"
+        },
         {
           "type": "pdf",
           "url": "https://library.oapen.org/bitstream/20.500.12657/117444/1/9781040513279.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181985",
-        "handle": "20.500.12854/181985",
-        "dspace_uuid": "1dc7f43c-9830-4fb0-a07f-3ab1eddd647d",
-        "oapen_library_source_id": "20.500.12657/117444",
-        "oapen_library_handle": "20.500.12657/117444",
-        "oapen_library_dspace_uuid": "c3ba5c23-8465-44cd-b20d-b66ac4f8446d"
+        "source_id": "20.500.12657/117444",
+        "handle": "20.500.12657/117444",
+        "dspace_uuid": "c3ba5c23-8465-44cd-b20d-b66ac4f8446d",
+        "doab_source_id": "20.500.12854/181985",
+        "doab_handle": "20.500.12854/181985",
+        "doab_dspace_uuid": "1dc7f43c-9830-4fb0-a07f-3ab1eddd647d"
       },
       "providers": [
+        {
+          "source": "OAPEN Library",
+          "source_id": "20.500.12657/117444",
+          "source_url": "https://library.oapen.org/handle/20.500.12657/117444",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/77892243-b221-446b-9e4d-e8d9ffefb886/retrieve"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
         {
           "source": "DOAB",
           "source_id": "20.500.12854/181985",
@@ -135687,16 +135788,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
-        {
-          "source": "OAPEN Library",
-          "source_id": "20.500.12657/117444",
-          "source_url": "https://library.oapen.org/handle/20.500.12657/117444",
-          "language": "en",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
           "verified_legal": true
         }
       ]
@@ -173217,7 +173308,7 @@
       "identifiers": {
         "source_id": "OL1410381W",
         "openlibrary_work": "OL1410381W",
-        "openlibrary_edition": "OL62543871M",
+        "openlibrary_edition": "OL62548225M",
         "internet_archive": "tractatuslogicop1971witt"
       },
       "providers": [
@@ -177198,6 +177289,71 @@
       ]
     },
     {
+      "id": "work:9f786fe3418a9ced5673ebf5",
+      "title": "Überinklusive Strafnormen als Regelungstechnik",
+      "subtitle": "Zu den verfassungsrechtlichen Grenzen der Strafrechtssetzung am Beispiel der handelsgestützten Marktmanipulation",
+      "description": "»Overinclusive Criminal Provisions as a Regulatory Technique. The Limits of Criminal Lawmaking Illustrated in the Context of Trade-Based Market Manipulation«: Criminal law is increasingly being used as an instrument of preventive regulation. In complex regulatory fields, the legislator increasingly relies on overinclusive criminal provisions in order to prevent future risks without leaving any loopholes. This thesis examines the limits of this regulatory technique. Using trade-based market manipulation as an example, it shows that catch-all clauses combined with administrative compensation mechanisms can be constitutional only if accompanied by effective rule of law safeguards.",
+      "authors": [
+        "Giannini, Alessandro"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59724-6",
+      "subjects": [
+        "Abstraktionsüberschüsse",
+        "Aufopferungsverbot",
+        "Kapitalmarktstrafrecht",
+        "Strafrechtstheorie",
+        "Strafverfassungsrecht",
+        "Überkriminalisierung",
+        "Wirtschaftsstrafrecht",
+        "thema EDItEUR::L Law::LA Jurisprudence and general issues::LAB Methods, theory and philosophy of law",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNC Company, commercial and competition law: general::LNCK Company and business offences",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDX Constitution",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNF Criminal law: procedure and offences",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNP Financial law: general::LNPD Capital markets and securities law and regulation",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany",
+        "thema EDItEUR::1 Place qualifiers::1Q Other geographical groupings: Oceans and seas, historical, political etc::1QF Political, socio-economic, cultural and strategic groupings::1QFE EU (European Union)"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182182",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/63a85ac1-cbde-4a73-8fb5-e6ee3c5dab69/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/64319/uumlberinklusive-strafnormen-als-regelungstechnik"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182182",
+        "handle": "20.500.12854/182182",
+        "dspace_uuid": "a7707f45-5dd9-43ca-86d5-7617951dcc39"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182182",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182182",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/64319/uumlberinklusive-strafnormen-als-regelungstechnik"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:8bbec64aa379c7a104f6f8be",
       "title": "UK-EU Police and Judicial Cooperation Post-Brexit",
       "subtitle": "Implementing the Trade and Cooperation Agreement",
@@ -177791,6 +177947,57 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:cb55481f5de1b10d34f6bc92",
+      "title": "Unite nella diversità",
+      "subtitle": "Contributi femminili all'unità europea",
+      "description": "The role played by women in the process of European integration has long been relegated to the margins of historical narrative and remains insufficiently recognized today. This volume offers a fresh perspective on women’s contributions to the construction of the European Community: the essays collected here approach the subject from various angles, highlighting the breadth of women's participation and the originality of their thinking in the effort to build a common European home. They introduce arguments and sensibilities generally absent from mainstream historical narratives, which remain heavily focused on male figures. The result is a rich, multi-layered interpretive framework in which women's contributions emerge as a structural and indispensable component of the European project. Contributions by Diletta Alese, Andrea Becherucci, Antonella Braga, Raffaella Cinquanta, Filippo Maria Giordano, Giorgio Grimaldi, Maria Teresa Antonia Morelli, Cristina Natili, Lorenzo Parolin, Giulio Saputo, and Bleona Shullaku.",
+      "authors": [],
+      "language": "it",
+      "year": 2026,
+      "publisher": "Gruppo editoriale Tab Srl",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "contemporary history, Europe, women, European integration, sociology, politics, federalism, cinema",
+        "NHD"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182179",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/73f52c45-c70b-4c77-ba16-1edc37d45620/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.tabedizioni.it/web/content/493937"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182179",
+        "handle": "20.500.12854/182179",
+        "dspace_uuid": "a0c2e512-d55d-41d7-94ee-d94a4e52b1a4"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182179",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182179",
+          "language": "it",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.tabedizioni.it/web/content/493937"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -190098,5 +190305,5 @@
     }
   ],
   "partitioned": false,
-  "total_records": 2175
+  "total_records": 2179
 }
