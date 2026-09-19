@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T09:58:31.088711Z",
-  "total_records": 2184,
-  "catalog_sha256": "c17e4591c62f0bfdc4b669214cae5d4ac037620ab5e5d709a6c5f525cc3c42fd",
+  "generated_at": "2026-09-19T09:41:30.215894Z",
+  "total_records": 2185,
+  "catalog_sha256": "229ba1c7c40a2b38dce8bdc144c26defe189fa36341f6a6805a585a2d468ba1f",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -21,9 +21,8 @@
     },
     "OAPEN Library": {
       "records": 750,
-      "status": "error",
-      "retained": true,
-      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC (Caused by ResponseError('too many 500 error responses'))"
+      "status": "ok",
+      "retained": false
     },
     "Open Library": {
       "records": 344,
@@ -56,17 +55,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2503213
+      "bytes": 2511037
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2713858
+      "bytes": 2708285
     },
     {
       "path": "data/shards/books-0002.json",
-      "records": 184,
-      "bytes": 584434
+      "records": 185,
+      "bytes": 585087
     }
   ]
 }
