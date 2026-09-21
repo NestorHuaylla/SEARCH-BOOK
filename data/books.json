@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T10:00:16.459754Z",
+  "generated_at": "2026-09-21T10:57:44.088233Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -445,69 +445,69 @@
       ]
     },
     {
-      "id": "work:9ef3727a707167862b0aa7ac",
+      "id": "work:3db771b816ceacee818bf8d9",
       "title": "2061",
       "subtitle": "",
       "description": "",
       "authors": [
         "Arthur C. Clarke"
       ],
-      "language": "und",
+      "language": "es",
       "year": 1987,
-      "publisher": "Grafton Books",
+      "publisher": "Ballantine Books",
       "isbn": [
-        "8834740319",
-        "0606189831",
-        "2226036520",
-        "9782290314098",
-        "1439507163",
-        "9500408147",
-        "0345413989",
-        "0517097753",
-        "9780586203194",
-        "9780246133236",
-        "9780394570884",
-        "9780345351739",
-        "9780517699508",
-        "9783453025653",
         "9782226036520",
-        "0833533924",
-        "9784152020635",
-        "0795324863",
-        "0246133236",
-        "3453025652",
-        "849793363X",
-        "9788497933636",
         "9781439507162",
-        "9780795324864",
-        "0517699508",
-        "9780345358790",
-        "9785552039227",
-        "2290314099",
-        "555203922X",
-        "9780345357052",
-        "0795324855",
-        "9789500408141",
-        "0345357051",
-        "9756902078",
-        "9782290030752",
-        "9788834740316",
-        "1568653085",
-        "9780517169049",
-        "9780833533920",
-        "0345351738",
-        "9781568653082",
         "0586203192",
-        "9780795324857",
-        "9780606189835",
-        "2290030759",
-        "9789756902073",
-        "9780345413987",
-        "4152020636",
+        "0246133236",
+        "9780394570884",
+        "9756902078",
+        "9788497933636",
+        "9782290030752",
         "039457088X",
-        "9780517097755",
+        "3453025652",
+        "1568653085",
+        "9780795324857",
+        "9780833533920",
+        "9789500408141",
+        "0517699508",
+        "2290030759",
+        "555203922X",
+        "8834740319",
+        "9780345351739",
+        "2290314099",
+        "2226036520",
+        "0795324863",
+        "9780795324864",
+        "9783453025653",
+        "9788834740316",
+        "9500408147",
+        "1439507163",
+        "9789756902073",
+        "9785552039227",
+        "9780345358790",
+        "849793363X",
+        "9780517699508",
+        "0795324855",
+        "9784152020635",
+        "0345351738",
+        "4152020636",
+        "0345357051",
+        "9781568653082",
+        "9780345413987",
+        "0345413989",
         "0517169045",
-        "0345358791"
+        "9780517097755",
+        "9780517169049",
+        "9782290314098",
+        "9780606189835",
+        "9780246133236",
+        "9780345357052",
+        "0833533924",
+        "9780586203194",
+        "0517097753",
+        "0345358791",
+        "0606189831"
       ],
       "doi": "",
       "subjects": [],
@@ -530,7 +530,7 @@
           "source": "Open Library",
           "source_id": "OL17408W",
           "source_url": "https://openlibrary.org/works/OL17408W",
-          "language": "und",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -8220,66 +8220,6 @@
       ]
     },
     {
-      "id": "work:fa7f785810cfa83b803938b2",
-      "title": "African Storytelling and Images in Teaching",
-      "subtitle": "Youth and Crisis Management through Folktales and Visuals from Kenya and Ethiopia",
-      "description": "As a team of upcoming and established scholars from Kenya, Ethiopia and Belgium, we propose this book with oral folktales accompanied by strong visuals. Through performative learning procedures the book invites young people to meaningfully engage with living traditions of oral storytelling. The book aims to: 1) (re-)value the educational potential of popular storytelling in dealing with crisis situations; 2) (re)connect adolescent audiences with oral literatures; As the interest in oral literatures is on the decline, especially among adolescents in Africa and elsewhere, we see a real need in offering folktales that are attractive and relevant to youthful audiences. The book features 11 oral narratives in 5 languages from Kenya and Ethiopia, accompanied by high-quality images that will speak to young people. Each chapter starts with a full transcription of the story in the original language, followed by a well-written and attractive translation to English. The visual section highlights the narrative’s features in different manners, after which metadata on the narrative are offered, explaining the performance context, background of the narrator and audience. The final section of each chapter consists of a profound analysis with full educational guidelines for teachers/trainers to engage discussion with (African) youth.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "African Folktales",
-        "Intergenerational Connections",
-        "Visual Storytelling",
-        "Crisis Management",
-        "Afrikanische Sagen und Märchen",
-        "Intergenerationelle Verbindungen",
-        "Visuelles Geschichtenerzählen",
-        "Krisenmanagement",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRA Religion: general",
-        "thema EDItEUR::N History and Archaeology::NH History::NHH African history",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRA Religion: general::QRAC Comparative religion"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181507",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/3d03e045-aeaf-47a4-81be-24ff933cf18e/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116932/1/9783112235010.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181507",
-        "handle": "20.500.12854/181507",
-        "dspace_uuid": "195fba02-3a04-4526-b08e-7007cc1074fa"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181507",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181507",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116932/1/9783112235010.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:8e59798015800db5404392d4",
       "title": "Agricultura inteligente: rendimiento y calidad del melón criollo (Cucumis melo L.) variedad Dudaim con abonos ecológicos",
       "subtitle": "",
@@ -11306,6 +11246,56 @@
       ]
     },
     {
+      "id": "work:185c63c68056a8798510c3e9",
+      "title": "An den Grenzen des Menschlichen",
+      "subtitle": "Pflege, Assistenzsysteme und die Frage nach dem Menschen",
+      "description": "AI-supported assistance systems offer promising approaches to compensate for the shortage of skilled personnel, as well as to increase the quality of care and nursing and the quality of life of people in social work facilities. Especially in their anthropomorphic (or zoomorphic) form, which they have in intimate areas of the human, they pose the classical anthropological question of the central difference between man and machine anew. The contributions in this volume explore the shifting boundaries in the relation between carers and cared-for that result from this.",
+      "authors": [],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "QDTQ"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182222",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/05a0470a-7039-4c14-9f4b-6ea553bdc579/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783495989869"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182222",
+        "handle": "20.500.12854/182222",
+        "dspace_uuid": "bfbfcc34-3b50-4352-ba58-e4cab1d65068"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182222",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182222",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783495989869"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:cc7bc401e695ee3bcc337f65",
       "title": "An English translation of Parsifal, the sacred festival drama by Richard Wagner",
       "subtitle": "",
@@ -11532,6 +11522,57 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:abe2fce4b4edbb0db7b4ce34",
+      "title": "Análisis de las fluctuaciones de los precios en la canasta básica en México por la influencia del tipo cambiario (2003-2022)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Castañeda Silerio, Jorge Antonio"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Universidad de Guanajuato",
+      "isbn": [],
+      "doi": "10.61437/ugto.9786075802633",
+      "subjects": [
+        "Precios",
+        "Canasta básica",
+        "Tipo de cambio",
+        "Inflación",
+        "Peso mexicano",
+        "Depreciación",
+        "Economía",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCY Popular economics",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCA Economic theory and philosophy",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCB Macroeconomics::KCBM Monetary economics"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182213",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/cb1e54c9-a767-42e6-bd89-db251887aa21/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182213",
+        "handle": "20.500.12854/182213",
+        "dspace_uuid": "7e3bd506-3d41-4fc2-96d8-3f72f4c99784"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182213",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182213",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -18623,6 +18664,87 @@
       ]
     },
     {
+      "id": "work:a228fab8cd93abff2a0799cb",
+      "title": "Autonarrativas, autoetnografia e reflexões sobre subjetividade e saúde",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309934",
+      "subjects": [
+        "Autoetnografia",
+        "Autonarrativas",
+        "Subjetividade",
+        "Psicologia social",
+        "Mulheres",
+        "Narrativas pessoais",
+        "Saúde",
+        "Aspectos sociais",
+        "Escrita autobiográfica",
+        "Autobiografia",
+        "Experiência pessoal",
+        "Experiência de adoecimento",
+        "Câncer de mama",
+        "Mulheres com câncer",
+        "Cuidadoras",
+        "Cuidado em saúde",
+        "Processos terapêuticos",
+        "Saúde mental",
+        "Psicologia da saúde",
+        "Psicanálise",
+        "Gestalt-terapia",
+        "Psicologia social construcionista",
+        "Relações raciais",
+        "Interdisciplinaridade",
+        "Corpo e subjetividade",
+        "Adoecimento",
+        "Sofrimento psíquico",
+        "Resistência",
+        "Escuta",
+        "Memória",
+        "Identidade",
+        "Experiência e subjetividade",
+        "Narrativas de saúde",
+        "Pesquisa qualitativa",
+        "Pesquisa autobiográfica",
+        "Saúde e sociedade",
+        "Cuidado",
+        "Produção de subjetividade",
+        "Experiência feminina",
+        "Relações sociais",
+        "Psicologia e saúde",
+        "thema EDItEUR::J Society and Social Sciences::JM Psychology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182206",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/07e04c62-529d-4e29-8001-3a6846ea139b/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182206",
+        "handle": "20.500.12854/182206",
+        "dspace_uuid": "7f2578f1-33df-4689-825c-40583840729a"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182206",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182206",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:0c648b765770f82c61e7ffb4",
       "title": "Autonomins sken",
       "subtitle": "Om Kalliasbreven och frågan om estetikens politik hos Friedrich Schiller",
@@ -19380,7 +19502,12 @@
       "source": "OAPEN Library",
       "source_url": "https://library.oapen.org/handle/20.500.12657/117475",
       "cover_url": "https://library.oapen.org/rest/bitstreams/6740474c-ee07-40c8-8aae-23b293f558d5/retrieve",
-      "formats": [],
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/7c2898ba-9bb0-493e-98da-e7f644444d34/retrieve"
+        }
+      ],
       "access": "creative_commons",
       "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
       "verified_legal": true,
@@ -19396,7 +19523,12 @@
           "source_id": "20.500.12657/117475",
           "source_url": "https://library.oapen.org/handle/20.500.12657/117475",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/7c2898ba-9bb0-493e-98da-e7f644444d34/retrieve"
+            }
+          ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
           "verified_legal": true
@@ -20368,7 +20500,12 @@
       "source": "OAPEN Library",
       "source_url": "https://library.oapen.org/handle/20.500.12657/116959",
       "cover_url": "https://library.oapen.org/rest/bitstreams/38190c6c-e595-4b6c-8a9d-e7243f39ab1e/retrieve",
-      "formats": [],
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/5adf6104-1367-472d-830f-9d0465569c1a/retrieve"
+        }
+      ],
       "access": "creative_commons",
       "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
       "verified_legal": true,
@@ -20384,7 +20521,12 @@
           "source_id": "20.500.12657/116959",
           "source_url": "https://library.oapen.org/handle/20.500.12657/116959",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/5adf6104-1367-472d-830f-9d0465569c1a/retrieve"
+            }
+          ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
           "verified_legal": true
@@ -21174,6 +21316,78 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:396dbce0a1c5e1628b6fc729",
+      "title": "Bioethics in Apocalyptic Times",
+      "subtitle": "",
+      "description": "This book confronts one of the defining challenges of our age: how to think and act ethically in a world increasingly shaped by crisis, uncertainty, and a pervasive sense of vulnerability. From climate change and pandemics to war, inequality, and political instability, contemporary threats have intensified feelings of anxiety about the future and raised urgent questions about the capacity of ethics to respond meaningfully. In *Bioethics in Apocalyptic Times* Henk ten Have argues that bioethics must be reimagined to meet these conditions. While a robust global framework of ethical principles already exists, it often remains confined to theory, failing to translate into effective action. By critically examining the roots of apocalyptic thinking and the evolving concept of vulnerability, the author proposes a more resilient and imaginative form of bioethics—one that is grounded in relationships, responsive to real-world contexts, and oriented toward hope. Drawing on insights from philosophy, medicine, sociology, and beyond, the book explores how ethical imagination can inspire new forms of cooperation, solidarity, and responsibility. It highlights the role of individuals, communities, and social movements in shaping meaningful change, and calls for a shift from abstract principles to practical engagement at local and global levels. *Bioethics in Apocalyptic Times* offers a compelling vision of ethics as a transformative force, a force capable not only of interpreting a troubled world, but of helping to build a more just and hopeful future.",
+      "authors": [
+        "Henk ten Have | https://orcid.org/0000-0002-3224-7943"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Open Book Publishers",
+      "isbn": [],
+      "doi": "10.11647/obp.0548",
+      "subjects": [
+        "Bioethics",
+        "Global crises",
+        "Global ethics",
+        "Resilience",
+        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology",
+        "thema EDItEUR::M Medicine and Nursing::MB Medicine: general issues::MBD Medical profession::MBDC Medical ethics and professional conduct",
+        "thema EDItEUR::P Mathematics and Science::PD Science: general issues::PDR Impact of science and technology on society",
+        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDT Topics in philosophy::QDTQ Ethics and moral philosophy"
+      ],
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117532",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/b89ecf6a-35f1-4ac7-bd7a-1f8f7b69126c/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/5b6e5876-abb8-4789-9dae-f609c2ade5e0/retrieve"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/ · Other open license",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12657/117532",
+        "handle": "20.500.12657/117532",
+        "dspace_uuid": "35e31222-90d8-4f9f-9384-03a99e023241",
+        "doab_source_id": "20.500.12854/182214",
+        "doab_handle": "20.500.12854/182214",
+        "doab_dspace_uuid": "02f31089-e93e-40b5-9940-7669066ea5bb"
+      },
+      "providers": [
+        {
+          "source": "OAPEN Library",
+          "source_id": "20.500.12657/117532",
+          "source_url": "https://library.oapen.org/handle/20.500.12657/117532",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/5b6e5876-abb8-4789-9dae-f609c2ade5e0/retrieve"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0/ · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182214",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182214",
+          "language": "en",
+          "formats": [],
+          "access": "open_access",
+          "license": "open access",
           "verified_legal": true
         }
       ]
@@ -24952,6 +25166,227 @@
       ]
     },
     {
+      "id": "work:cca97f135c07cbdce08227d6",
+      "title": "Catching Fire",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Suzanne Collins"
+      ],
+      "language": "und",
+      "year": 2009,
+      "publisher": "Lectorum Publications, Incorporated",
+      "isbn": [
+        "9780545586177",
+        "054579188X",
+        "9788427248472",
+        "9810848234",
+        "9788380087828",
+        "8492966823",
+        "3789132314",
+        "9782266260787",
+        "9606665429",
+        "9781410420442",
+        "9782266182706",
+        "1407191306",
+        "9780702332999",
+        "8467238984",
+        "9000399297",
+        "9781742835761",
+        "0702332992",
+        "9351035972",
+        "9788702074567",
+        "9789810848231",
+        "1407136194",
+        "9000400619",
+        "9781407133188",
+        "1410420442",
+        "9789606665424",
+        "1594135851",
+        "0606320253",
+        "9798212982139",
+        "9780545633246",
+        "9781407132099",
+        "5271424545",
+        "6050930678",
+        "9789351035978",
+        "9781407136196",
+        "842720213X",
+        "0545638194",
+        "7506355663",
+        "0702342394",
+        "9781713572572",
+        "0545879167",
+        "3125781698",
+        "9780545227247",
+        "0439023491",
+        "6073807856",
+        "9780606324038",
+        "9780439023535",
+        "9786050930672",
+        "8427248474",
+        "8804632224",
+        "8382655343",
+        "1338589008",
+        "9780545603683",
+        "1407133187",
+        "9780439023498",
+        "8499327966",
+        "9781407139807",
+        "849868403X",
+        "8427200005",
+        "9788482809144",
+        "9789170017780",
+        "1713572575",
+        "9781407153346",
+        "9788427200005",
+        "1407132091",
+        "1407139800",
+        "0545310598",
+        "2298035008",
+        "0545633249",
+        "9788492966820",
+        "9789000331970",
+        "9789722344425",
+        "9175032880",
+        "9789000399291",
+        "0545227240",
+        "880471672X",
+        "9781594135859",
+        "9781743629864",
+        "1743629869",
+        "9722344420",
+        "9655179338",
+        "9781514349809",
+        "8499305423",
+        "140715334X",
+        "9781407129006",
+        "8184774001",
+        "9788413144863",
+        "6555321458",
+        "9788804632221",
+        "8413144868",
+        "8372788758",
+        "9788937832994",
+        "1484481127",
+        "9786555321456",
+        "9781546159551",
+        "9782266248259",
+        "9781484481127",
+        "9788804716723",
+        "9780702342394",
+        "9781760265311",
+        "9780545101417",
+        "9788499327969",
+        "9781546159544",
+        "9786073807852",
+        "9862131608",
+        "1760265314",
+        "9788372783950",
+        "8937832992",
+        "9781407191300",
+        "0545586178",
+        "1407129007",
+        "9780545626385",
+        "0545603684",
+        "1407138332",
+        "0545101417",
+        "9780545791885",
+        "1742835767",
+        "8702074567",
+        "9783789132193",
+        "6054263129",
+        "9798855026115",
+        "9781407109367",
+        "9783789132315",
+        "9788467238983",
+        "9789862131602",
+        "8372783950",
+        "9782298035001",
+        "9780545879163",
+        "1407109367",
+        "8427208405",
+        "9783125781696",
+        "1338321951",
+        "9785271424540",
+        "8380087828",
+        "9788427202139",
+        "043902353X",
+        "9780545310598",
+        "9788498681895",
+        "2266182706",
+        "9798212979993",
+        "1407188917",
+        "9788498684032",
+        "9788382655346",
+        "1546159541",
+        "9785170671281",
+        "2266260782",
+        "9788427208407",
+        "9789655179330",
+        "154615955X",
+        "9789000400614",
+        "9786054263127",
+        "1536425508",
+        "140712899X",
+        "9781536425505",
+        "9788372788757",
+        "0545626382",
+        "9000331978",
+        "9781407188911",
+        "3789132195",
+        "9789175032887",
+        "9781338321951",
+        "9780545101431",
+        "0545101433",
+        "2266248251",
+        "9788499305424",
+        "9788184774009",
+        "9787506355667",
+        "5170671288",
+        "9780606320252",
+        "9170017786",
+        "8498681898",
+        "9781407128993",
+        "9781407157870",
+        "8482809148",
+        "1407157876",
+        "1514349809",
+        "9781338589009",
+        "9781407138336",
+        "9780545638197",
+        "0606324038"
+      ],
+      "doi": "",
+      "subjects": [],
+      "source": "Open Library",
+      "source_url": "https://openlibrary.org/works/OL5735360W",
+      "cover_url": "https://covers.openlibrary.org/b/id/12646539-M.jpg",
+      "formats": [],
+      "access": "digital_lending",
+      "license": "",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "OL5735360W",
+        "openlibrary_work": "OL5735360W",
+        "openlibrary_edition": "OL57744823M",
+        "internet_archive": "losjuegosdelhamb0000suza_u8q0"
+      },
+      "providers": [
+        {
+          "source": "Open Library",
+          "source_id": "OL5735360W",
+          "source_url": "https://openlibrary.org/works/OL5735360W",
+          "language": "und",
+          "formats": [],
+          "access": "digital_lending",
+          "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:91562c73a8159518ec6cbd56",
       "title": "Catriona",
       "subtitle": "",
@@ -27029,66 +27464,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:120e161f19f8f0df32df398a",
-      "title": "Choreo-ethical Assemblages",
-      "subtitle": "Embodied Research as Cosmopoietic Œkology",
-      "description": "How can we understand the world around us through our bodies, ethical considerations, and œcological awareness, and how can we actively shape it through cosmopoietic, generative forces? Choreo-ethical Assemblages – Embodied Research as Cosmopoietic Œcology explores the interconnections between choreography, ethics, and œcology through embodied research. The book presents micro-phenomenological actualisation and purposeful polysemy as methods for exploring subjective experiences and opening them up to diverse interpretations. Methodical-artistic approaches, such as the generative forces in choreographic environments that do not determine experience but open up spaces of resonance through ambiguity, are discussed. Thus, comprehension itself becomes a process that allows for and stimulates diverse interpretations. The twin existence of aesthetics and ethics, as well as narratives of “bare bodies,” make the intertwining of body, narrative, and responsibility tangible. “Choreo-ethical assemblages” make socio-aesthetic sensitisation and epistemic singularities tangible and unfold the political and poetic dimension of an artistic research that lives the relationality of diverse forces as choreo-ethical practice. Interdisciplinary perspective: connects choreography, ethics, and ecology, thereby engaging diverse disciplines such as dance studies, philosophy, psychotherapy, ecology, and artistic research. Innovative research methods: introduces new approaches such as micro-phenomenological embodiment to explore subjective experience. Relevance to social issues: addresses topics like vulnerability, body politics, the environment, and ecological sustainability. Wie können wir die Welt um uns herum mithilfe unseres Körpers, ethischer Überlegungen und ökologischem Bewusstsein verstehen und durch kosmopoietische, generative Kräfte aktiv mitgestalten? Choreo-ethical Assemblages – Embodied Research as Cosmopoietic Œkology untersucht die Querverbindungen zwischen Choreographie, Ethik und Œkologie durch verkörperte Forschung. Das Buch stellt mikrophänomenologische Vergegenwärtigung des Begreifens und zielgerichtete Polysemie als Methoden vor, um subjektive Erfahrungen zu erforschen und für vielfältige Interpretationen zu öffnen. Methodisch-künstlerische Zugänge, wie etwa die generativen Kräfte in choreographischen Umgebungen, die Erfahrung nicht festlegen, sondern durch Mehrdeutigkeit Resonanzräume aufmachen, werden diskutiert. So wird das Begreifen selbst zu einem Prozess, der vielfältige Lesarten zulässt und anstößt. Das Zwillingsdasein von Ästhetik und Ethik sowie Narrationen von „Bare Bodies“ lassen die Verflechtung von Körper, Erzählung und Verantwortung spürbar werden. „Choreo-ethische Assemblagen“ machen sozial-ästhetische Sensibilisierung und epistemische Singularitäten erfahrbar und entfalten die politische wie poetische Dimension eines künstlerischen Forschens, das die Relationalität diverser Wirkkräfte als choreo-ethische Praxis lebt. Interdisziplinäre Perspektive: Verknüpft Choreographie, Ethik und Ökologie und spricht so unterschiedliche Disziplinen wie Tanzwissenschaften, Philosophie, Psychotherapie, Ökologie und Künstlerische Forschung an. Innovative Forschungsmethoden: Neue Ansätze wie mikrophänomenologische Verkörperung zur Erforschung subjektiver Erfahrungen. Relevanz für gesellschaftliche Themen: Auseinandersetzung mit Verwundbarkeit, Körperpolitik und Umwelt sowie ökologischer Nachhaltigkeit.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Choreography",
-        "Ethics",
-        "Ecology",
-        "Microphenomenology",
-        "Poetics of Research",
-        "Choreographie",
-        "Ethik",
-        "Ökologie",
-        "Mikrophänomenologie",
-        "Poetik des Forschens",
-        "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGA History of art"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181514",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/b5d82c3a-9aa0-4296-aac3-d750b22a9e58/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116887/1/9783689240905.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181514",
-        "handle": "20.500.12854/181514",
-        "dspace_uuid": "0c11aa68-968a-411f-a536-26ede48e4f3d"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181514",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181514",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116887/1/9783689240905.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
           "verified_legal": true
         }
       ]
@@ -31079,6 +31454,90 @@
       ]
     },
     {
+      "id": "work:3792420b9895516b918b7d9a",
+      "title": "Contending Forces",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Pauline E. Hopkins"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Standard Ebooks",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "African American women",
+        "African Americans",
+        "Fiction"
+      ],
+      "source": "Standard Ebooks",
+      "source_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces",
+      "cover_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/cover-thumbnail.jpg",
+      "formats": [
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces_advanced.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.kepub.epub?source=feed"
+        },
+        {
+          "type": "azw3",
+          "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.azw3?source=feed"
+        },
+        {
+          "type": "html",
+          "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/text/single-page"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain / CC0 in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces"
+      },
+      "providers": [
+        {
+          "source": "Standard Ebooks",
+          "source_id": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces",
+          "source_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces",
+          "language": "en",
+          "formats": [
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces_advanced.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.kepub.epub?source=feed"
+            },
+            {
+              "type": "azw3",
+              "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/pauline-e-hopkins_contending-forces.azw3?source=feed"
+            },
+            {
+              "type": "html",
+              "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/text/single-page"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain / CC0 in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:aed13c2896c57306f124d739",
       "title": "Contractualist State-building and Economic Freedom in Africa",
       "subtitle": "Reorienting Development Governance",
@@ -33068,6 +33527,58 @@
             {
               "type": "read",
               "url": "https://doi.org/10.5771/9783988581747"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c7cd348d8633067dd2d76644",
+      "title": "Craft of Soul",
+      "subtitle": "The Generation of Sovereignty in the State Theory of the Later Plato",
+      "description": "This book reconstructs an ancient theory of power and applies it to contemporary debates on sovereignty. It begins by reconstructing techne as a form of strategic power-knowledge through an examination of Archaic and Classical Greek texts. It then analyses its political manifestation, politike techne, which Socrates describes as ‚the craft of the soul‘. In Plato’s later thought, this craft is directed toward the education and normalisation of individual souls. Finally, politike techne, early modern reason of state, and Guantánamo Bay are examined as distinct paradigms of the generation of sovereignty.",
+      "authors": [
+        "Jiang, Jibiao"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783689006273",
+      "subjects": [
+        "QD"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182219",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/bd3233fc-9bf2-48ee-abfa-8448f3769c33/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783689006273"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182219",
+        "handle": "20.500.12854/182219",
+        "dspace_uuid": "70e0a998-3a25-4d8a-b4cc-5a0ef4daf2e8"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182219",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182219",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783689006273"
             }
           ],
           "access": "creative_commons",
@@ -35204,47 +35715,25 @@
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity",
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history"
       ],
-      "source": "OAPEN Library",
-      "source_url": "https://library.oapen.org/handle/20.500.12657/116687",
-      "cover_url": "https://library.oapen.org/rest/bitstreams/56e1510c-090d-40f9-bc1a-bac0cffa5e1c/retrieve",
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182043",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a0d19d60-6b15-4c65-8ac3-377a56af94d2/retrieve",
       "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/73685e1a-8ab9-4985-a6a9-7dd26b604cc5/retrieve"
-        },
         {
           "type": "pdf",
           "url": "https://library.oapen.org/bitstream/20.500.12657/116687/1/9783111577173.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12657/116687",
-        "handle": "20.500.12657/116687",
-        "dspace_uuid": "da0e281c-0554-44a1-a068-d27169dc977f",
-        "doab_source_id": "20.500.12854/182043",
-        "doab_handle": "20.500.12854/182043",
-        "doab_dspace_uuid": "710c52c6-b828-4b48-a2ab-9e990e0c9bee"
+        "source_id": "20.500.12854/182043",
+        "handle": "20.500.12854/182043",
+        "dspace_uuid": "710c52c6-b828-4b48-a2ab-9e990e0c9bee"
       },
       "providers": [
-        {
-          "source": "OAPEN Library",
-          "source_id": "20.500.12657/116687",
-          "source_url": "https://library.oapen.org/handle/20.500.12657/116687",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/rest/bitstreams/73685e1a-8ab9-4985-a6a9-7dd26b604cc5/retrieve"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
         {
           "source": "DOAB",
           "source_id": "20.500.12854/182043",
@@ -35689,77 +36178,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:827c6cacd1336b3c5537e5c9",
-      "title": "de Benito Mesa, Iris (2023): «“¿Quieres pasarte al lado oscuro de la historia?”. Brujas y marketing editorial: una reseña a propósito de la reedición de La bruja (2022), de J. Michelet, Madrid, Akal», Cuadernos de Aleph, 15, pp. 111-118.",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Cuadernos de Aleph"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "siglo XIX",
-        "brujas",
-        "Akal",
-        "feminismo",
-        "mercado editorial"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/16-debenito-mesa-iris",
-      "cover_url": "https://archive.org/services/img/16-debenito-mesa-iris",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "16-debenito-mesa-iris",
-        "internet_archive": "16-debenito-mesa-iris"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "16-debenito-mesa-iris",
-          "source_url": "https://archive.org/details/16-debenito-mesa-iris",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/16-debenito-mesa-iris/007_RESEA_DE_BENITO_MESA_Iris__La_bruja_2022_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -38500,6 +38918,58 @@
       ]
     },
     {
+      "id": "work:63f0c66087d3ecda50bdb2b7",
+      "title": "Der Unmittelbarkeitsbegriff bei zwischengeschalteten Personengesellschaften",
+      "subtitle": "",
+      "description": "The study addresses a key issue in international tax practice concerning participations held through transparent partnerships and its implications for withholding tax relief in cross-border group structures. The author analyses the interaction between tax treaty law, EU law and domestic tax law, identifies conceptual inconsistencies and develops interpretative approaches. At the same time, the study also shows that the issue has not been resolved with legal certainty and that tensions remain between transparency principles and formal participation requirements.",
+      "authors": [
+        "Popp, Mareike"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783689007188",
+      "subjects": [
+        "LNCD"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182218",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/377b6621-5609-4bc0-b12f-73b15f8e54a1/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783689007188"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182218",
+        "handle": "20.500.12854/182218",
+        "dspace_uuid": "a0fbda5e-dbe9-49a0-917c-f2bcd0d7897a"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182218",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182218",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783689007188"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:9ed67f73ca52613a544c5818",
       "title": "Der Vorleser",
       "subtitle": "",
@@ -40007,68 +40477,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:2c238edc8513721b3f2ff3ea",
-      "title": "Diagnostizieren und Fördern mathematischer Basiskompetenzen",
-      "subtitle": "Theorie, Empirie und schulische Praxis - Festschrift für Andrea Peter-Koop",
-      "description": "Forschende in der Mathematikdidaktik, Lehrkräfte, Politiker und Politikerinnen, Eltern und Ausbildende – alle sind sich einig, dass die Entwicklung mindestens grundlegender mathematischer Kompetenzen ein zentrales Ziel in der schulischen Bildung darstellt. Weit weniger Einigkeit zeigt sich jedoch bei der Frage, was diese Kompetenzen konkret umfassen und wofür genau solche „Basiskompetenzen“ eigentlich die Basis sein sollen. In den Beiträgen dieses Sammelbands kommen Expertinnen und Experten zu Worte, die aus theoretischer, empirischer und unterrichtspraktischer Perspektive Antworten auf diese Fragen liefern und wichtige Implikationen für die Forschung sowie die Diagnostik und Förderung mathematischer Basiskompetenzen in der Grundschule und an ihren Übergängen aufzeigen.",
-      "authors": [],
-      "language": "de",
-      "year": 2025,
-      "publisher": "Bielefeld University Press",
-      "isbn": [],
-      "doi": "10.64136/igbb3218",
-      "subjects": [
-        "Mathematikdidaktik",
-        "Mathematik",
-        "Mathematische Basiskompetenzen",
-        "Basale mathematische Kompetenzen",
-        "Vorläuferfähigkeiten",
-        "Numerische Basiskompetenzen",
-        "Unterrichtspraxis",
-        "Mathematikunterricht",
-        "Diagnostik",
-        "Förderung",
-        "thema EDItEUR::P Mathematics and Science::PB Mathematics::PBC Mathematical foundations",
-        "thema EDItEUR::J Society and Social Sciences::JN Education::JNT Teaching skills and techniques",
-        "thema EDItEUR::J Society and Social Sciences::JN Education::JNL Schools and pre-schools::JNLB Primary and middle schools"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181510",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/b80adfde-7652-402a-9b98-2e9847c48cb3/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116580/1/9783691290110.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181510",
-        "handle": "20.500.12854/181510",
-        "dspace_uuid": "3159d2ac-8bd3-4d2f-9cd2-43db58771012"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181510",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181510",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116580/1/9783691290110.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -42684,67 +43092,6 @@
       ]
     },
     {
-      "id": "work:31a52cf04584b30ab0ce8b51",
-      "title": "Dilemmas and Uncertainties",
-      "subtitle": "The Sciences at the Early Modern University",
-      "description": "The authors of this volume bring new insights to the intellectual history of knowledge and belief in sciences, and they do so by focusing on the presence of debates and multiple truths in university context. It has been observed that “in the past two decades, scholars have come to value uncertainty as an important key to seventeenth-century Catholicism”, and this statement could be easily extended to Protestant intellectual traditions, as well. After that earlier research had focused on skepticism and doubt in the early modern era for a long time, recent scholarship has come to understand the importance of multiple truths, and the practices of choosing between more or less probable options. Probabilism, choosing the more probable option seems to have been a wide-reaching and pervasive intellectual behavior that has been often overlooked. Multiple, diverse truths did not necessarily imply a skeptic attitude to scientific or theological questions: instead, they taught the reader, the student, to argue for or against, and to understand the importance of choosing between the options. Moreover, they maintained a space for another notion of central importance in early modern intellectual traditions: belief . From Paris to Prague, from Tartu to Padua, these papers revolve around problems that raised uncertainties in the early modern mind. In some cases, these were born out of new experiences and insights that shaped existing sets of knowledge, while in other cases, they were based on theoretical concerns. But they all clearly show that uncertainty was a central – and productive – element of early modern scholarship, which was transmitted to the students already during their years of study.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Education",
-        "Debate",
-        "Early modern period",
-        "Confessionalism",
-        "Bildung",
-        "Debatte",
-        "Frühe Neuzeit",
-        "Konfessionalismus",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHH Humanist philosophy",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDT Topics in philosophy",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHR Western philosophy from c 1800",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181504",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/d98df526-06d0-41ae-8b96-bd2bb74ddc91/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116774/1/9783111712697.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181504",
-        "handle": "20.500.12854/181504",
-        "dspace_uuid": "5aa9f21b-7002-4dcd-9c97-cc7bf9c491b9"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181504",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181504",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116774/1/9783111712697.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:5e8d1e2bd64acc1c8afb9060",
       "title": "Dilemmas and Uncertainties",
       "subtitle": "The Sciences at the Early Modern University",
@@ -43747,10 +44094,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/e37983d4-18c6-468d-afa4-4d95653b217e/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116768/1/9783112234358.pdf"
         }
       ],
       "access": "creative_commons",
@@ -43760,10 +44103,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116768",
         "handle": "20.500.12657/116768",
-        "dspace_uuid": "9aa2c8bf-1b49-4612-ad9f-6e566c2731b0",
-        "doab_source_id": "20.500.12854/181503",
-        "doab_handle": "20.500.12854/181503",
-        "doab_dspace_uuid": "90082ec2-33ff-49b4-879e-c2a101745cf6"
+        "dspace_uuid": "9aa2c8bf-1b49-4612-ad9f-6e566c2731b0"
       },
       "providers": [
         {
@@ -43779,21 +44119,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181503",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181503",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116768/1/9783112234358.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -46429,6 +46754,76 @@
       ]
     },
     {
+      "id": "work:c15e6a6d7574c4514fa504f9",
+      "title": "Educomunicação no contexto pandêmico",
+      "subtitle": "desafios do ensino remoto",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDITUS",
+      "isbn": [],
+      "doi": "10.7476/9788574556031",
+      "subjects": [
+        "Ensino à distância",
+        "Comunicação na educação",
+        "COVID 19",
+        "Pandemia de 2020",
+        "Professores",
+        "Formação",
+        "Educação",
+        "Estudo",
+        "Ensino",
+        "Tecnologia",
+        "Educação básica",
+        "Ensino fundamental",
+        "Pandemia e educação",
+        "Docência na pandemia",
+        "Ensino remoto",
+        "Ensino híbrido",
+        "Valorização docente",
+        "Desigualdade digital",
+        "Tecnologias educacionais",
+        "Redes digitais",
+        "Práticas pedagógicas",
+        "Cultura digital",
+        "Comunicação digital",
+        "Formação de professores",
+        "Impactos da pandemia na educação",
+        "Educação e tecnologia",
+        "Crise educacional",
+        "Educação e mídia",
+        "Educação pública",
+        "Docentes brasileiros",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNQ Open learning, distance education"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182204",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/8f961328-4154-44f6-b457-2d4d9ed423bb/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182204",
+        "handle": "20.500.12854/182204",
+        "dspace_uuid": "198891c9-ac4d-469e-ad47-5306169cf142"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182204",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182204",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:ab37a602a01bf91f3f5055b7",
       "title": "EFECTOS JURIDICOS DERIVADOS DEL MATRIMONIO ENTRE PERSONAS DEL MISMO GENERO EN LA LESGILACION ECUATORIANA",
       "subtitle": "",
@@ -46958,6 +47353,58 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:37d90af80c9513662ae7cffe",
+      "title": "Ekklesiologische Wegweiser für eine antifaschistische Kirche",
+      "subtitle": "Grenze und Dialog unter der Liebe Gottes",
+      "description": "These ecumenically oriented 'ecclesiological guidelines' for theology, church leadership and congregation are based on an analysis of how the churches deal with the social normalization of right-wing extremism and racism by the AfD. They point towards an ecclesial 'firewall'. This demarcation to protect people threatened by right-wing extremism is developed in the love of God and therefore in a dialogical and transformative way. The guidelines draw on classic motifs of the Reformation's understanding of the church, in particular church discipline and status confessionis, and develop suggestions for the church's self-image as a space for protection as well as dialogue and for a 'dialogue at the border'.",
+      "authors": [
+        "Eberhardt, Kai-Ole"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783748974048",
+      "subjects": [
+        "JBFV"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182221",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/f34b2b83-40c3-4aa1-a901-64d7d2fbefcd/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783748974048"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182221",
+        "handle": "20.500.12854/182221",
+        "dspace_uuid": "f6f17c96-a611-45f7-b155-54e564caa82b"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182221",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182221",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783748974048"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -48904,6 +49351,78 @@
       ]
     },
     {
+      "id": "work:80aba22a6246a5ef8d84ac26",
+      "title": "Embedded Pedagogies",
+      "subtitle": "Digital Humanities Teaching and the Infrastructure of Change",
+      "description": "This volume offers a timely and incisive exploration of teaching in an era of institutional instability and political pressure. Drawing on extensive experience as a digital humanities practitioner and administrator, Walsh argues that teaching does not occur solely in the classroom but is deeply shaped by the policies, structures, and values embedded within universities themselves. Focusing on the concept of ‘embedded pedagogies’, the book reveals how institutional norms, such as claims to neutrality, intellectualism, and future-orientation, quietly shape what and how educators can teach. Walsh combines theory with practical insight, using case studies, digital projects, and firsthand reflections to demonstrate how these forces operate and how they can be challenged. Organized around four core institutional values—knowability, neutrality, intellectualism, and the future—the book provides both critical analysis and actionable strategies. It offers guidance for educators seeking to navigate and transform hostile or resource-constrained environments, advocating for pedagogies grounded in transparency, collective care, and social justice. Ultimately, Walsh presents a compelling vision of teaching as a form of institutional intervention. By making visible the hidden pedagogies of higher education, this book empowers educators to reimagine their roles and to work collaboratively toward more equitable, sustainable, and hopeful futures for universities and their communities.",
+      "authors": [
+        "Walsh, Brandon | https://orcid.org/0000-0002-2785-3519"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Open Book Publishers",
+      "isbn": [],
+      "doi": "10.11647/obp.0544",
+      "subjects": [
+        "Digital Humanities",
+        "Digital Pedagogy",
+        "Education",
+        "Social Justice",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies::JBCT1 Media studies: internet, digital media and society",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNF Educational strategies and policy",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNM Higher education, tertiary education",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government"
+      ],
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117533",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/c5e182d2-533d-4411-8d6e-85e64d59240a/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/faa0a643-fea4-4e6a-a560-0f983ce9058e/retrieve"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/ · Other open license",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12657/117533",
+        "handle": "20.500.12657/117533",
+        "dspace_uuid": "8cb40f80-b3b8-4781-a717-a80250ce3c63",
+        "doab_source_id": "20.500.12854/182215",
+        "doab_handle": "20.500.12854/182215",
+        "doab_dspace_uuid": "f3ac6ab0-e7c4-45c8-9d9f-29faa41705a1"
+      },
+      "providers": [
+        {
+          "source": "OAPEN Library",
+          "source_id": "20.500.12657/117533",
+          "source_url": "https://library.oapen.org/handle/20.500.12657/117533",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/faa0a643-fea4-4e6a-a560-0f983ce9058e/retrieve"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0/ · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182215",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182215",
+          "language": "en",
+          "formats": [],
+          "access": "open_access",
+          "license": "open access",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:835c0bce3449521e090379b5",
       "title": "Emily Brontë",
       "subtitle": "",
@@ -49875,6 +50394,84 @@
       ]
     },
     {
+      "id": "work:453bc59182a69c43c6aafd13",
+      "title": "Ensinar história no oitocentos",
+      "subtitle": "um estudo sobre a genealogia, a circulação transnacional e as apropriações do Método Zaba",
+      "description": "",
+      "authors": [
+        "Lima, Carollina Carvalho Ramos de"
+      ],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309897",
+      "subjects": [
+        "História",
+        "Estudo e ensino",
+        "Ensino",
+        "Metodologia",
+        "Método Zaba",
+        "Napoleon Félix Zaba",
+        "1803-1885",
+        "História da educação",
+        "Ensino de História",
+        "Educação no século XIX",
+        "Brasil oitocentista",
+        "História da escola",
+        "Escola moderna",
+        "Cultura escolar",
+        "Cultura material escolar",
+        "Métodos de ensino",
+        "Inovação pedagógica",
+        "Práticas pedagógicas",
+        "Circulação transnacional",
+        "História transnacional",
+        "Transferência de conhecimentos",
+        "Apropriação pedagógica",
+        "Difusão educacional",
+        "Sistemas escolares",
+        "Formação de professores",
+        "História intelectual",
+        "História cultural",
+        "Educação comparada",
+        "Relações educacionais internacionais",
+        "Europa",
+        "Américas",
+        "Australásia",
+        "Brasil Imperial",
+        "Salvador",
+        "Bahia",
+        "Século XIX",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNB History of education"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182205",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/371d1f35-c6a3-48df-9150-d59d7d559e1c/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182205",
+        "handle": "20.500.12854/182205",
+        "dspace_uuid": "e1ad654e-61cf-43c9-8a71-bf232b64c7a2"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182205",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182205",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:830092cb444b9bdfe217c23e",
       "title": "Entendiendo Angular",
       "subtitle": "",
@@ -49976,60 +50573,63 @@
       ]
     },
     {
-      "id": "work:c0d2626f0823a8e07c0858f9",
-      "title": "Entnazifizierung und ›Reeducation‹",
-      "subtitle": "Kultur- und literaturgeschichtliche Perspektiven",
-      "description": "Wie stark und wie dauerhaft prägten Entnazifizierung und Reeducation das Verhältnis der Deutschen zu NS-Vergangenheit, Demokratie und den Besatzungsmächten? Welche Vorstellungen, Wertmuster und Diskurse sind damit bis heute verknüpft? Ist die Entnazifizierung wirklich gescheitert? Auch 80 Jahre nach Kriegsende scheinen die einst mit Blick auf den Sieg über das nationalsozialistische Deutschland formulierten Ziele weiterhin oder erneut kontrovers zu sein. Angesichts der aktuellen Debatten um die deutungs- und erinnerungspolitischen Potentiale der NS- und Nachkriegszeit ist der Band einem kritisch reflektierten Blick auf die Vergangenheit wie auf die Gegenwart verpflichtet. Wie wurden die Erfahrungen mit den Besatzungsmächten in individuellen Erinnerungen und im kulturellen Gedächtnis der Bundesrepublik verarbeitet? Wie beeinflussen sie immer noch die Beziehungen zu den einstigen Siegermächten? Die im Forschungsband versammelten Fallstudien werfen kultur- und literaturgeschichtliche Perspektiven auf die komplizierte politik-, mentalitäts- und kulturgeschichtliche Gemengelage der Besatzungszeit und verfolgen ihre Nachwirkungen bis in die Gegenwart.",
-      "authors": [],
-      "language": "de",
-      "year": 2025,
-      "publisher": "De Gruyter",
+      "id": "work:bc17f7f53902dbbf2f66091c",
+      "title": "Entre experiências e saberes",
+      "subtitle": "transições de estudantes em mobilidade acadêmica",
+      "description": "",
+      "authors": [
+        "Barbosa, Karla Maria Lima Figueiredo Bené"
+      ],
+      "language": "pt",
+      "year": null,
+      "publisher": "UEFS Editora",
       "isbn": [],
-      "doi": "",
+      "doi": "10.7476/9788555921629",
       "subjects": [
-        "Democratization",
-        "Denazification",
-        "Cultural politics",
-        "Postwar period",
-        "Demokratisierung",
-        "Entnazifizierung",
-        "Kulturpolitik",
-        "Nachkriegszeit",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
+        "Ensino superior",
+        "Mobilidade acadêmica",
+        "Intercâmbio",
+        "Internacionalização",
+        "Universidade Estadual de Feira de Santana",
+        "Formação universitária",
+        "Desenvolvimento humano",
+        "Psicologia do desenvolvimento",
+        "Transições acadêmicas",
+        "Afiliação estudantil",
+        "Políticas públicas de educação",
+        "Universidades públicas brasileiras",
+        "Interacionismo simbólico",
+        "Autoetnografia",
+        "Identidade acadêmica",
+        "Autonomia discente",
+        "Internacionalização da educação superior",
+        "Cooperação acadêmica transnacional",
+        "Diversidade cultural na universidade",
+        "Pesquisa qualitativa em educação",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNM Higher education, tertiary education"
       ],
       "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181515",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/0d10d0cd-3b20-4eb6-8e19-9c325d188ceb/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116926/1/9783111193137.pdf"
-        }
-      ],
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182212",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/533d190c-f80c-4f7f-8914-96a3795e369e/retrieve",
+      "formats": [],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181515",
-        "handle": "20.500.12854/181515",
-        "dspace_uuid": "605d6662-e025-49aa-bb67-f2f13c4ef083"
+        "source_id": "20.500.12854/182212",
+        "handle": "20.500.12854/182212",
+        "dspace_uuid": "6ccdf0ed-8c07-412b-a47a-428f8d48562f"
       },
       "providers": [
         {
           "source": "DOAB",
-          "source_id": "20.500.12854/181515",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181515",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116926/1/9783111193137.pdf"
-            }
-          ],
+          "source_id": "20.500.12854/182212",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182212",
+          "language": "pt",
+          "formats": [],
           "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -51670,10 +52270,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/493589c3-21cb-4b62-ac27-77ad424460a9/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116834/1/9783111382920.pdf"
         }
       ],
       "access": "creative_commons",
@@ -51683,10 +52279,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116834",
         "handle": "20.500.12657/116834",
-        "dspace_uuid": "9d424243-a15b-419e-a24a-2c2a56f10c92",
-        "doab_source_id": "20.500.12854/181509",
-        "doab_handle": "20.500.12854/181509",
-        "doab_dspace_uuid": "047b2c13-d078-4220-b40a-7e0d0522fe10"
+        "dspace_uuid": "9d424243-a15b-419e-a24a-2c2a56f10c92"
       },
       "providers": [
         {
@@ -51702,21 +52295,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181509",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181509",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116834/1/9783111382920.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -64891,90 +65469,6 @@
       ]
     },
     {
-      "id": "work:dd8ca7c2ccee0724f053650e",
-      "title": "Hand and Ring",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Anna Katharine Green"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Standard Ebooks",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Detective and mystery stories",
-        "Fiction",
-        "Mystery"
-      ],
-      "source": "Standard Ebooks",
-      "source_url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring",
-      "cover_url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/cover-thumbnail.jpg",
-      "formats": [
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring_advanced.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.kepub.epub?source=feed"
-        },
-        {
-          "type": "azw3",
-          "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.azw3?source=feed"
-        },
-        {
-          "type": "html",
-          "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/text/single-page"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain / CC0 in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring"
-      },
-      "providers": [
-        {
-          "source": "Standard Ebooks",
-          "source_id": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring",
-          "source_url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring",
-          "language": "en",
-          "formats": [
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring_advanced.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.kepub.epub?source=feed"
-            },
-            {
-              "type": "azw3",
-              "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/anna-katharine-green_hand-and-ring.azw3?source=feed"
-            },
-            {
-              "type": "html",
-              "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/text/single-page"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain / CC0 in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:a00e734201af4ec4520784d9",
       "title": "Handbuch Schulen planen und bauen",
       "subtitle": "Praxiswissen für die Phase Null",
@@ -66295,66 +66789,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:eb15eac25f7ad8641bdaa579",
-      "title": "'Heidi' und mehr",
-      "subtitle": "Neue Studien zu Johanna Spyris Werken",
-      "description": "Johanna Spyris (1827–1901) Heidi -Stoff hat zweifellos Eingang in das kulturelle Gedächtnis gefunden – ausgehend zunächst von den beiden Romanen von 1880 und 1881, später dann durch die Anime-Adaptation von Isao Takahata aus dem Jahr 1974. So berühmt Heidi als Figur geworden ist, vergessen sind heute viele andere Figuren aus Spyris zahlreichen und bis in die zweite Hälfte des 20. Jahrhunderts hinein häufig nachgedruckten Werken. Was Anfang des 20. Jahrhunderts noch Teil von Schulbüchern war, ist heute kaum mehr bekannt. Eine Gesamtwerkausgabe der Werke Johanna Spyris ist nicht vorhanden und auch noch nicht konzipiert. Zwar sind viele Ausgaben, die das Schweizerische Institut für Kinder und Jugendmedien (SIKJM) versammelt, mittlerweile auf der Plattform https://www.e-rara.ch/ digital vorhanden – allerdings nur in unkommentierten Versionen der Erstdrucke. Die Forschung zu Spyri ist generell erst spärlich entwickelt und stammt zudem mehrheitlich aus dem Bereich der Kinder- und Jugendliteraturforschung. Spyri hat aber durchaus auch Texte für Erwachsene geschrieben, und viele ihrer heute als KJL klassifizierten Texte zeichnen sich durch eine Doppeladressierung an Kinder und Erwachsene aus. Den bisher verengten Blick auf Spyris Werk wollen die vorliegenden Beiträge weiten. Denn Spyris Schreiben ist facettenreich und Heidi nur eine von vielen faszinierenden, psychologisch reich ausgestalteten und den Leser:innen in Erinnerung bleibenden Figuren.",
-      "authors": [],
-      "language": "de",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Nineteenth century",
-        "Canon",
-        "Children’s and young adult literature",
-        "Switzerland",
-        "19. Jahrhundert",
-        "Kanon",
-        "Kinder- und Jugendliteratur",
-        "Schweiz",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBF Literary studies: c 1800 to c 1900",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC1 Popular culture"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181506",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/318d4d52-ac0c-4bd3-ae42-05a2271e6915/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116669/1/9783111385426.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181506",
-        "handle": "20.500.12854/181506",
-        "dspace_uuid": "8881b20f-8359-49d0-bf99-ffe859413c9b"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181506",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181506",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116669/1/9783111385426.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -68157,6 +68591,174 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:58c60421f1921b452a91a510",
+      "title": "História da arquitetura e da cidade no Brasil e em Portugal",
+      "subtitle": "séculos XVI ao XIX",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309941",
+      "subjects": [
+        "Arquitetura",
+        "História",
+        "Brasil",
+        "Portugal",
+        "Cidades e vilas",
+        "Arquitetura colonial",
+        "Arte barroca",
+        "História da arquitetura",
+        "História urbana",
+        "Urbanismo",
+        "Arquitetura brasileira",
+        "Arquitetura portuguesa",
+        "Arquitetura civil",
+        "Arquitetura religiosa",
+        "Barroco",
+        "Escola barroca",
+        "Cidade colonial",
+        "Urbanização",
+        "Paisagem urbana",
+        "Paisagem cultural",
+        "Cultura material",
+        "História cultural",
+        "Representação pictórica",
+        "Representação gráfica",
+        "Circulação de ideias",
+        "Circulação de saberes",
+        "Circulação de agentes",
+        "Transculturação",
+        "História transnacional",
+        "Intercâmbios culturais",
+        "Conexões luso-brasileiras",
+        "Mundo luso-brasileiro",
+        "Patrimônio arquitetônico",
+        "Patrimônio cultural",
+        "Arte e arquitetura",
+        "Cidade e poder",
+        "Arquitetura e sociedade",
+        "Séculos XVI-XIX",
+        "Período colonial",
+        "História do urbanismo",
+        "Formação urbana",
+        "Núcleos urbanos",
+        "Espaço urbano",
+        "Experiência urbana",
+        "thema EDItEUR::A The Arts::AM Architecture::AMX History of architecture"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182207",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/057a4de6-91ab-4ff1-b798-2fea44c8b786/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182207",
+        "handle": "20.500.12854/182207",
+        "dspace_uuid": "97f757d0-0d71-4e74-8149-13c818a8fc29"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182207",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182207",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:eb80c5350e732185e76f52d0",
+      "title": "História da arquitetura e da cidade no Brasil e em Portugal",
+      "subtitle": "séculos XVI ao XIX",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309927",
+      "subjects": [
+        "Arquitetura",
+        "História",
+        "Brasil",
+        "Portugal",
+        "Cidades e vilas",
+        "Arquitetura colonial",
+        "Arte barroca",
+        "História da arquitetura",
+        "História urbana",
+        "Urbanismo",
+        "Arquitetura brasileira",
+        "Arquitetura portuguesa",
+        "Arquitetura religiosa",
+        "Arquitetura civil",
+        "Barroco",
+        "Escola barroca",
+        "Cidade colonial",
+        "Urbanização",
+        "Paisagem urbana",
+        "Paisagem cultural",
+        "Cultura material",
+        "História cultural",
+        "Representação pictórica",
+        "Representação gráfica",
+        "Circulação de ideias",
+        "Circulação de saberes",
+        "Circulação de agentes",
+        "Transculturação",
+        "História transnacional",
+        "Intercâmbios culturais",
+        "Conexões luso-brasileiras",
+        "Mundo luso-brasileiro",
+        "Patrimônio arquitetônico",
+        "Patrimônio cultural",
+        "Arte e arquitetura",
+        "Cidade e poder",
+        "Arquitetura e sociedade",
+        "Séculos XVI-XIX",
+        "Período colonial",
+        "História do urbanismo",
+        "Formação urbana",
+        "Núcleos urbanos",
+        "Espaço urbano",
+        "Experiência urbana",
+        "thema EDItEUR::A The Arts::AM Architecture::AMX History of architecture"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182208",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1f8cf1b2-ae67-4578-a1d7-e5d4100ea4f8/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182208",
+        "handle": "20.500.12854/182208",
+        "dspace_uuid": "58d1c30b-beef-492e-a671-b11d3230f5e2"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182208",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182208",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -70580,10 +71182,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/3e368124-b90d-4024-8835-751a46dfb3fd/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116814/1/9783111625911.pdf"
         }
       ],
       "access": "creative_commons",
@@ -70593,10 +71191,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116814",
         "handle": "20.500.12657/116814",
-        "dspace_uuid": "981043b5-50c7-43cf-a8d6-e446a9874aca",
-        "doab_source_id": "20.500.12854/181499",
-        "doab_handle": "20.500.12854/181499",
-        "doab_dspace_uuid": "07e7fb18-15d5-4202-b630-4e9aa444fcdc"
+        "dspace_uuid": "981043b5-50c7-43cf-a8d6-e446a9874aca"
       },
       "providers": [
         {
@@ -70612,21 +71207,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181499",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181499",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116814/1/9783111625911.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -72423,6 +73003,58 @@
       ]
     },
     {
+      "id": "work:292311cfe4f6036bc65a381d",
+      "title": "Industrielle Transformation und männliche Lebenswelten",
+      "subtitle": "Analyse biografischer Erzählungen zum industriellen Strukturwandel",
+      "description": "German industry is undergoing a transformation—and with it, the lived worlds of the skilled workers who symbolize it. This study shows that the crisis facing these companies is linked to another crisis: the disintegration of male-dominated communities in which work, recognition, and identity were historically intertwined. Based on ten biographical-narrative interviews with industrial skilled workers, the study reconstructs three ways of coping with these changes, combining research on precariousness with gender theory. Gender emerges as an effective, hidden structural category. Hannah Hecker conducts research at the University of Tübingen on political media discourses and their historical evolution.",
+      "authors": [
+        "Hecker, Hannah"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+      "isbn": [],
+      "doi": "10.5771/9783689006785",
+      "subjects": [
+        "JHB"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182220",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/826b9e46-b403-4afc-b453-c6d2c4877859/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://doi.org/10.5771/9783689006785"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182220",
+        "handle": "20.500.12854/182220",
+        "dspace_uuid": "fd60dc90-5230-4d4d-ab0c-240d0570e0a5"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182220",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182220",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://doi.org/10.5771/9783689006785"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a7bc1a5cadf5eb51adccfcc4",
       "title": "Industry 4.0 dislocations in small and medium enterprises: A supply chain management view",
       "subtitle": "",
@@ -73183,58 +73815,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6c9976815429c0fd1f5a12b8",
-      "title": "Initia Reformationis Transsilvaniae",
-      "subtitle": "Vielfalt, Aufbrüche, Rezeptionsräume in der Frühen Neuzeit",
-      "description": "In the early modern period, Central Europe was a dynamic region, interconnected with its neighbors in many ways and characterized by ethnic and religious diversity. In the geographically broadly defined area of contact between north and south-east, west and east Europe, a cultural, ecclesiastical and educational history emerged, as well as a politically recognizably differentiated living environment, which differed from that of the West and is currently the subject of great interest. The series focuses on the contribution of a differentiating Christianity to this process.",
-      "authors": [],
-      "language": "de",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "DG Title",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity::QRMB Christian Churches, denominations, groups"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181497",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/691ff451-e351-40ae-aa7a-67905f4b9cd3/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116874/1/9783111376530.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181497",
-        "handle": "20.500.12854/181497",
-        "dspace_uuid": "b4d0a787-7fbd-49e1-931d-14f3cc500c1e"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181497",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181497",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116874/1/9783111376530.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -84738,70 +85318,6 @@
       ]
     },
     {
-      "id": "work:1b053560b21ae3582b814415",
-      "title": "La última ilusión",
-      "subtitle": "La crisis de la revolución en América Latina, 1979-1991",
-      "description": "La última ilusión. La crisis de la revolución en América Latina, 1979-1991 analiza el ocaso de los proyectos revolucionarios latinoamericanos a partir de la experiencia del sandinismo en Nicaragua. Por medio de fuentes periodísticas de la época y un trabajo crítico, este ensayo examina cómo la izquierda latinoamericana transitó de la esperanza transformadora a la crisis ideológica y política que marcó el final del siglo XX.A través de enclaves históricos como las tensiones entre revolución y democracia, el impacto de la Guerra Fría y la influencia del imperialismo estadounidense en la desestabilización de los movimientos revolucionarios, Valeria Manzano centra su eje analítico en el triunfo y posterior derrota electoral del Frente Sandinista de Liberación Nacional, símbolo de una generación que buscaba reconciliar la utopía con la práctica democrática.Esta obra es una reflexión sobre la persistencia de las ideas y la nostalgia del cambio. Con un enfoque interdisciplinario contribuye a la comprensión de la política, la memoria y los desafíos contemporáneos de América Latina.",
-      "authors": [
-        "Manzano (0009000049389553), Valeria"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "Bielefeld University Press",
-      "isbn": [],
-      "doi": "10.64136/mmlh4594",
-      "subjects": [
-        "Revolución",
-        "América Latina",
-        "Nicaragua",
-        "Revolución Sandinista",
-        "Izquierda política",
-        "Movimientos revolucionarios",
-        "Historia",
-        "Política",
-        "Gobierno",
-        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTV Revolutions, uprisings, rebellions",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPF Political ideologies and movements::JPFC Far-left political ideologies and movements",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPF Political ideologies and movements::JPFF Left-of-centre democratic ideologies",
-        "thema EDItEUR::1 Place qualifiers::1K The Americas::1KL Latin America – Mexico, Central America, South America"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181516",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/046448b6-3773-4201-a5cd-655342963c82/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116590/1/9783691290479.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181516",
-        "handle": "20.500.12854/181516",
-        "dspace_uuid": "a623d331-4d8d-432b-ace1-71233636fc4b"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181516",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181516",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116590/1/9783691290479.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:28a0cdd2d2af5aad959ad5cb",
       "title": "Labor Migration Patterns in Saudi Arabia",
       "subtitle": "Assessing Challenges and Opportunities for Vision 2030",
@@ -88511,65 +89027,6 @@
       ]
     },
     {
-      "id": "work:c5febb66bf66a6e51304a8ec",
-      "title": "Light Verb Constructions from a Cross-Linguistic Perspective",
-      "subtitle": "",
-      "description": "Light verb constructions are complex predicates consisting of a semantically reduced verb and an additional often phrasal element contributing the main predicational content. Although light verb constructions have been identified for various (genetically unrelated) languages, a comparative concept which allows identifying light verb constructions across languages is still missing. The present volume approaches this issue from the perspective of the analysis of individual languages. The basic research question underlying the formation of the volume is: Which properties manifest light verb constructions cross linguistically? The papers collected in the volume investigate a large range of languages from different languages families which includes Indo-European languages like Aheli, Italian, Scottish Gaelic and Old West Norse but also non-Indo-European languages such as Tibetan (Sino-Tibetan), Kina Rutul (Nakh-Dagestanian) and Gĩkũyũ (Bantu). The present volume fills a gap in the cross-linguistics discussion of light verb constructions and seeks to provide novel insights concerning a widely recognized type of complex predicate construction.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Light Verb Constructions",
-        "Complex Predicates",
-        "Cross-Linguistic Comparison",
-        "Light-Verb-Konstruktionen",
-        "Komplexe Prädikate",
-        "Sprachübergreifender Vergleich",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics::CFK Grammar, syntax and morphology",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics::CFG Semantics, discourse analysis, stylistics",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics::CFF Historical and comparative linguistics"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181511",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/46e2284b-578e-4b12-a799-5844ea19144d/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116816/1/9783112229330.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181511",
-        "handle": "20.500.12854/181511",
-        "dspace_uuid": "7dc39c06-88bd-431f-981e-c0918e767dbe"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181511",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181511",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116816/1/9783112229330.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:69f4291e16dd29801ba74bdd",
       "title": "Línea de vida",
       "subtitle": "",
@@ -88647,10 +89104,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/c1e7f815-948d-4a43-841d-36adde04e9ec/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116842/1/9783112223154.pdf"
         }
       ],
       "access": "creative_commons",
@@ -88660,10 +89113,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116842",
         "handle": "20.500.12657/116842",
-        "dspace_uuid": "98e63905-498f-49f4-86b3-2de4be1f0936",
-        "doab_source_id": "20.500.12854/181502",
-        "doab_handle": "20.500.12854/181502",
-        "doab_dspace_uuid": "b491138c-0669-4f28-b4d7-87f41290b6b1"
+        "dspace_uuid": "98e63905-498f-49f4-86b3-2de4be1f0936"
       },
       "providers": [
         {
@@ -88679,21 +89129,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181502",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181502",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116842/1/9783112223154.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -89039,6 +89474,79 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:e39e3273e79d55be8ac865e6",
+      "title": "Literature for Change",
+      "subtitle": "The Case for Literary Research Across Languages and Cultures",
+      "description": "Literature for Change is a timely and thought-provoking intervention that tackles the critical question of how the study of literary texts in languages other than English, and their production, circulation and reception, contributes to efforts to address today’s most pressing social challenges. Featuring ten case studies across diverse languages and cultures, the book explores the transformative real-world impact that literary research has made on society. Taking hermeneutic and aesthetic approaches, the case studies illustrate the contribution of literary studies to areas as disparate as the museums and heritage sector, the environmental and medical humanities and the digital world. The volume advocates for a plurality of approaches, including creative enquiry with a solid theoretical grounding, and of the connectivity of literary research with disciplines beyond Modern Languages and beyond the academy. At a time when the field of Modern Languages is going through significant transformation, Literature for Change makes a compelling case for the value of the discipline, and reaffirms the relevance of literary texts and the power of stories to shape social, cultural and intellectual life.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "University of London Press",
+      "isbn": [],
+      "doi": "10.63674/uwth6019",
+      "subjects": [
+        "activism",
+        "culture",
+        "equality",
+        "humanities research",
+        "literary studies",
+        "multiculturalism",
+        "society",
+        "world literature",
+        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSA Literary theory",
+        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBJ Literary studies: from c 2000",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general"
+      ],
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117534",
+      "cover_url": "https://library.oapen.org/rest/bitstreams/09670cdb-0c94-4176-a51a-262958f2cd49/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/rest/bitstreams/e58a3a94-152a-4e5a-9a88-09e2733c7aff/retrieve"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · Other open license",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12657/117534",
+        "handle": "20.500.12657/117534",
+        "dspace_uuid": "f1154210-04f5-4879-a5e8-f3aa78723c10",
+        "doab_source_id": "20.500.12854/182216",
+        "doab_handle": "20.500.12854/182216",
+        "doab_dspace_uuid": "327c98fc-b5ab-44e5-87a1-a75f78d9a446"
+      },
+      "providers": [
+        {
+          "source": "OAPEN Library",
+          "source_id": "20.500.12657/117534",
+          "source_url": "https://library.oapen.org/handle/20.500.12657/117534",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/rest/bitstreams/e58a3a94-152a-4e5a-9a88-09e2733c7aff/retrieve"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182216",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182216",
+          "language": "en",
+          "formats": [],
+          "access": "open_access",
+          "license": "open access",
           "verified_legal": true
         }
       ]
@@ -94106,10 +94614,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/24f8f375-c611-4178-82b5-9c2565e91a1b/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116779/1/9783112205907.pdf"
         }
       ],
       "access": "creative_commons",
@@ -94119,10 +94623,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116779",
         "handle": "20.500.12657/116779",
-        "dspace_uuid": "98672111-129a-4283-b2ac-186ce3f34849",
-        "doab_source_id": "20.500.12854/181501",
-        "doab_handle": "20.500.12854/181501",
-        "doab_dspace_uuid": "27d8aca1-481d-487f-b88b-a9f5ba0910e4"
+        "dspace_uuid": "98672111-129a-4283-b2ac-186ce3f34849"
       },
       "providers": [
         {
@@ -94138,21 +94639,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181501",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181501",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116779/1/9783112205907.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -98238,174 +98724,174 @@
       ]
     },
     {
-      "id": "work:8b54d67b9f3777d5a22a4a25",
+      "id": "work:8103ab382c8eec8725221ec8",
       "title": "Mockingjay",
       "subtitle": "",
       "description": "",
       "authors": [
         "Suzanne Collins"
       ],
-      "language": "it",
+      "language": "es",
       "year": 2010,
-      "publisher": "Nxb. Văn học",
+      "publisher": "Lectorum Publications, Incorporated",
       "isbn": [
-        "9781407192253",
-        "0545101425",
-        "9788467240870",
-        "9781713586371",
-        "8427200382",
-        "0545791901",
-        "9781407136202",
-        "1407155768",
-        "9788499305431",
-        "1536425524",
-        "0545310601",
-        "8467240873",
-        "1410428419",
-        "9789953879857",
-        "9782298079739",
-        "9786180122794",
-        "9798212980005",
-        "1338321986",
-        "9780439023542",
-        "9782266257992",
-        "6054263862",
-        "6073807864",
-        "1407132105",
-        "0545788293",
-        "8492966815",
-        "9781536425529",
-        "9788579800863",
-        "9781594135866",
-        "9788499323091",
-        "9780702342400",
-        "9789655522006",
-        "9782266182713",
-        "9862132167",
-        "6555321466",
-        "9722346539",
-        "9788427200388",
-        "9786050930665",
-        "9780545791908",
-        "0545317800",
-        "5271424553",
-        "1407136208",
-        "159413586X",
-        "9786046983569",
-        "9781484418246",
-        "9787506358026",
-        "9788492966813",
-        "9781338321982",
-        "9780606264495",
-        "1407129015",
-        "9789810868741",
-        "605093066X",
-        "8499305431",
-        "9798212982122",
-        "9788804716716",
-        "9789862132166",
-        "0439023548",
-        "2266260790",
-        "0545796687",
-        "9953879850",
-        "9786054263868",
-        "849932309X",
-        "9780545310604",
-        "9780702333002",
-        "9781546171881",
-        "9781407157887",
-        "8380081536",
-        "0545663261",
-        "9782266260794",
-        "9798855026160",
-        "9781407129013",
-        "9785271424557",
-        "1743628838",
-        "1407192256",
-        "0439023513",
-        "1743629877",
-        "9781407191317",
-        "8804632240",
-        "1407188925",
-        "8427202148",
-        "6046983568",
-        "9780606351331",
-        "9351035980",
-        "9781407109374",
-        "8184776217",
-        "1484418247",
         "9788427248489",
-        "9788427202146",
-        "0702342408",
-        "1407153358",
-        "9783789132209",
-        "9781407129020",
-        "9781743628836",
-        "6180122792",
-        "9786555321463",
-        "981086874X",
-        "2266182714",
-        "9781742835778",
-        "1742835775",
-        "9783841501363",
-        "1546171886",
-        "1407109375",
-        "9788804632245",
-        "9781407155760",
-        "9781743629871",
-        "9786073807869",
-        "9000331994",
-        "9876092448",
-        "7506358026",
-        "9780439023511",
-        "2298079730",
-        "1407133195",
-        "1407157884",
-        "9780545796682",
-        "9789722346535",
-        "9781407153353",
-        "8427208413",
-        "8804716711",
-        "9788380081536",
-        "0606264493",
-        "9780545663267",
-        "3789132209",
-        "9780545317801",
-        "8372789800",
-        "070233300X",
-        "9780545788298",
-        "3841501362",
-        "9788499328058",
-        "9788184776218",
-        "9798225029760",
-        "9788413144870",
-        "8579800862",
-        "9789351035985",
-        "0606351337",
-        "9789876092449",
-        "9781407188928",
-        "8935235200067",
-        "900034302X",
-        "1407139819",
-        "9788427208414",
-        "9788372784919",
+        "6555321466",
         "1713586371",
-        "1407129023",
-        "9780545101424",
-        "9781407133195",
-        "9789000331994",
-        "8427248482",
-        "1407191314",
+        "8499305431",
+        "0545101425",
+        "1407157884",
+        "1484418247",
+        "9781742835778",
+        "9780606264495",
+        "159413586X",
+        "9780545310604",
         "2266257994",
-        "9789000343027",
-        "8372784914",
-        "9781407132105",
-        "9781410428417",
+        "9788499305431",
         "9781407139814",
+        "1407191314",
+        "8184776217",
+        "8427248482",
+        "9780545796682",
+        "0606264493",
+        "0545796687",
+        "9781407157887",
+        "9783841501363",
+        "9781407132105",
+        "9798855026160",
+        "1407139819",
+        "9788579800863",
+        "9781484418246",
+        "9780545663267",
+        "1407133195",
+        "8804632240",
+        "0439023513",
+        "9782266260794",
+        "9876092448",
+        "9788184776218",
+        "7506358026",
+        "1407129015",
+        "0545317800",
+        "9788467240870",
+        "9783789132209",
+        "1407155768",
+        "9781407136202",
+        "9786555321463",
+        "9780545788298",
+        "9780545317801",
+        "9781407188928",
+        "9722346539",
+        "8427208413",
+        "070233300X",
+        "900034302X",
+        "1407188925",
+        "9780545791908",
+        "0606351337",
+        "1407129023",
+        "9789810868741",
+        "9788372789808",
+        "9780439023511",
+        "8372784914",
+        "9789862132166",
+        "3789132209",
+        "1407132105",
+        "9862132167",
+        "9781410428417",
+        "0545791901",
+        "981086874X",
+        "9788499323091",
+        "2298079730",
         "8499328059",
+        "2266182714",
+        "1407136208",
+        "9788372784919",
+        "9781407153353",
+        "9789000343027",
+        "0545310601",
+        "9780606351331",
+        "1410428419",
+        "1407109375",
+        "1546171886",
+        "9782266182713",
+        "9789953879857",
+        "9786050930665",
+        "6180122792",
+        "9787506358026",
+        "9782266257992",
+        "9781407129020",
+        "8427202148",
+        "9798225029760",
+        "0439023548",
+        "0545788293",
+        "9786073807869",
+        "9781407192253",
+        "9788427208414",
+        "9781407133195",
+        "8427200382",
+        "9781338321982",
+        "9798212982122",
+        "9788427202146",
+        "3841501362",
+        "9788492966813",
+        "8492966815",
+        "9351035980",
+        "1407192256",
+        "9781407155760",
+        "6073807864",
+        "8380081536",
+        "1742835775",
+        "9788427200388",
+        "605093066X",
+        "9789876092449",
+        "9786180122794",
+        "9000331994",
+        "8935235200067",
+        "1536425524",
+        "1338321986",
+        "9782298079739",
+        "9781743628836",
+        "9785271424557",
+        "9781713586371",
+        "9781743629871",
+        "0702342408",
+        "8579800862",
+        "9786054263868",
+        "9789000331994",
+        "9781407129013",
+        "9780702342400",
+        "9781536425529",
+        "9780545101424",
+        "9788804716716",
+        "8372789800",
+        "9788499328058",
+        "9798212980005",
+        "9788804632245",
+        "6054263862",
+        "2266260790",
+        "9789351035985",
+        "1743628838",
+        "5271424553",
+        "9789655522006",
+        "1743629877",
+        "9789722346535",
+        "1407153358",
+        "9788413144870",
+        "9780439023542",
+        "8467240873",
+        "8804716711",
         "8413144876",
+        "9953879850",
+        "9781594135866",
+        "9780702333002",
+        "0545663261",
+        "9781407109374",
+        "9788380081536",
         "9655522008",
-        "9788372789808"
+        "9781407191317",
+        "9786046983569",
+        "6046983568",
+        "849932309X",
+        "9781546171881"
       ],
       "doi": "",
       "subjects": [],
@@ -98428,7 +98914,7 @@
           "source": "Open Library",
           "source_id": "OL14908941W",
           "source_url": "https://openlibrary.org/works/OL14908941W",
-          "language": "it",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -98889,63 +99375,63 @@
       ]
     },
     {
-      "id": "work:fc9fa90a545f49d8951b5bf6",
+      "id": "work:73bfb9888e4d60945713ce87",
       "title": "Mona Lisa Overdrive",
       "subtitle": "",
       "description": "",
       "authors": [
         "William Gibson"
       ],
-      "language": "it",
+      "language": "es",
       "year": 1987,
-      "publisher": "Ast",
+      "publisher": "Orion Publishing Group, Limited",
       "isbn": [
-        "1480542350",
+        "5237022685",
         "9780553052503",
-        "9780553281743",
-        "6059878555",
-        "9780006480440",
-        "0007381530",
-        "3453108329",
-        "9780575040205",
-        "0553052500",
+        "9788804469667",
         "9788445073032",
-        "9780007381531",
+        "0586207473",
+        "9781455861590",
+        "9780307831194",
+        "9782290027356",
+        "9781480542358",
+        "9785237022681",
+        "8445073885",
+        "9780575040205",
+        "9781473217423",
+        "3453108329",
+        "9788789974415",
+        "0553052500",
+        "8445009427",
+        "9780553281743",
+        "2290027359",
+        "9786059878555",
+        "0307831191",
         "1455861596",
+        "6059878555",
+        "8445073036",
+        "9788576570516",
+        "9783453108325",
         "9788445009420",
         "0006480446",
-        "9752105092",
-        "0307831191",
-        "9789752105096",
-        "9781473217423",
-        "0553281747",
-        "9788576570516",
-        "8445009427",
-        "9783453108325",
-        "9782277227359",
-        "9783453038868",
-        "8576570513",
-        "8804469668",
-        "9788804469667",
-        "2290027359",
-        "9780307831194",
-        "9781480542358",
-        "9788445073889",
-        "8445073036",
         "8789974417",
-        "9788789974415",
-        "9781455861590",
-        "9782290027356",
-        "2277227358",
-        "345303886X",
-        "9786059878555",
-        "8445073885",
-        "1473217423",
-        "0586207473",
-        "9785237022681",
+        "9780007381531",
+        "0553281747",
+        "0575040203",
         "9780586207475",
-        "5237022685",
-        "0575040203"
+        "1480542350",
+        "2277227358",
+        "9782277227359",
+        "8804469668",
+        "9783453038868",
+        "0007381530",
+        "345303886X",
+        "9788445073889",
+        "1473217423",
+        "9789752105096",
+        "9780006480440",
+        "9752105092",
+        "8576570513"
       ],
       "doi": "",
       "subjects": [],
@@ -98960,7 +99446,7 @@
       "identifiers": {
         "source_id": "OL27253W",
         "openlibrary_work": "OL27253W",
-        "openlibrary_edition": "OL62488585M",
+        "openlibrary_edition": "OL62591307M",
         "internet_archive": "isbn_9785237022681"
       },
       "providers": [
@@ -98968,7 +99454,7 @@
           "source": "Open Library",
           "source_id": "OL27253W",
           "source_url": "https://openlibrary.org/works/OL27253W",
-          "language": "it",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -102139,67 +102625,6 @@
       ]
     },
     {
-      "id": "work:f9aa2f280730ab00940fa1c1",
-      "title": "New Approaches to Transcodification",
-      "subtitle": "Literature, Arts, and Media",
-      "description": "This collection aims to renew our perspective on adaptation and intermedial processes by thinking of them in terms of codes rather than media. As a result, the notion of transcodification emerges as a crucial tool in order to study the circulation of semiotic and aesthetic resources across disciplines, knowledge systems, and cultures. Defined as the transfer of meaning-making potential from one semiotic domain to another, transcodification both includes and transcends intermediality, thus dramatically expanding the scope and research potential of adaptation and intermedial studies. The essays collected here apply this framework to an incredibly wide variety of objects and issues, from the relationship between art and historiography to the visual culture of finance, from contemporary approaches to ekphrasis to the hidden labor of screenwriters, from modern surveillance to digital comics, from fansubbing to the reception of the classical world in the digital age, from medieval theater to the role of videogames in the “war on terror”. By fostering dialogue between radically different disciplines, the book offers a unique approach to the study of semiotic interrelations across the most diverse aspects of human culture.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Adaption",
-        "Intermediality",
-        "Semiotics",
-        "Transcodification",
-        "Intermedialität",
-        "Semiotik",
-        "Transkodierung",
-        "thema EDItEUR::N History and Archaeology::NH History::NHG Middle Eastern history",
-        "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTC Communication studies",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBB Literary studies: ancient, classical and medieval",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181512",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ee7d403e-396b-4e0b-8214-2671b8782aa2/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116780/1/9783111636122.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181512",
-        "handle": "20.500.12854/181512",
-        "dspace_uuid": "0bc8567b-f4a0-4f07-a98b-9f1f23e50f4e"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181512",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181512",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116780/1/9783111636122.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:d89045d6d77b372df8e29aad",
       "title": "New Targets and New Drugs for Cancer Treatment",
       "subtitle": "New Small-Structure Drugs Approved by the FDA from 2020 to 2025",
@@ -102566,6 +102991,58 @@
           "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8a79d39219fc2e52224aefc7",
+      "title": "Novos horizontes entre a pandemia e pós-pandemia",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDITUS",
+      "isbn": [],
+      "doi": "10.7476/9788574556147",
+      "subjects": [
+        "Comunicação",
+        "Educação",
+        "COVID 19",
+        "Pandemia de",
+        "2020",
+        "Educação midiática",
+        "Estudo ensino",
+        "Tecnologia educacional",
+        "Comunicação científica",
+        "Eventos acadêmicos",
+        "Congressos científicos",
+        "Comunicação digital",
+        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTC Communication studies"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182203",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/7056bc02-af31-45f4-b4a1-3837698cb1c7/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182203",
+        "handle": "20.500.12854/182203",
+        "dspace_uuid": "c7dbb1ad-37d7-4807-a738-cdddcf54ead3"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182203",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182203",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -109672,6 +110149,89 @@
       ]
     },
     {
+      "id": "work:b666706255f50c7f09420a4b",
+      "title": "Pequeno Glossário Ilustrado de Metáforas para o corpo, ensino e aprendizagem em dança",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ramos, Sueli"
+      ],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309910",
+      "subjects": [
+        "Dança",
+        "Glossários",
+        "Estudo e ensino",
+        "Prática de ensino",
+        "Educação em dança",
+        "Ensino de dança",
+        "Metáforas",
+        "Metáforas corporais",
+        "Metáforas gestuais",
+        "Expressão corporal",
+        "Movimento corporal",
+        "Linguagem corporal",
+        "Corpo e movimento",
+        "Corpo e cultura",
+        "Corpo e afetividade",
+        "Imaginação",
+        "Universo imaginário",
+        "Educação corporal",
+        "Práticas pedagógicas",
+        "Recursos didáticos",
+        "Metodologias de ensino",
+        "Formação de professores",
+        "Formação docente",
+        "Processo de ensino-aprendizagem",
+        "Aprendizagem motora",
+        "Educação somática",
+        "Consciência corporal",
+        "Experiência corporal",
+        "Expressividade",
+        "Comunicação não verbal",
+        "Arte e educação",
+        "Dança-educação",
+        "Movimento e aprendizagem",
+        "Cognição corporal",
+        "Afetividade e aprendizagem",
+        "Cultura corporal",
+        "Criatividade",
+        "Jogos corporais",
+        "Exercícios corporais",
+        "Pedagogia da dança",
+        "Ensino-aprendizagem da dança",
+        "thema EDItEUR::A The Arts::AF The Arts: art forms::AFK Non-graphic and electronic art forms::AFKP Performance art"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182211",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1ae07aa5-5580-4219-9a85-a30fd8b1e918/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182211",
+        "handle": "20.500.12854/182211",
+        "dspace_uuid": "fcf72c29-7f15-4a52-8830-054331b9c160"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182211",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182211",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:366a553a7a55b01013a4a264",
       "title": "Per la storia del testo di Marziale",
       "subtitle": "",
@@ -112986,61 +113546,6 @@
           ],
           "access": "author_free",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:2631ea23469f9d8c32eebb7f",
-      "title": "Praxishandbuch Personalgewinnung in Bibliotheken",
-      "subtitle": "Arbeitskräfte finden, gewinnen und halten",
-      "description": "",
-      "authors": [],
-      "language": "de",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Employer Branding",
-        "Personalbindung",
-        "Personalgewinnung",
-        "Recruiting",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GL Library and information sciences / Museology",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GL Library and information sciences / Museology::GLM Library and information services"
-      ],
-      "source": "OAPEN Library",
-      "source_url": "https://library.oapen.org/handle/20.500.12657/116686",
-      "cover_url": "https://library.oapen.org/rest/bitstreams/128c320a-1424-4fcc-b1f8-cc42561d71ec/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/8c1be4f2-5087-46c6-a005-3e1bc1bb9f84/retrieve"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12657/116686",
-        "handle": "20.500.12657/116686",
-        "dspace_uuid": "61b690d4-c161-458f-9415-9eca189a7548"
-      },
-      "providers": [
-        {
-          "source": "OAPEN Library",
-          "source_id": "20.500.12657/116686",
-          "source_url": "https://library.oapen.org/handle/20.500.12657/116686",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/rest/bitstreams/8c1be4f2-5087-46c6-a005-3e1bc1bb9f84/retrieve"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
           "verified_legal": true
         }
       ]
@@ -118088,6 +118593,90 @@
       ]
     },
     {
+      "id": "work:9cdc92b5bec1d60572763076",
+      "title": "Questões sociocientíficas sob o enfoque",
+      "subtitle": "ciência, tecnologia, sociedade e ambiente e a pedagogia freiriana",
+      "description": "",
+      "authors": [
+        "Andrade, Maria Aparecida da Silva"
+      ],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309903",
+      "subjects": [
+        "Professores",
+        "Formação",
+        "Ciência",
+        "Estudo e ensino",
+        "Tecnologia",
+        "Meio ambiente",
+        "Aspectos sociais",
+        "Paulo Freire",
+        "1921-1997",
+        "Pedagogia crítica",
+        "Formação docente",
+        "Ensino de Ciências",
+        "Ciências nos anos iniciais",
+        "Educação CTSA",
+        "Sociedade e Ambiente",
+        "Questões sociocientíficas",
+        "Temas geradores sociocientíficos",
+        "Educação científica",
+        "Alfabetização científica",
+        "Educação humanista",
+        "Educação interdisciplinar",
+        "Práticas pedagógicas",
+        "Práticas pedagógicas dialógicas",
+        "Ensino contextualizado",
+        "Educação transformadora",
+        "Formação de professores",
+        "Formação inicial de professores",
+        "Pedagogia",
+        "Educação básica",
+        "Anos iniciais do ensino fundamental",
+        "Educação ambiental",
+        "Educação tecnológica",
+        "Relações entre ciência e sociedade",
+        "Ciência e cidadania",
+        "Pensamento crítico",
+        "Investigação científica",
+        "Participação social",
+        "Transformação social",
+        "BNCC",
+        "Currículo escolar",
+        "Interdisciplinaridade",
+        "Educação emancipatória",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNB History of education"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182209",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1ecad0ff-292e-4aab-a2a6-2fda6f15b7d4/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182209",
+        "handle": "20.500.12854/182209",
+        "dspace_uuid": "a8004d05-963f-4666-93cd-e157ea04abad"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182209",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182209",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:b054f5a9b50a3fff90c10aeb",
       "title": "Quintus Claudius: A Romance of Imperial Rome. Volume 1",
       "subtitle": "",
@@ -120185,6 +120774,90 @@
       ]
     },
     {
+      "id": "work:2bb5d72c60ef389bfbfc7170",
+      "title": "RECIFFUNA – VOL. IX – AÑO 5 – 2019 ( 2)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Varios autores"
+      ],
+      "language": "es",
+      "year": 2019,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ciencias sociales",
+        "humanidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/reciffuna-vol.-ix-an-o-5-2019-2",
+      "cover_url": "https://archive.org/services/img/reciffuna-vol.-ix-an-o-5-2019-2",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "reciffuna-vol.-ix-an-o-5-2019-2",
+        "internet_archive": "reciffuna-vol.-ix-an-o-5-2019-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "reciffuna-vol.-ix-an-o-5-2019-2",
+          "source_url": "https://archive.org/details/reciffuna-vol.-ix-an-o-5-2019-2",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:59912ca0a8744ffedb662c59",
+      "title": "RECIFFUNA – VOL. V – AÑO 3 – 2017 ( 2)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Varios autores"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ciencias sociales",
+        "humanidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/reciffuna-vol.-v-an-o-3-2017-2",
+      "cover_url": "https://archive.org/services/img/reciffuna-vol.-v-an-o-3-2017-2",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "reciffuna-vol.-v-an-o-3-2017-2",
+        "internet_archive": "reciffuna-vol.-v-an-o-3-2017-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "reciffuna-vol.-v-an-o-3-2017-2",
+          "source_url": "https://archive.org/details/reciffuna-vol.-v-an-o-3-2017-2",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:ae6145466ecfedd7b9cad417",
       "title": "Reclaiming Liberal Democracy in the Postfactual Age",
       "subtitle": "",
@@ -122005,65 +122678,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:bd4ab47061521115d05adf03",
-      "title": "Rethinking Conquest",
-      "subtitle": "Studies on the Late Antique Near East from Byzantium to Islam",
-      "description": "The momentous political and social changes that affected the Near East following the death of the prophet Muhammad have traditionally been framed as ‘conquests’. But what did ‘conquest’ mean, if anything, to contemporary and later medieval observers in the Byzantine and Islamicate worlds, beyond the told and retold stories of battles and sieges? What should it or can it mean for today’s historian and area scholar? This volume aims, on the one hand, to record aspects of the wide-ranging conversation around the topic of ‘conquest’ that took place at a conference held in Tübingen in 2017, intersecting the trajectory of the many revisions which have affected Byzantine and Early Islamic historiography in recent decades. On the other hand, by including surveys that deal with interdisciplinary, general and theoretical issues and studies that engage in greater detail with the literary and archaeological source material, the book offers readers a guide to some of the most significant problems that face the historian of every extraction when approaching the events of the seventh century CE.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Byzantium",
-        "Islam",
-        "Late Antiquity",
-        "Near East",
-        "Byzanz",
-        "Naher Osten",
-        "Spätantike",
-        "thema EDItEUR::N History and Archaeology::NH History::NHD European history::NHDA European history: the Romans",
-        "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRP Islam"
-      ],
-      "source": "OAPEN Library",
-      "source_url": "https://library.oapen.org/handle/20.500.12657/116688",
-      "cover_url": "https://library.oapen.org/rest/bitstreams/67010158-001a-4d5a-a9bb-7f7df7d12706/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/ed12bebb-bc17-4144-a805-52fdeb1faa0c/retrieve"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12657/116688",
-        "handle": "20.500.12657/116688",
-        "dspace_uuid": "65dcc351-ee84-428a-aead-010a6ee6f244"
-      },
-      "providers": [
-        {
-          "source": "OAPEN Library",
-          "source_id": "20.500.12657/116688",
-          "source_url": "https://library.oapen.org/handle/20.500.12657/116688",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/rest/bitstreams/ed12bebb-bc17-4144-a805-52fdeb1faa0c/retrieve"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
           "verified_legal": true
         }
       ]
@@ -124091,77 +124705,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a7db6d545226f29fa4d2ac0e",
-      "title": "Riesgos psicosociales en la interpretación de enlace en contextos de atención psicológica: un estudio exploratorio con intérpretes profesionales",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Guerrero Bocanegra, Borja"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Estrés laboral",
-        "Interpretación de enlace",
-        "Prevención de riesgos laborales",
-        "Riesgos psicosociales",
-        "Salud mental"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps",
-      "cover_url": "https://archive.org/services/img/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps",
-        "internet_archive": "riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps",
-          "source_url": "https://archive.org/details/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/riesgos-psicosociales-en-la-interpretacion-de-enlace-en-contextos-de-atencion-ps/Riesgos%20psicosociales%20en%20la%20interpretaci%C3%B3n%20de%20enlace%20en%20contextos%20de%20atenci%C3%B3n%20psicol%C3%B3gica%20un%20estudio%20exploratorio_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -128955,10 +129498,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/e4aa3c51-839f-4408-8f7d-0ecc2888b55c/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116697/1/9783111692029.pdf"
         }
       ],
       "access": "creative_commons",
@@ -128968,10 +129507,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116697",
         "handle": "20.500.12657/116697",
-        "dspace_uuid": "9aad49f6-5a43-4cd2-a766-b922b0e94b2a",
-        "doab_source_id": "20.500.12854/181505",
-        "doab_handle": "20.500.12854/181505",
-        "doab_dspace_uuid": "74e32982-de24-4c2b-80fb-cdac26eefe6e"
+        "dspace_uuid": "9aad49f6-5a43-4cd2-a766-b922b0e94b2a"
       },
       "providers": [
         {
@@ -128987,21 +129523,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181505",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181505",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116697/1/9783111692029.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -134955,6 +135476,89 @@
       ]
     },
     {
+      "id": "work:d0ad54026e2dc7344a55ce54",
+      "title": "Sombras de Leocádia de Tal",
+      "subtitle": "relatos de um crime na Bahia oitocentista",
+      "description": "",
+      "authors": [],
+      "language": "pt",
+      "year": null,
+      "publisher": "EDUFBA",
+      "isbn": [],
+      "doi": "10.7476/9786556309989",
+      "subjects": [
+        "Bahia",
+        "História",
+        "Fontes",
+        "Guanambi",
+        "BA",
+        "Usos e costumes",
+        "Memória coletiva",
+        "Mulheres",
+        "Crimes contra",
+        "Crime na literatura",
+        "História social",
+        "História cultural",
+        "História das mulheres",
+        "Violência contra as mulheres",
+        "Violência de gênero",
+        "Feminicídio",
+        "Criminalidade",
+        "História do crime",
+        "Processos-crimes",
+        "Inquéritos policiais",
+        "Fontes judiciais",
+        "Fontes orais",
+        "História oral",
+        "Memória histórica",
+        "Memórias fragmentadas",
+        "Memória e história",
+        "Espiritualidades populares",
+        "Religiosidade popular",
+        "Cultura popular",
+        "Cotidiano",
+        "Vida social",
+        "Conflitos sociais",
+        "Desigualdades sociais",
+        "Relações de gênero",
+        "Justiça e sociedade",
+        "Práticas jurídicas",
+        "Século XIX",
+        "Bahia oitocentista",
+        "Beija-Flor",
+        "História regional",
+        "Micro-história",
+        "Historicidade da violência",
+        "Narrativas de memória",
+        "thema EDItEUR::N History and Archaeology::NH History::NHB General and world history"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182210",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/2d899be3-0725-41cb-a2fc-a813f59b28fa/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182210",
+        "handle": "20.500.12854/182210",
+        "dspace_uuid": "75d760cd-7534-4f7b-8608-133e85b4aabc"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182210",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182210",
+          "language": "pt",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:70846c3ac77256f0d71696dc",
       "title": "Some computer science issues in ubiquitous computing",
       "subtitle": "",
@@ -136365,10 +136969,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/ece8e244-ae4b-43c3-a686-7a77826d6e01/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116984/1/9781040537763.pdf"
         }
       ],
       "access": "creative_commons",
@@ -136378,10 +136978,7 @@
       "identifiers": {
         "source_id": "20.500.12657/116984",
         "handle": "20.500.12657/116984",
-        "dspace_uuid": "97721768-0d6b-42ff-be29-6f1e179e2d37",
-        "doab_source_id": "20.500.12854/181498",
-        "doab_handle": "20.500.12854/181498",
-        "doab_dspace_uuid": "fdfcbb99-b26e-4bbf-b965-0feab5ce78c5"
+        "dspace_uuid": "97721768-0d6b-42ff-be29-6f1e179e2d37"
       },
       "providers": [
         {
@@ -136397,21 +136994,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181498",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181498",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116984/1/9781040537763.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -144025,78 +144607,78 @@
       ]
     },
     {
-      "id": "work:25a43fdbd9a8969e9ed09b23",
+      "id": "work:631f4f5facb4d75d12d137cb",
       "title": "The Ballad of Songbirds and Snakes",
       "subtitle": "",
       "description": "",
       "authors": [
         "Suzanne Collins"
       ],
-      "language": "und",
+      "language": "es",
       "year": 2020,
-      "publisher": "Scholastic Australia",
+      "publisher": "Scholastic Audio Books",
       "isbn": [
-        "9781713619444",
-        "9000372925",
-        "176026587X",
-        "9786073807876",
-        "9789655741339",
-        "9655741338",
-        "3789120022",
-        "9780702309519",
-        "1338635174",
         "9786555323863",
-        "9788427238695",
-        "9783789120022",
-        "1338635190",
-        "8413144884",
-        "9789000372058",
-        "9781338674453",
-        "9786064307231",
-        "0702309516",
-        "9781338635195",
-        "9781094290515",
-        "9788427248496",
-        "9798212980609",
-        "9798212982146",
-        "8427249977",
-        "9786050973877",
-        "6064307234",
-        "9781743836811",
-        "9789000399314",
-        "9781760265878",
-        "1094290513",
-        "9000399319",
-        "1339016575",
-        "6073807872",
-        "6555323868",
-        "9780702328909",
-        "8417515917",
-        "9780702300172",
-        "9788413144887",
-        "9789000372928",
-        "1743836813",
-        "0702300179",
-        "0702328901",
-        "9780702333019",
-        "171361944X",
-        "0702342378",
-        "842723869X",
-        "9781338635171",
-        "8427248490",
-        "1339016583",
-        "0702333018",
-        "9798855026092",
-        "9788427249974",
-        "9000372054",
-        "1338635182",
         "9781339016580",
-        "9788417515911",
-        "6050973873",
+        "1339016583",
+        "842723869X",
+        "9789000372058",
+        "9789655741339",
+        "8427248490",
+        "1339016575",
+        "0702328901",
+        "0702300179",
+        "9781338635171",
+        "1338635174",
+        "8413144884",
+        "6555323868",
+        "9788427238695",
+        "6064307234",
+        "9781713619444",
+        "9780702300172",
+        "9781338635195",
+        "8417515917",
+        "1094290513",
+        "9798212980609",
+        "3789120022",
+        "9000399319",
+        "176026587X",
+        "9000372054",
+        "9786050973877",
+        "8427249977",
+        "6073807872",
         "1338674455",
+        "9655741338",
+        "9781338674453",
+        "9788427249974",
+        "9788417515911",
+        "9781743836811",
+        "9780702328909",
         "9781338635188",
+        "171361944X",
+        "9786073807876",
+        "9798212982146",
+        "0702333018",
+        "9781339016573",
+        "9781094290515",
+        "9000372925",
+        "9780702333019",
+        "9780702309519",
+        "1743836813",
+        "9783789120022",
+        "9786064307231",
+        "1338635190",
+        "1338635182",
+        "9788427248496",
+        "0702309516",
+        "0702342378",
+        "9789000372928",
+        "9798855026092",
+        "9789000399314",
         "9780702342370",
-        "9781339016573"
+        "9788413144887",
+        "6050973873",
+        "9781760265878"
       ],
       "doi": "",
       "subjects": [],
@@ -144119,7 +144701,7 @@
           "source": "Open Library",
           "source_id": "OL20716197W",
           "source_url": "https://openlibrary.org/works/OL20716197W",
-          "language": "und",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -153792,415 +154374,238 @@
       ]
     },
     {
-      "id": "work:4880634766d30459753f846a",
+      "id": "work:08223afda0fb3b24e59d10ca",
       "title": "The Hunger Games",
       "subtitle": "",
       "description": "",
       "authors": [
         "Suzanne Collins"
       ],
-      "language": "de",
+      "language": "es",
       "year": 2008,
-      "publisher": "Editorial Presença",
+      "publisher": "Lectorum Publications, Incorporated",
       "isbn": [
-        "1407139797",
-        "9781339030609",
-        "1407196189",
-        "9783125781535",
-        "9788427225183",
-        "0702342386",
-        "9781407196183",
-        "1742835759",
-        "1407132075",
-        "1407129031",
-        "9781407129037",
-        "0545471044",
-        "2266305751",
-        "1417831731",
-        "8804672625",
-        "9788184771695",
-        "9781407188935",
-        "9781519480026",
-        "9781407136189",
-        "3841501346",
-        "9783789132186",
-        "9786555321449",
-        "9782298079715",
-        "9780545452397",
-        "9780545425117",
-        "9789047515975",
-        "9780702332982",
-        "2266182692",
-        "0545229936",
-        "1760662100",
-        "8427208391",
-        "9781987156584",
-        "1466185996",
-        "9862131365",
-        "1407135287",
-        "9786073807845",
-        "4840146322",
-        "1407133179",
-        "1477409572",
-        "1407109081",
-        "0545091020",
-        "9606665801",
-        "9781627656368",
-        "0702333026",
-        "9787506368513",
-        "1627656367",
-        "9788498675399",
-        "2298079714",
-        "5271415201",
-        "9781410419866",
-        "9047515978",
-        "9000331951",
-        "2266260774",
-        "9780545310581",
-        "818477169X",
-        "8372783578",
-        "9781338321913",
-        "0606262288",
-        "9781606865811",
-        "9780545091022",
-        "9781407191294",
-        "9789722342391",
-        "1519480024",
-        "8499327974",
-        "9781338334920",
-        "9786180122756",
-        "6055943638",
-        "9789862131367",
-        "1536425516",
-        "655532144X",
-        "9781484476826",
-        "9780545229937",
-        "9781407133171",
-        "9789351035961",
-        "9780545405775",
-        "9781743629857",
-        "1407132083",
-        "0545791871",
-        "8499303323",
-        "9722342398",
-        "9789000399284",
-        "9789655177183",
-        "9788579800245",
-        "140712904X",
-        "9787506351539",
-        "8427202121",
-        "9786074001907",
-        "0545452392",
-        "9780545626385",
-        "9788804632238",
-        "9788804594109",
-        "9780702333026",
-        "6074001901",
-        "141041986X",
-        "9810844514",
-        "9786050929997",
-        "9934327074",
-        "8498675391",
-        "9782266182690",
-        "8804716703",
-        "1407188933",
-        "9781407135397",
-        "9789000331956",
         "9781407157863",
-        "8702094193",
-        "9783789121272",
-        "9784840146326",
-        "2298027250",
-        "8579800242",
-        "8427246005",
-        "8427248466",
-        "9781477409572",
-        "0439023483",
-        "9781407192086",
-        "9782266305754",
-        "1606865811",
-        "9789710254545",
-        "9788427202122",
-        "1481903217",
-        "2266257226",
-        "9780702342387",
-        "9781407192239",
-        "0545405777",
-        "9788427246003",
-        "841314485X",
-        "9781411471047",
-        "6073807848",
-        "1407157868",
-        "9788427248465",
-        "9783841501349",
-        "9788499327976",
         "9798855026139",
-        "9798212982115",
-        "9786064306166",
-        "9785271257940",
-        "1407153331",
-        "0545626382",
-        "9788492966806",
-        "9786055943639",
-        "8427225180",
-        "0439023521",
-        "140711168X",
-        "9788498680614",
-        "9784840146319",
-        "9876091654",
-        "618012275X",
-        "9710254545",
-        "9781407109084",
-        "0545114071",
-        "8492966807",
-        "750636851X",
-        "054531058X",
-        "9789810844516",
-        "1987156587",
-        "6064306165",
-        "9788372786371",
-        "8804632232",
-        "9788804672623",
-        "9781407135281",
         "9782266260770",
-        "1407191292",
-        "9782266257220",
-        "9780545791878",
-        "140719223X",
-        "3789132187",
-        "9781594135873",
-        "9789175030340",
-        "1743629850",
-        "1411471040",
-        "9781466185999",
-        "9000399289",
-        "9780545114073",
-        "8804594101",
-        "1484476824",
-        "1594135878",
-        "9788372783578",
-        "9781760662103",
-        "9781407129044",
-        "9789876091657",
-        "1407135392",
-        "7506351536",
-        "9788499303321",
-        "5271257940",
-        "9781481903219",
-        "8498680611",
-        "9780439023481",
-        "1407136186",
-        "4840146314",
-        "9781742835754",
-        "9175030349",
-        "9781407132075",
-        "9780606262286",
-        "1338334921",
-        "1339030608",
-        "3125781531",
-        "9781407139791",
-        "1338321919",
-        "9781407132082",
-        "9789606665806",
         "9788804716709",
-        "0545425115",
-        "9781417831739",
-        "9780439023528",
-        "9798212979986",
-        "3789121274",
-        "1407192086",
-        "8372786372",
-        "9785271415203",
-        "9782298027259",
-        "9655177181",
-        "9788427208391",
-        "9780545471046",
-        "9781407153339",
-        "9788702094190",
-        "0702332984",
-        "9351035964",
+        "1407153331",
         "9789934327070",
-        "9781536425512",
-        "9781407111681",
+        "655532144X",
+        "5271257940",
+        "9780545471046",
+        "1742835759",
+        "9788804632238",
+        "9781987156584",
+        "2266305751",
+        "9781407135281",
         "9788413144856",
+        "3841501346",
+        "9788702094190",
+        "9788492966806",
+        "618012275X",
+        "9783125781535",
+        "9780439023481",
+        "1987156587",
+        "9798212979986",
+        "9781417831739",
+        "9781407129037",
+        "9781594135873",
+        "9780545791878",
+        "2298079714",
+        "0545405777",
+        "9788427208391",
+        "7506351536",
+        "0545425115",
+        "9175030349",
+        "1407191292",
+        "1407109081",
+        "9782266182690",
+        "9789047515975",
+        "8492966807",
+        "1481903217",
+        "9781407135397",
+        "9783841501349",
+        "140712904X",
+        "9655177181",
+        "9781410419866",
+        "9786074001907",
+        "9788427248465",
+        "9786064306166",
+        "9788498680614",
+        "9788184771695",
+        "4840146322",
+        "9781627656368",
+        "6064306165",
+        "9789606665806",
+        "8499303323",
+        "1407129031",
+        "1407192086",
+        "9784840146319",
+        "8427248466",
+        "1407132083",
+        "8702094193",
+        "9789810844516",
+        "9780702342387",
+        "8804594101",
+        "9780545091022",
+        "9781760662103",
+        "9782298079715",
+        "0702333026",
+        "8498675391",
+        "8427246005",
+        "9781407109084",
+        "0702332984",
+        "9788427225183",
+        "1407139797",
+        "9781338334920",
+        "9788498675399",
+        "9788579800245",
+        "9606665801",
+        "0439023521",
+        "9781411471047",
+        "9788804672623",
+        "9788427246003",
+        "750636851X",
+        "9780545452397",
+        "9780702332982",
+        "9000399289",
+        "9781407192086",
+        "9789351035961",
+        "9780545229937",
+        "8499327974",
+        "9781519480026",
+        "0545452392",
+        "0545229936",
+        "6073807848",
+        "9781407192239",
+        "1466185996",
+        "9710254545",
+        "1519480024",
+        "9781407139791",
+        "8804672625",
+        "2266257226",
+        "9781407132082",
+        "6074001901",
+        "818477169X",
+        "141041986X",
+        "0702342386",
+        "1407157868",
+        "3789121274",
+        "054531058X",
+        "0545471044",
+        "3125781531",
+        "9782298027259",
+        "9934327074",
+        "9780545114073",
+        "1407136186",
+        "9784840146326",
+        "1407188933",
+        "9781407133171",
+        "9789175030340",
+        "9788427202122",
+        "8427225180",
+        "9781338321913",
+        "9781742835754",
+        "1627656367",
+        "1407135392",
+        "9780545626385",
+        "9789876091657",
+        "9047515978",
+        "841314485X",
+        "1417831731",
+        "1606865811",
+        "9789655177183",
+        "9786555321449",
+        "9789862131367",
+        "9781407188935",
+        "140711168X",
+        "9781477409572",
+        "9789000399284",
+        "9798212982115",
+        "8804632232",
+        "140719223X",
+        "9781407132075",
+        "9781484476826",
+        "9788372783578",
+        "9789722342391",
+        "9788499303321",
+        "9788372786371",
+        "9787506351539",
+        "9789000331956",
+        "5271415201",
+        "0545114071",
+        "1407135287",
+        "9862131365",
+        "1594135878",
+        "8372783578",
+        "8498680611",
+        "9786050929997",
+        "9781407129044",
+        "9789710254545",
+        "9780606262286",
+        "4840146314",
+        "3789132187",
+        "2266260774",
+        "9783789132186",
+        "0606262288",
+        "9787506368513",
+        "9781407191294",
+        "9781606865811",
+        "9782266305754",
+        "9786055943639",
+        "9781466185999",
+        "9780545425117",
+        "1338321919",
+        "2266182692",
+        "9781407136189",
+        "9810844514",
+        "1407132075",
+        "9786180122756",
+        "1743629850",
+        "1536425516",
+        "0545626382",
+        "0439023483",
+        "8579800242",
+        "9780545405775",
+        "8372786372",
+        "9000331951",
+        "6055943638",
+        "9781407111681",
+        "0545091020",
+        "8427208391",
+        "1760662100",
+        "9781481903219",
+        "9780439023528",
+        "9783789121272",
+        "9781407196183",
+        "9786073807845",
+        "0545791871",
+        "2298027250",
+        "8804716703",
+        "1411471040",
+        "1407133179",
+        "9788804594109",
+        "9781743629857",
+        "9780545310581",
+        "1339030608",
+        "8427202121",
+        "9876091654",
         "6050929998",
-        "8413144868",
-        "9862131608",
-        "9780545638197",
-        "842720213X",
-        "0439023491",
-        "1713572575",
-        "9788427200005",
-        "7506355663",
-        "1407109367",
-        "9788380087828",
-        "8804632224",
-        "9781338321951",
-        "0702332992",
-        "5170671288",
-        "1407138332",
-        "9788372783950",
-        "1536425508",
-        "0606324038",
-        "9780439023498",
-        "9786050930672",
-        "9785170671281",
-        "9781407138336",
-        "1594135851",
-        "9782266260787",
-        "5271424545",
-        "1514349809",
-        "9785271424540",
-        "9789351035978",
-        "0606320253",
-        "9789862131602",
-        "2298035008",
-        "9170017786",
-        "0545101433",
-        "9788427248472",
-        "043902353X",
-        "8184774001",
-        "6054263129",
-        "9722344420",
-        "9788498684032",
-        "8382655343",
-        "9788467238983",
-        "9798855026115",
-        "0545101417",
-        "9789606665424",
-        "9781338589009",
-        "1410420442",
-        "1407129007",
-        "9782266182706",
-        "9788804716723",
-        "9789810848231",
-        "8380087828",
-        "9782266248259",
-        "0545227240",
-        "9780702342394",
-        "9788482809144",
-        "8427208405",
-        "1407139800",
-        "8498681898",
-        "9781407139807",
-        "9781407128993",
-        "9788184774009",
-        "9788499305424",
-        "1407132091",
-        "0545879167",
-        "0702342394",
-        "9781713572572",
-        "3789132314",
-        "9782298035001",
-        "9000331978",
-        "8372783950",
-        "880471672X",
-        "9788427208407",
-        "9788498681895",
-        "1742835767",
-        "8427248474",
-        "9780545227247",
-        "9788382655346",
-        "9780606320252",
-        "8499327966",
-        "8482809148",
-        "6050930678",
-        "9781407136196",
-        "140712899X",
-        "9788372788757",
-        "1484481127",
-        "140715334X",
-        "9810848234",
-        "9781514349809",
-        "9781760265311",
-        "8702074567",
-        "1407136194",
-        "9780545791885",
-        "3789132195",
-        "8427200005",
-        "9786054263127",
-        "3125781698",
-        "9175032880",
-        "9780545879163",
-        "9788702074567",
-        "9606665429",
-        "9786073807852",
-        "9655179338",
-        "9781594135859",
-        "9781743629864",
-        "9781407132099",
-        "0545310598",
-        "0545638194",
-        "1407133187",
-        "9788413144863",
-        "8372788758",
-        "849868403X",
-        "154615955X",
-        "9788499327969",
-        "1760265314",
-        "9781407129006",
-        "9789000400614",
-        "1407191306",
-        "9000400619",
-        "054579188X",
-        "9781484481127",
-        "9781407133188",
-        "9780545586177",
-        "9786555321456",
-        "8499305423",
-        "9787506355667",
-        "8467238984",
-        "9781407153346",
-        "9789000331970",
-        "2266260782",
-        "9780606324038",
-        "0545633249",
-        "9780545310598",
-        "9781742835761",
-        "1546159541",
-        "9783125781696",
-        "0545586178",
-        "9788804632221",
-        "9780545101417",
-        "9351035972",
-        "2266182706",
-        "9780702332999",
-        "9789170017780",
-        "9000399297",
-        "9789722344425",
-        "1338321951",
-        "9783789132193",
-        "9798212979993",
-        "9781546159544",
-        "1407188917",
-        "9789175032887",
-        "9780439023535",
-        "9781410420442",
-        "8937832992",
-        "9781546159551",
-        "9781407188911",
-        "1407157876",
-        "9789000399291",
-        "9789655179330",
-        "9781407109367",
-        "9780545101431",
-        "9781536425505",
-        "6073807856",
-        "9798212982139",
-        "9788492966820",
-        "2266248251",
-        "9781407157870",
-        "9780545633246",
-        "9780545603683",
-        "6555321458",
-        "9788427202139",
-        "1338589008",
-        "0545603684",
-        "9788937832994",
-        "9783789132315",
-        "8492966823",
-        "9781407191300",
-        "1743629869"
+        "9781536425512",
+        "1484476824",
+        "9781407153339",
+        "9351035964",
+        "9785271415203",
+        "9788499327976",
+        "9782266257220",
+        "1338334921",
+        "9722342398",
+        "9781339030609",
+        "9785271257940",
+        "9780702333026",
+        "1407196189",
+        "1477409572"
       ],
       "doi": "",
       "subjects": [],
@@ -154216,28 +154621,14 @@
         "source_id": "OL5735363W",
         "openlibrary_work": "OL5735363W",
         "openlibrary_edition": "OL62454015M",
-        "internet_archive": "jieyouxi0000coll",
-        "open_library_source_id": "OL5735360W",
-        "open_library_openlibrary_work": "OL5735360W",
-        "open_library_openlibrary_edition": "OL57744823M",
-        "open_library_internet_archive": "losjuegosdelhamb0000suza_u8q0"
+        "internet_archive": "jieyouxi0000coll"
       },
       "providers": [
         {
           "source": "Open Library",
           "source_id": "OL5735363W",
           "source_url": "https://openlibrary.org/works/OL5735363W",
-          "language": "de",
-          "formats": [],
-          "access": "digital_lending",
-          "license": "",
-          "verified_legal": true
-        },
-        {
-          "source": "Open Library",
-          "source_id": "OL5735360W",
-          "source_url": "https://openlibrary.org/works/OL5735360W",
-          "language": "de",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -176013,6 +176404,47 @@
       ]
     },
     {
+      "id": "work:f80afc49ab109f0d08b4f1a3",
+      "title": "Track 01 Carlos Sagnay de la Bastida en Radio Cristal, 16 Julio 2014.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Carlos Sagnay de la Bastida."
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Carlos Sagnay de la Bastida en Radio Cristal."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Track01_201409",
+      "cover_url": "https://archive.org/services/img/Track01_201409",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Track01_201409",
+        "internet_archive": "Track01_201409"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Track01_201409",
+          "source_url": "https://archive.org/details/Track01_201409",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:82d0a0f32ee12c692a533bd3",
       "title": "Tractatus logico-philosophicus",
       "subtitle": "",
@@ -181374,73 +181806,73 @@
       ]
     },
     {
-      "id": "work:f216741543cd5ac80fc0a0a2",
+      "id": "work:becdbcc77add5d182dca561c",
       "title": "Unlimited power",
       "subtitle": "",
       "description": "",
       "authors": [
         "Tony Robbins"
       ],
-      "language": "und",
+      "language": "es",
       "year": 1986,
-      "publisher": "Simon and Schuster",
+      "publisher": "Ballantine Books",
       "isbn": [
-        "9780307475633",
-        "8499085504",
-        "0449456692",
+        "0684838729",
+        "9780671316457",
+        "9781555253448",
+        "9780684838724",
+        "9990146039",
+        "9579344280",
+        "0307475638",
+        "9707800941",
+        "0743409396",
+        "1416586377",
+        "8546500452",
+        "155525344X",
         "8497938763",
-        "0449902803",
-        "9781471105654",
+        "9788546500451",
+        "9780671699765",
         "9780671610883",
         "2221053168",
-        "9788497938761",
-        "0307475638",
-        "9789707800946",
-        "9782221099995",
         "0684845776",
-        "9707800941",
-        "0684838729",
-        "9780684838724",
+        "0449902803",
+        "9781416586371",
+        "2221099990",
+        "1644730073",
+        "8499085504",
+        "0671699768",
+        "9780743500685",
+        "9781471167522",
+        "9782290071755",
+        "9780684845777",
+        "9789579344289",
+        "9780671654450",
+        "0671621467",
+        "9780671621469",
+        "9780684824369",
+        "0743500687",
+        "9788497938761",
+        "074347810X",
+        "9780449902806",
+        "1471167526",
+        "1471105652",
+        "9780743409391",
+        "9780307475633",
         "2290071757",
         "9788499085500",
-        "9780449456699",
-        "074347810X",
-        "0671621467",
-        "9780671316457",
-        "0671654454",
-        "9789579344289",
-        "1644730073",
-        "9780684845777",
-        "9781555253448",
-        "2221099990",
-        "9788546500451",
-        "1471105652",
-        "9789990146035",
-        "9781471167522",
-        "9780671654450",
-        "9780684824369",
-        "0671699768",
-        "1471167526",
-        "8546500452",
-        "9780743409391",
-        "9579344280",
-        "9780743478106",
-        "9782221053164",
-        "9782290071755",
-        "0743500687",
+        "9781471105654",
         "9781644730072",
-        "9780671621469",
-        "0671316451",
-        "0743409396",
-        "0684824361",
-        "9780743500685",
-        "9780671699765",
-        "9781416586371",
         "0671610880",
-        "155525344X",
-        "9990146039",
-        "1416586377",
-        "9780449902806"
+        "9782221053164",
+        "9780449456699",
+        "0671654454",
+        "0449456692",
+        "9782221099995",
+        "0671316451",
+        "0684824361",
+        "9789707800946",
+        "9789990146035",
+        "9780743478106"
       ],
       "doi": "",
       "subjects": [],
@@ -181463,7 +181895,7 @@
           "source": "Open Library",
           "source_id": "OL2715466W",
           "source_url": "https://openlibrary.org/works/OL2715466W",
-          "language": "und",
+          "language": "es",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -181627,47 +182059,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ac4ade46d3772177cdc8ffbe",
-      "title": "Untitled",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Borjes"
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Evernote"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Untitled_20160427_1645",
-      "cover_url": "https://archive.org/services/img/Untitled_20160427_1645",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Untitled_20160427_1645",
-        "internet_archive": "Untitled_20160427_1645"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Untitled_20160427_1645",
-          "source_url": "https://archive.org/details/Untitled_20160427_1645",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -183630,59 +184021,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6d4108d5f8239e91bdd60461",
-      "title": "Volume 4.1: The School of Chrysippus: Zeno of Tarsus and Diogenes of Babylon",
-      "subtitle": "",
-      "description": "Diogenes of Babylon, also known as Diogenes of Seleucia, was a pupil of Chrysippus and, after Zeno of Tarsus, the fifth head of the Stoic school in Athens, serving until his death, with Antipater of Tarsus and Panaetius among his students. The dates of his birth and death remain uncertain (ca. 238/228–150/140 BCE). Together with the Academic Carneades and the Peripatetic Critolaus, he participated in the embassy of philosophers sent to Rome to petition for the abolition of the 500-talent fine imposed on Athens for the sack of Oropos. From the key information about his surviving treatises, we know that their subjects can be traced back to the three parts into which Diogenes of Babylon divided philosophy — namely, logic, physics, and ethics — as Zeno of Citium had also done. One of the greatest difficulties in reconstructing his thought lies in its transmission: almost 80% of the testimonies about him, collected by von Arnim ( SVF III, pp. 210–43 = frs. 1–126), are preserved in the papyri, especially the Herculaneum papyri, sometimes in rolls that have awaited a new critical edition for over a century. About 120 years after the publication of the Stoicorum Veterum Fragmenta , this volume, after critically collecting the scanty evidence for Zeno of Tarsus, presents a new systematic and comprehensive edition of the fragments of Diogenes of Babylon, with an introduction, a translation, and a running commentary. The collection increases by more than a half the number of known testimonies considered by von Arnim. This enterprise will significantly enhance our knowledge of the final stage of the early Stoa and its relation to the rival schools of Hellenistic philosophy. Most importantly, the volume brings to the fore one of the greatest and most revolutionary figures in the history of ancient philosophy, so far undeservedly neglected, whose doctrines contributed substantially to the development of logic, linguistics, ontology, and ethics in the Western thought.",
-      "authors": [],
-      "language": "en",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "DG Title",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DB Ancient, classical and medieval texts::DBS Ancient Sagas and epics::DBSG Ancient Greek and Roman literature",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHA Ancient Greek and Roman philosophy",
-        "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181500",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/319fd820-aa5b-4d72-9d74-2535edcc78c9/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116727/1/9783111427263.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181500",
-        "handle": "20.500.12854/181500",
-        "dspace_uuid": "0c03f3f0-65a2-47b2-b43e-f5a88513983f"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181500",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181500",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116727/1/9783111427263.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -186402,69 +186740,6 @@
             {
               "type": "pdf",
               "url": "https://library.oapen.org/bitstream/20.500.12657/117380/1/9781350318861.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6e06f0f84b0fa4ae59142bf7",
-      "title": "Women’s Healthcare in Ancient Mesopotamia in the First Millennium BCE",
-      "subtitle": "An Edition of the Textual Sources",
-      "description": "Treatments for women from ancient Mesopotamia form the most extensive medical corpus on female health from antiquity beside the Hippocratic gynaecological works. This volume presents a comprehensive edition of cuneiform texts from the first millennium BCE concerned with women's health issues. The book, which includes numerous hitherto unpublished tablets, contains diagnostic and therapeutic texts, ranging from medical prescriptions to incantations, rituals and fertility tests. Selected texts from the second millennium BCE as well as scholarly commentaries on diagnostic or therapeutic texts from the first millennium BCE are also included in the volume. While the main thematic focus of Mesopotamian women’s healthcare lies on female fertility, pregnancy and birth, the corpus covers an impressive range of health problems spanning from haemorrhage to cosmetic treatments. Complemented by philological commentaries and an introduction that provides an overview of the textual history and a discussion of medical concepts and practices, this textbook forms an up-to-date survey for both specialists and non-specialist readers interested in ancient Mesopotamian healing traditions.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Medical cuneiform texts",
-        "Ancient Mesopotamian gynaecology and obstetrics",
-        "Healing rituals and incantations",
-        "Drug-based remedies",
-        "Arzneimittel",
-        "Geburtshilfe",
-        "Gynäkologie",
-        "Heilritual",
-        "Medizinischer Keilschrifttext",
-        "Mesopotamien",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRS Ancient religions and Mythologies",
-        "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRV Aspects of religion::QRVC Criticism and exegesis of sacred texts",
-        "thema EDItEUR::M Medicine and Nursing::MB Medicine: general issues::MBX History of medicine",
-        "thema EDItEUR::N History and Archaeology::NH History::NHG Middle Eastern history"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181513",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/31d178a1-5ecf-4812-a1b5-42b2a76aab9c/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116826/1/9781501506475.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181513",
-        "handle": "20.500.12854/181513",
-        "dspace_uuid": "ea6e2ec5-742f-4ede-920c-b851d7f017ce"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181513",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181513",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116826/1/9781501506475.pdf"
             }
           ],
           "access": "creative_commons",
@@ -193323,5 +193598,5 @@
     }
   ],
   "partitioned": false,
-  "total_records": 2188
+  "total_records": 2194
 }
