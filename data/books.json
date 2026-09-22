@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T10:57:44.088233Z",
+  "generated_at": "2026-09-22T10:12:22.206885Z",
   "books": [
     {
       "id": "work:b95f7e57df907111ac27b0ab",
@@ -1471,7 +1471,7 @@
       "authors": [
         "Donghui Wang",
         "Yanchun Liang",
-        "Dong Xu",
+        "Dong He Xu",
         "Xiaoyue Feng",
         "Renchu Guan"
       ],
@@ -1526,7 +1526,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "W. O. Kermack",
+        "William Ogilvy Kermack",
         "A. G. McKendrick"
       ],
       "language": "en",
@@ -4856,70 +4856,12 @@
       ]
     },
     {
-      "id": "work:053f699383c59f1ddc7a5c47",
-      "title": "A new era of epigraphy: 40 years of Epigraphic database Clauss/Slaby",
-      "subtitle": "New inscriptions, new readings, new interpretations of Roman inscriptions",
-      "description": "The epigraphic database Clauss Slaby (EDCS) was founded and developed 40 years ago by Manfred Clauss and Wolfgang Slaby at the University of Eichstätt. Today, it is the largest and most important digital tool for epigraphic research worldwide, providing rapid digital access to more than 900,000 records, including more than 550,000 Latin and Greek inscriptions. This also includes information on the find sites and provinces, the publications, and photos of inscriptions and monuments. This platform, which is used to search for and find inscriptions, words, word fragments, formulaic phrases, expression variants and linguistic phenomena in inscriptions, has been counting over 10,000 users a day for several years now. To celebrate the 40th anniversary of the database, epigraphers around the world were invited to share their new findings in this celebratory volume. The collection of essays by around 40 leading researchers covers epigraphic legacies from all major regions of the former Roman Empire, presenting new inscriptions, new readings or revisions of known texts, or new interpretations of controversial texts.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Inscription",
-        "Roman Empire",
-        "Latin",
-        "Datenbank",
-        "Inschrift",
-        "Römisches Reich",
-        "Latein",
-        "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBB Literary studies: ancient, classical and medieval"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181526",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/8e2a67fc-39e2-47fb-8bc7-3c2d635709ef/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116652/1/9783112213186.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181526",
-        "handle": "20.500.12854/181526",
-        "dspace_uuid": "2f6531f9-835f-4114-8253-04008f960dc3"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181526",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181526",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116652/1/9783112213186.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:d4edad7c2031543d73ea9a52",
       "title": "A new mathematical model for relative quantification in real-time RT-PCR",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Michael W. Pfaffl"
+        "Michael Walter Pfaffl"
       ],
       "language": "en",
       "year": 2001,
@@ -5060,7 +5002,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "Alexandre J. Chorin"
+        "ALEXANDRE JOEL CHORIN"
       ],
       "language": "en",
       "year": 1997,
@@ -10951,47 +10893,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBB Literary studies: ancient, classical and medieval",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182004",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116861",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/60e7b67f-c7a4-4872-a2ba-686af72b1eac/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116861/1/9783112223116.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/33425ad4-6985-4560-8f12-6c80e8be9772/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/33425ad4-6985-4560-8f12-6c80e8be9772/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116861/1/9783112223116.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182004",
+        "source_id": "20.500.12657/116861",
         "handle": "20.500.12854/182004",
         "dspace_uuid": "9c2eef5d-b66d-4be8-8030-fe36fef96592",
         "oapen_library_source_id": "20.500.12657/116861",
         "oapen_library_handle": "20.500.12657/116861",
-        "oapen_library_dspace_uuid": "cc93652a-6615-4d7d-b01a-6e601de56873"
+        "oapen_library_dspace_uuid": "cc93652a-6615-4d7d-b01a-6e601de56873",
+        "doab_source_id": "20.500.12854/182004"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182004",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182004",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116861/1/9783112223116.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116861",
@@ -11005,6 +10933,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182004",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182004",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116861/1/9783112223116.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -12196,10 +12139,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/166d0613-1146-4f2b-b88b-318feeb3c7ee/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116770/1/9783112206881.pdf"
         }
       ],
       "access": "creative_commons",
@@ -12228,21 +12167,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181523",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181523",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116770/1/9783112206881.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -13417,47 +13341,33 @@
         "thema EDItEUR::A The Arts::AV Music",
         "thema EDItEUR::A The Arts::AV Music::AVL Music: styles and genres::AVLP Popular music"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117429",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/462d6291-cd7f-41c4-880c-1d7c2eb3a79e/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f3c2e6e6-09d4-47c1-bbfc-97735002ef0c/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f3c2e6e6-09d4-47c1-bbfc-97735002ef0c/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181907",
+        "source_id": "20.500.12657/117429",
         "handle": "20.500.12854/181907",
         "dspace_uuid": "b327a775-e5b3-4fd0-8904-8fd5b921a279",
         "oapen_library_source_id": "20.500.12657/117429",
         "oapen_library_handle": "20.500.12657/117429",
-        "oapen_library_dspace_uuid": "93e6de89-03db-4fa2-baa0-91ad4db90300"
+        "oapen_library_dspace_uuid": "93e6de89-03db-4fa2-baa0-91ad4db90300",
+        "doab_source_id": "20.500.12854/181907"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181907",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117429",
@@ -13471,6 +13381,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181907",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -14737,47 +14662,33 @@
         "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCZ Economic history",
         "thema EDItEUR::5 Interest qualifiers::5P Relating to specific groups and cultures or social and cultural interests::5PB Relating to peoples: ethnic groups, indigenous peoples, cultures and other groupings of people::5PBC Relating to migrant groups / diaspora communities or peoples"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117405",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/b16cf03d-85ee-4144-8f04-5955e234dda7/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/50700d32-5641-41cf-867b-94350a0c84a7/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/50700d32-5641-41cf-867b-94350a0c84a7/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181989",
+        "source_id": "20.500.12657/117405",
         "handle": "20.500.12854/181989",
         "dspace_uuid": "1c36e905-16e6-4a7b-a973-0967d23a061a",
         "oapen_library_source_id": "20.500.12657/117405",
         "oapen_library_handle": "20.500.12657/117405",
-        "oapen_library_dspace_uuid": "c51e7378-bcb0-4650-adf4-1e2984cbb4d3"
+        "oapen_library_dspace_uuid": "c51e7378-bcb0-4650-adf4-1e2984cbb4d3",
+        "doab_source_id": "20.500.12854/181989"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181989",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117405",
@@ -14791,6 +14702,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181989",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -17597,6 +17523,67 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:7d232c37352425465db1a667",
+      "title": "Aufsichtsratsvorsitz",
+      "subtitle": "Kompetenzen – Verantwortung – Gestaltbarkeit",
+      "description": "Comprehensive Analysis of the Rights and Duties of the Chairman of the Supervisory Board The chairmanship of the supervisory board is far more than just a representative role – it is an absolutely key position in any Austrian stock corporation. Whoever holds the chair directly shapes the company's economic direction through how they interpret and fulfill this role and largely determines the level of protection for shareholders and creditors. This work thoroughly examines the complex rights and duties related to chairing the supervisory board and addresses current questions about liability as well as how the role of chairman can be structured. It provides clarity for practical purposes and is especially aimed at academics, judges, lawyers, as well as members of management and supervisory boards.",
+      "authors": [
+        "Ewerz, Simon"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Verlag Österreich GmbH",
+      "isbn": [],
+      "doi": "10.33196/9783704699756",
+      "subjects": [
+        "Supervisory Board Public Limited Company Powers of representation Powers to act on behalf of the company",
+        "LNCD"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182224.3",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/c1e4fc40-2390-41aa-a636-7142afaa6c1c/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://biblioscout.net/de/book/10.33196/9783704699756"
+        },
+        {
+          "type": "read",
+          "url": "https://biblioscout.net/de/book/10.33196/9783704699657"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182224.3",
+        "handle": "20.500.12854/182224.3",
+        "dspace_uuid": "82b7d421-e67b-4221-b0cc-944119007f19"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182224.3",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182224.3",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://biblioscout.net/de/book/10.33196/9783704699756"
+            },
+            {
+              "type": "read",
+              "url": "https://biblioscout.net/de/book/10.33196/9783704699657"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · All rights reserved",
           "verified_legal": true
         }
       ]
@@ -20962,47 +20949,33 @@
         "thema EDItEUR::N History and Archaeology::NH History",
         "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTB History of scholarship (principally of social sciences and humanities)"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117390",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/df0fc7b8-5faa-4c0a-8539-6953777b44d0/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f5c096f8-0598-4b5f-88ca-c598218fe151/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f5c096f8-0598-4b5f-88ca-c598218fe151/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181751",
+        "source_id": "20.500.12657/117390",
         "handle": "20.500.12854/181751",
         "dspace_uuid": "6378b9fb-c6e4-4640-ab01-a31eb30b3ba0",
         "oapen_library_source_id": "20.500.12657/117390",
         "oapen_library_handle": "20.500.12657/117390",
-        "oapen_library_dspace_uuid": "2a5ed925-6e19-4a6e-a4b9-9f6e198be5f2"
+        "oapen_library_dspace_uuid": "2a5ed925-6e19-4a6e-a4b9-9f6e198be5f2",
+        "doab_source_id": "20.500.12854/181751"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181751",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117390",
@@ -21016,6 +20989,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181751",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
           "verified_legal": true
         }
       ]
@@ -21350,6 +21338,10 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/5b6e5876-abb8-4789-9dae-f609c2ade5e0/retrieve"
+        },
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117532/4/9781805119869.pdf"
         }
       ],
       "access": "creative_commons",
@@ -21385,9 +21377,14 @@
           "source_id": "20.500.12854/182214",
           "source_url": "https://directory.doabooks.org/handle/20.500.12854/182214",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117532/4/9781805119869.pdf"
+            }
+          ],
           "access": "open_access",
-          "license": "open access",
+          "license": "open access · Other open license",
           "verified_legal": true
         }
       ]
@@ -26598,10 +26595,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/f6a31786-dc67-4ef2-a04a-f0149ea71b27/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116745/1/9783112208229.pdf"
         }
       ],
       "access": "creative_commons",
@@ -26630,21 +26623,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181518",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181518",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116745/1/9783112208229.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -30628,6 +30606,67 @@
       ]
     },
     {
+      "id": "work:2663550d032552f04ed9a922",
+      "title": "Confessions and Confidences",
+      "subtitle": "Academic and Cultural History Revisited in Letters and Other Documents of Life",
+      "description": "This anthology, comprised of an introduction and seven chapters, gives letters a central place in the historical study of academic disciplines while also considering how intellectuals – both men and women – engaged with their interlocutors and wider cultural and political discourses. The contributors focus mainly on the epistolary writings of 20th-century academic and cultural figures from the Baltic region, with a particular emphasis on Finland. At the time of writing the letters, many of their authors, while striving to pursue creative and intellectual vocations in folklore, linguistics, ethnography and the literary arts, also endured various degrees of hardship and mental anguish, something to which the letters attest. The extensive citations of the letters – in their original languages and translation – offer readers the opportunity to acquaint themselves with the content, style and register of their authors’ epistolary prose. As well as imparting youthful enthusiasm and passion, the extracts from the letters also reveal the darker areas of their authors’ inner lives. However private or personal, these communications reflect the zeitgeist of their era. In addition to practicing close reading, the contributors draw from concepts and theories from the study of correspondences, auto/biography, emotional communities, positioning and scholarly personae; the contributors also note the ways in which social class and gender can influence acceptance and participation among the cultural elites.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/sff.28",
+      "subjects": [
+        "Authors",
+        "Correspondence (communication)",
+        "Folklorists",
+        "History of science and learning",
+        "Letters (messages)",
+        "Linguists",
+        "thema EDItEUR::D Biography, Literature and Literary studies::DN Biography and non-fiction prose",
+        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTB History of scholarship (principally of social sciences and humanities)",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBG Popular beliefs and controversial knowledge::JBGB Folklore studies / Study of myth (mythology)",
+        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHM Anthropology::JHMC Social and cultural anthropology",
+        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/177978.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/114384/1/9789524270175.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/177978.2",
+        "handle": "20.500.12854/177978.2",
+        "dspace_uuid": "ecfd4c8f-60ca-4783-8e6d-36ca231b4a55"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/177978.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/177978.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/114384/1/9789524270175.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:12c6f53828571777cad65019",
       "title": "Connected Philology",
       "subtitle": "Interdisciplinary Perspectives on Transcultural Encounters",
@@ -31108,68 +31147,6 @@
       ]
     },
     {
-      "id": "work:805e4b7cad19d231c568fbf0",
-      "title": "Contagions",
-      "subtitle": "Nationalism, Populism, and the Pandemic at Europe’s Edge",
-      "description": "Contagions: Nationalism, Populism, and the Pandemic at Europe’s Edge offers a sweeping account of how COVID-19 collided with the political fault lines of Southeast Europe. Drawing on original surveys and rich comparative analysis, the book reveals how the crisis interacted with the power of nationalism and populism—reshaping trust, compliance, conspiracy beliefs, economic grievances, and even the memory of the pandemic itself. From the early months of surprising effectiveness to the region’s descent into some of the world’s worst mortality outcomes, the study shows how political ideologies acted like contagions of their own, undermining collective resilience. Southeast Europe emerges here not as an anomaly, but as a diagnostic lens onto broader European and global patterns of crisis governance and democratic fragility. Accessible yet deeply grounded in evidence, this book speaks both to scholars and to readers seeking to understand how ideology shapes societies under strain.",
-      "authors": [
-        "Glaurdic, Josip",
-        "Lesschaeve, Christophe"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Central European University Press",
-      "isbn": [],
-      "doi": "10.5117/9789048575701",
-      "subjects": [
-        "COVID-19",
-        "Political ideology",
-        "Public health governance",
-        "Conspiracy beliefs",
-        "Public opinion research",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPF Political ideologies and movements::JPFM Right-of-centre democratic ideologies",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPF Political ideologies and movements::JPFN Nationalism",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPF Political ideologies and movements::JPFQ Far-right political ideologies and movements",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government",
-        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFN Health, illness and addiction: social aspects"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181531",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/6525f3f1-d8ae-4e99-b518-d34d9615a42f/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116565/1/9789048575817.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181531",
-        "handle": "20.500.12854/181531",
-        "dspace_uuid": "8fec1963-e2c2-46fc-a20d-50309ebeb9dc"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181531",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181531",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116565/1/9789048575817.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:b47deffab3956f1a716fded8",
       "title": "Contaminacion Marina",
       "subtitle": "",
@@ -31533,6 +31510,63 @@
           ],
           "access": "public_domain",
           "license": "Public domain / CC0 in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:4bbd420f9d84373a1ce74a82",
+      "title": "Contested Knowledge",
+      "subtitle": "Political Dimensions of European Ethnology and Folklore Studies in Post-War Europe",
+      "description": "The edited volume Contested Knowledge. Political Dimensions of European Ethnology and Folklore Studies explores how European Ethnology and Folklore Studies in post-war Europe were shaped by political agendas, ideological control, and the contested production of ethnographic knowledge. Comprising various case studies from both socialist and non-socialist contexts, the volume traces how scholars navigated authoritarian pressure, Cold War divisions, disciplinary reforms, and competing national narratives. The volume offers a collection of case studies that reveal the mechanisms through which ethnological and folkloristic research was organized, appropriated, resisted, and transformed in shifting academic and political landscapes after the Second World War. It sheds light on the varying ways in which individual ethnologists from the Baltic countries negotiated the restrictions placed upon them by the Soviet Union, with some of them deciding to continue their research in exile, while others stayed and tried to create niches for themselves within the Soviet system. It also explores the roles of different nationalisms within ethological research after the Second World War. This terminology appears in the form of competing nationalisms as a concept of research or in the context of funding for ethnological research. The volume highlights the creation of new perspectives within research and in the context of the discipline’s entanglements with day-to-day politics and history. The book offers historically grounded insights for researchers in European Ethnology, Folklore Studies, and the broader humanities seeking to understand the political uses, limits, and vulnerabilities of contested cultural knowledge.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/sfe.19",
+      "subjects": [
+        "Ethnology",
+        "Europe",
+        "Folkloristics",
+        "Intellectual history",
+        "Politics",
+        "Postwar period",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBG Popular beliefs and controversial knowledge::JBGB Folklore studies / Study of myth (mythology)",
+        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHM Anthropology::JHMC Social and cultural anthropology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/175983.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/112611/1/9789518582468.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/175983.2",
+        "handle": "20.500.12854/175983.2",
+        "dspace_uuid": "29677223-0032-47f9-bb7b-d59fea50c7bd"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/175983.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/175983.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/112611/1/9789518582468.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -35326,47 +35360,33 @@
         "Verwandtschaft",
         "thema EDItEUR::J Society and Social Sciences"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117384",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/6a0dcc57-1c50-48ee-af1d-e6ea24cdbc05/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/084eea0b-d007-420f-90f1-51dc391cf4d0/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/084eea0b-d007-420f-90f1-51dc391cf4d0/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181845",
+        "source_id": "20.500.12657/117384",
         "handle": "20.500.12854/181845",
         "dspace_uuid": "1d779ab1-67ea-4c7e-8635-b8961d5dd617",
         "oapen_library_source_id": "20.500.12657/117384",
         "oapen_library_handle": "20.500.12657/117384",
-        "oapen_library_dspace_uuid": "6c5ac3f0-1819-4524-bb57-bc290d575432"
+        "oapen_library_dspace_uuid": "6c5ac3f0-1819-4524-bb57-bc290d575432",
+        "doab_source_id": "20.500.12854/181845"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181845",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117384",
@@ -35380,6 +35400,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181845",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -35555,47 +35590,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHG Middle Eastern history",
         "thema EDItEUR::N History and Archaeology::NH History::NHC Ancient history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116848",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/eb2bb6f8-494c-4415-83c3-c7d9d8271ef4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/beb7d621-6126-4ffc-b204-9cc2c832a2cd/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/beb7d621-6126-4ffc-b204-9cc2c832a2cd/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181553",
+        "source_id": "20.500.12657/116848",
         "handle": "20.500.12854/181553",
         "dspace_uuid": "f8312ed9-60df-46f8-88a5-13d9468cba99",
         "oapen_library_source_id": "20.500.12657/116848",
         "oapen_library_handle": "20.500.12657/116848",
-        "oapen_library_dspace_uuid": "b4ef97ca-4977-4da0-b617-40220db8bd19"
+        "oapen_library_dspace_uuid": "b4ef97ca-4977-4da0-b617-40220db8bd19",
+        "doab_source_id": "20.500.12854/181553"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181553",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116848",
@@ -35609,6 +35630,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181553",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181553",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116848/1/9783112223413.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -41291,6 +41327,60 @@
       ]
     },
     {
+      "id": "work:4dc45fdb0e2a9eab0d8d50a0",
+      "title": "Die Grenzen der Meinungs- und Versammlungsfreiheit in öffentlichen Kommunikationsräumen",
+      "subtitle": "The limits of freedom of expression and assembly in public communication spaces",
+      "description": "Konfliktlagen in öffentlichen Kommunikationsräumen grundrechtlich untersucht Die Meinungs- und die Versammlungsfreiheit schützen den öffentlichen Meinungsbildungsprozess, der für einen demokratischen Rechtsstaat unerlässlich ist. Die Ausübung dieser Grundrechte führt jedoch regelmäßig zu Konflikten. Das Buch untersucht Konfliktlagen und Grenzen dieser Grundrechte in verschiedenen öffentlichen Kommunikationsräumen. Analysiert werden Räume mit unterschiedlich ausgeprägter Zugangsfreiheit und unterschiedlich spezifischen Nutzungszwecken sowie Räume im Staats- und im Privateigentum. Dabei beleuchtet die Arbeit die Besonderheiten, Gemeinsamkeiten und Unterschiede dieser Räume für die grundrechtliche Interessenabwägung.",
+      "authors": [
+        "Oswald, Stella"
+      ],
+      "language": "de",
+      "year": 2026,
+      "publisher": "Verlag Österreich GmbH",
+      "isbn": [],
+      "doi": "10.33196/9783704699657",
+      "subjects": [
+        "Fundamental rights Freedom of communication Freedom of expression CONSTITUTIONAL LAW Freedom of assembly",
+        "LNDC",
+        "LNDC4"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182225",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/936c9ac2-247d-456c-9a90-36768ea26258/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://biblioscout.net/de/book/10.33196/9783704699657"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182225",
+        "handle": "20.500.12854/182225",
+        "dspace_uuid": "b4667145-adb5-4051-b388-cd81cb06b840"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182225",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182225",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://biblioscout.net/de/book/10.33196/9783704699657"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7e75fda748d62e751c5f7722",
       "title": "Die Kirche Jesu Christi / The Church of Jesus Christ",
       "subtitle": "",
@@ -41487,47 +41577,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFZ Social forecasting, future studies",
         "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RN The environment::RNP Pollution and threats to the environment::RNPG Climate change"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117404",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/30bbd98b-166e-471e-93f5-9f919aec1a0e/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/054f0dee-cf9b-453a-8a50-d913f5143ca2/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/054f0dee-cf9b-453a-8a50-d913f5143ca2/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181935",
+        "source_id": "20.500.12657/117404",
         "handle": "20.500.12854/181935",
         "dspace_uuid": "3eea9895-95cc-4b01-9e85-f41d9d6a857e",
         "oapen_library_source_id": "20.500.12657/117404",
         "oapen_library_handle": "20.500.12657/117404",
-        "oapen_library_dspace_uuid": "a5034f99-4698-4cce-af9d-45f12a3b6d92"
+        "oapen_library_dspace_uuid": "a5034f99-4698-4cce-af9d-45f12a3b6d92",
+        "doab_source_id": "20.500.12854/181935"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181935",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117404",
@@ -41541,6 +41617,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181935",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -41777,47 +41868,33 @@
         "Soviet Subjectivity",
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117391",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/12d10118-c7ca-44cd-ad1f-62e0b0c381f6/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/9e6dfc47-90fa-4a60-bad6-1f3c59ea9b74/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/9e6dfc47-90fa-4a60-bad6-1f3c59ea9b74/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181811",
+        "source_id": "20.500.12657/117391",
         "handle": "20.500.12854/181811",
         "dspace_uuid": "ea9ee211-3ed7-485d-b406-b271ee1f225d",
         "oapen_library_source_id": "20.500.12657/117391",
         "oapen_library_handle": "20.500.12657/117391",
-        "oapen_library_dspace_uuid": "55948754-08ef-44cc-8cab-7dea362a36fd"
+        "oapen_library_dspace_uuid": "55948754-08ef-44cc-8cab-7dea362a36fd",
+        "doab_source_id": "20.500.12854/181811"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181811",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117391",
@@ -41831,6 +41908,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181811",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -42869,47 +42961,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBS Social groups, communities and identities::JBSF Gender studies, gender groups",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117413",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/0bae73d1-dced-4ea7-9f36-c49539b2f383/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/6020ad02-d63e-4e85-a603-8d1519ca088e/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/6020ad02-d63e-4e85-a603-8d1519ca088e/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181875",
+        "source_id": "20.500.12657/117413",
         "handle": "20.500.12854/181875",
         "dspace_uuid": "ca37b657-aebe-4dd7-ac25-17a1addffe74",
         "oapen_library_source_id": "20.500.12657/117413",
         "oapen_library_handle": "20.500.12657/117413",
-        "oapen_library_dspace_uuid": "7ee160cb-b359-404d-94a8-59966596bebd"
+        "oapen_library_dspace_uuid": "7ee160cb-b359-404d-94a8-59966596bebd",
+        "doab_source_id": "20.500.12854/181875"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181875",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117413",
@@ -42923,6 +43001,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181875",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -45306,10 +45399,10 @@
         "Fiona Sun",
         "Mark Jit",
         "James D Munday",
-        "Nicholas G. Davies",
+        "Nicholas G. M. Davies",
         "Amy Gimma",
         "Kevin van Zandvoort",
-        "Hamish Gibbs",
+        "Hamish P. Gibbs",
         "Joel Hellewell",
         "Christopher I Jarvis",
         "Sam Clifford",
@@ -45870,47 +45963,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116734",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/e2e35712-ddd8-4c43-909f-7007875267b4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/c3e34517-d555-43b1-8888-7735b6cb1dc2/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/c3e34517-d555-43b1-8888-7735b6cb1dc2/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181541",
+        "source_id": "20.500.12657/116734",
         "handle": "20.500.12854/181541",
         "dspace_uuid": "c1229c21-ab05-4c88-8024-e186ca2a9fca",
         "oapen_library_source_id": "20.500.12657/116734",
         "oapen_library_handle": "20.500.12657/116734",
-        "oapen_library_dspace_uuid": "ac238c40-27d4-4e7e-8c97-ded3583d396d"
+        "oapen_library_dspace_uuid": "ac238c40-27d4-4e7e-8c97-ded3583d396d",
+        "doab_source_id": "20.500.12854/181541"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181541",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116734",
@@ -45924,6 +46003,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181541",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181541",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116734/1/9783111664859.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -49380,6 +49474,10 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/faa0a643-fea4-4e6a-a560-0f983ce9058e/retrieve"
+        },
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117533/4/9781805119685.pdf"
         }
       ],
       "access": "creative_commons",
@@ -49415,9 +49513,14 @@
           "source_id": "20.500.12854/182215",
           "source_url": "https://directory.doabooks.org/handle/20.500.12854/182215",
           "language": "en",
-          "formats": [],
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117533/4/9781805119685.pdf"
+            }
+          ],
           "access": "open_access",
-          "license": "open access",
+          "license": "open access · Other open license",
           "verified_legal": true
         }
       ]
@@ -52971,6 +53074,72 @@
       ]
     },
     {
+      "id": "work:fd01c06a0f65d2edb7cdf91c",
+      "title": "Expressions and Impressions",
+      "subtitle": "Personal and Communal Aspects of Traditional Singing",
+      "description": "Expressions and Impressions: Personal and Communal Aspects of Traditional Singing explores traditional singing as a fundamental mode of expression and communication, situated at the intersection of individual experience and communal life. The thirteen contributions examine historical and contemporary forms of singing through archival and fieldwork-based material, drawing on a wide range of disciplinary and methodological perspectives. The authors – ethnomusicologists, musicologists, and folklorists – focus on various dimensions of traditional singing, including singers’ personalities, the information embedded in songs, communication with direct and imagined communities, natural objects, the supernatural sphere, the effects of singing, as well as singing styles and performance contexts. Special attention is paid to the critical interpretation of historical sources, acknowledging that research on past singing practices relies on archival and printed material. Several studies demonstrate how older material can be studied using contemporary methods, including textual corpus analysis, acoustic analysis of singing style, and the combination of different analytical approaches. The editors use the concept of traditional singing to bridge folkloristic and ethnomusicological discourses and to emphasise singing as vocal musical practice that takes place within specific communities or groups, and where skills and repertoires are transmitted at least partly through participation, listening, and memorisation. This inclusive definition allows the volume to address folk and traditional music, their transformations and revivals, participatory and congregational singing, and various contemporary communal singing practices. The volume covers a wide cultural range and, with some exceptions, is authored by scholars who are closely connected with or originate from the cultures they analyse. While many contributions focus on traditions of Northern and Eastern Europe, including Estonian and Baltic traditions, the scope extends to other regions and cultural contexts, such as Italy and the Ainu people of Japan. The volume also highlights historical and scholarly connections between different traditions, for example between Latvian and Scottish researchers or between Estonian, German, and other European musical cultures. Analysis of minority groups’ singing traditions in different parts of the world reminds us that singing may also become subject to ideological control and political pressure. The chapters demonstrate how traditional songs, through their creative reapplication, provide individuals with means to articulate personal experience while simultaneously offering shared frameworks that guide emotions, behaviour, and expression in recurring social situations. Such emotionally grounded connections can offer individuals lasting support and a sense of belonging and identity. The volume argues that traditional singing – both in its historical forms and in its contemporary manifestations – remains a vital cultural practice. The book is written for scholars and students of music and folklore, educators, and readers with a broader interest in cultural history and communal forms of musical expression.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/sff.27",
+      "subjects": [
+        "Communality",
+        "Folk music (traditional music)",
+        "Folk songs",
+        "Folklore",
+        "Singing",
+        "Traditional singing",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DN Northern Europe, Scandinavia",
+        "thema EDItEUR::6 Style qualifiers::6F Styles (F)::6FD Folk, Folkloric styles",
+        "thema EDItEUR::A The Arts::AV Music::AVL Music: styles and genres::AVLT Traditional and folk music"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/176196.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/112927/1/9789518588408.pdf"
+        },
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/112927/3/expressions-and-impressions.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/176196.2",
+        "handle": "20.500.12854/176196.2",
+        "dspace_uuid": "f840ddc0-8576-4ac3-8ef1-a26da4f3b2e6"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/176196.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/176196.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/112927/1/9789518588408.pdf"
+            },
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/112927/3/expressions-and-impressions.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:6bdfd5063bc8ca8c22a9c19f",
       "title": "Expressways 3 Test Package",
       "subtitle": "",
@@ -54000,47 +54169,33 @@
         "Fernsehen",
         "thema EDItEUR::C Language and Linguistics::CJ Language teaching and learning"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116702",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/06bbeee9-3c8d-4c8b-82c4-1c41fd096269/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/d87b3874-4798-4a73-af5b-6359466d03fe/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/d87b3874-4798-4a73-af5b-6359466d03fe/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181577",
+        "source_id": "20.500.12657/116702",
         "handle": "20.500.12854/181577",
         "dspace_uuid": "b605b734-60f9-48b4-936e-eb40f8299e5c",
         "oapen_library_source_id": "20.500.12657/116702",
         "oapen_library_handle": "20.500.12657/116702",
-        "oapen_library_dspace_uuid": "be33d644-12cb-4c52-8055-d7f49d302b2b"
+        "oapen_library_dspace_uuid": "be33d644-12cb-4c52-8055-d7f49d302b2b",
+        "doab_source_id": "20.500.12854/181577"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181577",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116702",
@@ -54054,6 +54209,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181577",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181577",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116702/1/9783112227282.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -54287,7 +54457,7 @@
         "Stephan Preibisch",
         "Curtis Rueden",
         "Stephan Saalfeld",
-        "Benjamin Schmid",
+        "Benjamin E. Schmid",
         "Jean-Yves Tinévez",
         "Daniel J. White",
         "Volker Hartenstein",
@@ -56048,7 +56218,7 @@
       "authors": [
         "Viera K. Proulx",
         "Richard Rasala",
-        "Harriet Fell"
+        "Harriet J. Fell"
       ],
       "language": "en",
       "year": 1996,
@@ -58356,47 +58526,33 @@
         "Open Access",
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBA Social theory"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117403",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/26583466-94d1-46f0-94d8-d961a7663030/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/80b822c6-3393-4bac-9c30-feed29fc14b0/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/80b822c6-3393-4bac-9c30-feed29fc14b0/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181847",
+        "source_id": "20.500.12657/117403",
         "handle": "20.500.12854/181847",
         "dspace_uuid": "3217dfa6-cf39-40ad-ba67-c8c32b1db1b9",
         "oapen_library_source_id": "20.500.12657/117403",
         "oapen_library_handle": "20.500.12657/117403",
-        "oapen_library_dspace_uuid": "6da7e4c0-6504-49ab-9811-04f268a576f9"
+        "oapen_library_dspace_uuid": "6da7e4c0-6504-49ab-9811-04f268a576f9",
+        "doab_source_id": "20.500.12854/181847"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181847",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117403",
@@ -58410,6 +58566,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181847",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -59205,47 +59376,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets",
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116817",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/f8fc1ab4-f149-4b79-960a-6b339bd0583f/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/a2661adf-3ae5-402f-9cbd-764915ce509e/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/a2661adf-3ae5-402f-9cbd-764915ce509e/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181580",
+        "source_id": "20.500.12657/116817",
         "handle": "20.500.12854/181580",
         "dspace_uuid": "5ed97683-ad44-4126-aded-3dc7171e145c",
         "oapen_library_source_id": "20.500.12657/116817",
         "oapen_library_handle": "20.500.12657/116817",
-        "oapen_library_dspace_uuid": "c0b4bba9-c5a1-46a5-ba41-49338d8d7bfa"
+        "oapen_library_dspace_uuid": "c0b4bba9-c5a1-46a5-ba41-49338d8d7bfa",
+        "doab_source_id": "20.500.12854/181580"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181580",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116817",
@@ -59259,6 +59416,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181580",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -61046,70 +61218,6 @@
       ]
     },
     {
-      "id": "work:5e04297c42baf1f8b1bf508b",
-      "title": "Globalisierung neu denken",
-      "subtitle": "Globale Mikrogeschichte als Methdoe",
-      "description": "Globalisierung ist ein vielschichtiger und widersprüchlicher Prozess, den historische Forschung bislang oft nur unzureichend erfasst. Angelika Epple entwickelt dazu das Konzept der Globalen Mikrogeschichte, eine Methode, die anhand präziser Quellenarbeit und multiperspektivischer Analysen zeigt, wie Akteure durch sozial geteilte Praktiken globale Dynamiken gestalten und institutionelle Strukturen formen. Ihr Ansatz bietet einen multiskalaren Zugriff auf historische Prozesse und ermöglicht eine differenzierte Betrachtung globaler Verflechtungen. Vereinfachenden oder nationalistischen Deutungen der Globalisierung setzt die Globale Mikrogeschichte so eine historisch fundierte Lesart entgegen.",
-      "authors": [
-        "Epple (0000000279138656), Angelika"
-      ],
-      "language": "de",
-      "year": 2025,
-      "publisher": "Bielefeld University Press",
-      "isbn": [],
-      "doi": "10.64136/gn3v6i80e",
-      "subjects": [
-        "Global History",
-        "Globalgeschichte",
-        "Verflechtungsgeschichte",
-        "Multiperspektivität",
-        "Kolonialgeschichte",
-        "Methoden der Geschichtswissenschaft",
-        "Mikrogeschichte",
-        "thema EDItEUR::N History and Archaeology::NH History::NHB General and world history",
-        "thema EDItEUR::N History and Archaeology::NH History::NHA History: theory and methods",
-        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTQ Colonialism and imperialism",
-        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTR National liberation and independence::NHTR1 Decolonisation and postcolonial studies",
-        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history",
-        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181530",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a7c78be5-be21-4586-bab2-dfc3dc28993a/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116584/1/9783691290042.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181530",
-        "handle": "20.500.12854/181530",
-        "dspace_uuid": "7ac28906-4ae6-4f5a-bbf9-86246b5d2238"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181530",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181530",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116584/1/9783691290042.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:87e35bdff66c0e6b8ad3ffd1",
       "title": "Go en Español",
       "subtitle": "",
@@ -62025,47 +62133,33 @@
         "Überzeugungen",
         "thema EDItEUR::J Society and Social Sciences::JN Education::JNL Schools and pre-schools::JNLB Primary and middle schools"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117408",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/0afef137-9db7-4e02-a626-fbf2badd5982/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/00a0629e-7ba1-4778-a35c-3fcb86944701/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/00a0629e-7ba1-4778-a35c-3fcb86944701/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181893",
+        "source_id": "20.500.12657/117408",
         "handle": "20.500.12854/181893",
         "dspace_uuid": "c4cd3d91-6ced-4f1f-930c-44bcdbe90a0f",
         "oapen_library_source_id": "20.500.12657/117408",
         "oapen_library_handle": "20.500.12657/117408",
-        "oapen_library_dspace_uuid": "8a35f244-c75b-41d2-b3d8-e41b52e2e32f"
+        "oapen_library_dspace_uuid": "8a35f244-c75b-41d2-b3d8-e41b52e2e32f",
+        "doab_source_id": "20.500.12854/181893"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181893",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117408",
@@ -62079,6 +62173,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181893",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -65889,7 +65998,7 @@
         "Seyedali Mirjalili",
         "Hossam Faris",
         "Ibrahim Aljarah",
-        "Majdi Mafarja",
+        "Majdi M. Mafarja",
         "Huiling Chen"
       ],
       "language": "en",
@@ -72167,47 +72276,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history",
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity::QRMB Christian Churches, denominations, groups"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117382",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/f922fba7-5ac3-4c7a-858c-4f44d8c340f8/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/be90fbbe-3fcf-42fc-afa6-1d9608d68879/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/be90fbbe-3fcf-42fc-afa6-1d9608d68879/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181839",
+        "source_id": "20.500.12657/117382",
         "handle": "20.500.12854/181839",
         "dspace_uuid": "10360c5c-6e79-47ce-8647-543110527ff3",
         "oapen_library_source_id": "20.500.12657/117382",
         "oapen_library_handle": "20.500.12657/117382",
-        "oapen_library_dspace_uuid": "684b11c7-7be2-4b51-af09-701c887f8570"
+        "oapen_library_dspace_uuid": "684b11c7-7be2-4b51-af09-701c887f8570",
+        "doab_source_id": "20.500.12854/181839"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181839",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117382",
@@ -72221,6 +72316,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181839",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -72568,10 +72678,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/c656b06e-081b-46cb-8c47-f5df41b3cfb0/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117012/1/9781040498415.pdf"
         }
       ],
       "access": "creative_commons",
@@ -72600,21 +72706,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181527",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181527",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117012/1/9781040498415.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -72963,7 +73054,7 @@
         "Mayyadah R. Mahmood",
         "Maiwan B. Abdulrazzaq",
         "Subhi R. M. Zeebaree",
-        "Abbas Ibrahim",
+        "Abbas Kh. Ibrahim",
         "Rizgar R. Zebari",
         "Hivi Ismat Dino"
       ],
@@ -74272,7 +74363,7 @@
       "description": "",
       "authors": [
         "David W. Aha",
-        "Dennis Kibler",
+        "Dennis F. Kibler",
         "Marc K. Albert"
       ],
       "language": "en",
@@ -79114,64 +79205,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:93814ae7e6bf7ebb563c03ef",
-      "title": "Johann Heinrich Gottlob von Justi (1717–1771)",
-      "subtitle": "Philosoph – Kameralist – Publizist",
-      "description": "Johann Heinrich Gottlob von Justi (1717–1771) zählt zu den Inauguratoren der Polizei-, Verwaltungs- und Wirtschaftswissenschaften im Zeitalter der Aufklärung. In einer Reihe von Grundlagenwerken hat er diese politische Theorie entworfen und weiter entwickelt. Darüber hinaus publizierte Justi als Philosoph, als Literat und als politischer Publizist. Im Zentrum seiner Überlegungen steht dabei die Annahme, dass sich sowohl Herrscher als auch Untertanen eines Staates um die Beförderung „gemeinschaftliche Glückseligkeit“ des Gemeinwesens und der Individuen zu bekümmern hätten. Auf der Grundlage naturrechtlicher Prinzipien soll dieser „Endzweck des Staates“ durch dessen Institutionen, wie Gerichte, Polizei, Verwaltung, vor allem aber die staatliche Wirtschaftsförderung verfolgt werden. Um diese Aufgabe zu erfüllen, müssen nach Justi jene Institutionen wissenschaftlich erfasst und deren Ergebnisse in der universitären Lehre zukünftigen Staatsbeamten vermittelt werden. Dieses politische Grundkonzept hat Justi nicht nur als Wissenschaftler in der Forschung und Lehre sowie als Polizeidirektor in Göttingen und hoher Verwaltungsbeamter in Berlin zu realisieren unternommen, sondern auch in einer Vielzahl von Satiren und politischen Flugschriften der aufgeklärten Öffentlichkeit näherzubringen versucht.",
-      "authors": [],
-      "language": "de",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Law of nature",
-        "Cameralistics",
-        "Enlightenment",
-        "18th century",
-        "18. Jahrhundert",
-        "Aufklärung",
-        "Kameralistik",
-        "Naturrecht",
-        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHR Western philosophy from c 1800"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181520",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/6fb4bd79-9f8e-4164-bc2c-98cbde6a775e/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116721/1/9783112212066.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181520",
-        "handle": "20.500.12854/181520",
-        "dspace_uuid": "58206703-5456-4b91-ab83-08a2c9e829ae"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181520",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181520",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116721/1/9783112212066.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -84548,47 +84581,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFA Social discrimination and social justice",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181898",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117049",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/5b132795-3739-4357-a913-856a7b246657/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117049/1/9783779991625.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/bb5190b4-74a8-4062-a22a-c18e1a1a2722/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/bb5190b4-74a8-4062-a22a-c18e1a1a2722/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117049/1/9783779991625.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181898",
+        "source_id": "20.500.12657/117049",
         "handle": "20.500.12854/181898",
         "dspace_uuid": "04bec741-8f9d-4d0a-978e-4db4829388ea",
         "oapen_library_source_id": "20.500.12657/117049",
         "oapen_library_handle": "20.500.12657/117049",
-        "oapen_library_dspace_uuid": "8d4b20fa-a20b-4a5c-a49d-7f7e810e35c7"
+        "oapen_library_dspace_uuid": "8d4b20fa-a20b-4a5c-a49d-7f7e810e35c7",
+        "doab_source_id": "20.500.12854/181898"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181898",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181898",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117049/1/9783779991625.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117049",
@@ -84602,6 +84621,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181898",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181898",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117049/1/9783779991625.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -89864,20 +89898,7 @@
       "source": "Internet Archive",
       "source_url": "https://archive.org/details/lol_gen_es",
       "cover_url": "https://archive.org/services/img/lol_gen_es",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/lol_gen_es/Lol_gen_az.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/lol_gen_es/Lol_gen_az_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/lol_gen_es/Lol_gen_az_djvu.txt"
-        }
-      ],
+      "formats": [],
       "access": "creative_commons",
       "license": "https://creativecommons.org/licenses/by-sa/4.0/",
       "verified_legal": true,
@@ -89892,20 +89913,7 @@
           "source_id": "lol_gen_es",
           "source_url": "https://archive.org/details/lol_gen_es",
           "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/lol_gen_es/Lol_gen_az.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/lol_gen_es/Lol_gen_az_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/lol_gen_es/Lol_gen_az_djvu.txt"
-            }
-          ],
+          "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
@@ -96488,47 +96496,33 @@
         "Russisch",
         "thema EDItEUR::C Language and Linguistics::CF Linguistics"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116935",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/3a3218e6-b125-4547-bf35-a8a72240a9b4/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/936ffcc6-b167-48df-87b6-00bcc0da57ca/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/936ffcc6-b167-48df-87b6-00bcc0da57ca/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181536",
+        "source_id": "20.500.12657/116935",
         "handle": "20.500.12854/181536",
         "dspace_uuid": "b5cdfde7-0aa2-4802-b0c0-da68e2af559c",
         "oapen_library_source_id": "20.500.12657/116935",
         "oapen_library_handle": "20.500.12657/116935",
-        "oapen_library_dspace_uuid": "a9e0ecd3-4add-4992-a47a-fa3f3f552e68"
+        "oapen_library_dspace_uuid": "a9e0ecd3-4add-4992-a47a-fa3f3f552e68",
+        "doab_source_id": "20.500.12854/181536"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181536",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116935",
@@ -96542,6 +96536,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181536",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181536",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116935/1/9783111632223.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
           "verified_legal": true
         }
       ]
@@ -103398,7 +103407,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "T H O'Beirne"
+        "Thos. H. O'Beirne"
       ],
       "language": "en",
       "year": 1962,
@@ -108707,6 +108716,65 @@
       ]
     },
     {
+      "id": "work:762dd489b51a6f598b298b2b",
+      "title": "Päättymätön savotta",
+      "subtitle": "Analyyseja Kalle Päätalon tuotannosta",
+      "description": "The large text corpus (comprising 5,280,750 tokens) in The Language Bank of Finland includes the text of the Finnish novelist Kalle Päätalo’s (1919–2000) autobiographical main work, the Iijoki series, and the corpus is still expanding with his other books. The corpus enables the scientific analysis of Päätalo’s work in a new way. This book expands on the themes initiated in the book called ”Kalle Päätalo through the eyes of researchers”. This book represents the fields of history, ethnology, linguistics and literature studies. The main theme of this collection is change, often the change in society, and the text corpus is often helpful in tracing this change employing scientific methods. In his works, Kalle Päätalo describes the everyday life between 1910’s and 1990’s in its context. Like the physical work in the logging sites at the time described in his books, it also seems that there is no end in sight for the work of the researchers: the study of these texts will continue.",
+      "authors": [],
+      "language": "und",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/tl.305",
+      "subjects": [
+        "Authors",
+        "Ethnology",
+        "Finnish language literature",
+        "History",
+        "Kalle Päätalo",
+        "Language of literature",
+        "thema EDItEUR::2 Language qualifiers::2F Ural-Altaic and Hyperborean languages::2FC Finno-Ugric languages::2FCF Finnish (Suomi)",
+        "thema EDItEUR::C Language and Linguistics::CF Linguistics",
+        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSK Literary studies: fiction, novelists and prose writers",
+        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHM Anthropology::JHMC Social and cultural anthropology"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/177112.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/113855/1/9789524270021.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/177112.2",
+        "handle": "20.500.12854/177112.2",
+        "dspace_uuid": "6bb28e7a-5493-45be-9e5e-7dfeca70d36c"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/177112.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/177112.2",
+          "language": "und",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/113855/1/9789524270021.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:9ead32b4fed11cd06e26cd38",
       "title": "Pacific Exposures",
       "subtitle": "Photography and the Australia–Japan Relationship",
@@ -110262,10 +110330,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/dca51493-674b-451c-a73a-7caf47df20d6/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116769/1/9783111715407.pdf"
         }
       ],
       "access": "creative_commons",
@@ -110294,21 +110358,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181521",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181521",
-          "language": "it",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116769/1/9783111715407.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -113242,47 +113291,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116906",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/8ec92c1b-6270-4d2f-8ec9-5452b7cc0637/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/fe048c74-d024-4094-ad5e-e42e0b127626/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/fe048c74-d024-4094-ad5e-e42e0b127626/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181561",
+        "source_id": "20.500.12657/116906",
         "handle": "20.500.12854/181561",
         "dspace_uuid": "19605138-3213-46fb-b27b-117a86eeef80",
         "oapen_library_source_id": "20.500.12657/116906",
         "oapen_library_handle": "20.500.12657/116906",
-        "oapen_library_dspace_uuid": "b886c3c3-6c65-420e-b4d0-3b17ae53f084"
+        "oapen_library_dspace_uuid": "b886c3c3-6c65-420e-b4d0-3b17ae53f084",
+        "doab_source_id": "20.500.12854/181561"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181561",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116906",
@@ -113296,6 +113331,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181561",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -117663,6 +117713,66 @@
       ]
     },
     {
+      "id": "work:02da9df110ac703f50f44789",
+      "title": "Protecting Workers?",
+      "subtitle": "Crisis, COVID-19, and South Asia",
+      "description": "Protecting Workers? Crisis, COVID-19 and South Asia examines how the South Asian region has confronted the challenges of safeguarding labour rights and ensuring health provisioning for workers during and right after the COVID-19 pandemic. Bringing together comparisons across countries and regions, the volume draws on cases from Bangladesh, India, Nepal, Pakistan, and Sri Lanka. These cases illuminate how states at multiple levels of government responded to COVID-19 and the ensuing economic crisis. With attention to the profound effects of cascading crises on workers’ lives, individual chapters employ a wide range of methods – from statistical analysis to oral histories, written testimonies, and ethnographic accounts – to weave together state-level strategies with ground-level experiences of workers and labour collectives. Contributions from a diverse group of scholars and practitioners, spanning political science, economics, anthropology, human geography, sociology, and labour activism, provide a rich, multidimensional view of the pressures facing South Asia’s working poor. Together, the chapters offer fresh insights into the region’s diversity and the shifting relationship between states and societies during times of upheaval. The volume captures both the evolving nature of the political state and the resourcefulness, mobilization, and claim making capacities of workers seeking recognition, protection, and justice. Contributors to the volume are Iffat Jahan Antara, Naomi Hossain, Touhidul Islam, Himanshu Jha, Priya Sajjad, Muttukrishna Sarvananthan, Papia Sengupta, Chanchal Kumar Sharma, Jeevan Sharma, Maheen Sultan and Aardra Surendran along with the editors, Kanchana N. Ruwanpura and Wilfried Swenden.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Helsinki University Press",
+      "isbn": [],
+      "doi": "10.33134/hup-36",
+      "subjects": [
+        "Comparative politics",
+        "Labour Studies",
+        "Mixed methods",
+        "Social justice",
+        "South Asia",
+        "State and institutions",
+        "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPQ Central / national / federal government",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPR Regional, state and other local government",
+        "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RG Geography::RGC Human geography::RGCD Development and environmental geography"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/175917.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/112605/1/9789523691469.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/175917.2",
+        "handle": "20.500.12854/175917.2",
+        "dspace_uuid": "55e057d3-b341-4989-92d1-e83df443a872"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/175917.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/175917.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/112605/1/9789523691469.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:17922c77b6c170508e9d3376",
       "title": "Proteste und Intervention",
       "subtitle": "Die staatliche Unterstützung gewaltfreier Protestbewegungen im Völkerrecht",
@@ -118259,47 +118369,33 @@
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBA Social theory",
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBC Social research and statistics"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117050",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/a1ecff59-0317-4fd1-ad4e-026954134c07/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/12f03bdc-6173-473c-a49a-f1f6500c6463/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/12f03bdc-6173-473c-a49a-f1f6500c6463/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181973",
+        "source_id": "20.500.12657/117050",
         "handle": "20.500.12854/181973",
         "dspace_uuid": "d63563bd-1972-42f8-b69d-5598cb3b8631",
         "oapen_library_source_id": "20.500.12657/117050",
         "oapen_library_handle": "20.500.12657/117050",
-        "oapen_library_dspace_uuid": "b8e95948-8773-487f-8961-e557e65b1983"
+        "oapen_library_dspace_uuid": "b8e95948-8773-487f-8961-e557e65b1983",
+        "doab_source_id": "20.500.12854/181973"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181973",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117050",
@@ -118313,6 +118409,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181973",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
           "verified_legal": true
         }
       ]
@@ -119659,47 +119770,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC8 Cultural policies and debates"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117397",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/e7b4838d-2e31-4bd2-b56f-f27f5897853b/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/92756bbd-1af8-4708-baf3-93c149445c13/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/92756bbd-1af8-4708-baf3-93c149445c13/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182117",
+        "source_id": "20.500.12657/117397",
         "handle": "20.500.12854/182117",
         "dspace_uuid": "bcdbeb95-cd15-4ea7-98e9-938ad4c2f437",
         "oapen_library_source_id": "20.500.12657/117397",
         "oapen_library_handle": "20.500.12657/117397",
-        "oapen_library_dspace_uuid": "ed4cf76b-d5f7-4e53-91d3-5d95d1cbc7d8"
+        "oapen_library_dspace_uuid": "ed4cf76b-d5f7-4e53-91d3-5d95d1cbc7d8",
+        "doab_source_id": "20.500.12854/182117"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182117",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117397",
@@ -119713,6 +119810,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182117",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -121667,47 +121779,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC9 History of ideas",
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182099",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116978",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/fab2a603-8fca-441b-be01-57da055d248b/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116978/1/9783631899328.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f205e608-35ef-4e33-b47b-e6d7772d646c/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f205e608-35ef-4e33-b47b-e6d7772d646c/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116978/1/9783631899328.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182099",
+        "source_id": "20.500.12657/116978",
         "handle": "20.500.12854/182099",
         "dspace_uuid": "2b030e96-8980-4dd3-8774-14dd0816e454",
         "oapen_library_source_id": "20.500.12657/116978",
         "oapen_library_handle": "20.500.12657/116978",
-        "oapen_library_dspace_uuid": "e96b1cee-dee0-4a11-b00a-9a523cbfa8ea"
+        "oapen_library_dspace_uuid": "e96b1cee-dee0-4a11-b00a-9a523cbfa8ea",
+        "doab_source_id": "20.500.12854/182099"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182099",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182099",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116978/1/9783631899328.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116978",
@@ -121721,6 +121819,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182099",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182099",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116978/1/9783631899328.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -132341,47 +132454,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RB Earth sciences"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116823",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/a3f3c215-a528-4bca-b2f9-9cb0dda88b00/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/9ffa2a31-2088-42f4-a53a-36aadb8bcc08/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/9ffa2a31-2088-42f4-a53a-36aadb8bcc08/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181587",
+        "source_id": "20.500.12657/116823",
         "handle": "20.500.12854/181587",
         "dspace_uuid": "b69c7079-74c5-4cfc-abe4-f43c0f99ef94",
         "oapen_library_source_id": "20.500.12657/116823",
         "oapen_library_handle": "20.500.12657/116823",
-        "oapen_library_dspace_uuid": "c44fda36-f9fc-494f-b8a6-05956cc8cce2"
+        "oapen_library_dspace_uuid": "c44fda36-f9fc-494f-b8a6-05956cc8cce2",
+        "doab_source_id": "20.500.12854/181587"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181587",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116823",
@@ -132395,6 +132494,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181587",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -133397,6 +133511,68 @@
       ]
     },
     {
+      "id": "work:bed5dd43976a676042ae3512",
+      "title": "Sibelius Japanissa",
+      "subtitle": "Vastaanotto, tulkinnat ja kulttuuriset sillat",
+      "description": "Sibelius in Japan. Reception, Interpretation, and Cultural Bridges Jean Sibelius (1865–1957) is often said to hold a particular appeal for Japanese audiences. But what underlies this popularity, and how has his music been understood and interpreted in Japan? This book traces the reception of Sibelius’s music in Japan from the earliest performances and discussions of the 1910s through the 1980s, with some attention also given to developments in the 2020s. Moving beyond a conventional Eurocentric framework, the study contributes to recent efforts to decentre narratives of Western art music and to reimagine them from a global perspective. Drawing on both micro- and macrohistorical approaches, the book focuses on the images and cultural meanings associated with Sibelius in Japan, as well as on the social processes through which his status has been established. Through these processes, the study demonstrates that Sibelius emerges not only as a “Finnish” or “Western” composer, but as part of modern Japanese cultural history.",
+      "authors": [
+        "Lehtonen, Lasse"
+      ],
+      "language": "und",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/skst.1509",
+      "subjects": [
+        "Art music",
+        "Composers",
+        "Finland",
+        "Japan",
+        "Jean Sibelius",
+        "Reception (comprehension)",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DN Northern Europe, Scandinavia::1DNF Finland",
+        "thema EDItEUR::1 Place qualifiers::1F Asia::1FP East Asia, Far East::1FPJ Japan",
+        "thema EDItEUR::A The Arts::AV Music::AVL Music: styles and genres::AVLA Art music, orchestral and formal music",
+        "thema EDItEUR::A The Arts::AV Music::AVM History of music",
+        "thema EDItEUR::A The Arts::AV Music::AVN Composers and songwriters"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/179998.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/115729/1/9789518588439.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/179998.2",
+        "handle": "20.500.12854/179998.2",
+        "dspace_uuid": "fab85d31-73d9-4f41-a2d3-cda28bad6f2c"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/179998.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/179998.2",
+          "language": "und",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/115729/1/9789518588439.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f53825e60ec9dab996f929f8",
       "title": "Signals and Systems",
       "subtitle": "",
@@ -133783,10 +133959,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/edb3eae0-e012-47f6-a192-c29e9cc7fc7b/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116839/1/9783111438184.pdf"
         }
       ],
       "access": "creative_commons",
@@ -133815,21 +133987,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181528",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181528",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116839/1/9783111438184.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -136421,8 +136578,8 @@
         "Anton Bankevich",
         "Sergey Nurk",
         "Dmitry Antipov",
-        "Alexey Gurevich",
-        "Mikhail Dvorkin",
+        "Alexey A. Gurevich",
+        "Mikhail Vladimirovich Dvorkin",
         "Alexander S. Kulikov",
         "Valery M. Lesin",
         "Sergey Nikolenko",
@@ -138046,62 +138203,6 @@
       ]
     },
     {
-      "id": "work:2d4838663a0cbc466f94644c",
-      "title": "Storyworld Possible Selves and Narrative Intersubjectivity",
-      "subtitle": "",
-      "description": "In the wake of the cognitive turn in the humanities, narrative research has become increasingly interdisciplinary. The theory of storyworld possible selves brings approaches from a range of disciplines such as cognitive narrative theory, cognitive linguistics, and social psychology, to bear on the study of narrative engagement. The diversity of the contributions to this volume testifies to the interdisciplinarity of the storyworld possible selves approach: while some of its chapters explore applications of storyworld possible selves theory to the study of real readers’ interaction with both fictional and non-fictional narratives, others address issues connected to the textual construction of authors, narrators, and characters as narrative perspectivizers.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Narrative perspective",
-        "Narrative engagement",
-        "Empirical reader response research",
-        "Narrative in society_x000D_",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSA Literary theory"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181525",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/35b12d00-d667-46a9-809e-110dafc0aa6c/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116771/1/9783111481579.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181525",
-        "handle": "20.500.12854/181525",
-        "dspace_uuid": "9aaf69ce-7732-4bde-b127-01f8dadb2bc2"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181525",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181525",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116771/1/9783111481579.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:5642bc92d5546012f8a6a2ae",
       "title": "Storyworld Possible Selves and Narrative Intersubjectivity",
       "subtitle": "",
@@ -138872,10 +138973,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/7eeed2f5-28e5-40c1-8249-ab08b0ac2916/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117008/1/9781040509494.pdf"
         }
       ],
       "access": "creative_commons",
@@ -138904,21 +139001,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181522",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181522",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117008/1/9781040509494.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -140200,13 +140282,13 @@
       "authors": [
         "Jürgen Baumert",
         "Mareike Kunter",
-        "Werner Blum",
+        "Werner Friedrich Blum",
         "Martin Brunner",
         "Thamar Voss",
-        "Alexander Jordan",
+        "Alexander Hugh Jordan",
         "Uta Klusmann",
         "Stefan Krauß",
-        "Michael Neubrand",
+        "Michael W. Neubrand",
         "Yi‐Miau Tsai"
       ],
       "language": "en",
@@ -140668,47 +140750,33 @@
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity",
         "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGA History of art"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116914",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/17c486bb-4a74-43b4-b48a-3fcdc0b7fff8/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/a9b5305c-c5c6-4e92-b3da-e1fd7c1b2260/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/a9b5305c-c5c6-4e92-b3da-e1fd7c1b2260/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181598",
+        "source_id": "20.500.12657/116914",
         "handle": "20.500.12854/181598",
         "dspace_uuid": "687a85bb-db35-431c-a56e-4a8640f8a7f0",
         "oapen_library_source_id": "20.500.12657/116914",
         "oapen_library_handle": "20.500.12657/116914",
-        "oapen_library_dspace_uuid": "ca43d9d9-b925-4fd1-8487-3fd2acc1b81c"
+        "oapen_library_dspace_uuid": "ca43d9d9-b925-4fd1-8487-3fd2acc1b81c",
+        "doab_source_id": "20.500.12854/181598"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181598",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116914",
@@ -140722,6 +140790,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181598",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181598",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116914/1/9783112235669.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -145563,6 +145646,67 @@
       ]
     },
     {
+      "id": "work:9ee854e6c129df3b32776d0d",
+      "title": "The Business of War in the Early Modern Baltic Sea Region, 1530–1765",
+      "subtitle": "",
+      "description": "The business of war—meaning the commercial supply, financing, and organisation of soldiers and materiel for armies and navies—was one of the leading economic sectors in early modern Europe. During this turbulent period, civil unrest and wars were the norm rather than the exception. Changes in the practice of war brought along an increasing demand for manpower, expensive new technologies, and new forms of administrative competence. Many potentates turned to the private market for the necessary military resources. While some of these could be acquired locally, the bulk were obtained through transnational networks of merchants and military entrepreneurs, making this a pan-European and even global endeavour. The Business of War in the Early Modern Baltic Sea Region, 1530–1765 explores the development of the fiscal-military networks and military markets over three centuries. Despite growing interest towards the early modern business of war, the research field remains scattered. Recent scholarship has highlighted the significance of this business and public-private cooperation in the Mediterranean and Central-Western Europe, yet the North has been largely overlooked. This volume offers a holistic overview of the business of war in Northern Europe and the Baltic Sea region. The aims of this volume are threefold. Firstly, it explores the particular features and realities of the business of war in the Baltic Sea region, where fiscal-military operations were characterised by long distances, difficult terrain, lack of infrastructure, and a low degree of urbanisation. Secondly, the volume offers a broader view of resources provided by private military suppliers. Beyond manpower and materiel, it examines funding, financial services, and crucial intangible assets, such as knowledge, expertise, and social capital. Finally, the book analyses the agency of the private suppliers themselves. By focusing on individuals rather than institutions, this volume offers a fresh perspective highlighting the motivations and operational logic of the people and groups involved in a way that macro-level studies cannot do. Together, the chapters portray the complexity and diversity of the early modern business of war.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Helsinki University Press",
+      "isbn": [],
+      "doi": "10.33134/hup-37",
+      "subjects": [
+        "Business of war",
+        "Mercenaries",
+        "Military enterprise",
+        "Military migration",
+        "Military networks",
+        "Military supply",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DN Northern Europe, Scandinavia",
+        "thema EDItEUR::J Society and Social Sciences::JW Warfare and defence::JWX Other warfare and defence issues::JWXF Arms trade",
+        "thema EDItEUR::J Society and Social Sciences::JW Warfare and defence::JWX Other warfare and defence issues::JWXN Mercenaries",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCZ Economic history",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KJ Business and Management",
+        "thema EDItEUR::N History and Archaeology::NH History::NHW Military history::NHWF Early modern warfare (including gunpowder warfare)"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/176594.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/113232/1/9789523691490.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/176594.2",
+        "handle": "20.500.12854/176594.2",
+        "dspace_uuid": "5b9813d7-21e4-4e3c-8fca-6cd52ccf74e7"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/176594.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/176594.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/113232/1/9789523691490.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:4edfa82c649488f5df450469",
       "title": "The C++ programming language",
       "subtitle": "",
@@ -149347,16 +149491,6 @@
           "access": "open_access",
           "license": "Other open license",
           "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181517",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181517",
-          "language": "en",
-          "formats": [],
-          "access": "open_access",
-          "license": "open access",
-          "verified_legal": true
         }
       ]
     },
@@ -152877,6 +153011,64 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:fb00c0ff5bc8bba908f1c467",
+      "title": "The Grand Duchy of Finland",
+      "subtitle": "From Princely Power to National Statehood",
+      "description": "Three recurring themes dominate the Grand Duchy of Finland’s historical image. First, it is used as shorthand for Finland’s status as a modern autonomous state within the Russian Empire. Second, seen from a longer perspective covering the Swedish period, scholarly works tend to present it as an empty relic stemming from old listings of royal titles. Third, in more popular representations it is part of the imaginary realm of Sweden-Finland and predestined to become a nation state. This book strives to specify all these takes by investigating the historical meanings associated with the notion of grand duchy from the sixteenth to the twentieth centuries. It analyses different layers in the Swedish, Russian, and Finnish use of the concept, from medieval modes of princely power to modern ideas of national statehood in the light of the evolving history of the European concepts of state and nation. In Finland the ‘grand duchy’ was seldom rhetorically confronted as a symbol of the declining old order. Nor, however, was it a synonym for the ‘Emperor’s Finland’ and unbroken loyalty. Instead, its meaning was stretched in opposing directions as a frame for princely rule and an arena for representing the people. During its long history the Grand Duchy of Finland came to signify both Finland’s imperial dependence and its constitution as a separate state and nation – until the overstretched concept shattered in 1917, both from without and within.",
+      "authors": [],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/sfh.30",
+      "subjects": [
+        "Conceptual history",
+        "Era of autonomy",
+        "Forms of government",
+        "Grand Duchy of Finland",
+        "Historiography",
+        "Period of Swedish rule in Finland",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DN Northern Europe, Scandinavia::1DNF Finland",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPH Political structure and processes",
+        "thema EDItEUR::N History and Archaeology::NH History::NHD European history"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/177756.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/114386/1/9789524270144.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/177756.2",
+        "handle": "20.500.12854/177756.2",
+        "dspace_uuid": "57e8dcee-1818-448a-abbd-9ae4b444bfce"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/177756.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/177756.2",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/114386/1/9789524270144.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -158691,7 +158883,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "Г. И. Баренблатт"
+        "Grigory Isaakovich Barenblatt"
       ],
       "language": "en",
       "year": 1962,
@@ -163591,47 +163783,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC8 Cultural policies and debates",
         "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117381",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/6933fc0a-0581-4793-bab0-f8663f135b44/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/788c74d9-cb60-44e0-a0d5-b9f4b43da9e4/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/788c74d9-cb60-44e0-a0d5-b9f4b43da9e4/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181954",
+        "source_id": "20.500.12657/117381",
         "handle": "20.500.12854/181954",
         "dspace_uuid": "947e04a6-385c-467e-8403-54c277886a48",
         "oapen_library_source_id": "20.500.12657/117381",
         "oapen_library_handle": "20.500.12657/117381",
-        "oapen_library_dspace_uuid": "adc71536-6f23-4871-b1af-fdc119fa7ef2"
+        "oapen_library_dspace_uuid": "adc71536-6f23-4871-b1af-fdc119fa7ef2",
+        "doab_source_id": "20.500.12854/181954"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181954",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117381",
@@ -163646,6 +163824,21 @@
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
           "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181954",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+          "verified_legal": true
         }
       ]
     },
@@ -163657,7 +163850,7 @@
       "authors": [
         "C. Bradford Barber",
         "David Dobkin",
-        "Hannu Huhdanpaa"
+        "Hannu T. Huhdanpaa"
       ],
       "language": "en",
       "year": 1996,
@@ -170986,6 +171179,59 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:dea91275188d997afcbe3b1e",
+      "title": "The Transmedia Way",
+      "subtitle": "The Storytellers, Communicators and Designers’ Guide to the Galaxy",
+      "description": "This book is an essay and a professional guide at the same time. It consists of all the most important masterworks and experiences, and is a “captain’s log” with 100 examples of the most relevant and original transmedia universes invented over the past years, from America to Europe, from Asia to Africa and Australia. The discussion is endorsed by the presence of first rated professionals and academics who list among the most important international producers, authors and scholars in transmedia history. Angry Birds and the Marvel Cinematic Universe, Mr. Robot and Games of Thrones, The Dark Knight, Westworld and Hunger Games, Avatar and Assassin’s Creed, LOST and Prometheus, Sin City, Mad Man and Halo, Dexter and Star Wars or brands like BMW and Burberry, Chanel and LEGO, HBO and Coke, IKEA, Harley Davidson and Discovery Channel.",
+      "authors": [
+        "Giovagnoli, Max"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Play Story Press",
+      "isbn": [],
+      "doi": "10.17613/pfw4s-x3649",
+      "subjects": [
+        "transmedia, storytelling, communication, design",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KN Industry and industrial studies::KNT Media, entertainment, information and communication industries"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182226",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/333dc14f-3d7e-4fe0-b2bc-ab8da739fdf3/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://playstorypress.org/wp-content/uploads/2026/09/transmedia-way_digital-cover-small.png"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182226",
+        "handle": "20.500.12854/182226",
+        "dspace_uuid": "5f8d5ed8-a7e6-442b-9930-2857ecb4ff93"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182226",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182226",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://playstorypress.org/wp-content/uploads/2026/09/transmedia-way_digital-cover-small.png"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -181330,6 +181576,64 @@
       ]
     },
     {
+      "id": "work:96cf28b67cf0e298f2123f5a",
+      "title": "Unelmatehdas Kulosaaressa",
+      "subtitle": "Fennada-Filmi Oy:n tarina",
+      "description": "The Dream Factory in Kulosaari traces the history of Fennada-Filmi, one of the three major film production companies of Finland’s studio era. Drawing on extensive archival sources and interviews, the book provides a vivid account of post-war Finnish cinema and film culture, the filmmakers themselves, and their work at the Kulosaari studios as well as on location. Former employees recall Fennada as a more flexible, democratic, and humane workplace than the other major studios. The book argues that from the early 1950s onwards, Fennada-Filmi transformed the appearance of Finnish cinema, challenging the status quo dominated by the two traditional major studios, Suomi-Filmi and Suomen Filmiteollisuus. Fennada’s output was youthful, fast-paced and urban in spirit: its crime films were briskier in pace and more American in style than what Finnish audiences were accustomed to, while its literary adaptations, such as The Harvest Month and The Golden Calf, embraced modernist cinema with striking boldness. The epic film Here, Beneath the North Star marked the end of the studio era and the beginning of collaborative production between film companies and television.",
+      "authors": [],
+      "language": "und",
+      "year": 2026,
+      "publisher": "Finnish Literature Society / SKS",
+      "isbn": [],
+      "doi": "10.21435/skst.1504",
+      "subjects": [
+        "Fennada-Filmi",
+        "Film history",
+        "Film industry",
+        "Film production",
+        "Films",
+        "Television history",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DN Northern Europe, Scandinavia::1DNF Finland",
+        "thema EDItEUR::A The Arts::AT Performing arts::ATF Films, cinema::ATFA Film history, theory or criticism",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KN Industry and industrial studies::KNT Media, entertainment, information and communication industries::KNTC Film, TV and Radio industries"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/176269.2",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://library.oapen.org/bitstream/20.500.12657/112932/1/9789518589726.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/176269.2",
+        "handle": "20.500.12854/176269.2",
+        "dspace_uuid": "4de10c5e-623f-4bf9-8dca-a3930f803e37"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/176269.2",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/176269.2",
+          "language": "und",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/112932/1/9789518589726.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:6a10e6dad15daf0ce15b5e1d",
       "title": "Unionsverfassungsrecht",
       "subtitle": "Eine Neubestimmung anhand der Grundlagen im EU-Vertrag",
@@ -183034,47 +183338,33 @@
         "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDH Philosophical traditions and schools of thought::QDHR Western philosophy from c 1800",
         "thema EDItEUR::Q Philosophy and Religion::QD Philosophy::QDT Topics in philosophy::QDTQ Ethics and moral philosophy"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182125",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116870",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/9e84d43b-7654-474a-8832-d11d9e7fa1db/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116870/1/9783110767582.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/62804039-1adf-4c3c-8515-294af83738fa/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/62804039-1adf-4c3c-8515-294af83738fa/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116870/1/9783110767582.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182125",
+        "source_id": "20.500.12657/116870",
         "handle": "20.500.12854/182125",
         "dspace_uuid": "459dc455-d2fc-4112-8e99-d742e76ff53d",
         "oapen_library_source_id": "20.500.12657/116870",
         "oapen_library_handle": "20.500.12657/116870",
-        "oapen_library_dspace_uuid": "f04a2bd6-4902-484f-950a-c0245f9c5489"
+        "oapen_library_dspace_uuid": "f04a2bd6-4902-484f-950a-c0245f9c5489",
+        "doab_source_id": "20.500.12854/182125"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182125",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182125",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116870/1/9783110767582.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116870",
@@ -183088,6 +183378,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182125",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182125",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116870/1/9783110767582.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -183117,47 +183422,33 @@
         "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182032",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/116703",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/dbf68567-9b7e-4385-b022-4755df7fff9e/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116703/1/9783111593395.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/2c33138b-ea38-4e08-907f-57e3e6e970bb/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/2c33138b-ea38-4e08-907f-57e3e6e970bb/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/116703/1/9783111593395.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182032",
+        "source_id": "20.500.12657/116703",
         "handle": "20.500.12854/182032",
         "dspace_uuid": "9bb6a51d-626a-4f1d-852c-7f418b422c3c",
         "oapen_library_source_id": "20.500.12657/116703",
         "oapen_library_handle": "20.500.12657/116703",
-        "oapen_library_dspace_uuid": "d6075ff3-d0c2-46da-8dc4-f08df21613c9"
+        "oapen_library_dspace_uuid": "d6075ff3-d0c2-46da-8dc4-f08df21613c9",
+        "doab_source_id": "20.500.12854/182032"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182032",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182032",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116703/1/9783111593395.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/116703",
@@ -183171,6 +183462,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182032",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182032",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/116703/1/9783111593395.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -186023,10 +186329,6 @@
         {
           "type": "pdf",
           "url": "https://library.oapen.org/rest/bitstreams/fb8b58a3-39e1-416b-99ec-6c82d4e2c936/retrieve"
-        },
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116952/1/9783961478538.pdf"
         }
       ],
       "access": "creative_commons",
@@ -186055,21 +186357,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
-          "verified_legal": true
-        },
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181519",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181519",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116952/1/9783961478538.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
           "verified_legal": true
         }
       ]
@@ -188545,6 +188832,62 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:285c1ea15af6a7c51fea0237",
+      "title": "Κατ’ ἐπιϲτήμην καὶ εὔνοιαν : scritti scelti di Giovanni Indelli",
+      "subtitle": "",
+      "description": "This volume brings together fifty-eight studies by the papyrologist and Hellenist Giovanni Indelli, published between 1975 and 2023. It offers a selection of scholarly articles and book chapters drawn from the extensive body of work produced by a scholar born in Salerno but educated in Naples, who pursued his entire scholarly and academic career at the University of Naples Federico II. The studies collected here reflect the three principal strands of Indelli's research. Thirty-seven contributions address papyrological and textual-critical issues, as well as questions of interpretation and exegesis, relating to philosophical texts preserved in the Herculaneum papyri. Nine studies focus on Plutarch's Moralia, examining the reconstruction of their text and highlighting the importance of the translations of these works produced by Italian humanists in the fifteenth century. Finally, twelve contributions explore some of the leading figures in the history of classical and papyrological scholarship over the past two centuries—among them Domenico Comparetti, Marcello Gigante, and Achille Vogliano—through the edition of previously unpublished correspondence and archival documents. The purpose of the collection is not merely to bring together a number of studies of outstanding scholarly significance in the field of Classical Studies, some of which are no longer readily accessible. Through its selection of themes, it also seeks to present both specialist and non-specialist readers with the intellectual profile of a scholar who has made a major contribution to the development of research on the Herculaneum papyri and on Plutarch.",
+      "authors": [
+        "Indelli, Giovanni"
+      ],
+      "language": "it",
+      "year": 2023,
+      "publisher": "FedOA - Federico II University Press",
+      "isbn": [],
+      "doi": "10.6093/978-88-6887-189-5",
+      "subjects": [
+        "Papiri ercolanesi",
+        "Fonti antiche",
+        "Epicuro",
+        "Plutarco",
+        "thema EDItEUR::C Language and Linguistics::CF Linguistics::CFF Historical and comparative linguistics"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182223",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/3c6892a9-4e7b-40b8-8dbf-91be493dd476/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/829"
+        }
+      ],
+      "access": "open_access",
+      "license": "All rights reserved",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182223",
+        "handle": "20.500.12854/182223",
+        "dspace_uuid": "39e3b41b-4989-488d-b88c-072ce2a02492"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182223",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182223",
+          "language": "it",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.fedoabooks.unina.it/index.php/fedoapress/it/catalog/book/829"
+            }
+          ],
+          "access": "open_access",
+          "license": "All rights reserved",
           "verified_legal": true
         }
       ]
@@ -193598,5 +193941,5 @@
     }
   ],
   "partitioned": false,
-  "total_records": 2194
+  "total_records": 2202
 }
