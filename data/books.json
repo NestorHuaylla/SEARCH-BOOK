@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T10:25:19.133899Z",
+  "generated_at": "2026-09-26T10:04:39.126161Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -13877,6 +13877,79 @@
       ]
     },
     {
+      "id": "work:0a10e80f37466dad7261edf2",
+      "title": "Anuario Marista 1998 Barrio M. Champagnat JORGE ROCCHI ROCCHI ESTUDIO",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Rocchi Estudio"
+      ],
+      "language": "es",
+      "year": 1998,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "rocchi",
+        "jorge rocchi",
+        "jorge daniel rocchi",
+        "barrio champagnat",
+        "barrio marcelino champagnat",
+        "barrio parque marcelino champagnat",
+        "complejo habitacional marcelino champagnat"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio",
+      "cover_url": "https://archive.org/services/img/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio",
+        "internet_archive": "anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio",
+          "source_url": "https://archive.org/details/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/anuario-marista-1998-barrio-m.-champagnat-jorge-rocchi-rocchi-estudio/Anuario%201998-Maristas%20Pergamino-Transcripcion_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:79616eff6211b3db14630514",
       "title": "Apache Cookbook",
       "subtitle": "",
@@ -14128,47 +14201,33 @@
         "thema EDItEUR::A The Arts::AV Music",
         "thema EDItEUR::A The Arts::AV Music::AVL Music: styles and genres::AVLP Popular music"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117429",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/462d6291-cd7f-41c4-880c-1d7c2eb3a79e/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f3c2e6e6-09d4-47c1-bbfc-97735002ef0c/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f3c2e6e6-09d4-47c1-bbfc-97735002ef0c/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181907",
+        "source_id": "20.500.12657/117429",
         "handle": "20.500.12854/181907",
         "dspace_uuid": "b327a775-e5b3-4fd0-8904-8fd5b921a279",
         "oapen_library_source_id": "20.500.12657/117429",
         "oapen_library_handle": "20.500.12657/117429",
-        "oapen_library_dspace_uuid": "93e6de89-03db-4fa2-baa0-91ad4db90300"
+        "oapen_library_dspace_uuid": "93e6de89-03db-4fa2-baa0-91ad4db90300",
+        "doab_source_id": "20.500.12854/181907"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181907",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117429",
@@ -14182,6 +14241,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181907",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181907",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117429/1/9783631948644.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -15319,47 +15393,33 @@
         "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCZ Economic history",
         "thema EDItEUR::5 Interest qualifiers::5P Relating to specific groups and cultures or social and cultural interests::5PB Relating to peoples: ethnic groups, indigenous peoples, cultures and other groupings of people::5PBC Relating to migrant groups / diaspora communities or peoples"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117405",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/b16cf03d-85ee-4144-8f04-5955e234dda7/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/50700d32-5641-41cf-867b-94350a0c84a7/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/50700d32-5641-41cf-867b-94350a0c84a7/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181989",
+        "source_id": "20.500.12657/117405",
         "handle": "20.500.12854/181989",
         "dspace_uuid": "1c36e905-16e6-4a7b-a973-0967d23a061a",
         "oapen_library_source_id": "20.500.12657/117405",
         "oapen_library_handle": "20.500.12657/117405",
-        "oapen_library_dspace_uuid": "c51e7378-bcb0-4650-adf4-1e2984cbb4d3"
+        "oapen_library_dspace_uuid": "c51e7378-bcb0-4650-adf4-1e2984cbb4d3",
+        "doab_source_id": "20.500.12854/181989"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181989",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117405",
@@ -15373,6 +15433,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181989",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181989",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117405/1/9783593464732.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -16314,6 +16389,73 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:710972c9551c96e0dd3b8d4c",
+      "title": "Arte de la lengua mexicana",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Rafael Sandoval"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Lengua mexicana"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/arte-de-la-lengua-mexicana",
+      "cover_url": "https://archive.org/services/img/arte-de-la-lengua-mexicana",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "arte-de-la-lengua-mexicana",
+        "internet_archive": "arte-de-la-lengua-mexicana"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "arte-de-la-lengua-mexicana",
+          "source_url": "https://archive.org/details/arte-de-la-lengua-mexicana",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/arte-de-la-lengua-mexicana/Arte%20de%20la%20lengua%20mexicana_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -21672,47 +21814,33 @@
         "thema EDItEUR::N History and Archaeology::NH History",
         "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTB History of scholarship (principally of social sciences and humanities)"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117390",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/df0fc7b8-5faa-4c0a-8539-6953777b44d0/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/f5c096f8-0598-4b5f-88ca-c598218fe151/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/f5c096f8-0598-4b5f-88ca-c598218fe151/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181751",
+        "source_id": "20.500.12657/117390",
         "handle": "20.500.12854/181751",
         "dspace_uuid": "6378b9fb-c6e4-4640-ab01-a31eb30b3ba0",
         "oapen_library_source_id": "20.500.12657/117390",
         "oapen_library_handle": "20.500.12657/117390",
-        "oapen_library_dspace_uuid": "2a5ed925-6e19-4a6e-a4b9-9f6e198be5f2"
+        "oapen_library_dspace_uuid": "2a5ed925-6e19-4a6e-a4b9-9f6e198be5f2",
+        "doab_source_id": "20.500.12854/181751"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181751",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117390",
@@ -21726,6 +21854,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181751",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181751",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117390/1/9783666302602.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
           "verified_legal": true
         }
       ]
@@ -23283,53 +23426,53 @@
       ]
     },
     {
-      "id": "work:9deea56bc5fe5f8d7179f4f1",
-      "title": "Boletin de Barometro Internacional 06.11.2017",
+      "id": "work:3d7baf9f289bb39599a247bf",
+      "title": "Boletin de Barometro Internacional 24.05.2018",
       "subtitle": "",
       "description": "",
       "authors": [
         "BAROMETRO INTERNACIONAL"
       ],
       "language": "es",
-      "year": 2017,
+      "year": 2018,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
         "bi",
         "boletin",
-        "06",
-        "nov",
+        "24",
+        "mayo",
         "barometro"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional06.11.2017",
-      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional06.11.2017",
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional24.05.2018",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional24.05.2018",
       "formats": [],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "BoletinDeBarometroInternacional06.11.2017",
-        "internet_archive": "BoletinDeBarometroInternacional06.11.2017"
+        "source_id": "BoletinDeBarometroInternacional24.05.2018",
+        "internet_archive": "BoletinDeBarometroInternacional24.05.2018"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "BoletinDeBarometroInternacional06.11.2017",
-          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional06.11.2017",
+          "source_id": "BoletinDeBarometroInternacional24.05.2018",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional24.05.2018",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
     },
     {
-      "id": "work:34def73c6af0f519b9320a62",
-      "title": "Boletin de Barometro Internacional 07.05.2018",
+      "id": "work:0b452f8df54079b4646c20f9",
+      "title": "Boletin de Barometro Internacional 31.05.2018",
       "subtitle": "",
       "description": "",
       "authors": [
@@ -23344,216 +23487,30 @@
         "bi",
         "barometro",
         "boletin",
-        "7",
+        "31",
         "mayo"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional07.05.2018",
-      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional07.05.2018",
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional31.05.2018",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional31.05.2018",
       "formats": [],
       "access": "creative_commons",
       "license": "http://creativecommons.org/licenses/by-sa/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "BoletinDeBarometroInternacional07.05.2018",
-        "internet_archive": "BoletinDeBarometroInternacional07.05.2018"
+        "source_id": "BoletinDeBarometroInternacional31.05.2018",
+        "internet_archive": "BoletinDeBarometroInternacional31.05.2018"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "BoletinDeBarometroInternacional07.05.2018",
-          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional07.05.2018",
+          "source_id": "BoletinDeBarometroInternacional31.05.2018",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional31.05.2018",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
           "license": "http://creativecommons.org/licenses/by-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:3b1e645575faa72adcdb3dbd",
-      "title": "Boletín Oficial de la República Argentina. 1984 3ra sección",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "República Argentina"
-      ],
-      "language": "es",
-      "year": 1984,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "boletin",
-        "oficial",
-        "argentina",
-        "leyes"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21",
-      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21/1984-09-21.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21/1984-09-21_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21",
-        "internet_archive": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21",
-          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21/1984-09-21.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1984-09-21/1984-09-21_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:24436edec126a1de56d7ae80",
-      "title": "Boletín Oficial de la República Argentina. 1991 3ra sección",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "República Argentina"
-      ],
-      "language": "es",
-      "year": 1991,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "boletin",
-        "oficial",
-        "argentina",
-        "leyes"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21",
-      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21/1991-06-21.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21/1991-06-21_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21",
-        "internet_archive": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21",
-          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21/1991-06-21.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_1991-06-21/1991-06-21_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:fbff618d90edcd3adab2d9cc",
-      "title": "Boletín Oficial de la República Argentina. 2011 3ra sección",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "República Argentina"
-      ],
-      "language": "es",
-      "year": 2011,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "boletin",
-        "oficial",
-        "argentina",
-        "leyes"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15",
-      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15/2011-06-15.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15/2011-06-15_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15",
-        "internet_archive": "Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15",
-          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15/2011-06-15.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_3ra_seccion_2011-06-15/2011-06-15_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -25355,47 +25312,6 @@
       ]
     },
     {
-      "id": "work:fcfe346f5d44fc95866398fe",
-      "title": "CÁ NTAROS MANUAL DE USO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Marina Salinas"
-      ],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Diseño"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-      "cover_url": "https://archive.org/services/img/ca-ntaros-manual-de-uso",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ca-ntaros-manual-de-uso",
-        "internet_archive": "ca-ntaros-manual-de-uso"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ca-ntaros-manual-de-uso",
-          "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:7856b0c8c71df43af042a853",
       "title": "Cálculo Cientifico con MATLAB y Octave",
       "subtitle": "",
@@ -26491,47 +26407,6 @@
           ],
           "access": "author_free",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:4d35bad8b4ee47b2150bf6bd",
-      "title": "Cartera Integrada XV Arica Y Parinacota 18 Junio 2019",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "GORE ARICA Y PARINACOTA"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "CARTERA INTEGRADA JUNIO2019"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/CarteraIntegradaXVAricaYParinacota18Junio2019",
-      "cover_url": "https://archive.org/services/img/CarteraIntegradaXVAricaYParinacota18Junio2019",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "CarteraIntegradaXVAricaYParinacota18Junio2019",
-        "internet_archive": "CarteraIntegradaXVAricaYParinacota18Junio2019"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "CarteraIntegradaXVAricaYParinacota18Junio2019",
-          "source_url": "https://archive.org/details/CarteraIntegradaXVAricaYParinacota18Junio2019",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -28485,75 +28360,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:14bf26508a090a092d0149dd",
-      "title": "China's 40 Years of Reform and Development 1978–2018",
-      "subtitle": "",
-      "description": "The year 2018 marks 40 years of reform and development in China (1978–2018). This commemorative book assembles some of the world's most prominent scholars on the Chinese economy to reflect on what has been achieved as a result of the economic reform programs, and to draw out the key lessons that have been learned by the model of growth and development in China over the preceding four decades. This book explores what has happened in the transformation of the Chinese economy in the past 40 years for China itself, as well as for the rest of the world, and discusses the implications of what will happen next in the context of China’s new reform agenda. Focusing on the long-term development strategy amid various old and new challenges that face the economy, this book sets the scene for what the world can expect in China’s fifth decade of reform and development. A key feature of this book is its comprehensive coverage of the key issues involved in China’s economic reform and development. Included are discussions of China’s 40 years of reform and development in a global perspective; the political economy of economic transformation; the progress of marketisation and changes in market-compatible institutions; the reform program for state-owned enterprises; the financial sector and fiscal system reform, and its foreign exchange system reform; the progress and challenges in economic rebalancing; and the continuing process of China’s global integration. This book further documents and analyses the development experiences including China’s large scale of migration and urbanisation, the demographic structural changes, the private sector development, income distribution, land reform and regional development, agricultural development, and energy and climate change policies.",
-      "authors": [
-        "Garnaut, Ross",
-        "Fang, Cai",
-        "Song, Ligang"
-      ],
-      "language": "en",
-      "year": 2018,
-      "publisher": "ANU Press",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "China",
-        "Economic reform",
-        "Development",
-        "Economic growth",
-        "Political economy",
-        "Fiscal system",
-        "Financial sector",
-        "Foreign exchange system",
-        "Migration",
-        "Urbanisation",
-        "Income distribution",
-        "Climate change policies",
-        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCG Economic growth",
-        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCM Development economics and emerging economies",
-        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCP Political economy",
-        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181562",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ad1d5388-c514-456a-8080-2566cd2e4458/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116550/1/9781760462253.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181562",
-        "handle": "20.500.12854/181562",
-        "dspace_uuid": "b9a39fa9-dc6b-44fd-8c8d-a2ae7339f4f2"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181562",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181562",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116550/1/9781760462253.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -37466,47 +37272,33 @@
         "Verwandtschaft",
         "thema EDItEUR::J Society and Social Sciences"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117384",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/6a0dcc57-1c50-48ee-af1d-e6ea24cdbc05/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/084eea0b-d007-420f-90f1-51dc391cf4d0/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/084eea0b-d007-420f-90f1-51dc391cf4d0/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181845",
+        "source_id": "20.500.12657/117384",
         "handle": "20.500.12854/181845",
         "dspace_uuid": "1d779ab1-67ea-4c7e-8635-b8961d5dd617",
         "oapen_library_source_id": "20.500.12657/117384",
         "oapen_library_handle": "20.500.12657/117384",
-        "oapen_library_dspace_uuid": "6c5ac3f0-1819-4524-bb57-bc290d575432"
+        "oapen_library_dspace_uuid": "6c5ac3f0-1819-4524-bb57-bc290d575432",
+        "doab_source_id": "20.500.12854/181845"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181845",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117384",
@@ -37520,6 +37312,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181845",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181845",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117384/1/9783205224662.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -38228,74 +38035,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:49b7f26f553cb2b025410ee4",
-      "title": "De la oposición de los gobiernos representativos",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Alberto Lista"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historia contemporánea",
-        "Política"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/de-la-oposicion-de-los-gobiernos-representativos",
-      "cover_url": "https://archive.org/services/img/de-la-oposicion-de-los-gobiernos-representativos",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "de-la-oposicion-de-los-gobiernos-representativos",
-        "internet_archive": "de-la-oposicion-de-los-gobiernos-representativos"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "de-la-oposicion-de-los-gobiernos-representativos",
-          "source_url": "https://archive.org/details/de-la-oposicion-de-los-gobiernos-representativos",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/de-la-oposicion-de-los-gobiernos-representativos/De%20la%20oposici%C3%B3n%20de%20los%20gobiernos%20representativos_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -43789,47 +43528,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFZ Social forecasting, future studies",
         "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RN The environment::RNP Pollution and threats to the environment::RNPG Climate change"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117404",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/30bbd98b-166e-471e-93f5-9f919aec1a0e/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/054f0dee-cf9b-453a-8a50-d913f5143ca2/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/054f0dee-cf9b-453a-8a50-d913f5143ca2/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181935",
+        "source_id": "20.500.12657/117404",
         "handle": "20.500.12854/181935",
         "dspace_uuid": "3eea9895-95cc-4b01-9e85-f41d9d6a857e",
         "oapen_library_source_id": "20.500.12657/117404",
         "oapen_library_handle": "20.500.12657/117404",
-        "oapen_library_dspace_uuid": "a5034f99-4698-4cce-af9d-45f12a3b6d92"
+        "oapen_library_dspace_uuid": "a5034f99-4698-4cce-af9d-45f12a3b6d92",
+        "doab_source_id": "20.500.12854/181935"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181935",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117404",
@@ -43843,6 +43568,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181935",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181935",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117404/1/9783593464336.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -44020,47 +43760,33 @@
         "Soviet Subjectivity",
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117391",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/12d10118-c7ca-44cd-ad1f-62e0b0c381f6/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/9e6dfc47-90fa-4a60-bad6-1f3c59ea9b74/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/9e6dfc47-90fa-4a60-bad6-1f3c59ea9b74/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181811",
+        "source_id": "20.500.12657/117391",
         "handle": "20.500.12854/181811",
         "dspace_uuid": "ea9ee211-3ed7-485d-b406-b271ee1f225d",
         "oapen_library_source_id": "20.500.12657/117391",
         "oapen_library_handle": "20.500.12657/117391",
-        "oapen_library_dspace_uuid": "55948754-08ef-44cc-8cab-7dea362a36fd"
+        "oapen_library_dspace_uuid": "55948754-08ef-44cc-8cab-7dea362a36fd",
+        "doab_source_id": "20.500.12854/181811"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181811",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117391",
@@ -44074,6 +43800,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181811",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181811",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117391/1/9783666302756.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -45154,47 +44895,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBS Social groups, communities and identities::JBSF Gender studies, gender groups",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117413",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/0bae73d1-dced-4ea7-9f36-c49539b2f383/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/6020ad02-d63e-4e85-a603-8d1519ca088e/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/6020ad02-d63e-4e85-a603-8d1519ca088e/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181875",
+        "source_id": "20.500.12657/117413",
         "handle": "20.500.12854/181875",
         "dspace_uuid": "ca37b657-aebe-4dd7-ac25-17a1addffe74",
         "oapen_library_source_id": "20.500.12657/117413",
         "oapen_library_handle": "20.500.12657/117413",
-        "oapen_library_dspace_uuid": "7ee160cb-b359-404d-94a8-59966596bebd"
+        "oapen_library_dspace_uuid": "7ee160cb-b359-404d-94a8-59966596bebd",
+        "doab_source_id": "20.500.12854/181875"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181875",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117413",
@@ -45208,6 +44935,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181875",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181875",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117413/1/9783957962768.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -49923,47 +49665,6 @@
       ]
     },
     {
-      "id": "work:4f2d7f08c8aeac460b2df876",
-      "title": "El Credo De Los Asesinos.",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Roberto Rojas Alonso"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "From Hell El Credo de Los Asesinos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/FromHellElCredoDeLosAsesinos.",
-      "cover_url": "https://archive.org/services/img/FromHellElCredoDeLosAsesinos.",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "FromHellElCredoDeLosAsesinos.",
-        "internet_archive": "FromHellElCredoDeLosAsesinos."
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "FromHellElCredoDeLosAsesinos.",
-          "source_url": "https://archive.org/details/FromHellElCredoDeLosAsesinos.",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:5f0f792699cf40c08b27bc6b",
       "title": "El crimen y el castigo",
       "subtitle": "",
@@ -50208,79 +49909,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:554907a6b083a29003f87d58",
-      "title": "El Jugador - Rick Joop (Letra Oficial)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Rick Joop⁠"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Rick Joop",
-        "El Jugador",
-        "Letra",
-        "Lyrics",
-        "Corrido Tumbado",
-        "Trap",
-        "Musica Urbana⁠"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/el_jugador_rick_joop",
-      "cover_url": "https://archive.org/services/img/el_jugador_rick_joop",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop_completo_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop_completo_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "el_jugador_rick_joop",
-        "internet_archive": "el_jugador_rick_joop"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "el_jugador_rick_joop",
-          "source_url": "https://archive.org/details/el_jugador_rick_joop",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop_completo_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/el_jugador_rick_joop/el_jugador_rick_joop_completo_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -60834,47 +60462,33 @@
         "Open Access",
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBA Social theory"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117403",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/26583466-94d1-46f0-94d8-d961a7663030/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/80b822c6-3393-4bac-9c30-feed29fc14b0/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/80b822c6-3393-4bac-9c30-feed29fc14b0/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181847",
+        "source_id": "20.500.12657/117403",
         "handle": "20.500.12854/181847",
         "dspace_uuid": "3217dfa6-cf39-40ad-ba67-c8c32b1db1b9",
         "oapen_library_source_id": "20.500.12657/117403",
         "oapen_library_handle": "20.500.12657/117403",
-        "oapen_library_dspace_uuid": "6da7e4c0-6504-49ab-9811-04f268a576f9"
+        "oapen_library_dspace_uuid": "6da7e4c0-6504-49ab-9811-04f268a576f9",
+        "doab_source_id": "20.500.12854/181847"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181847",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117403",
@@ -60888,6 +60502,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181847",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181847",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117403/1/9783593465609.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -64779,47 +64408,33 @@
         "Überzeugungen",
         "thema EDItEUR::J Society and Social Sciences::JN Education::JNL Schools and pre-schools::JNLB Primary and middle schools"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117408",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/0afef137-9db7-4e02-a626-fbf2badd5982/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/00a0629e-7ba1-4778-a35c-3fcb86944701/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/00a0629e-7ba1-4778-a35c-3fcb86944701/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181893",
+        "source_id": "20.500.12657/117408",
         "handle": "20.500.12854/181893",
         "dspace_uuid": "c4cd3d91-6ced-4f1f-930c-44bcdbe90a0f",
         "oapen_library_source_id": "20.500.12657/117408",
         "oapen_library_handle": "20.500.12657/117408",
-        "oapen_library_dspace_uuid": "8a35f244-c75b-41d2-b3d8-e41b52e2e32f"
+        "oapen_library_dspace_uuid": "8a35f244-c75b-41d2-b3d8-e41b52e2e32f",
+        "doab_source_id": "20.500.12854/181893"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181893",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117408",
@@ -64833,6 +64448,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181893",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181893",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117408/1/9783781562417.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -65153,6 +64783,50 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:47e3d21528c0f59e0869ec14",
+      "title": "Guía Definitiva: Cómo Usar Modelos De Lenguaje Pequeños ( SLM) En 2025",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Soporte360 IT"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "slm model",
+        "modelo slm",
+        "inteligencia artificial",
+        "Soporte360 IT"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025",
+      "cover_url": "https://archive.org/services/img/guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025",
+        "internet_archive": "guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025",
+          "source_url": "https://archive.org/details/guia-definitiva-como-usar-modelos-de-lenguaje-pequenos-slm-en-2025",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -74824,47 +74498,33 @@
         "thema EDItEUR::N History and Archaeology::NH History::NHD European history",
         "thema EDItEUR::Q Philosophy and Religion::QR Religion and beliefs::QRM Christianity::QRMB Christian Churches, denominations, groups"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117382",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/f922fba7-5ac3-4c7a-858c-4f44d8c340f8/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/be90fbbe-3fcf-42fc-afa6-1d9608d68879/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/be90fbbe-3fcf-42fc-afa6-1d9608d68879/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181839",
+        "source_id": "20.500.12657/117382",
         "handle": "20.500.12854/181839",
         "dspace_uuid": "10360c5c-6e79-47ce-8647-543110527ff3",
         "oapen_library_source_id": "20.500.12657/117382",
         "oapen_library_handle": "20.500.12657/117382",
-        "oapen_library_dspace_uuid": "684b11c7-7be2-4b51-af09-701c887f8570"
+        "oapen_library_dspace_uuid": "684b11c7-7be2-4b51-af09-701c887f8570",
+        "doab_source_id": "20.500.12854/181839"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181839",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117382",
@@ -74878,6 +74538,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181839",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181839",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117382/1/9783412534059.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -76338,79 +76013,6 @@
       ]
     },
     {
-      "id": "work:f3e92bf5bb939188d7672470",
-      "title": "Informe De Gestión 2024 Dirección De Memoria Histórica Y Reparación",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gobierno de Honduras"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Honduras",
-        "memoria",
-        "memoria histórica",
-        "reparación",
-        "vícitmas",
-        "derecho a la verdad",
-        "márires de la resistencia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/informe-2024-direccion-de-memoria-historica-y-reparacion",
-      "cover_url": "https://archive.org/services/img/informe-2024-direccion-de-memoria-historica-y-reparacion",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "informe-2024-direccion-de-memoria-historica-y-reparacion",
-        "internet_archive": "informe-2024-direccion-de-memoria-historica-y-reparacion"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "informe-2024-direccion-de-memoria-historica-y-reparacion",
-          "source_url": "https://archive.org/details/informe-2024-direccion-de-memoria-historica-y-reparacion",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:6059c56a3fe14669bd2085ce",
       "title": "Ingeniería de Software: Una Guía para Crear Sistemas de Información",
       "subtitle": "",
@@ -76566,6 +76168,48 @@
           ],
           "access": "open_access",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:dee8d4c814c6cbc7522fce59",
+      "title": "Iniciativa Podgaming",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Game",
+        "gaming",
+        "podcasting",
+        "podcast"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/podgaming-filed",
+      "cover_url": "https://archive.org/services/img/podgaming-filed",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "podgaming-filed",
+        "internet_archive": "podgaming-filed"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "podgaming-filed",
+          "source_url": "https://archive.org/details/podgaming-filed",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -84953,6 +84597,74 @@
       ]
     },
     {
+      "id": "work:be5d01d38bfdbde3dfda39de",
+      "title": "Keyforge Reglamento Maestro ES Es 17 4 2",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "rkadrano"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "keyforge",
+        "rkadrano"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/keyforge-reglamento-maestro-es-es-17-4-2",
+      "cover_url": "https://archive.org/services/img/keyforge-reglamento-maestro-es-es-17-4-2",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "keyforge-reglamento-maestro-es-es-17-4-2",
+        "internet_archive": "keyforge-reglamento-maestro-es-es-17-4-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "keyforge-reglamento-maestro-es-es-17-4-2",
+          "source_url": "https://archive.org/details/keyforge-reglamento-maestro-es-es-17-4-2",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/keyforge-reglamento-maestro-es-es-17-4-2/KeyforgeReglamentoMaestro_ES_es17_4_2_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7357727bde869f1bcb91bf02",
       "title": "KI – Körper – Didaktik. Leibliche Dimensionen sprachlichen und literarischen Lernens mit KI",
       "subtitle": "",
@@ -89941,23 +89653,23 @@
         "thema EDItEUR::U Computing and Information Technology"
       ],
       "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/178503.2",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ac622e37-94c7-4768-bbad-4432b5d89601/retrieve",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/178503.3",
+      "cover_url": "",
       "formats": [],
       "access": "open_access",
       "license": "Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/178503.2",
-        "handle": "20.500.12854/178503.2",
-        "dspace_uuid": "c232b2b4-05ad-4a90-8e6f-f9fd5a0d09bc"
+        "source_id": "20.500.12854/178503.3",
+        "handle": "20.500.12854/178503.3",
+        "dspace_uuid": "a3b18998-c3ad-4b8f-8658-773b11be0413"
       },
       "providers": [
         {
           "source": "DOAB",
-          "source_id": "20.500.12854/178503.2",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/178503.2",
+          "source_id": "20.500.12854/178503.3",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/178503.3",
           "language": "es",
           "formats": [],
           "access": "open_access",
@@ -91197,47 +90909,6 @@
       ]
     },
     {
-      "id": "work:a12f40bc06c59f9a907e495e",
-      "title": "lechonera-programa-03-31-2024",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Lechon Atomico"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "La Nueva Lechonera del Rock"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/lechonera-programa-03-31-2024",
-      "cover_url": "https://archive.org/services/img/lechonera-programa-03-31-2024",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "lechonera-programa-03-31-2024",
-        "internet_archive": "lechonera-programa-03-31-2024"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "lechonera-programa-03-31-2024",
-          "source_url": "https://archive.org/details/lechonera-programa-03-31-2024",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4c9d1b2b49438c89813513ef",
       "title": "Legal Services and the European Convention on Human Rights",
       "subtitle": "Securing Private Rights and Public Interests",
@@ -92275,6 +91946,78 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:92b51140fc41d7deabf86b66",
+      "title": "Libro Santa Fe Antiguo - María Guadalupe Allassia",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "María Guadalupe Allassia, Raquel Diez Rodríguez de Albornoz"
+      ],
+      "language": "es",
+      "year": 2008,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Santa Fe",
+        "Santa Fe Antiguo",
+        "Historia",
+        "Patrimonio",
+        "Cultura",
+        "Fotografía"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/santa-fe-antiguo",
+      "cover_url": "https://archive.org/services/img/santa-fe-antiguo",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "santa-fe-antiguo",
+        "internet_archive": "santa-fe-antiguo"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "santa-fe-antiguo",
+          "source_url": "https://archive.org/details/santa-fe-antiguo",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/santa-fe-antiguo/2015%20SFA%20LIBRO%202008_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -93971,6 +93714,102 @@
       ]
     },
     {
+      "id": "work:7ec47095e85f81065f89130c",
+      "title": "Los libertos de la Hispania romana y su promoción social (recensión)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Nacho Seixo"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "UNED",
+        "epigrafía",
+        "estamentos",
+        "castas",
+        "clases",
+        "estatus",
+        "promoción social",
+        "recensión",
+        "Historia",
+        "Historia Antigua",
+        "Edad Antigua",
+        "Antigüedad",
+        "Hispania",
+        "hispanorromanos",
+        "esclavismo",
+        "esclavos",
+        "libertos",
+        "modo de producción esclavista",
+        "modo de producción antiguo",
+        "Hernández Guerra",
+        "Serrano Delgado",
+        "Libernautas"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/saxumleft-libertos-hispanorromanos",
+      "cover_url": "https://archive.org/services/img/saxumleft-libertos-hispanorromanos",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "saxumleft-libertos-hispanorromanos",
+        "internet_archive": "saxumleft-libertos-hispanorromanos"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "saxumleft-libertos-hispanorromanos",
+          "source_url": "https://archive.org/details/saxumleft-libertos-hispanorromanos",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/saxumleft-libertos-hispanorromanos/Nacho%20Seixo%20-%20Los%20libertos%20de%20la%20Hispania%20romana%20y%20su%20promoci%C3%B3n%20social%20%28v25.02.23%29_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:91935ea71fad4fd6bc4a7633",
       "title": "Los medios de comunicación social en internet",
       "subtitle": "",
@@ -94012,6 +93851,75 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:1a165fa25f058910c854acc8",
+      "title": "Los Misterios Del Hielo —efectos Evolutivos Evolutivos De La Glaciación",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Eduardo Velasco"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Hans Hörbiger",
+        "Hielo",
+        "Evolución"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion",
+      "cover_url": "https://archive.org/services/img/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion",
+        "internet_archive": "los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion",
+          "source_url": "https://archive.org/details/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/los-misterios-del-hielo-efectos-evolutivos-evolutivos-de-la-glaciacion/01-Los%20misterios%20del%20hielo%20%E2%80%94efectos%20evolutivos%20evolutivos%20de%20la%20glaciaci%C3%B3n_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -97995,47 +97903,6 @@
       ]
     },
     {
-      "id": "work:dda3ffc1e51a09532e134599",
-      "title": "MANUAL BASICO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ana Guadalupe; Paulina Álvarez; Quiñonez Deiker; Cedeño Diana; Moreira Leonela; Vicente Sandra; Crespo Josué; Medranda Betsi; Gaibor Mayra; Barreiro Maricarmen & Duchiranga Loida"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "manual para presentar una demanda"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/manual-basico",
-      "cover_url": "https://archive.org/services/img/manual-basico",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "manual-basico",
-        "internet_archive": "manual-basico"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "manual-basico",
-          "source_url": "https://archive.org/details/manual-basico",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:98c652b2ad17cf753a6e51c0",
       "title": "Manual de AngularJS",
       "subtitle": "",
@@ -98584,6 +98451,73 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:093c126ff25210903d38037e",
+      "title": "María Magdalena Martínez, Musulmanes En Las Indias",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Feliciano Barrios - María Magdalena Martínez - Diego Fernández Sotelo"
+      ],
+      "language": "es",
+      "year": 1900,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Historia - Jurisdicción hispana"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/maria-magdalena-martinez-musulmanes-en-las-indias",
+      "cover_url": "https://archive.org/services/img/maria-magdalena-martinez-musulmanes-en-las-indias",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "maria-magdalena-martinez-musulmanes-en-las-indias",
+        "internet_archive": "maria-magdalena-martinez-musulmanes-en-las-indias"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "maria-magdalena-martinez-musulmanes-en-las-indias",
+          "source_url": "https://archive.org/details/maria-magdalena-martinez-musulmanes-en-las-indias",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/maria-magdalena-martinez-musulmanes-en-las-indias/Diego%20Fern%C3%A1ndez%20Sotelo%2C%20el%20gobierno%20de%20la%20justicia_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -99884,6 +99818,116 @@
           ],
           "access": "creative_commons",
           "license": "Creative Commons Attribution-NonCommercial-ShareAlike License 4.0",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8f33cc09e7ccc00fdda725f5",
+      "title": "Medicina y odontología en emergencias y desastres. Competencias clínicas, gestión del riesgo y atención en escenarios de recursos limitados. Tomo I",
+      "subtitle": "",
+      "description": "When an emergency exceeds the usual response capacity, medical care can no longer be provided under ideal conditions. Time becomes limited, resources grow scarce, and every decision may determine who receives care first, which intervention takes priority, and how available resources can be used responsibly. This book addresses precisely such circumstances: medical practice in emergencies and disasters from a clinical, public health, and human-centered perspective. Throughout its chapters, it integrates the foundations of risk management, territorial and social vulnerability, the main hazards affecting Ecuador, and lessons learned from historical disasters, linking them to the preparedness and competencies healthcare professionals need to respond effectively to critical situations. The text progresses from understanding disasters as a public health issue to the direct care of critically ill patients. It covers triage, systematic assessment, life support, resuscitation, trauma and polytrauma, management of life-threatening conditions, analgesia, and sedation, together with the recognition and management of neurological, respiratory, cardiovascular, infectious, gastrointestinal, metabolic, and toxicological emergencies. Rather than merely describing diseases and procedures, the book proposes a way of thinking and acting when needs exceed available resources. Prioritizing, stabilizing, adapting, and making decisions thus become essential competencies. With particular attention to the Ecuadorian context and resource-limited settings, this book seeks to transform knowledge into response capacity by preparing professionals to recognize risks, make evidence-informed decisions, and provide comprehensive care when every minute, every resource, and every decision matters.",
+      "authors": [
+        "Gómez-Córdova, Claudia Alexandra"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Sophia Editions",
+      "isbn": [],
+      "doi": "10.64092/coyk5103",
+      "subjects": [
+        "Medicina de emergencias",
+        "Gestión del riesgo",
+        "Desastres",
+        "thema EDItEUR::M Medicine and Nursing"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182252",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/9641065c-ef5e-4c91-9de4-46e9b94d50ad/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-58-3.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182252",
+        "handle": "20.500.12854/182252",
+        "dspace_uuid": "0ace51ab-29d8-4851-83e5-28856c6989fb"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182252",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182252",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-58-3.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:36958997cbfa3c86f067d23a",
+      "title": "Medicina y odontología en emergencias y desastres. Competencias clínicas, gestión del riesgo y atención en escenarios de recursos limitados. Tomo II",
+      "subtitle": "",
+      "description": "Emergencies and disasters radically transform the usual conditions of healthcare delivery: they multiply needs disrupt essential services, compromise infrastructure and supply chains, require immediate decision-making, and demand the protection of life in settings where resources may be insufficient. In the face of this reality, an effective response requires far more than clinical knowledge; it demands organization, leadership, prevention, intersectoral coordination, adaptability, and professional preparedness. This second volume of Medicine and Dentistry in Emergencies and Disasters: Clinical Competencies, Risk Management, and Care in Resource-Limited Settings explores these dimensions in greater depth and provides a comprehensive perspective on healthcare response in critical situations. The book addresses the clinical and prehospital management of mass-casualty incidents, operational safety, comprehensive risk management, healthcare logistics, management of limited resources, continuity of essential services, and referral, counter-referral, transfer, and evacuation processes. It also examines infection prevention and control, water, sanitation and hygiene, waste management, epidemiological surveillance, and outbreak prevention. In addition, it integrates mental health, psychosocial support, self-care for healthcare personnel, and care for vulnerable populations. As a distinctive component, the book incorporates dentistry through the management of maxillofacial and dentoalveolar injuries, odontogenic infections, acute pain, facial fractures, oral healthcare in shelters, and forensic dentistry applied to human identification. Finally, it examines educational gaps, curriculum integration, clinical simulation, competency assessment, leadership, ethics, and healthcare administration. This volume proposes an approach to preparedness that goes beyond isolated procedures and strengthens professionals’ ability to organize, decide, coordinate, and act under pressure, preserving life, human dignity, and continuity of care in the face of adversity, even when the healthcare system’s ordinary capacities are exceeded.",
+      "authors": [
+        "Gómez-Córdova, Claudia Alexandra"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Sophia Editions",
+      "isbn": [],
+      "doi": "10.64092/peji8454",
+      "subjects": [
+        "Odontología en emergencias",
+        "Gestión sanitaria del riesgo",
+        "Respuesta ante desastres",
+        "thema EDItEUR::M Medicine and Nursing"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182253",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ab6c5bb2-1dda-43dc-a277-7b279299aed2/retrieve",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-61-3.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182253",
+        "handle": "20.500.12854/182253",
+        "dspace_uuid": "e408d65c-3f9b-4032-8eef-1351574a8945"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182253",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182253",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://sophiaeditions.com/wp-content/uploads/2026/09/Ebook_978-1-968794-61-3.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
           "verified_legal": true
         }
       ]
@@ -103190,6 +103234,48 @@
       ]
     },
     {
+      "id": "work:52d7dc93486ab5e17b65e860",
+      "title": "Monólogo Superación Personal",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Raúl Andrés Rodríguez Cota"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "monologo",
+        "guion"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/MonologoSuperacionPersonal",
+      "cover_url": "https://archive.org/services/img/MonologoSuperacionPersonal",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "MonologoSuperacionPersonal",
+        "internet_archive": "MonologoSuperacionPersonal"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "MonologoSuperacionPersonal",
+          "source_url": "https://archive.org/details/MonologoSuperacionPersonal",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:46f5cd539229c4b73d0906a6",
       "title": "Monstrous Kinds",
       "subtitle": "Body, Space, and Narrative in Renaissance Representations of Disability",
@@ -106447,9 +106533,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "George Orwell",
-        "Georges Orwell",
-        "Gorge Gorge Orwell"
+        "George Orwell"
       ],
       "language": "und",
       "year": 1949,
@@ -106480,6 +106564,7 @@
         "0435123572",
         "9781500143794",
         "9788481091885",
+        "9788702291872",
         "9788423309832",
         "6052942738",
         "9780795309151",
@@ -106801,6 +106886,7 @@
         "8423334708",
         "9029587091",
         "9789955135005",
+        "8702291878",
         "1638433771",
         "0436350076",
         "8804719133",
@@ -107470,7 +107556,7 @@
       "identifiers": {
         "source_id": "OL1168083W",
         "openlibrary_work": "OL1168083W",
-        "openlibrary_edition": "OL62572892M",
+        "openlibrary_edition": "OL62597712M",
         "internet_archive": "bwb_KS-393-950"
       },
       "providers": [
@@ -108653,7 +108739,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "Forman Acton"
+        "Forman S. Acton"
       ],
       "language": "en",
       "year": 1990,
@@ -109714,47 +109800,6 @@
           "formats": [],
           "access": "creative_commons",
           "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:817e95e92097a97537083272",
-      "title": "Oficio Segunda Remesa 2019 PEDZE",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gobierno Regional de Arica y Parinacota"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "PEDZE 2019"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
-      "cover_url": "https://archive.org/services/img/oficiosegundaremesa2019pedze",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "oficiosegundaremesa2019pedze",
-        "internet_archive": "oficiosegundaremesa2019pedze"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "oficiosegundaremesa2019pedze",
-          "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -111200,74 +111245,6 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a792ebd003dc0875e7b8e814",
-      "title": "Origen, progresos y estado actual del sistema representativo en las naciones europeas",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Alberto Lista"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historia contemporánea",
-        "Política"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-      "cover_url": "https://archive.org/services/img/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-        "internet_archive": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-          "source_url": "https://archive.org/details/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -116767,6 +116744,49 @@
       ]
     },
     {
+      "id": "work:fa3d77d153278f37410db968",
+      "title": "Plan Provincial de Salud 2019-2023",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ministerio de Salud, provincia de Neuquén."
+      ],
+      "language": "es",
+      "year": 2019,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "salud",
+        "plan",
+        "neuquen"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/PlanProvincialDeSalud20192023",
+      "cover_url": "https://archive.org/services/img/PlanProvincialDeSalud20192023",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "PlanProvincialDeSalud20192023",
+        "internet_archive": "PlanProvincialDeSalud20192023"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "PlanProvincialDeSalud20192023",
+          "source_url": "https://archive.org/details/PlanProvincialDeSalud20192023",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a6ec957466a079f95baf88ae",
       "title": "Plants",
       "subtitle": "",
@@ -117101,6 +117121,89 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6c6d07b7f73cfcd2c92dcbbd",
+      "title": "Poema XX - Cucharadas De Arte",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Bryan Joel Contreras Calero"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "libro infantil",
+        "poesía para niños",
+        "Pablo Neruda",
+        "Poema XX",
+        "arte para niños",
+        "poesía adaptada",
+        "literatura infantil",
+        "educación cultural",
+        "Cucharadas de arte",
+        "Cucharadas de cultura",
+        "poesía visual",
+        "poemas ilustrados",
+        "children's poetry",
+        "children's book",
+        "visual poetry",
+        "Latin American poetry",
+        "Spanish literature"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/poema-xx-cucharadas-de-arte_202506",
+      "cover_url": "https://archive.org/services/img/poema-xx-cucharadas-de-arte_202506",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "poema-xx-cucharadas-de-arte_202506",
+        "internet_archive": "poema-xx-cucharadas-de-arte_202506"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "poema-xx-cucharadas-de-arte_202506",
+          "source_url": "https://archive.org/details/poema-xx-cucharadas-de-arte_202506",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -118148,68 +118251,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:baf491a5ed252f0b3c6ba01c",
-      "title": "Postdigitale Ästhetik",
-      "subtitle": "",
-      "description": "Der Begriff des ‚Postdigitalen‘ verweist keineswegs auf ein Verschwinden digitaler Technologie, sondern auf deren ubiquitäre Präsenz. Der vorliegende Band befasst sich vor diesem Hintergrund mit der Frage, zu welchen neuen Praktiken, Artefakten und Erfahrungsräumen die sich aus der Ubiquität digitaler Technologie ergebende Verschiebung, Verwischung oder Aufl ösung der Unterscheidung zwischen dem Digitalen und dem Nicht-Digitalen geführt hat und inwiefern sich selbige unter den Begriff einer ‚postdigitalen Ästhetik‘ subsumieren lassen. Zu diesem Ende schlägt der Band eine heuristische Unterscheidung zwischen vier salienten Spielarten einer postdigitalen Ästhetik vor, die sich in ganz unterschiedlichen und nicht zuletzt auch populären Medienformen – von Bildern und Comics bis zu Filmen und (Computer-)Spielen – beobachten lassen und die als ästhetische Intensivierung des Digitalen, als ästhetische Transferbewegung vom Digitalen ins Nicht-Digitale, als ästhetische Intensivierung des Nicht-Digitalen sowie als ästhetische Transferbewegung vom Nicht-Digitalen ins Digitale beschrieben werden können.",
-      "authors": [
-        "Thon, Jan-Noël"
-      ],
-      "language": "de",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Postdigitality",
-        "Aesthetics",
-        "Mediality",
-        "Remediatization",
-        "Medialität",
-        "Postdigitalität",
-        "Remediatisierung",
-        "Ästhetik",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCT Media studies"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/8ec92c1b-6270-4d2f-8ec9-5452b7cc0637/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181561",
-        "handle": "20.500.12854/181561",
-        "dspace_uuid": "19605138-3213-46fb-b27b-117a86eeef80"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181561",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181561",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116906/1/9783111638669.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -123090,45 +123131,6 @@
       ]
     },
     {
-      "id": "work:ed93559957b471a460329a02",
-      "title": "Proyecto Acuario 20250612 T 005858 Z 1 001",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "energía física gravedad cinética ovnis"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/proyecto-acuario-20250612-t-005858-z-1-001",
-      "cover_url": "https://archive.org/services/img/proyecto-acuario-20250612-t-005858-z-1-001",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "proyecto-acuario-20250612-t-005858-z-1-001",
-        "internet_archive": "proyecto-acuario-20250612-t-005858-z-1-001"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "proyecto-acuario-20250612-t-005858-z-1-001",
-          "source_url": "https://archive.org/details/proyecto-acuario-20250612-t-005858-z-1-001",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4f69d0ab977a89e12e3ba1a5",
       "title": "Prozesssteuerung",
       "subtitle": "Kanzleiordnung und Verwaltungsmaschine/n",
@@ -123778,47 +123780,33 @@
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBA Social theory",
         "thema EDItEUR::J Society and Social Sciences::JH Sociology and anthropology::JHB Sociology::JHBC Social research and statistics"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117050",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/a1ecff59-0317-4fd1-ad4e-026954134c07/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/12f03bdc-6173-473c-a49a-f1f6500c6463/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/12f03bdc-6173-473c-a49a-f1f6500c6463/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181973",
+        "source_id": "20.500.12657/117050",
         "handle": "20.500.12854/181973",
         "dspace_uuid": "d63563bd-1972-42f8-b69d-5598cb3b8631",
         "oapen_library_source_id": "20.500.12657/117050",
         "oapen_library_handle": "20.500.12657/117050",
-        "oapen_library_dspace_uuid": "b8e95948-8773-487f-8961-e557e65b1983"
+        "oapen_library_dspace_uuid": "b8e95948-8773-487f-8961-e557e65b1983",
+        "doab_source_id": "20.500.12854/181973"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181973",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117050",
@@ -123832,6 +123820,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181973",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181973",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117050/1/9783779982623.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
           "verified_legal": true
         }
       ]
@@ -125153,47 +125156,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general",
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC8 Cultural policies and debates"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117397",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/e7b4838d-2e31-4bd2-b56f-f27f5897853b/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/92756bbd-1af8-4708-baf3-93c149445c13/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/92756bbd-1af8-4708-baf3-93c149445c13/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/182117",
+        "source_id": "20.500.12657/117397",
         "handle": "20.500.12854/182117",
         "dspace_uuid": "bcdbeb95-cd15-4ea7-98e9-938ad4c2f437",
         "oapen_library_source_id": "20.500.12657/117397",
         "oapen_library_handle": "20.500.12657/117397",
-        "oapen_library_dspace_uuid": "ed4cf76b-d5f7-4e53-91d3-5d95d1cbc7d8"
+        "oapen_library_dspace_uuid": "ed4cf76b-d5f7-4e53-91d3-5d95d1cbc7d8",
+        "doab_source_id": "20.500.12854/182117"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/182117",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117397",
@@ -125207,6 +125196,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182117",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182117",
+          "language": "de",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117397/1/9783847433682.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -127448,53 +127452,6 @@
       ]
     },
     {
-      "id": "work:2e57a75e04210c2a7d29b0af",
-      "title": "Reseña: Umma",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Pily Barba"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Umma",
-        "NGC 3660",
-        "Juan Antonio Fernández Madrigal",
-        "Pily Barba",
-        "Novela CF",
-        "Novela",
-        "Ciencia ficción"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Umma_jafma",
-      "cover_url": "https://archive.org/services/img/Umma_jafma",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Umma_jafma",
-        "internet_archive": "Umma_jafma"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Umma_jafma",
-          "source_url": "https://archive.org/details/Umma_jafma",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:ac81bfec0bb4aeec834b54c2",
       "title": "Resilient Statehood",
       "subtitle": "Why and How Some Nations Maintained Long-Term Independence and Sovereignty",
@@ -128936,6 +128893,97 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b4aa71b373da5753061021bf",
+      "title": "Revista Paradoxa 12",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Paradoxa Centro de Medios Libres"
+      ],
+      "language": "es",
+      "year": 2019,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Revista Digital",
+        "Medios Libres",
+        "Literatura"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/RevistaParadoxa12",
+      "cover_url": "https://archive.org/services/img/RevistaParadoxa12",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "RevistaParadoxa12",
+        "internet_archive": "RevistaParadoxa12"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "RevistaParadoxa12",
+          "source_url": "https://archive.org/details/RevistaParadoxa12",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:2c323a5e1b8355f12e141880",
+      "title": "Revista Temas Nicaraguenses 07noviembre 2008",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Editor General: José Mejía Lacayo. Subdirectora: Lilly Soto Vásquez"
+      ],
+      "language": "es",
+      "year": 2008,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Ciencias Naturales",
+        "Geografía",
+        "Antropología",
+        "Ensayos",
+        "Historia",
+        "Historia de las mentalidades",
+        "Derecho",
+        "Universales"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/httpswww.temasnicas.net_20230419_0015",
+      "cover_url": "https://archive.org/services/img/httpswww.temasnicas.net_20230419_0015",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "httpswww.temasnicas.net_20230419_0015",
+        "internet_archive": "httpswww.temasnicas.net_20230419_0015"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "httpswww.temasnicas.net_20230419_0015",
+          "source_url": "https://archive.org/details/httpswww.temasnicas.net_20230419_0015",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -143180,6 +143228,47 @@
       ]
     },
     {
+      "id": "work:4f882d0975fb6ac9641ddc23",
+      "title": "sublime_text",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "urbaez"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "prueba"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/sublime_text",
+      "cover_url": "https://archive.org/services/img/sublime_text",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "sublime_text",
+        "internet_archive": "sublime_text"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "sublime_text",
+          "source_url": "https://archive.org/details/sublime_text",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:fea5aa92624192a5730be473",
       "title": "Subnational Climate Leadership Dynamics Among Under2 Coalition Members",
       "subtitle": "",
@@ -145948,39 +146037,47 @@
       ]
     },
     {
-      "id": "work:a91c49fa6a3aed5b4e12c512",
-      "title": "Teoria é historia de las Bellas Artes : principios fundamentales",
+      "id": "work:a92da533f22be6e6f3374c0d",
+      "title": "Teoría de la Información Consciente (TIC): Geometría D8, Ángulos Maestros y Frecuencias Maestras TIC",
       "subtitle": "",
       "description": "",
       "authors": [
-        "José de Manjarrés"
+        "Rodrigo Sebastián Núñez"
       ],
       "language": "es",
-      "year": 2020,
+      "year": 2026,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Historia Moderna",
-        "Historia Contemporánea",
-        "Arte Mexicano-Historia",
-        "Europa-España"
+        "TIC",
+        "Teoría de la Información Consciente",
+        "Rodrigo Sebastián Núñez Aráoz",
+        "Matrix Consciente",
+        "Geometría D8",
+        "Constante Aráoz",
+        "Ángulo Maestro 135",
+        "E+3",
+        "Masa Informacional",
+        "Cronoingeniería",
+        "Salto Multiversal",
+        "Aráoz Chronoengineering."
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/teoria-e-historia-de-las-bellas-artes",
-      "cover_url": "https://archive.org/services/img/teoria-e-historia-de-las-bellas-artes",
+      "source_url": "https://archive.org/details/matrix-ara-oz",
+      "cover_url": "https://archive.org/services/img/matrix-ara-oz",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes.pdf"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20.pdf"
         },
         {
           "type": "html",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_hocr.html"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_djvu.txt"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -145988,27 +146085,27 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "teoria-e-historia-de-las-bellas-artes",
-        "internet_archive": "teoria-e-historia-de-las-bellas-artes"
+        "source_id": "matrix-ara-oz",
+        "internet_archive": "matrix-ara-oz"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "teoria-e-historia-de-las-bellas-artes",
-          "source_url": "https://archive.org/details/teoria-e-historia-de-las-bellas-artes",
+          "source_id": "matrix-ara-oz",
+          "source_url": "https://archive.org/details/matrix-ara-oz",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes.pdf"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20.pdf"
             },
             {
               "type": "html",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_hocr.html"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_djvu.txt"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -168799,47 +168896,33 @@
         "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBC Cultural and media studies::JBCC Cultural studies::JBCC8 Cultural policies and debates",
         "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTB Social and cultural history"
       ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
+      "source": "OAPEN Library",
+      "source_url": "https://library.oapen.org/handle/20.500.12657/117381",
       "cover_url": "https://directory.doabooks.org/rest/bitstreams/6933fc0a-0581-4793-bab0-f8663f135b44/retrieve",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
+          "url": "https://library.oapen.org/rest/bitstreams/788c74d9-cb60-44e0-a0d5-b9f4b43da9e4/retrieve"
         },
         {
           "type": "pdf",
-          "url": "https://library.oapen.org/rest/bitstreams/788c74d9-cb60-44e0-a0d5-b9f4b43da9e4/retrieve"
+          "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181954",
+        "source_id": "20.500.12657/117381",
         "handle": "20.500.12854/181954",
         "dspace_uuid": "947e04a6-385c-467e-8403-54c277886a48",
         "oapen_library_source_id": "20.500.12657/117381",
         "oapen_library_handle": "20.500.12657/117381",
-        "oapen_library_dspace_uuid": "adc71536-6f23-4871-b1af-fdc119fa7ef2"
+        "oapen_library_dspace_uuid": "adc71536-6f23-4871-b1af-fdc119fa7ef2",
+        "doab_source_id": "20.500.12854/181954"
       },
       "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181954",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
-          "verified_legal": true
-        },
         {
           "source": "OAPEN Library",
           "source_id": "20.500.12657/117381",
@@ -168853,6 +168936,21 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
+          "verified_legal": true
+        },
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/181954",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181954",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://library.oapen.org/bitstream/20.500.12657/117381/1/9783412535704.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
           "verified_legal": true
         }
       ]
@@ -187879,6 +187977,76 @@
       ]
     },
     {
+      "id": "work:4983da1bcac13c7ae259fd3d",
+      "title": "[UY-BTL-1917] La Batalla, 1917",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "María Collazo"
+      ],
+      "language": "es",
+      "year": 1917,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Anarchism",
+        "Syndicalism",
+        "Montevideo",
+        "Uruguay"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/labatallauy1917",
+      "cover_url": "https://archive.org/services/img/labatallauy1917",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/labatallauy1917/1917-01-1quin.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/labatallauy1917/1917-01-1quin_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/labatallauy1917/1917-01-1quin_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "labatallauy1917",
+        "internet_archive": "labatallauy1917"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "labatallauy1917",
+          "source_url": "https://archive.org/details/labatallauy1917",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/labatallauy1917/1917-01-1quin.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/labatallauy1917/1917-01-1quin_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/labatallauy1917/1917-01-1quin_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:c57e4aaf474b393a4ba95cdb",
       "title": "Vaccines and Vaccinations: A Psychological Perspective",
       "subtitle": "Research and Recommendations",
@@ -189437,6 +189605,86 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:38ae2e7260d5795512347a97",
+      "title": "Voces Del Lacio",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Emmanuel Virasoro Teicher"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Roma",
+        "Oblidio",
+        "Antigüedad",
+        "Poesía",
+        "ficción",
+        "Diario",
+        "Notas",
+        "Ensayo",
+        "Horacio",
+        "Virgilio",
+        "Lucrecio",
+        "Ovidio",
+        "Cicerón",
+        "Epicuro."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/voces-del-lacio",
+      "cover_url": "https://archive.org/services/img/voces-del-lacio",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "voces-del-lacio",
+        "internet_archive": "voces-del-lacio"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "voces-del-lacio",
+          "source_url": "https://archive.org/details/voces-del-lacio",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -191899,48 +192147,6 @@
       ]
     },
     {
-      "id": "work:8a7d5a446f526834251905ec",
-      "title": "Wiki - Enciclopedia Libre",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "MediaWiki",
-        "wiki",
-        "wikiteam",
-        "TuxFamily"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
-      "cover_url": "https://archive.org/services/img/wiki-enciclopediatuxfamilyorg",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "wiki-enciclopediatuxfamilyorg",
-        "internet_archive": "wiki-enciclopediatuxfamilyorg"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "wiki-enciclopediatuxfamilyorg",
-          "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:5740168150aca14e61ab425e",
       "title": "Wiley Series in Probability and Mathematics Statistics",
       "subtitle": "",
@@ -193453,50 +193659,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:d51841c77990d0246b986930",
-      "title": "Xin Jiang. Malena Pérez Bergallo",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Malena Pérez Bergallo"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "teatro",
-        "dramaturgia",
-        "china",
-        "argentina"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/XinJiang.MalenaPrezBergallo",
-      "cover_url": "https://archive.org/services/img/XinJiang.MalenaPrezBergallo",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "XinJiang.MalenaPrezBergallo",
-        "internet_archive": "XinJiang.MalenaPrezBergallo"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "XinJiang.MalenaPrezBergallo",
-          "source_url": "https://archive.org/details/XinJiang.MalenaPrezBergallo",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-sa/3.0/",
           "verified_legal": true
         }
       ]
