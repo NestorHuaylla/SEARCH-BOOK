@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T10:04:39.126161Z",
+  "generated_at": "2026-09-27T10:53:05.348321Z",
   "total_records": 2275,
-  "catalog_sha256": "6b94ad9562a072bc4cca9f0dd33e79ae21603c07116f33cf63688454911836d9",
+  "catalog_sha256": "b1d4c89962d654c9daa5b8ddec1730b2e2c42d63dfd70524f06bb2f1edfd42a6",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -23,17 +23,19 @@
       "records": 750,
       "status": "error",
       "retained": true,
-      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=75&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
+      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=200&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
     },
     "Open Library": {
       "records": 344,
-      "status": "ok",
-      "retained": false
+      "status": "error",
+      "retained": true,
+      "error": "Open Library: request failed: ('Connection broken: IncompleteRead(3821 bytes read, 4371 more expected)', IncompleteRead(3821 bytes read, 4371 more expected))"
     },
     "OpenAlex": {
       "records": 100,
-      "status": "ok",
-      "retained": false
+      "status": "error",
+      "retained": true,
+      "error": "OpenAlex: request failed: HTTPSConnectionPool(host='api.openalex.org', port=443): Max retries exceeded with url: /works?search=algorithms&filter=open_access.is_oa%3Atrue%2Chas_oa_accepted_or_published_version%3Atrue&per_page=25&select=id%2Cdoi%2Ctitle%2Cauthorships%2Cpublication_year%2Cbest_oa_location%2Copen_access%2Ctopics%2Clanguage%2Ctype (Caused by ResponseError('too many 429 error responses'))"
     },
     "OpenStax": {
       "records": 110,
@@ -56,17 +58,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2595281
+      "bytes": 2596503
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2699980
+      "bytes": 2697168
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 275,
-      "bytes": 844611
+      "bytes": 839068
     }
   ]
 }
