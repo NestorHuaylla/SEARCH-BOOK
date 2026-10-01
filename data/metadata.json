@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T11:24:16.873195Z",
+  "generated_at": "2026-10-01T11:52:44.563014Z",
   "total_records": 2279,
-  "catalog_sha256": "ce3030f4e78e79997a88c7f861da2589626ab199540f5a688ca5eaadc6bde47e",
+  "catalog_sha256": "9774c1937cc0c3fd38d6d399d18d8030970f8d63e6772612db715c4f9261dce4",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -23,7 +23,7 @@
       "records": 750,
       "status": "error",
       "retained": true,
-      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=425&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
+      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
     },
     "Open Library": {
       "records": 344,
@@ -56,17 +56,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2610633
+      "bytes": 2606630
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2690613
+      "bytes": 2682786
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 279,
-      "bytes": 857285
+      "bytes": 855174
     }
   ]
 }

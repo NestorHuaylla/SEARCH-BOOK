@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T11:24:16.873195Z",
+  "generated_at": "2026-10-01T11:52:44.563014Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -649,6 +649,80 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:e340478ee2b29de97d597cd9",
+      "title": "35 años de APEC",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Limón Villegas, Edgar Samid",
+        "Manuel, Orozco Plascencia José",
+        "Gil Altamirano, Bárbara",
+        "Torres García, Alberto Francisco",
+        "Ivanova Boncheva, Antonina",
+        "Polanco Gaytán, Mayrén",
+        "Rangel Delgado, José Ernesto",
+        "Licona Michel, Ángel",
+        "Salazar Aguilar, Andrea",
+        "Reyes, Juan Roberto",
+        "Orozco Avalos, Jesus Alejandro",
+        "LABORDE CARRANCO, Adolfo Alberto",
+        "Nande Vázquez, Edgar Alfredo",
+        "Saldaña Zepeda, Dayna Priscila",
+        "Tinoco-Zermeño, Miguel Á.",
+        "Orozco Rocha, Karina",
+        "MAGAÑA, IRMA",
+        "Reyes López, Maricela Mireya"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "Universidad de Colima",
+      "isbn": [],
+      "doi": "10.53897/li.2026.0022.ucol",
+      "subjects": [
+        "APEC",
+        "Comercio internacional",
+        "Liberalización comercial",
+        "Multilateralismo",
+        "Diplomacia",
+        "Crecimiento económico",
+        "Cuenca del Pacífico",
+        "México",
+        "Asia-Pacífico",
+        "Inversión",
+        "Educación",
+        "Empleo",
+        "Energía",
+        "Negocios",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KC Economics::KCL International economics",
+        "thema EDItEUR::K Economics, Finance, Business and Management::KN Industry and industrial studies"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182273",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/860120f7-de6a-48d2-a531-162b392cdd7b/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182273",
+        "handle": "20.500.12854/182273",
+        "dspace_uuid": "fe4b8e95-598c-48fe-8610-76fa023b8e71"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182273",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182273",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
           "verified_legal": true
         }
       ]
@@ -6021,60 +6095,6 @@
       ]
     },
     {
-      "id": "work:f10a6e039493e109615aeeec",
-      "title": "A study of numerical methods for hyperbolic conservation laws with stiff source terms",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Randall J. LeVeque",
-        "H. C. Yee"
-      ],
-      "language": "en",
-      "year": 1990,
-      "publisher": "NASA Technical Reports Server (NASA)",
-      "isbn": [],
-      "doi": "10.1016/0021-9991(90)90097-k",
-      "subjects": [
-        "Computational Fluid Dynamics and Aerodynamics",
-        "Gas Dynamics and Kinetic Theory",
-        "Fluid Dynamics and Turbulent Flows"
-      ],
-      "source": "OpenAlex",
-      "source_url": "http://hdl.handle.net/2060/19880008959",
-      "cover_url": "",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://ntrs.nasa.gov/api/citations/19880008959/downloads/19880008959.pdf"
-        }
-      ],
-      "access": "open_access",
-      "license": "Open Access; license not reported by OpenAlex",
-      "verified_legal": true,
-      "resource_type": "article",
-      "identifiers": {
-        "source_id": "W2094710134",
-        "openalex_id": "W2094710134"
-      },
-      "providers": [
-        {
-          "source": "OpenAlex",
-          "source_id": "W2094710134",
-          "source_url": "http://hdl.handle.net/2060/19880008959",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://ntrs.nasa.gov/api/citations/19880008959/downloads/19880008959.pdf"
-            }
-          ],
-          "access": "open_access",
-          "license": "Open Access; license not reported by OpenAlex",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:38347cea97059dec0a5429fc",
       "title": "A Tangled Tale",
       "subtitle": "",
@@ -6782,6 +6802,66 @@
       ]
     },
     {
+      "id": "work:06129cdf2cca237b78afbc5e",
+      "title": "Aconselhamento e Dispensa de Produtos de Saúde e Produtos de Puericultura em Farmácia Comunitária",
+      "subtitle": "",
+      "description": "Counselling and Dispensing of Health Products and Childcare Products in Community Pharmacyis a comprehensive reference work focused on the role of pharmacists and pharmacy technicians in the selection, dispensing and counselling of health and childcare products. Bringing together contributions from 21 authors, the book provides a structured, evidence-based overview of a wide range of products commonly available in community pharmacies and widely used in health promotion, prevention, diagnosis and treatment. The book opens with a detailed overview of the legal and regulatory framework in Portugal and the European Union, followed by chapters covering key areas of daily pharmacy practice. These include childcare products, medical devices for ocular care, hearing and respiratory support, skin care and sun protection, wound care materials, compression therapy, self-diagnostic devices, blood pressure monitoring, oral drug administration devices, and oral hygiene products, among others. Written with clarity and practical relevance, this work addresses the lack of independent, evidence-based guidance in this field. It aims to support informed, critical and patient-centred professional practice, highlighting the central role of the community pharmacy in promoting health literacy and improving health outcomes.",
+      "authors": [],
+      "language": "pt",
+      "year": 2026,
+      "publisher": "Edições P.PORTO",
+      "isbn": [],
+      "doi": "10.26537/ed.p.porto.123",
+      "subjects": [
+        "Farmácia comunitária",
+        "Produtos de saúde",
+        "Dispositivos médicos",
+        "Puericultura",
+        "Aconselhamento farmacêutico",
+        "Community pharmacy",
+        "Health products",
+        "Medical devices",
+        "Childcare products",
+        "Pharmaceutical counselling",
+        "thema EDItEUR::M Medicine and Nursing::MQ Nursing and ancillary services::MQP Pharmacy / dispensing"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182276",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/53f04699-fef6-4f00-bb10-60792dc798d2/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://edicoes.ipp.pt/index.php/books/catalog/view/123/296/1690"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182276",
+        "handle": "20.500.12854/182276",
+        "dspace_uuid": "8a991a25-4f6f-4052-8aa2-06b5fcf9686d"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182276",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182276",
+          "language": "pt",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://edicoes.ipp.pt/index.php/books/catalog/view/123/296/1690"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/ · CC-BY-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:e242680eb4f5d1c0b1fe1933",
       "title": "Actitud docente e inclusión educativa: Una mirada desde la primera infancia",
       "subtitle": "",
@@ -6953,6 +7033,49 @@
           "formats": [],
           "access": "open_access",
           "license": "Open Access; license not reported by OpenAlex",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:daccc777b19fab47abd2f5bf",
+      "title": "Actividad 23. Cuadro descriptivo.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Felix Apolinar Erika Darlene & Hernández Castañeda Jael"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Tecnología",
+        "digital",
+        "creatividad"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/uso-de-tecnologi-as_202306",
+      "cover_url": "https://archive.org/services/img/uso-de-tecnologi-as_202306",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "uso-de-tecnologi-as_202306",
+        "internet_archive": "uso-de-tecnologi-as_202306"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "uso-de-tecnologi-as_202306",
+          "source_url": "https://archive.org/details/uso-de-tecnologi-as_202306",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -14578,6 +14701,59 @@
       ]
     },
     {
+      "id": "work:7f254725cd6702d9b998b1cd",
+      "title": "Aprendiz de todo y oficial de nada",
+      "subtitle": "Retrato íntimo del maestro colimense Manuel Gallardo Zamora",
+      "description": "",
+      "authors": [
+        "Janssen, Miguel Teodoro Cervantes"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "Universidad de Colima",
+      "isbn": [],
+      "doi": "10.53897/li.2026.0023.ucol",
+      "subjects": [
+        "Biografía",
+        "Maestro",
+        "Manuel Gallardo Zamora",
+        "Educación en México",
+        "Educación laica",
+        "Filosofía de la educación",
+        "Valores educativos",
+        "Historia de la educación",
+        "Colima",
+        "Siglo XX",
+        "thema EDItEUR::J Society and Social Sciences::JN Education",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNA Philosophy and theory of education"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182274",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/431b57ae-08c9-49a9-9a6a-b43a4b5cda8b/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182274",
+        "handle": "20.500.12854/182274",
+        "dspace_uuid": "6ed059f2-0de6-42a6-8e96-082e7e40efe8"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182274",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182274",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:798ace444c7c7deb6579a016",
       "title": "APRENDIZAGEM COOPERATIVA",
       "subtitle": "UMA EXPERIÊNCIA DE ENSINO/APRENDIZAGEM NO CONTEXTO DA PÓS-GRADUAÇÃO",
@@ -16241,74 +16417,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:3af210b4a672d86f7f699e3d",
-      "title": "Articulo Del Curso Heriberto Rodriguez",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Heriberto Rodriguez Silva"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ekuaro",
-        "equidad"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/articulo-del-curso-heriberto-rodriguez",
-      "cover_url": "https://archive.org/services/img/articulo-del-curso-heriberto-rodriguez",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "articulo-del-curso-heriberto-rodriguez",
-        "internet_archive": "articulo-del-curso-heriberto-rodriguez"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "articulo-del-curso-heriberto-rodriguez",
-          "source_url": "https://archive.org/details/articulo-del-curso-heriberto-rodriguez",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/articulo-del-curso-heriberto-rodriguez/articulo%20del%20curso%20Heriberto%20Rodriguez_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -22653,6 +22761,66 @@
       ]
     },
     {
+      "id": "work:c01384ebda1cbf2c04652134",
+      "title": "Blockchain-Token als funktionelle Wertpapiere",
+      "subtitle": "",
+      "description": "»Blockchain Token as Functional Securities«: Blockchain-based tokens are used as digital representations of legally significant positions. Unlike most jurisdictions, in German civil securities law rights are generally securitized in a physical document. However, in the relevant legal sphere, tokens are accepted amongst the parties to be decisive for the assertion and transfer of what is represented by the tokens. Practically, they are used like a security. This paper examines how the practical use of tokens fits into Germany civil securities law.",
+      "authors": [
+        "Hillmann, John Frederik"
+      ],
+      "language": "de",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59130-5",
+      "subjects": [
+        "Kryptografie",
+        "Tokenisierung",
+        "Urkunde",
+        "Verbriefung",
+        "Wertpapierfunktionen",
+        "Wertpapierrecht",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNB Private or civil law: general",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNP Financial law: general::LNPD Capital markets and securities law and regulation",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182281",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/4092066d-9f19-4e4e-b2c9-fbebca311ac1/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63428/blockchain-token-als-funktionelle-wertpapiere"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182281",
+        "handle": "20.500.12854/182281",
+        "dspace_uuid": "50530215-17e9-4c2d-ac96-e37de6b191af"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182281",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182281",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63428/blockchain-token-als-funktionelle-wertpapiere"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:9549d846bb0f36c6b5350930",
       "title": "Blow The Man Down: A Romance Of The Coast",
       "subtitle": "",
@@ -28841,6 +29009,53 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
+        }
+      ]
+    },
+    {
+      "id": "work:1f20e4fb6c6b46277fb214db",
+      "title": "Ciudadanías móviles y políticas migratorias en la permacrisis",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Universidad de Guanajuato",
+      "isbn": [],
+      "doi": "10.61437/ugto.9786075802640",
+      "subjects": [
+        "Políticas migratorias",
+        "Permacrisis",
+        "Derechos humanos",
+        "Movimiento dreamer",
+        "Voto extraterritorial",
+        "Refugio",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFH Migration, immigration and emigration",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPQ Central / national / federal government::JPQB Central / national / federal government policies"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182271",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/32decf7f-a419-4da3-9b6f-3b04916f9e4b/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182271",
+        "handle": "20.500.12854/182271",
+        "dspace_uuid": "3eed534b-37a5-4888-b553-458054d63b02"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182271",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182271",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
         }
       ]
     },
@@ -38044,6 +38259,49 @@
       ]
     },
     {
+      "id": "work:48ed9b6b297f729a5301afb7",
+      "title": "DDCh",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Colectivo Dejar de Chingar"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "archive",
+        "colectivo",
+        "masculinidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ddch_20260712",
+      "cover_url": "https://archive.org/services/img/ddch_20260712",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ddch_20260712",
+        "internet_archive": "ddch_20260712"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ddch_20260712",
+          "source_url": "https://archive.org/details/ddch_20260712",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:18c4da87a41f971e3f0b0653",
       "title": "De la porcinocultura al aula: Un programa de aprendizaje sostenible en la formación agropecuaria",
       "subtitle": "",
@@ -39364,70 +39622,66 @@
       ]
     },
     {
-      "id": "work:399f43bbd9d7085aec6cc726",
-      "title": "Depolymerization Recycling",
-      "subtitle": "Plastics Circularity",
-      "description": "Plastics, structural polymers made from monomers, are ubiquitous in modern life and have unique benefits. At their end of life, they must be reused or recycled in ways not yet implemented today. In many cases, the polymerization process can be efficiently reversed via depolymerization recycling to regain monomers at the original quality level. As such, depolymerization is a key circularity enabler for some classes of polymers, especially when crosslinked or used in composites. This book introduces the energy, CO2 emission and waste stream dimensions for recycling. It reviews the respective polymer science and introduces the processing technologies for industrial scaling. All these concepts are explored in practical examples across polymer classes and different plastics applications. The economics of depolymerization recycling are introduced, together with life cycle analysis and design for recycling. With this compact overview, a reader will understand depolymerization recycling in the necessary context of scale, sustainability and value chain thinking, towards a sustainable value chain transformation.",
+      "id": "work:10c36764c8a6528060edd4cf",
+      "title": "Der datenschutzrechtliche Auskunftsanspruch im Anstellungsverhältnis",
+      "subtitle": "Inhalt – Grenzen – Durchsetzung – Sanktionen",
+      "description": "»The Right to Information under Data Protection Law in the Employment Relationship«: The right to access information under data protection law, as set forth in Article 15 of the GDPR, is increasingly being asserted by employees and corporate officers in connection with disputes over termination of employment. Employers and companies face the challenge that the right to information is broadly defined in terms of its scope and therefore difficult to fulfill. This study examines the content and limits of the right to access information, the enforceability of the right, and the consequences of its violation.",
       "authors": [
-        "Mangold, Hannah",
-        "von Vacano, Bernhard"
+        "Tegel, Johannes"
       ],
-      "language": "en",
+      "language": "de",
       "year": 2026,
-      "publisher": "De Gruyter",
+      "publisher": "Duncker & Humblot",
       "isbn": [],
-      "doi": "",
+      "doi": "10.3790/978-3-428-59790-1",
       "subjects": [
-        "Depolymerization",
-        "Solvolysis",
-        "Remonomerization",
-        "Monomerization",
-        "Monomer Purification",
-        "Ceiling Temperature",
-        "Life Cycle Analysis",
-        "Polycondensation Polymers",
-        "Design for recycling",
-        "Engineering Plastics",
-        "Additives",
-        "Fillers",
-        "Reinforcement Fibers",
-        "Composites.",
-        "thema EDItEUR::T Technology, Engineering, Agriculture, Industrial processes::TD Industrial chemistry and manufacturing technologies::TDC Industrial chemistry and chemical engineering",
-        "thema EDItEUR::P Mathematics and Science::PN Chemistry",
-        "thema EDItEUR::T Technology, Engineering, Agriculture, Industrial processes::TG Mechanical engineering and materials::TGM Materials science"
+        "Auskunft",
+        "DS-GVO",
+        "Geldbuße",
+        "Geschäftsgeheimnisschutz",
+        "Kontrollverlust",
+        "Kopie",
+        "Personenbezogene Daten",
+        "Rechtsmissbrauch",
+        "Schadensersatz",
+        "Whistleblowing",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDC Law: Human rights and civil liberties::LNDC2 Privacy law",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNH Employment and labour law: general::LNHJ Labour rules violations and penalties",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LNR Intellectual property law::LNRV Confidential information law",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
       ],
       "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181586",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/ad80e10c-98e0-4501-8f3a-c2d54e8f4abd/retrieve",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182279",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/dd323971-38d1-4964-bc8a-8909416f9e40/retrieve",
       "formats": [
         {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116791/1/9783111661698.pdf"
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/64382/der-datenschutzrechtliche-auskunftsanspruch-im-anstellungsverhaumlltnis"
         }
       ],
       "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "20.500.12854/181586",
-        "handle": "20.500.12854/181586",
-        "dspace_uuid": "b39bab5c-f1c1-44da-8e1f-04d0c38b5f2d"
+        "source_id": "20.500.12854/182279",
+        "handle": "20.500.12854/182279",
+        "dspace_uuid": "b0389a5c-9c14-4f56-9e72-4085c22b27d3"
       },
       "providers": [
         {
           "source": "DOAB",
-          "source_id": "20.500.12854/181586",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181586",
-          "language": "en",
+          "source_id": "20.500.12854/182279",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182279",
+          "language": "de",
           "formats": [
             {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116791/1/9783111661698.pdf"
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/64382/der-datenschutzrechtliche-auskunftsanspruch-im-anstellungsverhaumlltnis"
             }
           ],
           "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
           "verified_legal": true
         }
       ]
@@ -47397,67 +47651,6 @@
       ]
     },
     {
-      "id": "work:a83c6554b961d8fd5b2b38f7",
-      "title": "Dynamic and Diagnostic Language Assessment",
-      "subtitle": "Learning across Frameworks to Support Second/Foreign Language Education",
-      "description": "How can assessment shed light on learners’ current abilities and help chart a path for their continued development? Dynamic assessment and diagnostic language assessment are both now well established in the second language (L2) field, and while they emerge from different theoretical traditions, they share a commitment to pursuing this question. The chapters in this volume showcase innovative work in both approaches undertaken by leading scholars around the world. Each chapter also offers insight into the complementary nature of the approaches, ultimately raising the possibility of how they might together form a powerful new assessment framework.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Dynamic assessment",
-        "Diagnostic Assessment",
-        "Second",
-        "Foreign Language (L2)",
-        "Sociocultural Theory",
-        "SLA",
-        "Fremdsprache",
-        "Language Assessment",
-        "Soziokulturelle Theorie",
-        "Zweitsprache",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics",
-        "thema EDItEUR::C Language and Linguistics::CJ Language teaching and learning"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181590",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/aaf65b40-7bf7-42d2-9ec8-53ead6b7d2d6/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116895/1/9783111233918.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181590",
-        "handle": "20.500.12854/181590",
-        "dspace_uuid": "f7ecc573-4e26-4d53-a426-74903395a849"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181590",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181590",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116895/1/9783111233918.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:715f031d2e6bbdd80ea901f2",
       "title": "Early dynamics of transmission and control of COVID-19: a mathematical modelling study",
       "subtitle": "",
@@ -48557,6 +48750,54 @@
       ]
     },
     {
+      "id": "work:c235172cb6d931ec7b61a390",
+      "title": "Ecos de rabo de luna",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "Universidad de Colima",
+      "isbn": [],
+      "doi": "10.53897/li.2026.0024.ucol",
+      "subjects": [
+        "Poesía",
+        "Antología",
+        "Literatura",
+        "Ilustración",
+        "Creación poética",
+        "Encuentros literarios",
+        "Arte visual",
+        "thema EDItEUR::D Biography, Literature and Literary studies::DC Poetry::DCQ Poetry anthologies (various poets)",
+        "thema EDItEUR::A The Arts::AB The arts: general topics"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182275",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/f6476503-9452-419f-8d54-9427bb3f242e/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182275",
+        "handle": "20.500.12854/182275",
+        "dspace_uuid": "da44a3c3-077f-49a3-ad0a-b050289bd64f"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182275",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182275",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:0e63ec4b53efc3e234790ecc",
       "title": "Ecotoxicologia, contaminação e segurança alimentar no sul de Angola: desafios para a saúde ecossistémica regional",
       "subtitle": "",
@@ -48717,6 +48958,55 @@
               "url": "https://editorial.ucatolicaluisamigo.edu.co/index.php/editorial/catalog/book/257"
             }
           ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6ddac69359adc184e917f1a7",
+      "title": "Educación para la paz:",
+      "subtitle": "pensamientos distintos que convergen en un solo sentido",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Universidad de Guanajuato",
+      "isbn": [],
+      "doi": "10.61437/ugto.9786075802565",
+      "subjects": [
+        "Cultura de paz",
+        "Metodología social",
+        "Violencia",
+        "Sostenibilidad",
+        "Política y educación",
+        "Nuevas tecnologías",
+        "Aula",
+        "Reconstrucción social",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNF Educational strategies and policy",
+        "thema EDItEUR::J Society and Social Sciences::JN Education"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182270",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a1b62505-d162-4f39-89b5-a573d8b31b6b/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182270",
+        "handle": "20.500.12854/182270",
+        "dspace_uuid": "976a79b3-0b7b-4e05-b645-5f5b1a3e63a4"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182270",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182270",
+          "language": "es",
+          "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
@@ -49981,6 +50271,63 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:2feb2d216527430a2448572f",
+      "title": "El cuidado, el sentido y la felicidad",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Trujillo Rodríguez, Alberto Vianey",
+        "Rodríguez Ortiz, Diego Alexánder",
+        "Flores González, Enrique"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Editorial UNIMAR",
+      "isbn": [],
+      "doi": "10.31948/editorialunimar.299",
+      "subjects": [
+        "Cuidado",
+        "Sentido de la vida",
+        "Felicidad",
+        "Ética del cuidado",
+        "Espiritualidad mariana",
+        "Espiritualidad franciscana",
+        "Vulnerabilidad",
+        "Empatía",
+        "Responsabilidad afectiva",
+        "Sufrimiento",
+        "Esperanza",
+        "Justicia social",
+        "thema EDItEUR::P Mathematics and Science::PH Physics",
+        "thema EDItEUR::Q Philosophy and Religion::QD Philosophy"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182272",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1d3d43a0-0cf3-4427-8d83-902a8e8d90df/retrieve",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182272",
+        "handle": "20.500.12854/182272",
+        "dspace_uuid": "473bd963-1fc2-49fd-be20-61d21f3daf78"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182272",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182272",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -54172,74 +54519,6 @@
       ]
     },
     {
-      "id": "work:e957357cffcc169ce16757aa",
-      "title": "Esquivel, G. Et Al. (coords) Cien Ensayos Para El Centenario. Constitución Política De Los Estados Unidos Mexicanos. Tomo 1. Estudios Históricos [2017]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "G. Esquivel et al. (coords.)"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "historia",
-        "México"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica",
-      "cover_url": "https://archive.org/services/img/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica",
-        "internet_archive": "esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica",
-          "source_url": "https://archive.org/details/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/esquivel-g.-et-al.-coords-cien-ensayos-para-el-centenario.-constitucion-politica/Esquivel%2C%20G.%20et%20al.%20%28coords%29%20-%20Cien%20ensayos%20para%20el%20centenario.%20Constituci%C3%B3n%20Pol%C3%ADtica%20de%20los%20Estados%20Unidos%20Mexicanos.%20Tomo%201.%20Estudios%20hist%C3%B3ricos%20%5B2017%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4714092ce169615c2e2192eb",
       "title": "Essays on Freedom and Proportionality",
       "subtitle": "",
@@ -56497,6 +56776,73 @@
       ]
     },
     {
+      "id": "work:b0a8401d15dd3106a1eb113b",
+      "title": "Festivas demostraciones de jubilo, prevenidas para la deseada, y esperada venida del... Duque de Medinacoeli a la civdad de Lucena, qve havian de dejarse ver en la fachada principal de las casas de don Antonio Raphael Pantoja de Mora y Saabedra...",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Antonio Rafael‎ Pantoja de Mora y Saavedra"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Fiestas"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del",
+      "cover_url": "https://archive.org/services/img/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del",
+        "internet_archive": "festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del",
+          "source_url": "https://archive.org/details/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/festivas-demostraciones-de-jubilo-prevenidas-para-la-deseada-y-esperada-venida-del/Festivas%20demostraciones%20de%20jubilo%2C%20prevenidas%20para%20la%20deseada%2C%20y%20esperada%20venida%20del_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:10735777f95b56ce1e022b20",
       "title": "Festschrift zu Ehren des 90. Geburtstags von Prof. Omaia Elwan",
       "subtitle": "",
@@ -58148,75 +58494,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:05b5ceba348aecf2d88c3903",
-      "title": "Folleto Del Movimiento Nacionalista Revolucionario 1942",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "MNR"
-      ],
-      "language": "es",
-      "year": 1942,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Movimiento Nacionalista Revolucionario",
-        "MNR",
-        "Folleto."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/folleto-del-movimiento-nacionalista-revolucionario-1942",
-      "cover_url": "https://archive.org/services/img/folleto-del-movimiento-nacionalista-revolucionario-1942",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "folleto-del-movimiento-nacionalista-revolucionario-1942",
-        "internet_archive": "folleto-del-movimiento-nacionalista-revolucionario-1942"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "folleto-del-movimiento-nacionalista-revolucionario-1942",
-          "source_url": "https://archive.org/details/folleto-del-movimiento-nacionalista-revolucionario-1942",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/folleto-del-movimiento-nacionalista-revolucionario-1942/Folleto%20del%20Movimiento%20Nacionalista%20Revolucionario%201942_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -61414,6 +61691,69 @@
       ]
     },
     {
+      "id": "work:ffb3a934a4ffc759ce06bf43",
+      "title": "Genética de cultivos y su uso para aumentar la productividad",
+      "subtitle": "",
+      "description": "The global demand for food imposes the need to increase agricultural yield without expanding the agricultural frontier or accelerating environmental degradation. The genetic improvement of crops is presented as the central strategy to optimize photosynthetic efficiency, resistance to biotics and tolerance to abiotic stresses (drought, salinity, extreme temperatures). This work evaluates the state of the art of genetic improvement technologies—from marker-assisted selection (MAS) to genomic editing using CRISPR/Cas—and aims to determine the quantitative and qualitative impact of the integration of modern genomic tools on the productivity, yield per hectare and resilience of the main commercial crops (maize, wheat, rice and soy). It carried out a systematic review and a meta-analysis of field and greenhouse trials documented in recent scientific literature. The integrated methodology: comparative data of conventional crop lines versus improved lines through functional genomics, genomic selection (GS) and gene editing (CRISPR/Cas9), yield per hectare (ton/ha), nitrogen assimilation rate, water use efficiency (WUE) and harvest index and linear mixed models and meta-regressions to isolate the genetic effects of environmental variability, evaluating the interaction Genotype × Environment (G×A). The analysis revealed significant increases in agricultural productivity directly attributed to the application of modern genetics, this is based on the yield per hectare in genetically edited varieties and selected by molecular markers in comparison with conventional genotypes; and genetic variants optimized for root architecture and stomatal conductance showed an improvement in water use efficiency, maintaining yield stability under moderate drought conditions. In conclusion, the integration of genomic editing and marker-assisted selection constitutes a fundamental pillar for future food security. The results show that genomic precision not only maximizes the theoretical maximum yield of crops, but also stabilizes production in the face of climate variability. However, it is argued that the massive adoption of these technologies faces regulatory challenges, barriers to technology transfer towards small producers and the need to maintain population genetic diversity to avoid vulnerability to new phytosanitary threats. It is concluded that plant genetics must be combined in an integral manner with sustainable agronomic management practices to reach the maximum productive potential.",
+      "authors": [
+        "Sánchez Castillo, Danilo Pacifico",
+        "Chinchay Mauricio, Lizet Yuleisi",
+        "Escalante Espinoza, Nélida Guillesi",
+        "Alburquerque Santisteban, Percy Armando",
+        "Pérez Campomanes, María Delfina",
+        "Irigoin Cabrera, Ciro Iberico",
+        "Valverde Poma, Kevin Concepción"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "Editorial Mar Caribe",
+      "isbn": [],
+      "doi": "10.17613/n6jq3-fmk11",
+      "subjects": [
+        "edición genómica",
+        "variabilidad ambiental",
+        "eficiencia fotosintética",
+        "inocuidad alimentaria",
+        "evolución filogenética",
+        "thema EDItEUR::T Technology, Engineering, Agriculture, Industrial processes"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182277",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://editorialmarcaribe.es/ark:/10951/isbn.9789915715063/ebook.pdf"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182277",
+        "handle": "20.500.12854/182277",
+        "dspace_uuid": "3f7a9dd5-7dd2-4cf4-8b46-7d59ba0110a1"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182277",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182277",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://editorialmarcaribe.es/ark:/10951/isbn.9789915715063/ebook.pdf"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:54cca39034890273e8225b43",
       "title": "Geometría en movimiento: exploraciones didácticas con GeoGebra. Tomo 1",
       "subtitle": "",
@@ -61699,67 +62039,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:8b1876270e40687045f026d2",
-      "title": "Geschichtslyrik, 1850–1918",
-      "subtitle": "Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung",
-      "description": "Die Arbeit widmet sich der Geschichte der deutschsprachigen Geschichtslyrik von 1850 bis 1918. Obwohl Geschichtslyrik im 19. und frühen 20. Jahrhundert eine wichtige Rolle spielte, wurde die Gattung bislang noch nicht umfassend untersucht. Ein wichtiges Ergebnis der Arbeit besteht darin, dass die in früheren Forschungsbeiträgen angedeutete These eines ‚Niedergangs‘ der Geschichtslyrik in der literarischen Moderne stark relativiert werden muss. Um die Gattungsgeschichte zu erhellen, wird ein über 1800 Texte umfassendes, auf Geschichtslyrikanthologien basierendes Korpus untersucht. Dabei kommen neben qualitativen Einzeltextanalysen und -interpretationen auch digitale, quantitative Verfahren zum Einsatz, womit hier vor allem die manuelle Annotation sämtlicher Korpustexte und die statistische Auswertung der Annotationsdaten gemeint ist. Jenseits der eigentlichen Texte setzt sich die Arbeit auch mit der Rezeption und Vermittlung von Geschichtslyrik im Untersuchungszeitraum auseinander. Beansprucht wird, nicht nur einen Beitrag zur Geschichte der Geschichtslyrik zu leisten, sondern auch am Beispiel dieser Gattung zu demonstrieren und zu reflektieren, wie sich Gattungsgeschichtsschreibung im Allgemeinen sinnvoll betreiben lässt.",
-      "authors": [
-        "Kröncke, Merten"
-      ],
-      "language": "de",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historical poetry",
-        "Literary genre",
-        "Corpus linguistics",
-        "Geschichtslyrik",
-        "Literaturgattung",
-        "Korpuslinguistik",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBF Literary studies: c 1800 to c 1900",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/f8fc1ab4-f149-4b79-960a-6b339bd0583f/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181580",
-        "handle": "20.500.12854/181580",
-        "dspace_uuid": "5ed97683-ad44-4126-aded-3dc7171e145c"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181580",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181580",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116817/1/9783112221594.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -65390,82 +65669,6 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
-        }
-      ]
-    },
-    {
-      "id": "work:55fa5008245d58cd950c049f",
-      "title": "Guiu, Ignacio. Estudio Introductorio A Plotino [ocr] [G] [2014]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ignacio Guiu"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "filosofía",
-        "estudio introductorio"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014",
-      "cover_url": "https://archive.org/services/img/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014",
-        "internet_archive": "guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014",
-          "source_url": "https://archive.org/details/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/guiu-ignacio.-estudio-introductorio-a-plotino-ocr-g-2014/Guiu%2C%20Ignacio.%20-%20Estudio%20introductorio%20a%20Plotino%20%5Bocr%5D%20%5BG%5D%20%5B2014%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
         }
       ]
     },
@@ -76718,6 +76921,67 @@
       ]
     },
     {
+      "id": "work:14317b08858b4f2653810c2b",
+      "title": "Inklusion – Exklusion",
+      "subtitle": "Interdisziplinäre Perspektiven auf aktuelle gesellschaftliche Herausforderungen",
+      "description": "»Inclusion – Exclusion«: The conference proceedings are an analysis of societal phenomena regarding mechanisms of inclusion and exclusion. Interdisciplinary discussions on the role of law, educational opportunities, legal personality of non-human natural persons, as well as basic supply and the right to water, offer versatile perspectives on the topic. Contributions on poverty and homelessness, a critical reflection on migration law, and on inclusion processes in the church complete the volume.",
+      "authors": [],
+      "language": "de",
+      "year": 2024,
+      "publisher": "Duncker & Humblot",
+      "isbn": [],
+      "doi": "10.3790/978-3-428-59184-8",
+      "subjects": [
+        "Ausschluss",
+        "Einschluss",
+        "Gesellschaft",
+        "Interdisziplinär",
+        "Recht",
+        "Rechte der Natur",
+        "Soziologie",
+        "thema EDItEUR::J Society and Social Sciences::JB Society and culture: general::JBF Social and ethical issues::JBFU Animals and society",
+        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPH Political structure and processes::JPHV Political structures: democracy",
+        "thema EDItEUR::L Law::LA Jurisprudence and general issues::LAQ Law and society, sociology of law",
+        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDA Citizenship and nationality law::LNDA3 Asylum law",
+        "thema EDItEUR::1 Place qualifiers::1D Europe::1DF Central Europe::1DFG Germany"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182282",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1af5256a-3fe3-47af-85ad-417922c39849/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://elibrary.duncker-humblot.com/book/63397/inklusion-exklusion"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182282",
+        "handle": "20.500.12854/182282",
+        "dspace_uuid": "19f84ddb-1daf-413f-913c-29a17872c50e"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182282",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182282",
+          "language": "de",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://elibrary.duncker-humblot.com/book/63397/inklusion-exklusion"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:95b6f4ab6cde347d7bcbe9ea",
       "title": "Inklusive Lernwelten",
       "subtitle": "Herausforderungen, Strategien und Perspektiven für Lebenslanges Lernen",
@@ -87904,67 +88168,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:158caac128f42e0bf63d8d03",
-      "title": "Kulturkämpfe als Sprachkämpfe?",
-      "subtitle": "Sprachmagie vs. Prestigeökonomie im Diskurs um die gleichgeschlechtliche Ehe",
-      "description": "The series Sprache und Wissen [Language and Knowledge] is a publication platform for high-quality papers on German linguistics with interdisciplinary focus. The series takes on current trends in the scientific community from a linguistic perspective in order to show how general and expert knowledge are made possible through language and gain perspective through it. The linguistic treatment of discursive knowledge formats aims to advance the field of linguistics and other sciences interested in language in an innovative way. The series presents papers with semantic, pragmatic, and syntactic approaches from the perspective of variety-specific as well as text- and discourse-linguistic cognitive interest. The series welcomes monographs as well as systematically-structured anthologies and conference proceedings. Editorial Board: Markus Hundt Wolf-Andreas Liebert Juliane Schröter Berbeli Wanning Ingo H. Warnke Martin Wengeler",
-      "authors": [
-        "Bloching, Sven"
-      ],
-      "language": "de",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Poststructuralism",
-        "Political correctness",
-        "Discourse analysis",
-        "Marriage equality",
-        "Poststrukturalismus",
-        "Diskursanalyse",
-        "Ehe für alle",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics::CFG Semantics, discourse analysis, stylistics",
-        "thema EDItEUR::G Reference, Information and Interdisciplinary subjects::GT Interdisciplinary studies::GTC Communication studies",
-        "thema EDItEUR::C Language and Linguistics::CF Linguistics"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181583",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/76e3f18e-95ce-4828-b9e1-e5b20c681a41/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116671/1/9783111692067.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181583",
-        "handle": "20.500.12854/181583",
-        "dspace_uuid": "60065349-749b-4116-b7bb-178d0deca0a6"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181583",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181583",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116671/1/9783111692067.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -109368,6 +109571,45 @@
       ]
     },
     {
+      "id": "work:d15aff83d70dafb4d66ca0eb",
+      "title": "Numerical methods using Matlab",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "en",
+      "year": 1996,
+      "publisher": "Computers & Mathematics with Applications",
+      "isbn": [],
+      "doi": "10.1016/s0898-1221(96)90473-3",
+      "subjects": [
+        "Matrix Theory and Algorithms"
+      ],
+      "source": "OpenAlex",
+      "source_url": "https://doi.org/10.1016/s0898-1221(96)90473-3",
+      "cover_url": "",
+      "formats": [],
+      "access": "open_access",
+      "license": "Open Access; license not reported by OpenAlex",
+      "verified_legal": true,
+      "resource_type": "article",
+      "identifiers": {
+        "source_id": "W4210595706",
+        "openalex_id": "W4210595706"
+      },
+      "providers": [
+        {
+          "source": "OpenAlex",
+          "source_id": "W4210595706",
+          "source_url": "https://doi.org/10.1016/s0898-1221(96)90473-3",
+          "language": "en",
+          "formats": [],
+          "access": "open_access",
+          "license": "Open Access; license not reported by OpenAlex",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:27050ddabdc82e1d8a7b0a40",
       "title": "Numerical recipes in C: the art of scientific computing",
       "subtitle": "",
@@ -114187,65 +114429,6 @@
       ]
     },
     {
-      "id": "work:82fd8caf6fa1cf6be3aeebf1",
-      "title": "Outlines of Abolition Democracy",
-      "subtitle": "Black Leftist Writing in 1930s America",
-      "description": "This study traces the outlines of democratic theories and practices as they took shape among African American leftists in the 1930s who wrote about the unfinished nature of abolition. Drawing on W.E.B. Du Bois’s framework of abolition democracy, first developed in his 1935 historical study Black Reconstruction , the book explores the resonances of this framework in a range of political writings, organizing efforts, and cultural representations of its time. Through close readings of published and unpublished texts by Du Bois, Richard Wright, Marvel Cooke, William L. Patterson, Louise Thompson, and Langston Hughes, the author argues that African American leftists of the Depression decade articulated radical visions of collective self-determination that would extend the unfinished work of positively substantiating the abolition of racial slavery to encompass comprehensive social, political, and economic transformation. In doing so, the study proposes that these intellectuals and activists laid critical groundwork for abolitionist projects that would develop in the wake of the civil rights movement and in response to an expanding carceral state in the late twentieth and early twenty-first centuries.",
-      "authors": [
-        "Obst, Anthony"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Abolition",
-        "Black Marxism",
-        "Great Depression",
-        "Abolitionismus",
-        "Marxismus",
-        "Weltwirtschaftskrise",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general::DSBH Literary studies: c 1900 to c 2000",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181582",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a582dfb9-4876-4b95-8f09-c854e03f0c57/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116911/1/9783112218099.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181582",
-        "handle": "20.500.12854/181582",
-        "dspace_uuid": "0c3de32b-1487-4c0c-afd6-ea85c8c1fe65"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181582",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181582",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116911/1/9783112218099.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:762dd489b51a6f598b298b2b",
       "title": "Päättymätön savotta",
       "subtitle": "Analyyseja Kalle Päätalon tuotannosta",
@@ -116610,83 +116793,6 @@
       ]
     },
     {
-      "id": "work:df561ff08255450150916ae5",
-      "title": "Photographic Practices and the Making of Religion",
-      "subtitle": "",
-      "description": "From devotional practices and the commercialization of sacred imagery to the scientific cataloging of religious traditions, this thought-provoking publication explores the multifaceted role of photography in constructing and preserving religious identities and beliefs in past and present. The contributions explore the theological reception of photography, its use in artistic and festive contexts, and photographs’ material qualities as objects of devotion and cultural artifacts. Richly illustrated and featuring interdisciplinary insights from art history, religious studies, anthropology, and media studies, Photographic Practices and the Making of Religion provides an essential resource for scholars and readers interested in understanding the intersections of religion, visual culture, and modernity.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Art",
-        "Photography",
-        "History of photography",
-        "Modern art",
-        "Religion",
-        "Spirituality",
-        "Cultural practices",
-        "Colonialism",
-        "Ethnology",
-        "Anthropology",
-        "Materiality",
-        "Rite",
-        "Jewish tradition",
-        "Sacred image",
-        "Kunst",
-        "Fotografie",
-        "Fotografiegeschichte",
-        "Moderne",
-        "Kultbild",
-        "Ethnologie",
-        "Jüdische Tradition",
-        "Kolonialismus",
-        "Kultpraktiken",
-        "Religiosität",
-        "Materialität",
-        "Rituale",
-        "thema EDItEUR::A The Arts::AJ Photography and photographs",
-        "thema EDItEUR::A The Arts::AG The Arts: treatments and subjects::AGA History of art"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181581",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/3dd31ecc-63e7-4d4b-9629-7d152d37135b/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116812/1/9783111208930.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181581",
-        "handle": "20.500.12854/181581",
-        "dspace_uuid": "fa4ff035-dee0-4154-a261-8d600d9a810c"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181581",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181581",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116812/1/9783111208930.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:722aeb32f77b292757af01c5",
       "title": "Photographing Biblical Modernity",
       "subtitle": "Frank Scholten in British Mandate Palestine",
@@ -117497,6 +117603,59 @@
       ]
     },
     {
+      "id": "work:c82e769693182c5ca811b6fc",
+      "title": "POESIA DE JORGE RAMIREZ JAR",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "argentina",
+        "texto",
+        "escritor",
+        "poesia",
+        "cuento"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/mardelcobo_gmail_Jar_201902",
+      "cover_url": "https://archive.org/services/img/mardelcobo_gmail_Jar_201902",
+      "formats": [
+        {
+          "type": "text",
+          "url": "https://archive.org/download/mardelcobo_gmail_Jar_201902/jar.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "mardelcobo_gmail_Jar_201902",
+        "internet_archive": "mardelcobo_gmail_Jar_201902"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "mardelcobo_gmail_Jar_201902",
+          "source_url": "https://archive.org/details/mardelcobo_gmail_Jar_201902",
+          "language": "es",
+          "formats": [
+            {
+              "type": "text",
+              "url": "https://archive.org/download/mardelcobo_gmail_Jar_201902/jar.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:0448a665d37e221e825afe1e",
       "title": "Poetics and Politics of Islamic Imaginaries",
       "subtitle": "",
@@ -117669,67 +117828,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ed0fa0f77f2172409c9511e9",
-      "title": "Poetry, Music, and Sound Art / Lyrik, Musik und Klangkunst",
-      "subtitle": "Recent Medial Correlations / Neuere mediale Konstellationen",
-      "description": "This book examines the evolving medial entanglements between poetry, music, and sound in the digital age, foregrounding the complex interrelations between textuality, vocality, and sonic materiality. Drawing on perspectives from literary sound studies, intermediality theory, and word and music studies, the contributors explore contemporary poetic practices that engage with music and sound beyond conventional musico-literary genres. The phenomena examined here range from recent transformations of traditional oral poetry and the art song to innovative intermedial formats such as poetry audiowalks and spoken music. The book highlights the impact of digital technologies on musico-poetic forms, tracing how contemporary practices challenge traditional genre boundaries and reconfigure listening as an integral component of poetic experience. By bridging historical perspectives with emerging sound cultures, this collection offers new insights into the mediality of poetry and its intersections with music and sound art.",
-      "authors": [],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Contemporary poetry",
-        "Sound Art and Experimental Music",
-        "Orality",
-        "Digitality",
-        "Postdigitality",
-        "Digitalität",
-        "Mündlichkeit",
-        "Postdigitalität",
-        "Sound Art und experimentelle Musik",
-        "Zeitgenössische Poesie",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSC Literary studies: poetry and poets",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSA Literary theory"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181585",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/1d1697ce-68ba-4e2e-8dc7-b857defafbc6/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116728/1/9783112213070.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181585",
-        "handle": "20.500.12854/181585",
-        "dspace_uuid": "b6de7c72-84f8-4e54-9974-0a3afd144e74"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181585",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181585",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116728/1/9783112213070.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -125511,49 +125609,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:9924199a8b0fa0749fe2d651",
-      "title": "Re Encuentros Al Margen Programa 2018",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Laboratorio Experimental de Cine"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cine méxicano",
-        "Laboratorio Experimental de Cine",
-        "Mexican experimental cinema"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ReEncuentrosAlMargenPrograma2018",
-      "cover_url": "https://archive.org/services/img/ReEncuentrosAlMargenPrograma2018",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ReEncuentrosAlMargenPrograma2018",
-        "internet_archive": "ReEncuentrosAlMargenPrograma2018"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ReEncuentrosAlMargenPrograma2018",
-          "source_url": "https://archive.org/details/ReEncuentrosAlMargenPrograma2018",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -134097,66 +134152,6 @@
       ]
     },
     {
-      "id": "work:90581ef56b6ae3d72e531c22",
-      "title": "Rohingyas and the Geographies of Precarity in Exile",
-      "subtitle": "Everyday Life in Bangladesh and Malaysia",
-      "description": "Focusing on Myanmar’s Rohingya refugees in Bangladesh and Malaysia, this study provides an in-depth analysis of the contribution of historical legacies of exclusion, along with contemporary practices of marginalisation and otherisation to the transcendence of the precarity landscape. In light of the 2017 displacement of over a million Rohingya from Myanmar’s Rakhine state to neighbouring Bangladesh, the book offers a nuanced and empirically driven analysis of precarity across a wide spectrum at discrete and overlapping scales, shaped by statelessness, vulnerability, uncertainty, onward migration and everyday practices of exclusion. Bringing together the diverse manifestation along the lines of identity, status, space, mobility, gender and labour, the study proposes a comprehensive understanding of precarity, conceptualised as the ‘interconnected geographies of precarity’. Elucidating the intricate web of structural constraints that predate (in Myanmar) and are continually reconstructed and actualised (in exile), the book examines the continuum of precarity in extended transnational spaces – a phenomenon that is complex, non-linear, transitional and multi-faceted.",
-      "authors": [
-        "Ansar, Anas"
-      ],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Displacement",
-        "Migration",
-        "Dependency",
-        "Refugee",
-        "Abhängigkeit",
-        "Flüchtling",
-        "Südostasien",
-        "thema EDItEUR::N History and Archaeology::NH History::NHM Australasian and Pacific history",
-        "thema EDItEUR::N History and Archaeology::NH History"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181591",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/5bf37336-e65c-4cce-b662-704b47477a4c/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116705/1/9783111661513.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181591",
-        "handle": "20.500.12854/181591",
-        "dspace_uuid": "342e161b-1d46-4a26-b830-2fe176cecb3a"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181591",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181591",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116705/1/9783111661513.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:c45762075a5f710e0c8bf4fd",
       "title": "Romeo and Juliet",
       "subtitle": "",
@@ -137580,64 +137575,6 @@
       ]
     },
     {
-      "id": "work:f71b528955963c293331d134",
-      "title": "Seismografien des frühen 21. Jahrhunderts",
-      "subtitle": "Wie Erdbebenereignisse in Katastrophendiskurse übertragen werden",
-      "description": "Inwiefern treten Literatur, Film und Kunst wortwörtlich als Seismografen ihrer Zeit auf und registrieren gesellschaftliche Auswirkungen seismischer Ereignisse? An der Schnittstelle geisteswissenschaftlicher Katastrophenforschung und literaturwissenschaftlicher Kulturtransferforschung untersucht dieses Buch ‚Seismografien‘, die Ergebnisse diskursiver Bearbeitung weltweit wahrgenommener Erdbeben im 21. Jahrhundert am Beispiel von Ereignissen in Asien (Indonesien 2004, China 2008, Japan 2011), Europa (Italien 2009), der Karibik (Haiti 2010) und Ozeanien (Neuseeland 2011). In den sechs Kapiteln des Hauptteils wird gezeigt, wie diese lokalen Erdbebenereignisse transnational in europäische Katastrophendiskurse übertragen werden. Im Begriff der Seismografie verschränkt sich die seismografische Tätigkeit aber auch mit dem Modell der Ausbreitung und Aufzeichnung seismischer Wellen durch den Seismografen. Auf diese Weise werden Seismografien modellhaft für Ansatz und Aufgabe der Komparatistik erprobt. Diese Arbeit ist aber auch für Literaturwissenschaftler:innen allgemein sowie für Kultur-, Film- und Medienwissenschaftler:innen von Bedeutung, da sie neue Perspektiven auf die künstlerische Verarbeitung von Naturkatastrophen eröffnet.",
-      "authors": [
-        "Brandlechner, Daniel"
-      ],
-      "language": "de",
-      "year": 2026,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "21. Jahrhundert",
-        "Erdbeben",
-        "Katastrophendiskurse",
-        "Vergleichende Literaturwissenschaft",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism::DSB Literary studies: general",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::R Earth Sciences, Geography, Environment, Planning::RB Earth sciences"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/a3f3c215-a528-4bca-b2f9-9cb0dda88b00/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181587",
-        "handle": "20.500.12854/181587",
-        "dspace_uuid": "b69c7079-74c5-4cfc-abe4-f43c0f99ef94"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181587",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181587",
-          "language": "de",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116823/1/9783111709321.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:f69954e44d58ae16fe80a4f4",
       "title": "Selected Essays, 2019–2023",
       "subtitle": "",
@@ -137879,65 +137816,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:cd424450bbd7ef849a831138",
-      "title": "Selling Out Santa",
-      "subtitle": "Hollywood Christmas Films in the Age of McCarthy",
-      "description": "Christmas is not just a day or a frame of mind as Kris Kringle (Edmund Gwenn) imparts in Miracle on 34 th Street (1947); Christmas is also a vehicle for national mythmaking as an idealising mirror for American cultural and political attitudes of a given moment. Via a case study on Hollywood Christmas films released between 1946 and 1961, Selling Out Santa offers an examination of political pressures on Hollywood in the post-war period and the cultural ramifications of federal involvement in the motion picture industry. As the House Committee on Un-American Activities opened hearings in 1947 and the FBI gathered reports on potential communist subversion in Frank Capra’s Christmas classic It’s a Wonderful Life (1946), Hollywood executives began to bend to the socially conservative pressures of this post-war moment. Using Christmas films as the core of this investigation to identify and analyse changes within the genre as they relate to and reflect changes in the wider cultural and political moment exposes for film scholars, students, and non-specialists how these federal and external pressures on Hollywood moulded these holiday favourites throughout the 1950s and set the social standard for decades of Christmas releases.",
-      "authors": [
-        "Joy, Vaughn"
-      ],
-      "language": "en",
-      "year": 2025,
-      "publisher": "De Gruyter",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cold War",
-        "Christmas",
-        "Hollywood",
-        "Political History",
-        "thema EDItEUR::A The Arts::AT Performing arts::ATF Films, cinema::ATFA Film history, theory or criticism",
-        "thema EDItEUR::D Biography, Literature and Literary studies::DS Literature: history and criticism",
-        "thema EDItEUR::N History and Archaeology::NH History::NHT History: specific events and topics::NHTW Cold wars and proxy conflicts",
-        "thema EDItEUR::N History and Archaeology::NH History::NHK History of the Americas"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181584",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/4a1ea45f-f1e0-479e-94fa-f4b41dc55933/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116656/1/9783111631424.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181584",
-        "handle": "20.500.12854/181584",
-        "dspace_uuid": "0fac9e8a-7fa7-4f6d-a293-6250e6dfa6f6"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181584",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181584",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116656/1/9783111631424.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
           "verified_legal": true
         }
       ]
@@ -146276,6 +146154,67 @@
       ]
     },
     {
+      "id": "work:15bcd099f8d5c630648aba74",
+      "title": "Teksto klasifikavimo metodikų analizė ir tolesnių lietuvių kalbai skirtų tyrimų kryptys : mokslo studija",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Kapočiūtė-Dzikienė, Jurgita"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Vytautas Magnus University",
+      "isbn": [],
+      "doi": "10.7220/9786094677038",
+      "subjects": [
+        "Teksto klasifikavimas",
+        "Didieji kalbos modeliai",
+        "Transformerių metodai",
+        "Sintetinių duomenų generavimas",
+        "Žinių distiliavimas",
+        "Kalibravimas",
+        "Kontrastinis mokymasis",
+        "Kryžminė validacija",
+        "Natūralios kalbos inferencija",
+        "thema EDItEUR::J Society and Social Sciences::JN Education::JNV Educational equipment and technology, computer-aided learning (CAL)"
+      ],
+      "source": "DOAB",
+      "source_url": "https://directory.doabooks.org/handle/20.500.12854/182278",
+      "cover_url": "https://directory.doabooks.org/rest/bitstreams/441ffdf3-cda6-49df-9ecc-b3c8826b60fb/retrieve",
+      "formats": [
+        {
+          "type": "read",
+          "url": "https://www.vdu.lt/cris/bitstreams/ed21522d-b790-4e43-8671-105a86e71778/download"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "20.500.12854/182278",
+        "handle": "20.500.12854/182278",
+        "dspace_uuid": "b95314a4-c996-420c-bb6f-1313b4c23d92"
+      },
+      "providers": [
+        {
+          "source": "DOAB",
+          "source_id": "20.500.12854/182278",
+          "source_url": "https://directory.doabooks.org/handle/20.500.12854/182278",
+          "language": "en",
+          "formats": [
+            {
+              "type": "read",
+              "url": "https://www.vdu.lt/cris/bitstreams/ed21522d-b790-4e43-8671-105a86e71778/download"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/ · CC-BY-NC-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:5f8a746562ccebe92014ea19",
       "title": "Temas selectos de estructuras de datos",
       "subtitle": "",
@@ -152214,58 +152153,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:7ee9505b0f075e743b1ae5ea",
-      "title": "The Color of Precision Medicine",
-      "subtitle": "",
-      "description": "Will genome-based precision medicine fix the problem of race/ethnicity-based medicine? To answer this question, Sun and Ong propose the concept of racialization of precision medicine, defined as the social processes by which racial/ethnic categories are incorporated (or not) into the development, interpretation, and implementation of precision medicine research and practice. Drawing on interview data with physicians and scientists in the field of cancer care, this book addresses the following questions: Who are the racializers in precision medicine, how and why do they do it? Under what conditions do clinicians personalize medical treatments in the context of cancer therapies? The chapters elucidate different ways in which racialization occurs and reveal that there exists an inherent contradiction in the usage of race/ethnicity as precision medicine moves from bench to bedside. The relative resources theory is proposed to explain that whether race/ethnicity-based medicine will be replaced by genomic medicine depends on the resources available at the individual and systemic levels. Furthermore, this book expands on how racialization happens not only in pharmacogenomic drug efficacy studies, but also in drug toxicity studies and cost-effectiveness studies. An important resource for clinicians, researchers, public health policymakers, health economists, and journalists on how to deracialize precision medicine.",
-      "authors": [
-        "Sun, Shirley",
-        "Ong, Zoe"
-      ],
-      "language": "en",
-      "year": 2024,
-      "publisher": "Taylor & Francis",
-      "isbn": [],
-      "doi": "10.4324/9781003436102",
-      "subjects": [
-        "Genomic health disparities",
-        "Pharmacogenomics research",
-        "Cancer therapy personalisation",
-        "Social construction of race",
-        "Health policy analysis",
-        "Postcolonial medical studies",
-        "Racialisation in clinical genomics",
-        "thema EDItEUR::M Medicine and Nursing::MQ Nursing and ancillary services::MQC Nursing::MQCL Nursing specialties",
-        "thema EDItEUR::M Medicine and Nursing::MF Pre-clinical medicine: basic sciences::MFN Medical genetics",
-        "thema EDItEUR::P Mathematics and Science::PD Science: general issues::PDR Impact of science and technology on society"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181589",
-      "cover_url": "",
-      "formats": [],
-      "access": "open_access",
-      "license": "open access",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181589",
-        "handle": "20.500.12854/181589",
-        "dspace_uuid": "fb7dfa62-8c61-463d-acf4-fd15e28b011e"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181589",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181589",
-          "language": "en",
-          "formats": [],
-          "access": "open_access",
-          "license": "open access",
           "verified_legal": true
         }
       ]
@@ -167050,71 +166937,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a182fc44ca9862ec242eee30",
-      "title": "The Myth of Rights",
-      "subtitle": "The Purposes and Limits of Constitutional Rights",
-      "description": "What is a constitutional right? If asked, most Americans would say that it is an entitlement to act as one pleases — i.e., that rights protect autonomy. That understanding, however, is wrong; it is, indeed, The Myth of Rights. The primary purpose and effect of constitutional rights in our society is structural. These rights restrain governmental power in order to maintain a balance between citizens and the State, and an appropriately limited role for the State in our society. Of course, restricting governmental power does have the effect of advancing individual autonomy, but that is not the primary purpose of rights, and furthermore, constitutional rights protect individual autonomy to a far lesser degree that is generally believed. This book brings clarity to many difficult controversies, with a structural approach towards constitutional rights. Issues discussed include flag-burning, the ongoing debates over affirmative action and same-sex marriage, and the great battles over executive power fought during the second Bush Administration. The Myth of Rights addresses the constitutional issues posed in these and many other areas of law and public policy, and explains why a structural approach to constitutional rights illuminates these disputes in ways that an autonomy-based approach cannot. Readers will understand that while constitutional rights play a critical role in our legal and political system, it is a very different role from what is commonly assumed.",
-      "authors": [
-        "Bhagwat, Ashutosh"
-      ],
-      "language": "en",
-      "year": 2010,
-      "publisher": "Oxford University Press",
-      "isbn": [],
-      "doi": "10.1093/acprof:oso/9780195377781.001.0001",
-      "subjects": [
-        "Constitutional rights",
-        "Individual autonomy",
-        "Governmental power",
-        "Citizens",
-        "Executive power",
-        "Second Bush Administration",
-        "Flag-burning",
-        "Affirmative action",
-        "Same-sex marriage",
-        "Public policy",
-        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general",
-        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDX Constitution",
-        "thema EDItEUR::L Law::LN Laws of specific jurisdictions and specific areas of law::LND Constitutional and administrative law: general::LNDC Law: Human rights and civil liberties::LNDC1 Constitutional law and human rights",
-        "thema EDItEUR::J Society and Social Sciences::JP Politics and government::JPP Public administration"
-      ],
-      "source": "DOAB",
-      "source_url": "https://directory.doabooks.org/handle/20.500.12854/181592",
-      "cover_url": "https://directory.doabooks.org/rest/bitstreams/07ec031e-023a-413e-97e2-bf823479199e/retrieve",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://library.oapen.org/bitstream/20.500.12657/116970/1/9780199703425.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "20.500.12854/181592",
-        "handle": "20.500.12854/181592",
-        "dspace_uuid": "32b25df5-6149-4e53-94a9-0210de2fdde3"
-      },
-      "providers": [
-        {
-          "source": "DOAB",
-          "source_id": "20.500.12854/181592",
-          "source_url": "https://directory.doabooks.org/handle/20.500.12854/181592",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://library.oapen.org/bitstream/20.500.12657/116970/1/9780199703425.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
           "verified_legal": true
         }
       ]
@@ -188595,6 +188417,54 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:34f5a9b0006c1ef9331887f0",
+      "title": "Veliko Zine #1 - Otoño 2024",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gonxalo Verde"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Zine",
+        "veliko",
+        "Claudio Kobelt",
+        "Gonxalo Verde",
+        "Soñé Calavera",
+        "Alfredo Viudez Barrera",
+        "Verde y los Caballos a Marte",
+        "Interzona"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/veliko-zine-1-otonio-2024",
+      "cover_url": "https://archive.org/services/img/veliko-zine-1-otonio-2024",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "veliko-zine-1-otonio-2024",
+        "internet_archive": "veliko-zine-1-otonio-2024"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "veliko-zine-1-otonio-2024",
+          "source_url": "https://archive.org/details/veliko-zine-1-otonio-2024",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
