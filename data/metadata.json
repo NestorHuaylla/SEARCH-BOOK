@@ -1,13 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T11:52:44.563014Z",
+  "generated_at": "2026-10-02T11:12:54.705124Z",
   "total_records": 2279,
-  "catalog_sha256": "9774c1937cc0c3fd38d6d399d18d8030970f8d63e6772612db715c4f9261dce4",
+  "catalog_sha256": "cb632cfee1eed0e50294c942411a3c6047cfc9a586efcd3c4a5f070562b5aae3",
   "providers": {
     "DOAB": {
       "records": 750,
-      "status": "ok",
-      "retained": false
+      "status": "error",
+      "retained": true,
+      "error": "DOAB: request failed: 403 Client Error: Forbidden for url: https://directory.doabooks.org/rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC"
     },
     "Free Programming Books": {
       "records": 173,
@@ -23,7 +24,7 @@
       "records": 750,
       "status": "error",
       "retained": true,
-      "error": "OAPEN Library: request failed: HTTPSConnectionPool(host='library.oapen.org', port=443): Max retries exceeded with url: /rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='library.oapen.org', port=443): Read timed out. (read timeout=30)\"))"
+      "error": "OAPEN Library: request failed: 403 Client Error: Forbidden for url: https://library.oapen.org/rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC"
     },
     "Open Library": {
       "records": 344,
@@ -56,17 +57,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2606630
+      "bytes": 2607459
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2682786
+      "bytes": 2688756
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 279,
-      "bytes": 855174
+      "bytes": 854019
     }
   ]
 }
