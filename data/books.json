@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T11:12:54.705124Z",
+  "generated_at": "2026-10-03T10:30:24.762508Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -883,47 +883,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:43d6f3564fb5486e10aa6b40",
-      "title": "6 George Berkeley Y El Idealismo Subjetivo Autor Squarespace",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Edison Torres"
-      ],
-      "language": "es",
-      "year": 2008,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Filosofía"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
-      "cover_url": "https://archive.org/services/img/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
-        "internet_archive": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
-          "source_url": "https://archive.org/details/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -12460,57 +12419,6 @@
       ]
     },
     {
-      "id": "work:15ec2a76da001c119fb7232d",
-      "title": "Analu's Blog ☆",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "cherryaanalu"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "blog"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/httpsanalu.dariomorales.me",
-      "cover_url": "https://archive.org/services/img/httpsanalu.dariomorales.me",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/httpsanalu.dariomorales.me/analu%27s%20blog%20%E2%98%86.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "httpsanalu.dariomorales.me",
-        "internet_archive": "httpsanalu.dariomorales.me"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "httpsanalu.dariomorales.me",
-          "source_url": "https://archive.org/details/httpsanalu.dariomorales.me",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/httpsanalu.dariomorales.me/analu%27s%20blog%20%E2%98%86.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:25617b50dec6df643d289186",
       "title": "Analysis of Algorithms, Deluxe Edition",
       "subtitle": "",
@@ -23598,90 +23506,6 @@
       ]
     },
     {
-      "id": "work:60ebdaa4c25940a7484bbac9",
-      "title": "Boletín XVIII. Reseña penal del semanario judicial de la federación 2025",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "retractación de la víctima",
-        "principio de inmediatez procesal",
-        "valoración probatoria libre y lógica",
-        "corroboración de declaraciones",
-        "técnica de litigación para contradicciones",
-        "contradicciones testimoniales",
-        "prisión preventiva",
-        "derecho a la duración razonable del proceso",
-        "riesgos procesales",
-        "medidas cautelares alternativas",
-        "cese de la prisión preventiva por exceso de plazo",
-        "conminación judicial para resolver el proceso",
-        "juicio oral penal",
-        "artículo 259 del Código Nacional de Procedimientos Penales",
-        "artículo 359 del Código Nacional de Procedimientos Penales",
-        "artículos 168 a 170 del Código Nacional de Procedimientos Penales",
-        "artículo 44 del Código Nacional de Procedimientos Penales",
-        "artículo 376 del Código Nacional de Procedimientos Penales",
-        "artículo 385 del Código Nacional de Procedimientos Penales",
-        "artículo 20 de la Constitución Política de los Estados Unidos Mexicanos."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/boletin-xviii",
-      "cover_url": "https://archive.org/services/img/boletin-xviii",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "boletin-xviii",
-        "internet_archive": "boletin-xviii"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "boletin-xviii",
-          "source_url": "https://archive.org/details/boletin-xviii",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/boletin-xviii/Bolet%C3%ADn%20XVIII_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:ad9998cea04a0bb0d65c0708",
       "title": "Border Necrotechnics",
       "subtitle": "Automation, Surveillance, and the Racial Politics of Migration Control",
@@ -23802,13 +23626,13 @@
       ]
     },
     {
-      "id": "work:5732a10e48e45b0a4d93bffe",
+      "id": "work:d375bd8147db0dde1f4ddd92",
       "title": "Breves Notas sobre Autómatas y Lenguajes",
       "subtitle": "",
       "description": "",
       "authors": [
         "Universidad Nacional Autónoma de México",
-        "Jorge L. Ortega Arjona"
+        "Jorge L. Ortega Arjona *( :card_file_box: archived)*"
       ],
       "language": "es",
       "year": null,
@@ -23820,12 +23644,12 @@
         "Ciencia Computacional"
       ],
       "source": "Free Programming Books",
-      "source_url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
+      "source_url": "https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
       "cover_url": "",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf"
+          "url": "https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf"
         }
       ],
       "access": "author_free",
@@ -23833,19 +23657,19 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "4a8f788d42a357c8aa6a",
+        "source_id": "7ed268f985ad12586343",
         "list_url": "https://raw.githubusercontent.com/EbookFoundation/free-programming-books/main/books/free-programming-books-es.md"
       },
       "providers": [
         {
           "source": "Free Programming Books",
-          "source_id": "4a8f788d42a357c8aa6a",
-          "source_url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
+          "source_id": "7ed268f985ad12586343",
+          "source_url": "https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf"
+              "url": "https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf"
             }
           ],
           "access": "author_free",
@@ -25539,47 +25363,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:fcfe346f5d44fc95866398fe",
-      "title": "CÁ NTAROS MANUAL DE USO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Marina Salinas"
-      ],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Diseño"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-      "cover_url": "https://archive.org/services/img/ca-ntaros-manual-de-uso",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ca-ntaros-manual-de-uso",
-        "internet_archive": "ca-ntaros-manual-de-uso"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ca-ntaros-manual-de-uso",
-          "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -28845,6 +28628,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6593dfeefc3149bae61863a8",
+      "title": "chrome",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "lm"
+      ],
+      "language": "es",
+      "year": 1999,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "buena"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/chrome_201509",
+      "cover_url": "https://archive.org/services/img/chrome_201509",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "chrome_201509",
+        "internet_archive": "chrome_201509"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "chrome_201509",
+          "source_url": "https://archive.org/details/chrome_201509",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -33400,6 +33224,58 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:57360e231d5ca9020dab2853",
+      "title": "Contribuciones De David PS 2re 4.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "David Tejedor Olea"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "DavidPS2Re4",
+        "3DJuegos"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/contribuciones-de-david-ps-2re-4.",
+      "cover_url": "https://archive.org/services/img/contribuciones-de-david-ps-2re-4.",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/contribuciones-de-david-ps-2re-4./Contribuciones%20de%20DavidPS2re4..html"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "contribuciones-de-david-ps-2re-4.",
+        "internet_archive": "contribuciones-de-david-ps-2re-4."
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "contribuciones-de-david-ps-2re-4.",
+          "source_url": "https://archive.org/details/contribuciones-de-david-ps-2re-4.",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/contribuciones-de-david-ps-2re-4./Contribuciones%20de%20DavidPS2re4..html"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -43038,57 +42914,6 @@
       ]
     },
     {
-      "id": "work:d3e6584c7241d1c447644672",
-      "title": "dichero flux",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "santino cichero"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "hola bienvenidosx3 a dichero flux"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/hhgghg",
-      "cover_url": "https://archive.org/services/img/hhgghg",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/hhgghg/nombre.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "hhgghg",
-        "internet_archive": "hhgghg"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "hhgghg",
-          "source_url": "https://archive.org/details/hhgghg",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/hhgghg/nombre.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:f29a51212a3a0d9c2ad2a405",
       "title": "Dictionary of World Biography",
       "subtitle": "",
@@ -50281,47 +50106,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:4f2d7f08c8aeac460b2df876",
-      "title": "El Credo De Los Asesinos.",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Roberto Rojas Alonso"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "From Hell El Credo de Los Asesinos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/FromHellElCredoDeLosAsesinos.",
-      "cover_url": "https://archive.org/services/img/FromHellElCredoDeLosAsesinos.",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "FromHellElCredoDeLosAsesinos.",
-        "internet_archive": "FromHellElCredoDeLosAsesinos."
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "FromHellElCredoDeLosAsesinos.",
-          "source_url": "https://archive.org/details/FromHellElCredoDeLosAsesinos.",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc/3.0/",
           "verified_legal": true
         }
       ]
@@ -58555,6 +58339,59 @@
       ]
     },
     {
+      "id": "work:e950b2eb267994016ae598e0",
+      "title": "Folleto de Caracteristicas con Modificaciones GTA Vice City (Windows XP)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Mathias Nicolas Rodriguez Techera"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Centro Número 5",
+        "Escuela de Felipe Sanguinetti",
+        "Grupo Escolar de la Union"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/gta-uruguay-master-ids",
+      "cover_url": "https://archive.org/services/img/gta-uruguay-master-ids",
+      "formats": [
+        {
+          "type": "text",
+          "url": "https://archive.org/download/gta-uruguay-master-ids/GTA_URUGUAY_MASTER_IDS.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "gta-uruguay-master-ids",
+        "internet_archive": "gta-uruguay-master-ids"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "gta-uruguay-master-ids",
+          "source_url": "https://archive.org/details/gta-uruguay-master-ids",
+          "language": "es",
+          "formats": [
+            {
+              "type": "text",
+              "url": "https://archive.org/download/gta-uruguay-master-ids/GTA_URUGUAY_MASTER_IDS.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:1e64bcaa6715cf9687423ff1",
       "title": "Food and Drink in Early Modern Ireland",
       "subtitle": "",
@@ -65133,6 +64970,50 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:ee71bf6cf7ce116d2074409d",
+      "title": "GUIA 2 GRUPO 7 PROARCA",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "CARLOS ALBERTO GONZATTI RODRIGUES MARIA RAQUEL PERDOMO ARTUNDUAGA DIEGO FELIPE VELANDIA MANCHEGO"
+      ],
+      "language": "es",
+      "year": 2021,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Análisis financiero",
+        "Presupuesto",
+        "Flujo de Caja",
+        "Reporte Integrado"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/guia-2-grupo-7-proarca",
+      "cover_url": "https://archive.org/services/img/guia-2-grupo-7-proarca",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "guia-2-grupo-7-proarca",
+        "internet_archive": "guia-2-grupo-7-proarca"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "guia-2-grupo-7-proarca",
+          "source_url": "https://archive.org/details/guia-2-grupo-7-proarca",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -71917,6 +71798,73 @@
       ]
     },
     {
+      "id": "work:d399edf5e4d4c0b09b2aeaf5",
+      "title": "História do Vinho da Madeira : Documentos e textos",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Alberto Vieira [ed. lit.] ; [traducido al inglés por Isabel Marqués da Silva]"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Vinho de Madeira-Historia"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/historia-do-vinho-da-madeira",
+      "cover_url": "https://archive.org/services/img/historia-do-vinho-da-madeira",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "historia-do-vinho-da-madeira",
+        "internet_archive": "historia-do-vinho-da-madeira"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "historia-do-vinho-da-madeira",
+          "source_url": "https://archive.org/details/historia-do-vinho-da-madeira",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/historia-do-vinho-da-madeira/Hist%C3%B3ria%20do%20Vinho%20da%20Madeira_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:be78aa1a3dee3f2c608e185e",
       "title": "Historia local y Ciencias Sociales: fundamentos teórico-metodológicos para su enseñanza",
       "subtitle": "",
@@ -76656,79 +76604,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f3e92bf5bb939188d7672470",
-      "title": "Informe De Gestión 2024 Dirección De Memoria Histórica Y Reparación",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gobierno de Honduras"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Honduras",
-        "memoria",
-        "memoria histórica",
-        "reparación",
-        "vícitmas",
-        "derecho a la verdad",
-        "márires de la resistencia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/informe-2024-direccion-de-memoria-historica-y-reparacion",
-      "cover_url": "https://archive.org/services/img/informe-2024-direccion-de-memoria-historica-y-reparacion",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "informe-2024-direccion-de-memoria-historica-y-reparacion",
-        "internet_archive": "informe-2024-direccion-de-memoria-historica-y-reparacion"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "informe-2024-direccion-de-memoria-historica-y-reparacion",
-          "source_url": "https://archive.org/details/informe-2024-direccion-de-memoria-historica-y-reparacion",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/informe-2024-direccion-de-memoria-historica-y-reparacion/Informe%20de%20Gestio%CC%81n%202024%20-%20Direccio%CC%81n%20de%20Memoria%20Histo%CC%81rica%20y%20Reparacio%CC%81n_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -82708,6 +82583,73 @@
       ]
     },
     {
+      "id": "work:fb366e1d695664fe5554e46a",
+      "title": "Jeans James, Historia De La Física, FCE",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Jeans James"
+      ],
+      "language": "es",
+      "year": 1900,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Física"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/jeans-james-historia-de-la-fisica-fce_202607",
+      "cover_url": "https://archive.org/services/img/jeans-james-historia-de-la-fisica-fce_202607",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "jeans-james-historia-de-la-fisica-fce_202607",
+        "internet_archive": "jeans-james-historia-de-la-fisica-fce_202607"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "jeans-james-historia-de-la-fisica-fce_202607",
+          "source_url": "https://archive.org/details/jeans-james-historia-de-la-fisica-fce_202607",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/jeans-james-historia-de-la-fisica-fce_202607/Jeans%20James%2C%20Historia%20de%20la%20f%C3%ADsica%2C%20FCE_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f6f8dcb400883b81434bea47",
       "title": "Jewish Refugees in Amsterdam",
       "subtitle": "\"Questions by a Christian Cleric from Rouen, France, and Answers by the Excellent, Eminent, and Wise Saul Levi Mortera\"",
@@ -82885,6 +82827,47 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:853c362997e503025b692fad",
+      "title": "Js Anime Day 1-1",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "AnimeDay"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "AnimeDay"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/js-anime-day-1",
+      "cover_url": "https://archive.org/services/img/js-anime-day-1",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "js-anime-day-1",
+        "internet_archive": "js-anime-day-1"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "js-anime-day-1",
+          "source_url": "https://archive.org/details/js-anime-day-1",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -87773,6 +87756,47 @@
       ]
     },
     {
+      "id": "work:4626e2476e58c966aaa34b7b",
+      "title": "Kodi trabaja para llegar a TvOS próximamente",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "kodi"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/isena-kodi-appletv",
+      "cover_url": "https://archive.org/services/img/isena-kodi-appletv",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "isena-kodi-appletv",
+        "internet_archive": "isena-kodi-appletv"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "isena-kodi-appletv",
+          "source_url": "https://archive.org/details/isena-kodi-appletv",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7050d0e760a0503180c87e9a",
       "title": "Kommunale Wohnungspolitik in Zeiten der Krise",
       "subtitle": "Konflikte um Gestaltungsmacht in Tübingen, Frankfurt am Main und Dresden",
@@ -88522,6 +88546,74 @@
       ]
     },
     {
+      "id": "work:62b8c01749a39b3f5372cc1f",
+      "title": "La catedral de Barcelona",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Feliu Elías"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Catedral de Barcelona",
+        "Urbanismo-Barcelona-Historia"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/la-catedral-de-barcelona",
+      "cover_url": "https://archive.org/services/img/la-catedral-de-barcelona",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "la-catedral-de-barcelona",
+        "internet_archive": "la-catedral-de-barcelona"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "la-catedral-de-barcelona",
+          "source_url": "https://archive.org/details/la-catedral-de-barcelona",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/la-catedral-de-barcelona/La%20catedral%20de%20Barcelona_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7ff560399c241cc74e39d3e3",
       "title": "La charca del diablo",
       "subtitle": "",
@@ -88840,46 +88932,34 @@
       ]
     },
     {
-      "id": "work:b041605084d684d4927a9544",
-      "title": "La Libertad: Organo de la Sociedad de Agricultores",
+      "id": "work:3496eba4703fcf57200d088c",
+      "title": "La magica blanca descubierta o El demostrador de física y matemáticas declarado un simple jugador de manos",
       "subtitle": "",
       "description": "",
-      "authors": [
-        "Biblioteca-Hemeroteca do Ateneo Ferrolán"
-      ],
+      "authors": [],
       "language": "es",
-      "year": 1924,
+      "year": 2020,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Serantes",
-        "Ferrol",
-        "prensa histórica",
-        "historical press",
-        "bibliographic heritage",
-        "local history",
-        "historia local",
-        "patrimonio bibliográfico",
-        "Agricultores",
-        "farmers",
-        "Alfonso Castro Barrós"
+        "Magia"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/la-libertad-serantes",
-      "cover_url": "https://archive.org/services/img/la-libertad-serantes",
+      "source_url": "https://archive.org/details/la-magica-blanca-descubierta-o-el-demostrador-de-fisica",
+      "cover_url": "https://archive.org/services/img/la-magica-blanca-descubierta-o-el-demostrador-de-fisica",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/la-libertad-serantes/19240330.pdf"
+          "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica.pdf"
         },
         {
           "type": "html",
-          "url": "https://archive.org/download/la-libertad-serantes/19240330_hocr.html"
+          "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/la-libertad-serantes/19240330_djvu.txt"
+          "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -88887,27 +88967,27 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "la-libertad-serantes",
-        "internet_archive": "la-libertad-serantes"
+        "source_id": "la-magica-blanca-descubierta-o-el-demostrador-de-fisica",
+        "internet_archive": "la-magica-blanca-descubierta-o-el-demostrador-de-fisica"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "la-libertad-serantes",
-          "source_url": "https://archive.org/details/la-libertad-serantes",
+          "source_id": "la-magica-blanca-descubierta-o-el-demostrador-de-fisica",
+          "source_url": "https://archive.org/details/la-magica-blanca-descubierta-o-el-demostrador-de-fisica",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/la-libertad-serantes/19240330.pdf"
+              "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica.pdf"
             },
             {
               "type": "html",
-              "url": "https://archive.org/download/la-libertad-serantes/19240330_hocr.html"
+              "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/la-libertad-serantes/19240330_djvu.txt"
+              "url": "https://archive.org/download/la-magica-blanca-descubierta-o-el-demostrador-de-fisica/La%20magica%20blanca%20descubierta%20o%20El%20demostrador%20de%20f%C3%ADsica_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -89013,6 +89093,75 @@
           ],
           "access": "creative_commons",
           "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:0d8481297057420de2717a29",
+      "title": "La Ortografía. Las Reglas Ortográficas",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Universidad de El Salvador"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Lenguaje",
+        "Literatura",
+        "El Salvador"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf",
+      "cover_url": "https://archive.org/services/img/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf",
+        "internet_archive": "material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf",
+          "source_url": "https://archive.org/details/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/material-semana-22-de-lenguaje-y-literatura-la-ortografia.-las-reglas-ortograficas-version-pdf/Material%20semana%2022%20de%20%5BLenguaje%20y%20literatura%5D%20%5BLa%20ortograf%C3%ADa.%20Las%20reglas%20ortogr%C3%A1ficas%5D%20versi%C3%B3n%20pdf_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
           "verified_legal": true
         }
       ]
@@ -91554,47 +91703,6 @@
       ]
     },
     {
-      "id": "work:a12f40bc06c59f9a907e495e",
-      "title": "lechonera-programa-03-31-2024",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Lechon Atomico"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "La Nueva Lechonera del Rock"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/lechonera-programa-03-31-2024",
-      "cover_url": "https://archive.org/services/img/lechonera-programa-03-31-2024",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "lechonera-programa-03-31-2024",
-        "internet_archive": "lechonera-programa-03-31-2024"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "lechonera-programa-03-31-2024",
-          "source_url": "https://archive.org/details/lechonera-programa-03-31-2024",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4c9d1b2b49438c89813513ef",
       "title": "Legal Services and the European Convention on Human Rights",
       "subtitle": "Securing Private Rights and Public Interests",
@@ -92604,6 +92712,140 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:359b78deebfd9e2b8fe0961d",
+      "title": "Libro de la monteria que mando escrevir el muy alto y muy poderoso Rey Don Alonso de Castilla y de Leon, vltimo de este nombre / acrecentado por Gonçalo Argote de Molina ...",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Alfonso XI, Rey de Castilla"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Caza-Tratados manuales etc"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons",
+      "cover_url": "https://archive.org/services/img/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons",
+        "internet_archive": "libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons",
+          "source_url": "https://archive.org/details/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/libro-de-la-monteria-que-mando-escrevir-el-muy-alto-y-muy-poderoso-rey-don-alons/Libro%20de%20la%20monteria%20que%20mando%20escrevir%20el%20muy%20alto%20y%20muy%20poderoso%20Rey%20Don%20Alonso%20de%20Castilla%20y%20de%20Leon_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8c949a38abff3abd80473b91",
+      "title": "Libro de los daños qve resvltan del ivego...",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Adrián de Castro"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Juego"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/libro-de-los-danos-qve-resvltan-del-ivego...",
+      "cover_url": "https://archive.org/services/img/libro-de-los-danos-qve-resvltan-del-ivego...",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego....pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego..._hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego..._djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "libro-de-los-danos-qve-resvltan-del-ivego...",
+        "internet_archive": "libro-de-los-danos-qve-resvltan-del-ivego..."
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "libro-de-los-danos-qve-resvltan-del-ivego...",
+          "source_url": "https://archive.org/details/libro-de-los-danos-qve-resvltan-del-ivego...",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego....pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego..._hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/libro-de-los-danos-qve-resvltan-del-ivego.../Libro%20de%20los%20da%C3%B1os%20qve%20resvltan%20del%20ivego..._djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -98351,47 +98593,6 @@
       ]
     },
     {
-      "id": "work:dda3ffc1e51a09532e134599",
-      "title": "MANUAL BASICO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ana Guadalupe; Paulina Álvarez; Quiñonez Deiker; Cedeño Diana; Moreira Leonela; Vicente Sandra; Crespo Josué; Medranda Betsi; Gaibor Mayra; Barreiro Maricarmen & Duchiranga Loida"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "manual para presentar una demanda"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/manual-basico",
-      "cover_url": "https://archive.org/services/img/manual-basico",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "manual-basico",
-        "internet_archive": "manual-basico"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "manual-basico",
-          "source_url": "https://archive.org/details/manual-basico",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:98c652b2ad17cf753a6e51c0",
       "title": "Manual de AngularJS",
       "subtitle": "",
@@ -98830,73 +99031,6 @@
       ]
     },
     {
-      "id": "work:a56c5e5abafea86085b79de8",
-      "title": "Manual del cosechero de vinos ó nuevo método de hacer el vino más fuerte e licoroso, y de mayor duración",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "José María de Nieva"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Vinos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor",
-      "cover_url": "https://archive.org/services/img/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor",
-        "internet_archive": "manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor",
-          "source_url": "https://archive.org/details/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/manual-del-cosechero-de-vinos-o-nuevo-metodo-de-hacer-el-vino-mas-fuerte-e-licor/Manual%20del%20cosechero%20de%20vinos%20%C3%B3%20nuevo%20m%C3%A9todo%20de%20hacer%20el%20vino%20m%C3%A1s%20fuerte%20e%20licoroso%2C%20y%20de%20mayor%20duraci%C3%B3n_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:7ba7dcef7ef5a5789c7b1c08",
       "title": "Marching cubes: A high resolution 3D surface construction algorithm",
       "subtitle": "",
@@ -99190,73 +99324,6 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
-        }
-      ]
-    },
-    {
-      "id": "work:b4c24769ac671755679930a9",
-      "title": "Material Marcas Carpeta Editable",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "MARCA B"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "JB marcas comerciales"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/material-marcas-editable-carpeta",
-      "cover_url": "https://archive.org/services/img/material-marcas-editable-carpeta",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Caja%20Levoflash%20x%2010%20ca%CC%81p/Caja%20LevoFlash%20x%2010%20Ca%CC%81p.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Caja%20Levoflash%20x%2010%20ca%CC%81p/Caja%20LevoFlash%20x%2010%20Ca%CC%81p_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Arte%20Levoflash_Editable_Carpeta/Arte%20Levoflash_Editable%20Informe.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "material-marcas-editable-carpeta",
-        "internet_archive": "material-marcas-editable-carpeta"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "material-marcas-editable-carpeta",
-          "source_url": "https://archive.org/details/material-marcas-editable-carpeta",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Caja%20Levoflash%20x%2010%20ca%CC%81p/Caja%20LevoFlash%20x%2010%20Ca%CC%81p.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Caja%20Levoflash%20x%2010%20ca%CC%81p/Caja%20LevoFlash%20x%2010%20Ca%CC%81p_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/material-marcas-editable-carpeta/Material%20editable%20JB/LevoFlash/Material%20Levoflash%202/Arte%20Levoflash_Editable_Carpeta/Arte%20Levoflash_Editable%20Informe.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
         }
       ]
     },
@@ -102930,60 +102997,6 @@
       ]
     },
     {
-      "id": "work:3a88057b72f93addee342d7d",
-      "title": "Misiones sin nuevos casos de coronavirus según el parte epidemiológico de este sábado",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Misiones Online"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "estadística",
-        "casos",
-        "misiones",
-        "covid-19"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s",
-      "cover_url": "https://archive.org/services/img/misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s/Misiones%20sin%20nuevos%20casos%20de%20coronavirus%20seg%C3%BAn%20el%20parte%20epidemiol%C3%B3gico%20de%20este%20s%C3%A1bado%20-%20MisionesOnline.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s",
-        "internet_archive": "misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s",
-          "source_url": "https://archive.org/details/misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/misiones-sin-nuevos-casos-de-coronavirus-segun-el-parte-epidemiologico-de-este-s/Misiones%20sin%20nuevos%20casos%20de%20coronavirus%20seg%C3%BAn%20el%20parte%20epidemiol%C3%B3gico%20de%20este%20s%C3%A1bado%20-%20MisionesOnline.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:fe4d3fb5f484f73aacfd39c8",
       "title": "Missing Evidence in the Study of Ancient Cultures",
       "subtitle": "Methodological Reflections and Case Studies on Fragmentary Sources",
@@ -104836,6 +104849,73 @@
           "formats": [],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:d2ed2d24510ccd8277dcdbae",
+      "title": "Mundo Berre 1",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Las Burdas Copias"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Las Burdas Copias"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/mundo-berre-1",
+      "cover_url": "https://archive.org/services/img/mundo-berre-1",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "mundo-berre-1",
+        "internet_archive": "mundo-berre-1"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "mundo-berre-1",
+          "source_url": "https://archive.org/details/mundo-berre-1",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/mundo-berre-1/Mundo%20Berre%201_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -110619,47 +110699,6 @@
       ]
     },
     {
-      "id": "work:817e95e92097a97537083272",
-      "title": "Oficio Segunda Remesa 2019 PEDZE",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gobierno Regional de Arica y Parinacota"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "PEDZE 2019"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
-      "cover_url": "https://archive.org/services/img/oficiosegundaremesa2019pedze",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "oficiosegundaremesa2019pedze",
-        "internet_archive": "oficiosegundaremesa2019pedze"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "oficiosegundaremesa2019pedze",
-          "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3c4fc87d3b7a59cf935b6836",
       "title": "Oliver Twist, Vol. 2 (of 3)",
       "subtitle": "",
@@ -112105,8 +112144,8 @@
       ]
     },
     {
-      "id": "work:a792ebd003dc0875e7b8e814",
-      "title": "Origen, progresos y estado actual del sistema representativo en las naciones europeas",
+      "id": "work:b0bdabedbb96d4e35518da3a",
+      "title": "Origen del liberalismo europeo",
       "subtitle": "",
       "description": "",
       "authors": [
@@ -112119,23 +112158,24 @@
       "doi": "",
       "subjects": [
         "Historia contemporánea",
-        "Política"
+        "Política",
+        "Liberalismo"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-      "cover_url": "https://archive.org/services/img/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
+      "source_url": "https://archive.org/details/origen-del-liberalismo-europeo",
+      "cover_url": "https://archive.org/services/img/origen-del-liberalismo-europeo",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas.pdf"
+          "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo.pdf"
         },
         {
           "type": "html",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_hocr.html"
+          "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_djvu.txt"
+          "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -112143,27 +112183,27 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-        "internet_archive": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas"
+        "source_id": "origen-del-liberalismo-europeo",
+        "internet_archive": "origen-del-liberalismo-europeo"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
-          "source_url": "https://archive.org/details/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas",
+          "source_id": "origen-del-liberalismo-europeo",
+          "source_url": "https://archive.org/details/origen-del-liberalismo-europeo",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas.pdf"
+              "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo.pdf"
             },
             {
               "type": "html",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_hocr.html"
+              "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/origen-progresos-y-estado-actual-del-sistema-representativo-en-las-naciones-europeas/Origen%2C%20progresos%20y%20estado%20actual%20del%20sistema%20representativo%20en%20las%20naciones%20europeas_djvu.txt"
+              "url": "https://archive.org/download/origen-del-liberalismo-europeo/Origen%20del%20liberalismo%20europeo_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -117853,54 +117893,84 @@
       ]
     },
     {
-      "id": "work:c82e769693182c5ca811b6fc",
-      "title": "POESIA DE JORGE RAMIREZ JAR",
+      "id": "work:6c6d07b7f73cfcd2c92dcbbd",
+      "title": "Poema XX - Cucharadas De Arte",
       "subtitle": "",
       "description": "",
-      "authors": [],
+      "authors": [
+        "Bryan Joel Contreras Calero"
+      ],
       "language": "es",
-      "year": null,
+      "year": 2025,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "argentina",
-        "texto",
-        "escritor",
-        "poesia",
-        "cuento"
+        "libro infantil",
+        "poesía para niños",
+        "Pablo Neruda",
+        "Poema XX",
+        "arte para niños",
+        "poesía adaptada",
+        "literatura infantil",
+        "educación cultural",
+        "Cucharadas de arte",
+        "Cucharadas de cultura",
+        "poesía visual",
+        "poemas ilustrados",
+        "children's poetry",
+        "children's book",
+        "visual poetry",
+        "Latin American poetry",
+        "Spanish literature"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/mardelcobo_gmail_Jar_201902",
-      "cover_url": "https://archive.org/services/img/mardelcobo_gmail_Jar_201902",
+      "source_url": "https://archive.org/details/poema-xx-cucharadas-de-arte_202506",
+      "cover_url": "https://archive.org/services/img/poema-xx-cucharadas-de-arte_202506",
       "formats": [
         {
+          "type": "pdf",
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_hocr.html"
+        },
+        {
           "type": "text",
-          "url": "https://archive.org/download/mardelcobo_gmail_Jar_201902/jar.txt"
+          "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_djvu.txt"
         }
       ],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "mardelcobo_gmail_Jar_201902",
-        "internet_archive": "mardelcobo_gmail_Jar_201902"
+        "source_id": "poema-xx-cucharadas-de-arte_202506",
+        "internet_archive": "poema-xx-cucharadas-de-arte_202506"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "mardelcobo_gmail_Jar_201902",
-          "source_url": "https://archive.org/details/mardelcobo_gmail_Jar_201902",
+          "source_id": "poema-xx-cucharadas-de-arte_202506",
+          "source_url": "https://archive.org/details/poema-xx-cucharadas-de-arte_202506",
           "language": "es",
           "formats": [
             {
+              "type": "pdf",
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_hocr.html"
+            },
+            {
               "type": "text",
-              "url": "https://archive.org/download/mardelcobo_gmail_Jar_201902/jar.txt"
+              "url": "https://archive.org/download/poema-xx-cucharadas-de-arte_202506/Poema%20XX%20-%20Cucharadas%20de%20arte_djvu.txt"
             }
           ],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -123629,6 +123699,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:9016cb2d02ca833f3113dc7f",
+      "title": "Propuesta De Acción En Formación Docente",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Karina Alejandra Mallamaci"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "formación docente AMBA"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
+      "cover_url": "https://archive.org/services/img/propuesta-de-accion-en-formacion-docente",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "propuesta-de-accion-en-formacion-docente",
+        "internet_archive": "propuesta-de-accion-en-formacion-docente"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "propuesta-de-accion-en-formacion-docente",
+          "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -129639,6 +129750,47 @@
       ]
     },
     {
+      "id": "work:a27926b460af146ed3c53718",
+      "title": "REVISTA LITERARIA ACUARELA 20251203 214903 0000",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Colectivo Cultural Atelier"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Revista Acuarela Colectivo Cultural Atelier"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/revista-literaria-acuarela-20251203-214903-0000",
+      "cover_url": "https://archive.org/services/img/revista-literaria-acuarela-20251203-214903-0000",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "revista-literaria-acuarela-20251203-214903-0000",
+        "internet_archive": "revista-literaria-acuarela-20251203-214903-0000"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "revista-literaria-acuarela-20251203-214903-0000",
+          "source_url": "https://archive.org/details/revista-literaria-acuarela-20251203-214903-0000",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:b4aa71b373da5753061021bf",
       "title": "Revista Paradoxa 12",
       "subtitle": "",
@@ -129677,54 +129829,6 @@
           "formats": [],
           "access": "creative_commons",
           "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:2c323a5e1b8355f12e141880",
-      "title": "Revista Temas Nicaraguenses 07noviembre 2008",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Editor General: José Mejía Lacayo. Subdirectora: Lilly Soto Vásquez"
-      ],
-      "language": "es",
-      "year": 2008,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ciencias Naturales",
-        "Geografía",
-        "Antropología",
-        "Ensayos",
-        "Historia",
-        "Historia de las mentalidades",
-        "Derecho",
-        "Universales"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/httpswww.temasnicas.net_20230419_0015",
-      "cover_url": "https://archive.org/services/img/httpswww.temasnicas.net_20230419_0015",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "httpswww.temasnicas.net_20230419_0015",
-        "internet_archive": "httpswww.temasnicas.net_20230419_0015"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "httpswww.temasnicas.net_20230419_0015",
-          "source_url": "https://archive.org/details/httpswww.temasnicas.net_20230419_0015",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -143381,81 +143485,6 @@
       ]
     },
     {
-      "id": "work:0cb2f565b0f6cf7afdfa8461",
-      "title": "Strauss, Leo. Derecho Natural E Historia [ocr] [2014]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Leo Strauss"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "filosofía del derecho"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/strauss-leo.-derecho-natural-e-historia-ocr-2014",
-      "cover_url": "https://archive.org/services/img/strauss-leo.-derecho-natural-e-historia-ocr-2014",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "strauss-leo.-derecho-natural-e-historia-ocr-2014",
-        "internet_archive": "strauss-leo.-derecho-natural-e-historia-ocr-2014"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "strauss-leo.-derecho-natural-e-historia-ocr-2014",
-          "source_url": "https://archive.org/details/strauss-leo.-derecho-natural-e-historia-ocr-2014",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/strauss-leo.-derecho-natural-e-historia-ocr-2014/Strauss%2C%20Leo.%20-%20Derecho%20natural%20e%20historia%20%5Bocr%5D%20%5B2014%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:d01a3e2f5e32b8f6f658b9ed",
       "title": "Stringfellow Acid Pits",
       "subtitle": "The Toxic and Legal Legacy",
@@ -146536,6 +146565,77 @@
       ]
     },
     {
+      "id": "work:5d0a790f04358a3dc516f4cd",
+      "title": "Teología Familiar Junto Con Otros Diversos Pequeños Tratados De Devoción",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Jean Duvergier de Hauranne (Abad de Saint-Cyran)"
+      ],
+      "language": "es",
+      "year": 1693,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Jansenismo",
+        "Catolicismo",
+        "Catecismo",
+        "Liturgia",
+        "Devoción"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion",
+      "cover_url": "https://archive.org/services/img/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion",
+        "internet_archive": "teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion",
+          "source_url": "https://archive.org/details/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/teologia-familiar-junto-con-otros-diversos-pequenos-tratados-de-devocion/Teolog%C3%ADa%20familiar%20junto%20con%20otros%20diversos%20peque%C3%B1os%20tratados%20de%20devoci%C3%B3n_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:70a41b1a2102ef0d21917fbb",
       "title": "Teoría avanzada de estructuras estáticamente determinadas",
       "subtitle": "",
@@ -146651,39 +146751,47 @@
       ]
     },
     {
-      "id": "work:a91c49fa6a3aed5b4e12c512",
-      "title": "Teoria é historia de las Bellas Artes : principios fundamentales",
+      "id": "work:a92da533f22be6e6f3374c0d",
+      "title": "Teoría de la Información Consciente (TIC): Geometría D8, Ángulos Maestros y Frecuencias Maestras TIC",
       "subtitle": "",
       "description": "",
       "authors": [
-        "José de Manjarrés"
+        "Rodrigo Sebastián Núñez"
       ],
       "language": "es",
-      "year": 2020,
+      "year": 2026,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Historia Moderna",
-        "Historia Contemporánea",
-        "Arte Mexicano-Historia",
-        "Europa-España"
+        "TIC",
+        "Teoría de la Información Consciente",
+        "Rodrigo Sebastián Núñez Aráoz",
+        "Matrix Consciente",
+        "Geometría D8",
+        "Constante Aráoz",
+        "Ángulo Maestro 135",
+        "E+3",
+        "Masa Informacional",
+        "Cronoingeniería",
+        "Salto Multiversal",
+        "Aráoz Chronoengineering."
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/teoria-e-historia-de-las-bellas-artes",
-      "cover_url": "https://archive.org/services/img/teoria-e-historia-de-las-bellas-artes",
+      "source_url": "https://archive.org/details/matrix-ara-oz",
+      "cover_url": "https://archive.org/services/img/matrix-ara-oz",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes.pdf"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20.pdf"
         },
         {
           "type": "html",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_hocr.html"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_djvu.txt"
+          "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -146691,27 +146799,27 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "teoria-e-historia-de-las-bellas-artes",
-        "internet_archive": "teoria-e-historia-de-las-bellas-artes"
+        "source_id": "matrix-ara-oz",
+        "internet_archive": "matrix-ara-oz"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "teoria-e-historia-de-las-bellas-artes",
-          "source_url": "https://archive.org/details/teoria-e-historia-de-las-bellas-artes",
+          "source_id": "matrix-ara-oz",
+          "source_url": "https://archive.org/details/matrix-ara-oz",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes.pdf"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20.pdf"
             },
             {
               "type": "html",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_hocr.html"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/teoria-e-historia-de-las-bellas-artes/Teoria%20%C3%A9%20historia%20de%20las%20Bellas%20Artes_djvu.txt"
+              "url": "https://archive.org/download/matrix-ara-oz/MATRIX%20AR%C3%81OZ%20_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -188306,47 +188414,6 @@
       ]
     },
     {
-      "id": "work:3cce39b0be2aa8b9e6eb76c5",
-      "title": "Valledupar Tic",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Mauren Ardila"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Biblioteca-tic"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ValleduparTic",
-      "cover_url": "https://archive.org/services/img/ValleduparTic",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ValleduparTic",
-        "internet_archive": "ValleduparTic"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ValleduparTic",
-          "source_url": "https://archive.org/details/ValleduparTic",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:9b56bc6efe97fe3af9192669",
       "title": "Value Struggles",
       "subtitle": "Looking at Capitalism through the Wine Glass",
@@ -189788,6 +189855,86 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:38ae2e7260d5795512347a97",
+      "title": "Voces Del Lacio",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Emmanuel Virasoro Teicher"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Roma",
+        "Oblidio",
+        "Antigüedad",
+        "Poesía",
+        "ficción",
+        "Diario",
+        "Notas",
+        "Ensayo",
+        "Horacio",
+        "Virgilio",
+        "Lucrecio",
+        "Ovidio",
+        "Cicerón",
+        "Epicuro."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/voces-del-lacio",
+      "cover_url": "https://archive.org/services/img/voces-del-lacio",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "voces-del-lacio",
+        "internet_archive": "voces-del-lacio"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "voces-del-lacio",
+          "source_url": "https://archive.org/details/voces-del-lacio",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/voces-del-lacio/Voces%20Del%20Lacio_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -192166,48 +192313,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:8a7d5a446f526834251905ec",
-      "title": "Wiki - Enciclopedia Libre",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "MediaWiki",
-        "wiki",
-        "wikiteam",
-        "TuxFamily"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
-      "cover_url": "https://archive.org/services/img/wiki-enciclopediatuxfamilyorg",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "wiki-enciclopediatuxfamilyorg",
-        "internet_archive": "wiki-enciclopediatuxfamilyorg"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "wiki-enciclopediatuxfamilyorg",
-          "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
