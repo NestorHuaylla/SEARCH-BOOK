@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T12:08:34.204466Z",
+  "generated_at": "2026-10-09T12:00:09.949312Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -590,65 +590,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:c8b38812523014a9377b9683",
-      "title": "21 Revistas a todo color de la biblia",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "MilagroKreativo"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Revistas a todo color de historias de la biblia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/revistasatodocolordelabibliaMilagroKreativo2018.pdf",
-      "cover_url": "https://archive.org/services/img/revistasatodocolordelabibliaMilagroKreativo2018.pdf",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/revistasatodocolordelabibliaMilagroKreativo2018.pdf/De%20abraham%20a%20jacvob%20-%20Historias%20de%20la%20biblia%20a%20todo%20color%20-%20MilagroKreativo.pdf.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/revistasatodocolordelabibliaMilagroKreativo2018.pdf/De%20abraham%20a%20jacvob%20-%20Historias%20de%20la%20biblia%20a%20todo%20color%20-%20MilagroKreativo.pdf_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "revistasatodocolordelabibliaMilagroKreativo2018.pdf",
-        "internet_archive": "revistasatodocolordelabibliaMilagroKreativo2018.pdf"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "revistasatodocolordelabibliaMilagroKreativo2018.pdf",
-          "source_url": "https://archive.org/details/revistasatodocolordelabibliaMilagroKreativo2018.pdf",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/revistasatodocolordelabibliaMilagroKreativo2018.pdf/De%20abraham%20a%20jacvob%20-%20Historias%20de%20la%20biblia%20a%20todo%20color%20-%20MilagroKreativo.pdf.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/revistasatodocolordelabibliaMilagroKreativo2018.pdf/De%20abraham%20a%20jacvob%20-%20Historias%20de%20la%20biblia%20a%20todo%20color%20-%20MilagroKreativo.pdf_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -9353,6 +9294,51 @@
               "url": "https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1731022.1731032&file=a22-rao.pdf"
             }
           ],
+          "access": "open_access",
+          "license": "Open Access; license not reported by OpenAlex",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:32a2634b28d0e7e79755f9b6",
+      "title": "Algorithm appreciation: People prefer algorithmic to human judgment",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Jennifer Marie Logg",
+        "Julia Alexandra Minson",
+        "Don A. Moore"
+      ],
+      "language": "en",
+      "year": 2019,
+      "publisher": "SSRN Electronic Journal",
+      "isbn": [],
+      "doi": "10.1016/j.obhdp.2018.12.005",
+      "subjects": [
+        "Decision-Making and Behavioral Economics",
+        "Human-Automation Interaction and Safety",
+        "Forecasting Techniques and Applications"
+      ],
+      "source": "OpenAlex",
+      "source_url": "https://doi.org/10.2139/ssrn.2941774",
+      "cover_url": "",
+      "formats": [],
+      "access": "open_access",
+      "license": "Open Access; license not reported by OpenAlex",
+      "verified_legal": true,
+      "resource_type": "article",
+      "identifiers": {
+        "source_id": "W2800068874",
+        "openalex_id": "W2800068874"
+      },
+      "providers": [
+        {
+          "source": "OpenAlex",
+          "source_id": "W2800068874",
+          "source_url": "https://doi.org/10.2139/ssrn.2941774",
+          "language": "en",
+          "formats": [],
           "access": "open_access",
           "license": "Open Access; license not reported by OpenAlex",
           "verified_legal": true
@@ -35804,71 +35790,6 @@
       ]
     },
     {
-      "id": "work:fe425460fb8d1f9c82f4ee1c",
-      "title": "Cristo No Era Revolucionario",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Luis Gonzaga Palomar Morán"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "cristo",
-        "revolución",
-        "homilías",
-        "tradición",
-        "modernismo",
-        "sacerdotes progresistas",
-        "sacerdotes marxistas"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cristo-no-era-revolucionario",
-      "cover_url": "https://archive.org/services/img/cristo-no-era-revolucionario",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cristo-no-era-revolucionario",
-        "internet_archive": "cristo-no-era-revolucionario"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cristo-no-era-revolucionario",
-          "source_url": "https://archive.org/details/cristo-no-era-revolucionario",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:006c58efb3dec7583aa5a4db",
       "title": "Critical Perspectives on AI, Digitalisation, and Human-Centred Learning",
       "subtitle": "Towards Reclaiming Digital Education Futures",
@@ -42583,6 +42504,75 @@
       ]
     },
     {
+      "id": "work:61a54a678d2192c1d7caf54d",
+      "title": "Diario de soldado Tomo 2",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Valdés Domínguez, Fermín, 1852-1910"
+      ],
+      "language": "es",
+      "year": 1973,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuba",
+        "Historia",
+        "Guerra de independencia 1895-1898"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/FerminVDominguezDiarioDeSoldadoT2",
+      "cover_url": "https://archive.org/services/img/FerminVDominguezDiarioDeSoldadoT2",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202.epub"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "FerminVDominguezDiarioDeSoldadoT2",
+        "internet_archive": "FerminVDominguezDiarioDeSoldadoT2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "FerminVDominguezDiarioDeSoldadoT2",
+          "source_url": "https://archive.org/details/FerminVDominguezDiarioDeSoldadoT2",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202.epub"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/FerminVDominguezDiarioDeSoldadoT2/Fermin%20V%20Dominguez%20-%20Diario%20de%20soldado%20t%202_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:064fe825f8273a4d02a2895d",
       "title": "Diaspora Governance in Practice",
       "subtitle": "Tamil Diaspora Mobilization, Global Governance and Power in an Entangled World",
@@ -42819,6 +42809,84 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
+        }
+      ]
+    },
+    {
+      "id": "work:203cbdc1dda233cf85e6fc7d",
+      "title": "Diccionario: Rockercho",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Piemsito"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Artículo",
+        "Artículos",
+        "Diccionario",
+        "Dictionary",
+        "Concept",
+        "Conceptos",
+        "Rockerboy",
+        "Chrome",
+        "Cyberpunk 2020",
+        "Cyberpunk RED",
+        "Post-politics",
+        "Post-política"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho",
+      "cover_url": "https://archive.org/services/img/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho",
+        "internet_archive": "tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho",
+          "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho/tuscriaturas-miraheze-org-wiki-Diccionario_Rockercho_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
         }
       ]
     },
@@ -46556,49 +46624,6 @@
       ]
     },
     {
-      "id": "work:bc660dbd084a3b682cf73173",
-      "title": "Documentos Silvana i a 11",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Archivo Diego Catalán"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Diego Catalán",
-        "Romancero",
-        "Silvana"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/silvana-i-a-11",
-      "cover_url": "https://archive.org/services/img/silvana-i-a-11",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "silvana-i-a-11",
-        "internet_archive": "silvana-i-a-11"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "silvana-i-a-11",
-          "source_url": "https://archive.org/details/silvana-i-a-11",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:b57271300e6697e5d77ddece",
       "title": "Does God play dice?",
       "subtitle": "",
@@ -49551,79 +49576,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6f0db70c6c26d88a77846ea9",
-      "title": "Ejemplar del Diario de Burgos del día 14 de febrero de 1918",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Diario de Burgos"
-      ],
-      "language": "es",
-      "year": 1918,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Newspaper",
-        "Newspapers",
-        "Periódico",
-        "Periódicos",
-        "Spain",
-        "España",
-        "1910s"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918.",
-      "cover_url": "https://archive.org/services/img/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918.",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918.",
-        "internet_archive": "ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918."
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918.",
-          "source_url": "https://archive.org/details/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918.",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/ejemplar-del-diario-de-burgos-del-dia-14-de-febrero-de-1918./14_id200171_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -55734,6 +55686,750 @@
           "formats": [],
           "access": "creative_commons",
           "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:3812dc48dfcb945c37114c34",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 020 1879",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1879,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol020-1879",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol020-1879",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol020-1879/Indice_y_LibroVol020-1879.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol020-1879/Indice_y_LibroVol020-1879_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol020-1879",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol020-1879"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol020-1879",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol020-1879",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol020-1879/Indice_y_LibroVol020-1879.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol020-1879/Indice_y_LibroVol020-1879_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:3f4a6758a8213e51b6ef95d4",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 051 1894",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1894,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol051-1894",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol051-1894",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol051-1894/Indice_y_LibroVol051-1894.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol051-1894/Indice_y_LibroVol051-1894_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol051-1894",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol051-1894"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol051-1894",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol051-1894",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol051-1894/Indice_y_LibroVol051-1894.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol051-1894/Indice_y_LibroVol051-1894_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:4ff729b8c224c57b0c25f91f",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 059 1896",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1896,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol059-1896",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol059-1896",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol059-1896/Indice_y_LibroVol059-1896.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol059-1896/Indice_y_LibroVol059-1896_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol059-1896",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol059-1896"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol059-1896",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol059-1896",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol059-1896/Indice_y_LibroVol059-1896.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol059-1896/Indice_y_LibroVol059-1896_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:1f66d673519cc3fa5bdace90",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 065 1897",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1897,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol065-1897",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol065-1897",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol065-1897/Indice_y_LibroVol065-1897.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol065-1897/Indice_y_LibroVol065-1897_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol065-1897",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol065-1897"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol065-1897",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol065-1897",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol065-1897/Indice_y_LibroVol065-1897.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol065-1897/Indice_y_LibroVol065-1897_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:1b3285786f6e8ff50a165453",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 070 1899",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1899,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol070-1899",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol070-1899",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol070-1899/Indice_y_LibroVol070-1899.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol070-1899/Indice_y_LibroVol070-1899_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol070-1899",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol070-1899"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol070-1899",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol070-1899",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol070-1899/Indice_y_LibroVol070-1899.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol070-1899/Indice_y_LibroVol070-1899_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f59d920d8d19ccc70b4a5564",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 073 1899",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1899,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol073-1899",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol073-1899",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol073-1899/Indice_y_LibroVol073-1899.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol073-1899/Indice_y_LibroVol073-1899_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol073-1899",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol073-1899"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol073-1899",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol073-1899",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol073-1899/Indice_y_LibroVol073-1899.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol073-1899/Indice_y_LibroVol073-1899_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f42daa4932516522254968be",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 115 1912",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1912,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol115-1912",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol115-1912",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol115-1912/Indice_y_LibroVol115-1912.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol115-1912/Indice_y_LibroVol115-1912_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol115-1912",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol115-1912"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol115-1912",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol115-1912",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol115-1912/Indice_y_LibroVol115-1912.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol115-1912/Indice_y_LibroVol115-1912_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:7ee8a599000868ff223b26a9",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 142 1925",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1925,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol142-1925",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol142-1925",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol142-1925/Indice_y_LibroVol142-1925.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol142-1925/Indice_y_LibroVol142-1925_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol142-1925",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol142-1925"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol142-1925",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol142-1925",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol142-1925/Indice_y_LibroVol142-1925.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol142-1925/Indice_y_LibroVol142-1925_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:730a7a6c612cdee201167d9d",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 200 1944",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1944,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol200-1944",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol200-1944",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol200-1944/Indice_y_LibroVol200-1944.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol200-1944/Indice_y_LibroVol200-1944_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol200-1944",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol200-1944"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol200-1944",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol200-1944",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol200-1944/Indice_y_LibroVol200-1944.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol200-1944/Indice_y_LibroVol200-1944_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b095385c5de538b7ee11c059",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 259 1964",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1964,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol259-1964",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol259-1964",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol259-1964/Indice_y_LibroVol259-1964.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol259-1964/Indice_y_LibroVol259-1964_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol259-1964",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol259-1964"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol259-1964",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol259-1964",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol259-1964/Indice_y_LibroVol259-1964.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol259-1964/Indice_y_LibroVol259-1964_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:7d8f7389184a65113695a277",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 269 1967",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1967,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol269-1967",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol269-1967",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol269-1967/Indice_y_LibroVol269-1967.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol269-1967/Indice_y_LibroVol269-1967_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol269-1967",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol269-1967"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol269-1967",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol269-1967",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol269-1967/Indice_y_LibroVol269-1967.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol269-1967/Indice_y_LibroVol269-1967_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:52c9653cdde9069e30250d3a",
+      "title": "Fallos de la Corte Suprema de Justicia de la Nación Argentina. Vol 302 1980",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Republica Argentina"
+      ],
+      "language": "es",
+      "year": 1980,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "fallos",
+        "corte suprema",
+        "argentina",
+        "supreme court"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol302-1980",
+      "cover_url": "https://archive.org/services/img/Fallos_Corte_Suprema_Argentina_Vol302-1980",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol302-1980/Indice_y_LibroVol302-1980.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol302-1980/Indice_y_LibroVol302-1980_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Fallos_Corte_Suprema_Argentina_Vol302-1980",
+        "internet_archive": "Fallos_Corte_Suprema_Argentina_Vol302-1980"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Fallos_Corte_Suprema_Argentina_Vol302-1980",
+          "source_url": "https://archive.org/details/Fallos_Corte_Suprema_Argentina_Vol302-1980",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol302-1980/Indice_y_LibroVol302-1980.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Fallos_Corte_Suprema_Argentina_Vol302-1980/Indice_y_LibroVol302-1980_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -70799,63 +71495,6 @@
       ]
     },
     {
-      "id": "work:2956236169a6dd4614d9cbb6",
-      "title": "Hippopotamus optimization algorithm: a novel nature-inspired optimization algorithm",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Mohammad Hussein Amiri",
-        "Nastaran Mehrabi Hashjin",
-        "Mohsen Montazeri",
-        "Seyedali Mirjalili",
-        "Nima Khodadadi"
-      ],
-      "language": "en",
-      "year": 2024,
-      "publisher": "Scientific Reports",
-      "isbn": [],
-      "doi": "10.1038/s41598-024-54910-3",
-      "subjects": [
-        "Metaheuristic Optimization Algorithms Research",
-        "Advanced Optimization Algorithms Research",
-        "Artificial Immune Systems Applications"
-      ],
-      "source": "OpenAlex",
-      "source_url": "https://doi.org/10.1038/s41598-024-54910-3",
-      "cover_url": "",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://www.nature.com/articles/s41598-024-54910-3.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "CC BY",
-      "verified_legal": true,
-      "resource_type": "article",
-      "identifiers": {
-        "source_id": "W4392298212",
-        "openalex_id": "W4392298212"
-      },
-      "providers": [
-        {
-          "source": "OpenAlex",
-          "source_id": "W4392298212",
-          "source_url": "https://doi.org/10.1038/s41598-024-54910-3",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://www.nature.com/articles/s41598-024-54910-3.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "CC BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:937b282570bbc0907cee3e19",
       "title": "His last bow : $b Some later reminiscences of Sherlock Holmes",
       "subtitle": "",
@@ -74055,47 +74694,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:7bb0a1cb0ead57d44acb30dc",
-      "title": "IMG 20150826 145906",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "monica lorena lopez"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "biblioteca"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IMG20150826145906",
-      "cover_url": "https://archive.org/services/img/IMG20150826145906",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IMG20150826145906",
-        "internet_archive": "IMG20150826145906"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IMG20150826145906",
-          "source_url": "https://archive.org/details/IMG20150826145906",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -88263,59 +88861,6 @@
       ]
     },
     {
-      "id": "work:99b03bb1e245723a07037a60",
-      "title": "La ventana donde miro",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Daniel Triunfo"
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "la",
-        "ventana",
-        "miro",
-        "internet",
-        "archive",
-        "daniel",
-        "triunfo",
-        "fotos",
-        "bajar",
-        "gratis",
-        "mirar",
-        "free",
-        "download"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Gmail1",
-      "cover_url": "https://archive.org/services/img/Gmail1",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Gmail1",
-        "internet_archive": "Gmail1"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Gmail1",
-          "source_url": "https://archive.org/details/Gmail1",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:28a0cdd2d2af5aad959ad5cb",
       "title": "Labor Migration Patterns in Saudi Arabia",
       "subtitle": "Assessing Challenges and Opportunities for Vision 2030",
@@ -97740,47 +98285,6 @@
       ]
     },
     {
-      "id": "work:217ec35ad3e6fc85a673ecba",
-      "title": "manual1-analytics",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Google Analytics"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Google Analytics"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/manual1-analytics",
-      "cover_url": "https://archive.org/services/img/manual1-analytics",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "manual1-analytics",
-        "internet_archive": "manual1-analytics"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "manual1-analytics",
-          "source_url": "https://archive.org/details/manual1-analytics",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:a1433be128c8ffdbdd57ca34",
       "title": "Marginalization and Marginal Groups in Byzantium",
       "subtitle": "Prostitutes, Actors, and Tavernkeepers",
@@ -104206,63 +104710,6 @@
       ]
     },
     {
-      "id": "work:355439927773881b2ed77296",
-      "title": "Nace La Nueva Comunidad De Fe",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Enséñanos tus caminos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NaceLaNuevaComunidadDeFe",
-      "cover_url": "https://archive.org/services/img/NaceLaNuevaComunidadDeFe",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NaceLaNuevaComunidadDeFe",
-        "internet_archive": "NaceLaNuevaComunidadDeFe"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NaceLaNuevaComunidadDeFe",
-          "source_url": "https://archive.org/details/NaceLaNuevaComunidadDeFe",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:477f4773a9aad24c8ffbfc86",
       "title": "Nach der Befreiung",
       "subtitle": "",
@@ -106079,1011 +106526,1011 @@
       ],
       "language": "und",
       "year": 1949,
-      "publisher": "National Academy",
+      "publisher": "De Arbeiderspers (by arrangement with Martin Secker & Warburg, London, and M & S Press, Mass.)",
       "isbn": [
-        "9781974272846",
-        "0151660387",
-        "9786051855592",
-        "1520557655",
-        "9780451518002",
-        "1980784655",
-        "9781522932376",
-        "0140009728",
-        "9798485159634",
-        "9780436350078",
-        "9798673723265",
-        "9781986607766",
-        "9787567504424",
-        "9786053034087",
-        "9751041872",
-        "9780140182347",
-        "9798604599389",
-        "9781299885851",
-        "9788423334704",
-        "9750530330",
-        "9780451518651",
-        "9798529341834",
-        "0435123572",
-        "9781500143794",
-        "9788481091885",
-        "9788702291872",
-        "9788423309832",
-        "6052942738",
-        "9780795309151",
-        "9789998992108",
-        "966235557X",
-        "9781556905803",
-        "3548225624",
-        "1503122751",
-        "9781433202445",
-        "9798592875793",
-        "9789962904946",
-        "6053144959",
-        "9780141187358",
-        "2072938228",
-        "3125739128",
-        "9780451501004",
-        "9781980719809",
-        "9783125739123",
-        "0436203855",
-        "8804627824",
-        "9780451516268",
-        "0143425803",
-        "9780151660353",
-        "9781517277703",
-        "8423309835",
-        "9780451514745",
-        "0886460891",
-        "9781980784654",
-        "9783548225623",
-        "9955131195",
-        "9788499890944",
-        "9781638433774",
-        "1518719910",
-        "1405965347",
-        "1432839616",
-        "1521900515",
-        "9781503122758",
-        "6254052288",
-        "3548256279",
-        "9780807230848",
-        "045150688X",
-        "1610424514",
-        "9798834947714",
-        "8807903814",
-        "0786184043",
-        "8328706504",
-        "281870751X",
-        "1556905807",
-        "9788446052654",
-        "9780702306129",
-        "0899663680",
-        "9798485158507",
-        "1638433844",
-        "1038770289",
-        "9781846553288",
-        "9786254071249",
-        "9798499486917",
-        "1432839683",
-        "9388318560",
-        "9780143425809",
-        "9780786102396",
-        "0140862536",
-        "3453164210",
-        "9780758797414",
-        "8423337324",
-        "9781547187492",
-        "6055114348",
-        "1839642408",
-        "0329059572",
-        "9356996644",
-        "9568530274",
-        "9788804668237",
-        "9788418252266",
-        "0241436524",
-        "074931723X",
-        "9781521900512",
-        "9781964960050",
-        "9781520485744",
-        "0435176706",
-        "1795808144",
-        "8423322351",
-        "9786050839203",
-        "9781432839611",
-        "8374953985",
-        "9781802633900",
-        "9781638433767",
-        "9788466359573",
-        "1520185901",
-        "9780151351015",
-        "9780547249643",
-        "9644480449",
-        "9785553676292",
-        "9781517236755",
-        "9781520961767",
-        "1979898618",
-        "6257852129",
-        "1520937741",
+        "9788385373483",
+        "9781503378179",
+        "7553468355",
+        "9781432839680",
+        "9789386869388",
+        "9788499302157",
         "9780141191201",
+        "9781432839611",
+        "6257852129",
+        "0198185219",
+        "9788827412664",
+        "9780702306129",
+        "3962725296",
+        "3526431396",
+        "9786588843284",
+        "9781964960005",
+        "989913502X",
+        "9781638433767",
+        "9781785996313",
+        "0886460891",
+        "9781520817897",
+        "0451501004",
+        "1667300008",
+        "9780140009729",
+        "0807230847",
+        "6073907168",
+        "9786050839203",
+        "0451516265",
+        "2070248100",
+        "9782070368228",
+        "0786189932",
+        "5553676290",
+        "9781840228823",
+        "9788804325734",
+        "0131842706",
+        "1503241319",
+        "1987598385",
+        "1978127898",
+        "014027877X",
+        "9788804507451",
+        "1638433755",
+        "9781964960050",
+        "0436203855",
+        "9798592875793",
+        "1638433801",
+        "3454666503",
+        "0151660344",
+        "9788374953986",
+        "1979429049",
+        "0451519841",
+        "9781503241312",
+        "0735234612",
+        "9788702291872",
+        "8412270517",
+        "9781483050928",
+        "0886760402",
+        "9789568356309",
+        "9783454666503",
+        "9780451509420",
+        "0571355889",
+        "1784878979",
+        "1787302547",
+        "9789866377006",
+        "9781980719809",
+        "9726081890",
+        "9781520937748",
+        "9781326583309",
+        "9781979898614",
+        "1857151348",
+        "9780795309151",
+        "1432839616",
+        "0241334667",
+        "9789174862997",
+        "9787201106380",
+        "9780736687683",
+        "0198829191",
+        "9877187183",
+        "6257310032",
+        "9798552520060",
+        "9786053144953",
+        "9781788282369",
+        "9788466357562",
+        "9781544256122",
+        "9781520471679",
+        "9780436203855",
+        "9781533624833",
+        "1320829732",
+        "9788467024777",
+        "9798837303432",
+        "9780141919959",
+        "1717012892",
+        "9781986607766",
+        "9780143416302",
+        "9781497345348",
+        "1781399352",
+        "1784876593",
+        "0140126716",
+        "9780141801919",
+        "9780451516268",
+        "9781388730925",
+        "9787553468358",
+        "9780451518002",
+        "9788419260154",
+        "9781973896630",
+        "9785170801152",
+        "1912464454",
+        "0451520505",
+        "9781521360286",
+        "0582536588",
+        "9780143440314",
+        "9780008322069",
+        "3548032532",
+        "9780198829195",
+        "8328722151",
+        "0451518659",
+        "970666565X",
+        "6050839204",
+        "1784874159",
+        "0141185155",
+        "9780436350078",
+        "9780141992358",
+        "9780451520500",
+        "078389368X",
+        "9798443126265",
+        "9780582331655",
+        "9786257852128",
+        "0679417397",
+        "0436350076",
+        "1542940222",
+        "0708980279",
+        "9798700267694",
+        "8499302157",
+        "9781976908712",
+        "9780758797414",
+        "2749944589",
+        "9780451506887",
+        "9783526431398",
+        "9781839642401",
+        "9781717012227",
+        "9798698125211",
+        "3548256279",
+        "9798699260331",
+        "9781980784654",
+        "0571394388",
+        "1785996312",
+        "0452262933",
+        "1503378179",
+        "1964960002",
+        "1846553288",
+        "8423328651",
+        "7567504421",
+        "0141191201",
+        "9788172345143",
+        "1973404346",
+        "9786051855622",
+        "0436350319",
+        "0151351015",
+        "6053144959",
+        "9798604599389",
+        "1518719244",
+        "0786188162",
+        "9798599858768",
+        "9798590144907",
+        "0786128682",
         "9786070782640",
-        "9780241969694",
+        "1433202433",
+        "9780140862539",
+        "0758797419",
+        "1980719802",
+        "8499890946",
+        "1787301087",
+        "9781520185903",
+        "9568356304",
+        "9781916939288",
+        "9781433202469",
+        "9789603824688",
+        "9780241341650",
+        "1433202468",
+        "6257120896",
+        "9786057676658",
+        "9788807903816",
+        "9798500434999",
+        "0141919957",
+        "1520937741",
+        "9780141187761",
+        "0736667741",
+        "9786052199701",
+        "1530644046",
+        "9781503122758",
+        "9786254492327",
+        "1916939287",
+        "9750718534",
+        "9781619652705",
+        "9780735234611",
+        "1521430934",
+        "6587034209",
+        "9780436350221",
+        "9780451516756",
+        "9781784878979",
+        "0786184043",
+        "0736605681",
+        "9789955135005",
+        "6254492334",
+        "9990833281",
+        "9781477550380",
+        "9781857151343",
+        "3548225624",
+        "1786822229",
+        "9783458178767",
+        "9780198185215",
+        "9751419875",
+        "9781398856141",
+        "9780329059576",
+        "197690871X",
+        "9781500143794",
+        "9789389053739",
+        "9780517665947",
+        "9789381607794",
+        "9781542666497",
+        "043635019X",
+        "058233165X",
+        "9736810755",
+        "9782818707517",
+        "9780786188161",
+        "1624606172",
+        "9783962725297",
+        "9780451512185",
+        "9781784874155",
+        "9786257737753",
+        "9786254412028",
+        "9793062339",
+        "9781484460665",
+        "8535914846",
+        "9781638433842",
+        "6052428910",
+        "1986607763",
+        "1795808144",
+        "9781986508148",
+        "9798468865927",
+        "0329059572",
+        "9780140182347",
+        "7532154963",
+        "6057703618",
+        "9798673723265",
+        "6257234131",
+        "9798499447116",
+        "8466357564",
+        "0140817743",
+        "8466359575",
+        "1788853806",
+        "9780451519849",
+        "9781795808149",
+        "0452284236",
+        "0702306126",
+        "9781979644358",
+        "1717012221",
+        "1979898618",
+        "9781638433781",
+        "9786257120890",
+        "9781443434973",
+        "9781499299861",
+        "9786555790627",
+        "8385373489",
+        "9789752126138",
+        "1912714981",
+        "6052199709",
+        "9788429753219",
+        "8172345143",
+        "9780571355884",
+        "9789029532815",
+        "9786586077698",
+        "9780886760403",
+        "9780241334669",
+        "9786053265016",
+        "9780882339726",
+        "8423304256",
+        "9780571355891",
+        "9781556905803",
+        "9788466352062",
+        "9781987598384",
+        "9789755749761",
+        "848328006X",
+        "1432839683",
+        "9788481091885",
+        "9788423328659",
+        "9780156035842",
+        "9798639952326",
+        "9798520497264",
+        "043623131X",
+        "9781943138432",
+        "6586064376",
+        "9575516982",
+        "8422615797",
+        "8192910903",
+        "9780452284234",
+        "152047167X",
+        "1610424514",
+        "0452254264",
+        "9780436204241",
+        "9798548564603",
+        "9783804406568",
+        "9788483280065",
+        "9781350362239",
+        "9780436231315",
+        "8490328242",
+        "8807903814",
+        "9788187138372",
+        "0140160086",
+        "9786254052033",
         "6254410761",
-        "9786257163354",
+        "9788535914849",
+        "9788328706507",
+        "9789751419873",
+        "9781530043927",
+        "9798597889450",
+        "9783548225623",
+        "9786073844321",
+        "0008322066",
+        "9781473581579",
+        "9787542631466",
+        "9786053425854",
+        "9781925355765",
+        "9388318560",
+        "1535061766",
+        "9780358120353",
+        "9788423337323",
+        "607078264X",
+        "207036822X",
+        "9780140817744",
+        "163843378X",
+        "8423335038",
+        "9781957240701",
+        "9788194215813",
+        "9781980405573",
+        "9798790593031",
+        "9780582777552",
+        "6257737753",
+        "9781507502662",
+        "9780451524935",
+        "9780140862546",
+        "1514630419",
+        "8423334708",
+        "9937062748",
+        "9781472133038",
+        "9781946963451",
+        "1326583301",
+        "1638433844",
+        "9781090265012",
+        "0008442622",
+        "9781638433835",
+        "9780436350191",
+        "6053265012",
+        "9780436350313",
+        "0241453518",
+        "1638433763",
+        "9788804604143",
+        "0143416308",
+        "0899663680",
+        "9784781607269",
+        "0241436524",
+        "6586077699",
+        "9781973398776",
+        "9781840228021",
+        "1638433836",
+        "0451007980",
+        "9788366471191",
+        "9780899663685",
+        "274890446X",
+        "6050668027",
+        "9788423335039",
+        "9750530330",
+        "9789363120341",
+        "9780786184040",
+        "9575455282",
+        "880460414X",
+        "9780241978634",
+        "9780140126716",
+        "0882339729",
+        "045150688X",
+        "6051855629",
+        "9783548032535",
+        "9789662355574",
+        "9788423342310",
+        "3125739128",
+        "1520961766",
+        "9788446052654",
+        "6257245885",
+        "1840228822",
+        "8804719133",
+        "9786057462220",
+        "9786257310031",
+        "9798485158507",
+        "1619652706",
+        "9798472370790",
+        "9788422615798",
+        "1517277701",
+        "9789029532808",
+        "753273997X",
+        "9780241969694",
+        "6052942738",
         "9784151200533",
-        "9782072938221",
-        "8445012770",
+        "9781500440268",
+        "9798588129268",
+        "9781537775050",
+        "9780008442620",
+        "0881030368",
+        "9786052428917",
+        "1727550242",
+        "9781647986155",
+        "6254052288",
+        "9174862995",
+        "143320245X",
+        "9781520471822",
+        "9798528142388",
+        "0571355897",
+        "1421808323",
+        "9786254492334",
+        "9789651327759",
+        "9781520520605",
+        "8374959053",
+        "6555790628",
+        "9798729342228",
+        "1398856142",
+        "9781973404347",
+        "0736687688",
+        "9786051855592",
+        "9786020661988",
+        "0614221145",
+        "0451016408",
+        "9780886460891",
+        "1530036097",
+        "1606406981",
+        "8804627824",
         "1979644357",
         "6588843283",
-        "8385373489",
-        "6257442346",
-        "9788252511680",
-        "5553676290",
-        "8535932968",
-        "9780140062052",
-        "9787514601312",
-        "9781857151343",
-        "9798698422624",
-        "9781638433750",
-        "9783871580352",
-        "9781421808321",
-        "6052199709",
-        "6254492326",
-        "9783730609767",
-        "9786020661988",
-        "9780141187761",
-        "9798589924183",
-        "9736810755",
-        "9788499302157",
-        "9789363120341",
-        "9789562911146",
-        "9781477550182",
-        "0436410559",
-        "9781667300009",
-        "9781787302549",
-        "9781471331435",
-        "8804668237",
-        "9786057703613",
-        "0141191201",
-        "1433202476",
-        "5557024190",
-        "9781980405573",
-        "9781925355765",
-        "9962904943",
-        "9781795808149",
-        "0140182349",
-        "9786587034201",
-        "9786257852128",
-        "9781788853804",
-        "1973404346",
-        "9781849432269",
-        "9562910334",
-        "078610239X",
-        "8441440670",
-        "1784874159",
-        "9798703091920",
-        "9798747349483",
-        "014118776X",
-        "9781514630419",
-        "043623131X",
-        "2070248100",
-        "9788490328248",
-        "173073782X",
-        "9781973398776",
-        "1520471823",
-        "6020661989",
-        "0451524934",
-        "9726081890",
-        "9781786820822",
-        "0571394388",
-        "8432013889",
-        "9753525648",
-        "9789662355574",
-        "9781518719240",
-        "9787553468358",
-        "0451503112",
-        "9780436350221",
-        "9798528142388",
-        "1977552102",
-        "0452284236",
-        "9781647986155",
-        "9789752126138",
-        "9781638433781",
-        "9781542666497",
-        "9996677168",
-        "9781610424516",
-        "1719462356",
-        "9780613447829",
-        "9780241416419",
-        "9789937062749",
-        "0795309155",
-        "9786586490169",
-        "1503241319",
-        "989913502X",
-        "9780241453513",
-        "9780452254268",
-        "0571355897",
-        "9780140160086",
-        "9786257245883",
-        "0143440314",
-        "9568356304",
-        "1595404325",
-        "6052973579",
-        "9798599858768",
-        "9781520520605",
-        "9781953136114",
-        "9780329059576",
-        "9788441440678",
-        "058233165X",
-        "9789751419873",
-        "9798597889450",
-        "1857151348",
-        "9780812416299",
-        "9784781607269",
-        "9798708215833",
-        "0758797419",
-        "9685270880",
-        "9788582851197",
-        "9780881030365",
-        "2749944589",
-        "995513500X",
-        "8423304256",
-        "9781976587337",
-        "8418915099",
-        "9786254492327",
-        "274890446X",
-        "9788491117643",
-        "9798822070233",
-        "0241453518",
-        "9780140278774",
-        "0141182474",
-        "9781417656103",
-        "9798790593031",
-        "9786052691496",
-        "7553468355",
-        "6586064376",
-        "0451501004",
-        "9781911091103",
-        "9750718534",
-        "0451016408",
-        "9780140126716",
-        "9781507502662",
-        "9781512393934",
-        "9788535932522",
-        "6257737753",
-        "6587034209",
-        "197690871X",
-        "9780358375401",
-        "9780571355884",
-        "9789750718533",
-        "9798637209972",
-        "3526431396",
-        "9788432013881",
-        "3125402026",
-        "1986607763",
-        "9786254410765",
-        "9780241341650",
-        "9781483050928",
-        "1514223007",
-        "8422615797",
-        "9781518719912",
-        "9780451521231",
-        "7547121403",
-        "7567504421",
-        "9781638433828",
-        "9029532807",
-        "1537215884",
-        "9781398856141",
-        "1638433828",
-        "1537775057",
-        "1507502664",
-        "9781434104335",
-        "6053265012",
-        "9788366471191",
-        "1986513556",
-        "9781520471822",
-        "9783962725297",
-        "9780451505521",
-        "9782070248100",
-        "0451521234",
-        "184697576X",
-        "9788423328659",
-        "1976304695",
-        "9789568530273",
-        "1595404821",
-        "753273997X",
-        "9781986513555",
-        "1518719244",
-        "9780141182476",
-        "9780451506887",
-        "9780582777552",
-        "9781548880330",
-        "9798365339477",
-        "9783125402027",
-        "387158035X",
-        "0151660352",
-        "9781638433798",
-        "6254412020",
-        "0451520505",
-        "1911091107",
-        "3548204562",
-        "1433202468",
-        "9781979429047",
-        "1781399352",
-        "9781976908712",
-        "9785557024198",
-        "1417656107",
-        "9781520471679",
-        "9781350362239",
-        "9786053265016",
-        "9788804325734",
-        "1980558590",
-        "9788445012772",
-        "9575455282",
-        "1529962250",
-        "1847498574",
-        "9788423335039",
-        "1849432260",
-        "9798500243164",
-        "9781520557656",
-        "8423334708",
-        "9029587091",
-        "9789955135005",
-        "8702291878",
-        "1638433771",
-        "0436350076",
-        "8804719133",
-        "1398856142",
-        "0786188162",
-        "9780451524935",
-        "9780786188161",
-        "9780141036144",
-        "9782748904468",
-        "8366471195",
-        "9751419875",
-        "0547249640",
-        "1530036097",
-        "9781717012890",
-        "1520485743",
-        "9780736687683",
-        "3730609769",
-        "9781638433804",
-        "9789386869388",
-        "9781433202438",
-        "9780718193645",
-        "9787553415253",
-        "9780141185156",
-        "9780141391700",
-        "9781973896630",
-        "9780140862546",
-        "1471331431",
-        "0736667741",
-        "9875800023",
-        "8535914846",
-        "9780451519849",
-        "9780436350313",
-        "9781788282369",
-        "1667300008",
-        "6073907168",
-        "197339877X",
-        "1943138435",
-        "9780008442620",
-        "8499890946",
-        "9789644480447",
-        "9783526431398",
-        "8495994070",
-        "0451007980",
-        "9788192910901",
-        "1643136984",
-        "9780886760403",
-        "9352230760",
-        "164798615X",
-        "9787544720021",
-        "9788804604143",
-        "8582851197",
-        "6050668027",
         "0140862544",
-        "9786071440884",
-        "1987598385",
-        "6057676653",
-        "9789356996649",
-        "9780141801919",
-        "9781405965347",
-        "1983556084",
-        "9781595404824",
-        "9781520185903",
-        "9781964960005",
-        "9174862995",
-        "9786257737753",
-        "2072878497",
-        "9786073907163",
-        "0008442622",
-        "9781638433811",
-        "9798490929895",
-        "9752126138",
-        "9798476844068",
-        "9781784878979",
-        "9789899135024",
-        "9789575516987",
-        "1957240695",
-        "9789685270885",
-        "6586077699",
-        "9788535914849",
-        "9789029532815",
-        "4151200533",
-        "0451505522",
-        "3548234100",
-        "9789352230761",
-        "152047167X",
-        "1484460669",
-        "0708980279",
-        "0582536588",
-        "9780882339726",
-        "9780786128686",
-        "9788807903816",
-        "0882339729",
-        "043635022X",
-        "9780571394388",
-        "1782124209",
-        "9781619652705",
-        "9781517514181",
-        "0452262933",
-        "9783550063473",
-        "9780582331655",
-        "9781916939288",
-        "9786254412028",
-        "9788683725069",
-        "9789029587099",
-        "9781350262713",
-        "9781529962253",
-        "8445010271",
-        "6254492334",
-        "9783548032535",
-        "9798837303432",
-        "9788426400260",
-        "9781537775050",
-        "8418933011",
-        "9781978127890",
-        "1624606172",
-        "6586490162",
-        "9788804507451",
-        "9780614221145",
-        "6052691492",
-        "9787542631466",
-        "9783453164215",
-        "5170801157",
-        "9562911144",
-        "8419260150",
-        "0582777550",
-        "9781840228021",
-        "970666565X",
-        "0517665948",
-        "7514601317",
-        "9780452262935",
-        "9788328722156",
-        "1840228024",
-        "9780749317232",
-        "9780899663685",
-        "9781388730925",
-        "0141801913",
-        "1946963453",
-        "9788804627821",
-        "8423328651",
-        "1916939287",
-        "9789174862997",
-        "9781986508148",
-        "9780156035842",
-        "7544720020",
-        "9786254492334",
-        "9787532154968",
-        "8804325739",
-        "0735234612",
-        "9788423337323",
-        "9791280035158",
-        "1483050920",
-        "1638433763",
-        "3458178767",
-        "9786051513423",
-        "1433202433",
-        "9781638433842",
-        "9798588129268",
-        "9798817200782",
-        "9780582536586",
-        "9781840228823",
-        "9786052428917",
-        "0614221145",
-        "9780786189939",
-        "9781520937748",
-        "9781786822222",
-        "9782070463695",
-        "9780436231315",
-        "3804406564",
-        "9786050668025",
-        "1912464454",
-        "9789029532808",
-        "1535061766",
-        "0141185155",
-        "3548032532",
-        "9781979898614",
-        "9780708980279",
-        "1517514185",
-        "9780435123574",
-        "1717012892",
-        "9798892823333",
-        "9798699260331",
-        "9780140009729",
-        "9788187138372",
-        "8426400264",
-        "4781607268",
-        "8172345143",
-        "9781643136981",
-        "9780140817621",
-        "1517236754",
-        "9780151660346",
-        "9780241436523",
-        "0241978637",
-        "8377583666",
-        "9780151660384",
-        "607078264X",
-        "1477550186",
-        "1350262714",
-        "9788827412664",
-        "0151351015",
-        "9786257685207",
-        "9786257671026",
-        "9798698125211",
-        "9798810814733",
-        "7553415251",
-        "9781477550380",
-        "0718193644",
-        "9780436203855",
-        "9786588843284",
-        "8804507454",
-        "9780141393049",
-        "9781730737824",
-        "1533002908",
-        "9781719462358",
-        "8429753214",
-        "9780679417392",
-        "9789736810756",
-        "1517277701",
-        "0141036141",
-        "9866377008",
-        "9386869381",
-        "1802633901",
-        "9780451516756",
-        "9781977552105",
-        "1530044359",
-        "9575516982",
-        "9781535061766",
-        "848328006X",
-        "9789573270126",
-        "9029532815",
+        "9786078578245",
+        "1638433798",
+        "9788495994073",
         "2070463699",
-        "9781979644358",
-        "9781499299861",
-        "9787532739974",
-        "1544256124",
-        "9788190782692",
-        "163843378X",
-        "9781484460665",
-        "9781946963451",
-        "8194215811",
-        "9780141919959",
-        "9793062339",
-        "9789990833287",
-        "9789389053739",
-        "1477550380",
-        "1647986370",
-        "9798599270850",
-        "9787201106380",
-        "9786555790627",
-        "9789568356309",
-        "9783548234106",
-        "9781983556081",
-        "1978127898",
-        "9788374953986",
-        "1953136117",
-        "9786057676658",
-        "1638433755",
-        "0451509420",
-        "6057703618",
-        "178682082X",
-        "0812416295",
-        "9786254052286",
-        "1443434973",
-        "1514630419",
-        "8490328242",
-        "0143566490",
-        "0008442614",
-        "1986508145",
-        "9788328706507",
-        "0786189932",
-        "9780143440314",
-        "9786053425854",
-        "6051855599",
-        "9786052942734",
-        "0881030368",
-        "9990833281",
-        "0140160086",
-        "1964960002",
-        "9788374959056",
-        "1529032660",
-        "9783458178767",
-        "0141187352",
-        "9783548256276",
-        "0358375401",
-        "0131842706",
-        "0141919957",
-        "014081762X",
-        "7201106384",
-        "014006205X",
-        "9781987598384",
-        "9780241978634",
-        "9781472133038",
-        "9781537215884",
-        "9798472370790",
-        "1320829732",
-        "9780143566496",
-        "9798520497264",
-        "1606406981",
-        "9781523373611",
-        "9788172345143",
-        "9798578483066",
-        "1727550242",
-        "1784876593",
-        "9786053144953",
-        "6057869761",
-        "9788412270518",
-        "6257163358",
-        "043635019X",
-        "1500440264",
-        "9788419260154",
-        "9781973404347",
-        "9781090265012",
-        "9798729342228",
-        "9798528164908",
-        "9780571355891",
-        "9786257442343",
-        "1473581575",
-        "9603824682",
-        "9798707174650",
-        "9783548204567",
-        "9780451512185",
-        "9780452284234",
-        "848109188X",
-        "9789753525640",
-        "9798548564603",
-        "8466359575",
-        "9798552520060",
-        "1548880337",
-        "9780451016409",
-        "8252511686",
-        "0358120357",
-        "9780582060180",
-        "9798834999539",
-        "9786254052033",
-        "1520817894",
-        "9798589519365",
-        "1299885853",
-        "1787302547",
-        "0008322066",
-        "8466352066",
-        "9782070368228",
-        "9788429753219",
-        "0786183926",
-        "1788282361",
-        "9781624606175",
+        "9791280035158",
+        "9780452262935",
+        "9787553415253",
+        "9780582536586",
+        "9644480449",
+        "1964960053",
+        "9788328722156",
+        "9781514630419",
+        "9781473234802",
+        "9781595404329",
+        "8423337324",
+        "9562911144",
+        "1433202476",
+        "9789388318563",
+        "1514223007",
         "9798781501915",
-        "9781990089268",
-        "8491117644",
-        "1638433836",
-        "9781500440268",
-        "9780008442613",
-        "3550063474",
-        "9780140817744",
-        "8423335038",
-        "9788466352062",
-        "8535932526",
-        "9789575455286",
+        "9780451503114",
+        "1434104338",
+        "9781643136981",
+        "9789751041876",
+        "9781980558590",
+        "9781647986377",
         "0241969697",
+        "9955131195",
+        "9783548234106",
+        "9798834947714",
+        "1038770289",
+        "1477550186",
+        "1520557655",
+        "8804668237",
+        "0451524934",
+        "1521360286",
+        "184697576X",
+        "1417656107",
+        "9781521430934",
+        "6257442346",
+        "8466352066",
+        "9781911091103",
+        "0151660387",
+        "0812416295",
+        "0451512189",
+        "0451505522",
+        "1522932372",
+        "0141182474",
+        "9781529032666",
+        "9788423334704",
+        "6057676653",
+        "0451518004",
+        "9781786822222",
+        "9780886767396",
+        "387158035X",
+        "3458178767",
+        "9781976587337",
+        "0358375401",
+        "0141801913",
+        "1977552102",
+        "9781520961767",
+        "1473234808",
+        "9788426400260",
+        "6052691492",
+        "1957240695",
+        "9780358375401",
+        "9786586490169",
+        "9780736605687",
+        "9780547249643",
+        "9781606406984",
+        "1350362239",
+        "9781976304699",
+        "9781518719240",
+        "9782070248100",
+        "8187138378",
+        "9780613447829",
+        "1638433771",
+        "9780451514745",
+        "9789793062334",
+        "6051855599",
+        "1911091107",
+        "9786073907163",
+        "1719462356",
+        "1520185901",
+        "9798552032730",
+        "9780451501004",
+        "0241416418",
+        "6254492326",
+        "1925355764",
+        "9789750530333",
+        "8535932526",
+        "9798892823333",
+        "281870751X",
+        "9781973370369",
+        "1473581575",
+        "9798589924183",
+        "1520520603",
+        "9788418915093",
+        "1090265018",
+        "1299885853",
+        "1638433828",
+        "074931723X",
+        "9780749317232",
+        "1556905807",
+        "8194215811",
+        "9781350262713",
+        "9781667300009",
+        "9789356996649",
+        "8441440670",
+        "9788491117643",
+        "1643136984",
+        "9783550063473",
+        "9781522932376",
+        "8445012770",
+        "8702291878",
+        "014118776X",
+        "8328706504",
+        "9781542940221",
+        "8418933011",
+        "1443434973",
+        "3804406564",
+        "9781977552105",
+        "5557024190",
+        "9780141185156",
+        "1499299869",
+        "0141187352",
+        "1521900515",
+        "9780141391700",
+        "9788252511680",
+        "9780451521231",
+        "0140862536",
+        "9786257245883",
+        "8432013889",
+        "9798747349483",
+        "819078269X",
+        "9789352230761",
+        "9781610424516",
+        "9785553676292",
+        "1548880337",
+        "1388730928",
+        "9780786189939",
+        "1471331431",
+        "9789955131199",
+        "9780131842700",
+        "9786057869760",
+        "9789736810756",
+        "9780807230848",
+        "9363120341",
+        "043620424X",
+        "9787532739974",
+        "9381607796",
+        "8445010271",
+        "9781990089268",
+        "9786053034087",
+        "9780241453513",
+        "1946963453",
+        "9780786102396",
+        "9781535061766",
+        "8535932968",
+        "9780436410550",
+        "1517514185",
+        "3125402026",
+        "9789575455286",
+        "1529032660",
+        "1512393932",
+        "9786257234139",
+        "9780614221145",
+        "9789685270885",
+        "7553415251",
+        "9798708215833",
+        "0547249640",
+        "9789029587099",
+        "9780452254268",
+        "8426400264",
+        "8418915099",
+        "9781638433798",
+        "9798490937784",
+        "0451509420",
+        "2072938228",
+        "9781530036097",
+        "9781782124207",
+        "9786055114343",
+        "7514601317",
+        "1976304695",
+        "1328869334",
+        "9783125402027",
+        "9785557024198",
+        "9780783893686",
+        "9798528164908",
+        "9781523373611",
+        "9356996644",
+        "9783548256276",
+        "1503122751",
+        "9781727550245",
+        "9789726081890",
+        "9786052942734",
+        "9780008442613",
+        "1973370360",
+        "8683725065",
+        "163843381X",
+        "9781846553288",
+        "9786254410765",
+        "9786057703613",
+        "9755749764",
+        "7544720020",
+        "842334231X",
+        "9798707174650",
+        "9782072878497",
+        "9780141182476",
+        "9787547121405",
+        "9386869381",
+        "9781512393934",
+        "1520817894",
+        "0886767393",
+        "9780241416419",
+        "9866377008",
+        "841825226X",
+        "9787567504424",
         "9780786183920",
-        "0141992352",
-        "9788804719137",
-        "9781785996313",
-        "207036822X",
-        "9798732781649",
+        "1500440264",
+        "9787532154968",
+        "9788423309832",
+        "0241978637",
+        "9962904943",
+        "9781983556081",
+        "9781979429047",
+        "9788804668237",
+        "9789575516987",
+        "9781537215884",
+        "9780241436523",
+        "1987679350",
+        "9781719462358",
+        "9780812416299",
+        "8377583666",
+        "9780718193645",
+        "9780143566496",
+        "9788683725069",
+        "1350262714",
+        "9352230760",
+        "3730609769",
+        "0008442614",
+        "9789571913100",
+        "9781978127890",
+        "8495994070",
+        "6257685206",
+        "9389053730",
+        "1953136117",
+        "0451516753",
+        "9781788853804",
+        "9781987679359",
+        "9781846975769",
+        "1974272842",
+        "0358120357",
+        "9029532807",
+        "9798527219692",
+        "9781520485744",
+        "0786183926",
+        "9783871580352",
+        "6254052032",
+        "8491117644",
+        "9781974272846",
+        "0435176706",
+        "0141036141",
+        "1839642408",
+        "154266649X",
+        "9780140160086",
+        "164798615X",
+        "1533002908",
+        "0795309155",
+        "0435123572",
+        "1957240709",
+        "1990089267",
+        "9798476844068",
         "6051513426",
         "0613447824",
-        "9786050979602",
-        "9877187183",
-        "9780241334669",
-        "625407124X",
-        "1980405573",
-        "605746222X",
-        "9780783893686",
-        "9781973370369",
-        "9780358120353",
-        "1433202441",
-        "0241416418",
-        "9781987679359",
-        "078389368X",
-        "9789603824688",
-        "6555522267",
-        "1976587336",
-        "9781957240695",
-        "9781542940221",
-        "9780141992358",
-        "1503378179",
-        "9780436204241",
-        "9780517665947",
-        "9781839642401",
-        "1912714981",
-        "9798769856891",
-        "6078578243",
-        "1542940222",
-        "9786052199701",
-        "0140126716",
-        "9781503378179",
-        "9998992109",
-        "0241341655",
-        "9786586077698",
-        "819078269X",
-        "0452254264",
-        "9786057869760",
-        "9781520817897",
-        "9780435176709",
-        "8446052652",
-        "0451518004",
-        "1421808323",
-        "9788422615798",
-        "9781328869333",
-        "0198185219",
-        "605097960X",
-        "1925355764",
-        "9780736667746",
-        "9780451503114",
-        "1787301087",
-        "1521430934",
-        "9786055114343",
-        "9781717012227",
-        "9798499447116",
-        "9781595404329",
-        "9780736605687",
-        "6257234131",
-        "9780140862539",
-        "9782749944586",
-        "9781727550245",
-        "9781503241312",
-        "9781912714988",
-        "9780008322069",
-        "6071440882",
-        "154266649X",
-        "9788377583661",
-        "9780451520500",
-        "9781912464456",
-        "9798518317222",
-        "0886767393",
-        "0241334667",
-        "9780735234611",
-        "1638433798",
-        "9780008516086",
-        "9781847498571",
-        "1990089267",
-        "1520520603",
-        "9786078578245",
-        "9755749764",
-        "147213303X",
-        "9781514223000",
-        "9798490937784",
-        "9798590144907",
-        "9781530044351",
-        "9571913103",
-        "9781787301085",
-        "0151660344",
-        "9798485404635",
-        "842334231X",
-        "9788467024777",
-        "9781784874155",
-        "9789866377006",
-        "9789996677168",
-        "880460414X",
-        "1785996312",
-        "1522932372",
-        "9788385373483",
-        "9786051855622",
-        "9789750530333",
-        "9789755749761",
-        "9786052973578",
-        "0807230847",
-        "9781443434973",
-        "9788423322350",
-        "163843381X",
-        "6053425850",
-        "3962725296",
-        "6053034088",
-        "0736605681",
-        "6254052032",
-        "1533624836",
-        "014027877X",
-        "1788853806",
-        "0451516753",
-        "9781473581579",
-        "1846553288",
-        "9788535932966",
-        "1512393932",
-        "1500143790",
-        "9781647986377",
-        "9781497345348",
-        "9786073844321",
-        "9781533624833",
-        "9798468865927",
-        "6257685206",
-        "9781530644049",
-        "9781533002907",
-        "9781980558590",
-        "9798639952326",
-        "6050839204",
-        "9780886460891",
-        "9780786184040",
-        "8827412662",
-        "6555790628",
-        "043620424X",
-        "0702306126",
-        "1520961766",
-        "9781638433835",
-        "9785170801152",
-        "9798500434999",
-        "9786586064377",
-        "9781433202469",
-        "9780131842700",
-        "9781530036097",
-        "6257310032",
-        "9788466357562",
-        "0451514742",
-        "8374959053",
-        "1326583301",
-        "9798700267694",
-        "3454666503",
-        "1473234808",
-        "0008516081",
-        "9789388318563",
-        "9798443126265",
-        "9781473234802",
-        "0571355889",
-        "9798442486889",
-        "9783804406568",
-        "9789751041876",
-        "143320245X",
-        "9781530043927",
-        "9789651327759",
-        "1638433801",
-        "8328722151",
-        "9789793062334",
-        "9788418933011",
-        "0582060184",
-        "6257245885",
-        "7542631462",
-        "9781529032666",
-        "6051855629",
-        "9798664304275",
-        "9788423359394",
-        "9786555522266",
-        "1499299869",
-        "0141391707",
-        "9789726081890",
-        "9781326583309",
-        "9798835786282",
-        "9781544256122",
-        "1717012221",
-        "8192910903",
-        "9781781399354",
-        "9780143416302",
-        "9786257234139",
-        "9781521430934",
-        "9780151005680",
-        "9781433202476",
-        "9780198185215",
-        "9780436350191",
-        "1497345340",
-        "9788445010273",
-        "9781943138432",
-        "8499302157",
-        "1090265018",
-        "6257120896",
-        "1979429049",
-        "0141393041",
-        "9781433202452",
-        "9798552032730",
-        "8467024771",
-        "1964960053",
-        "9651327758",
-        "9798699549153",
-        "841825226X",
-        "0451512189",
-        "0436350319",
-        "9781320829731",
-        "9937062748",
-        "8683725065",
-        "9789875800021",
-        "9788423304257",
-        "1957240709",
-        "9783454666503",
-        "0198829191",
-        "0143416308",
-        "8412270517",
-        "9780436410550",
-        "9789877187182",
-        "8466357564",
-        "9781976304699",
-        "9798527219692",
-        "9573270129",
-        "1434104338",
-        "6257671027",
-        "9788483280065",
-        "9780451007988",
-        "1328869334",
-        "9788495994073",
-        "152337361X",
-        "9789571913100",
-        "1973370360",
-        "9781432839680",
-        "9789381607794",
-        "9788194215813",
-        "0151005680",
-        "9781038770288",
-        "0736687688",
-        "9781782124207",
-        "197389663X",
-        "1547187492",
-        "0140817743",
-        "9781606406984",
-        "9789562910330",
-        "1840228822",
-        "9788423342310",
-        "9786257310031",
-        "9787547121405",
-        "9780451509420",
-        "9788418915093",
-        "1980719802",
-        "0156035847",
-        "9781957240701",
-        "9363120341",
-        "6073844328",
-        "9381607796",
-        "9781846975769",
-        "0451516265",
+        "9780143425809",
+        "1782124209",
+        "6055114348",
         "9798781502288",
-        "0451518659",
-        "9782072878497",
-        "1521360286",
-        "9780886767396",
-        "9789706665652",
-        "8187138378",
-        "9798594919693",
+        "1802633901",
+        "1530044359",
+        "9782070463695",
+        "9786555522266",
+        "9788374959056",
+        "9781521900512",
+        "9786586064377",
+        "3453164210",
+        "9752126138",
+        "9781786820822",
+        "605097960X",
+        "9782748904468",
+        "9798499486917",
+        "9788190782692",
+        "0241341655",
+        "9781417656103",
+        "9789562911146",
+        "9788490328248",
+        "3548204562",
+        "9798664304275",
+        "9781530644049",
+        "147213303X",
+        "848109188X",
+        "9798698422624",
+        "9751041872",
+        "9780786128686",
+        "9798703091920",
+        "9788432013881",
+        "1484460669",
+        "9798699549153",
+        "9798835786282",
+        "6586490162",
+        "9786052691496",
+        "197339877X",
+        "9781638433774",
+        "9780140278774",
+        "9780140062052",
+        "0151005680",
         "9781784876593",
-        "8423359395",
-        "9782818707517",
-        "1619652706",
-        "9389053730",
-        "1786822229",
-        "7532154963",
+        "9603824682",
+        "9780008516086",
+        "6052973579",
+        "9780679417392",
+        "1983556084",
+        "9780435123574",
+        "9782749944586",
+        "6057869761",
+        "9780582060180",
+        "9788441440678",
+        "9798732781649",
+        "0156035847",
+        "9780151660384",
+        "8252511686",
+        "9781548880330",
+        "1976587336",
+        "0141391707",
+        "9780451518651",
+        "0517665948",
+        "995513500X",
+        "9780141393049",
+        "1497345340",
+        "9789753525640",
+        "9781717012890",
+        "0143440314",
+        "9781547187492",
+        "9780708980279",
+        "9788804627821",
+        "1980558590",
+        "9781477550182",
+        "7547121403",
+        "6053034088",
+        "6071440882",
+        "9786051513423",
+        "1544256124",
+        "7201106384",
+        "9786257163354",
+        "8366471195",
+        "9781405965347",
+        "1520485743",
+        "9781433202452",
+        "0451521234",
+        "9798594919693",
+        "9781518719912",
+        "9786587034201",
+        "9781433202438",
+        "9875800023",
+        "8804507454",
+        "9781434104335",
+        "9788377583661",
+        "9788423304257",
+        "9780141187358",
+        "9787514601312",
+        "9781638433811",
+        "9786257442343",
+        "9781533002907",
+        "9998992109",
+        "9781624606175",
+        "9789899135024",
+        "9780151351015",
+        "9789990833287",
+        "6254412020",
+        "8423322351",
+        "4781607268",
+        "1595404325",
+        "0451503112",
+        "9781421808321",
+        "1986513556",
+        "1518719910",
+        "9786254071249",
+        "9781038770288",
+        "9798518317222",
+        "9781953136114",
+        "9782072938221",
+        "9780141036144",
+        "9781787302549",
         "1530043921",
-        "1530644046",
-        "0679417397",
-        "6052428910",
-        "0886760402",
-        "1350362239",
-        "9781521360286",
-        "0786128682",
-        "9786057462220",
-        "1784878979",
-        "9780198829195",
-        "0451519841",
-        "9789955131199",
-        "1388730928",
-        "9786257120890",
-        "1974272842",
-        "1987679350"
+        "1529962250",
+        "9789706665652",
+        "9781517277703",
+        "9780451007988",
+        "5170801157",
+        "9789996677168",
+        "966235557X",
+        "9573270129",
+        "9781847498571",
+        "9788582851197",
+        "9753525648",
+        "8419260150",
+        "9783453164215",
+        "9780736667746",
+        "0141393041",
+        "9798599270850",
+        "9781520557656",
+        "1405965347",
+        "1507502664",
+        "6555522267",
+        "9788418252266",
+        "9571913103",
+        "9029587091",
+        "9781517236755",
+        "0008516081",
+        "9798490929895",
+        "1840228024",
+        "9788412270518",
+        "9786050979602",
+        "9798578483066",
+        "9788418933011",
+        "2072878497",
+        "9789998992108",
+        "9788192910901",
+        "9780451505521",
+        "3548234100",
+        "9798589519365",
+        "9798485404635",
+        "9780435176709",
+        "9781986513555",
+        "9789568530273",
+        "152337361X",
+        "9798365339477",
+        "9789962904946",
+        "9788535932966",
+        "9781912714988",
+        "0143566490",
+        "1847498574",
+        "9788423359394",
+        "9798810814733",
+        "9798485159634",
+        "9780151660346",
+        "9786257671026",
+        "9798637209972",
+        "9781514223000",
+        "9786050668025",
+        "0436410559",
+        "9996677168",
+        "9788804719137",
+        "9781638433750",
+        "9798817200782",
+        "9783125739123",
+        "9786071440884",
+        "9781433202476",
+        "0140009728",
+        "9781328869333",
+        "197389663X",
+        "9787544720021",
+        "6078578243",
+        "0718193644",
+        "1537215884",
+        "1788282361",
+        "1647986370",
+        "9781471331435",
+        "9798500243164",
+        "9029532815",
+        "9788535932522",
+        "8374953985",
+        "9781530044351",
+        "9781320829731",
+        "9781638433804",
+        "1533624836",
+        "9780451016409",
+        "178682082X",
+        "9786052973578",
+        "9780881030365",
+        "0140182349",
+        "173073782X",
+        "1537775057",
+        "9798769856891",
+        "0451514742",
+        "9798834999539",
+        "0151660352",
+        "078610239X",
+        "9789875800021",
+        "9781802633900",
+        "8827412662",
+        "9789937062749",
+        "0143425803",
+        "4151200533",
+        "6053425850",
+        "9568530274",
+        "1520471823",
+        "9788499890944",
+        "8582851197",
+        "9786254052286",
+        "1433202441",
+        "9651327758",
+        "1980784655",
+        "9781299885851",
+        "6257671027",
+        "9789562910330",
+        "9781529962253",
+        "1943138435",
+        "9788466359573",
+        "9788445012772",
+        "9781957240695",
+        "1517236754",
+        "9781781399354",
+        "014081762X",
+        "9781595404824",
+        "7542631462",
+        "9783548204567",
+        "043635022X",
+        "9798529341834",
+        "9789644480447",
+        "9781517514181",
+        "9783730609767",
+        "9781638433828",
+        "9781787301085",
+        "9786257685207",
+        "9781912464456",
+        "6257163358",
+        "6020661989",
+        "8804325739",
+        "1986508145",
+        "9780571394388",
+        "3550063474",
+        "9781433202445",
+        "9780151660353",
+        "9789573270126",
+        "605746222X",
+        "8423359395",
+        "9788423322350",
+        "0141992352",
+        "1500143790",
+        "9789877187182",
+        "1483050920",
+        "9685270880",
+        "8429753214",
+        "0582777550",
+        "1477550380",
+        "1547187492",
+        "8446052652",
+        "9780151005680",
+        "9562910334",
+        "9781849432269",
+        "625407124X",
+        "8423309835",
+        "0582060184",
+        "1849432260",
+        "9781730737824",
+        "9780140817621",
+        "8467024771",
+        "9788445010273",
+        "6073844328",
+        "1980405573",
+        "9789750718533",
+        "9798822070233",
+        "9798442486889",
+        "014006205X",
+        "1595404821"
       ],
       "doi": "",
       "subjects": [],
@@ -114456,6 +114903,51 @@
       ]
     },
     {
+      "id": "work:509406deb8a375dedd975837",
+      "title": "PARCHINI 1.0: Archivo Illustrator",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Cotidiano.co"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "cotidiano",
+        "parchini",
+        "creative commons",
+        "mundial",
+        "panini"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/PARCHINIAI",
+      "cover_url": "https://archive.org/services/img/PARCHINIAI",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "PARCHINIAI",
+        "internet_archive": "PARCHINIAI"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "PARCHINIAI",
+          "source_url": "https://archive.org/details/PARCHINIAI",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:2eef9c35226c5d80b4eef273",
       "title": "Parlaments- und Behördenbibliotheken im digitalen Wandel",
       "subtitle": "",
@@ -116604,69 +117096,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:5d4a97553cf27638edf76699",
-      "title": "PLANOS CARRETERA SARATXO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "rayala"
-      ],
-      "language": "es",
-      "year": 2013,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "saratxo",
-        "alava",
-        "araba",
-        "carretera",
-        "amurrio"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/PLANOSCARRETERASARATXO",
-      "cover_url": "https://archive.org/services/img/PLANOSCARRETERASARATXO",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "PLANOSCARRETERASARATXO",
-        "internet_archive": "PLANOSCARRETERASARATXO"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "PLANOSCARRETERASARATXO",
-          "source_url": "https://archive.org/details/PLANOSCARRETERASARATXO",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -122816,73 +123245,6 @@
       ]
     },
     {
-      "id": "work:caf0394d9c5b072648ee12d7",
-      "title": "Proxmox para el aula",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Arcadio Ortega Reinoso"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "proxmox"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/proxmox_final_completo",
-      "cover_url": "https://archive.org/services/img/proxmox_final_completo",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "proxmox_final_completo",
-        "internet_archive": "proxmox_final_completo"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "proxmox_final_completo",
-          "source_url": "https://archive.org/details/proxmox_final_completo",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/proxmox_final_completo/proxmox_final_completo_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4f69d0ab977a89e12e3ba1a5",
       "title": "Prozesssteuerung",
       "subtitle": "Kanzleiordnung und Verwaltungsmaschine/n",
@@ -125847,48 +126209,6 @@
           "source": "Internet Archive",
           "source_id": "reciffuna-vol.-v-an-o-3-2017-2",
           "source_url": "https://archive.org/details/reciffuna-vol.-v-an-o-3-2017-2",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ca96aa9535370d3308e7db58",
-      "title": "RECIFFUNA – VOL. VII – AÑO 4 – 2018 ( 2)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Varios autores"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ciencias sociales",
-        "humanidades"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/reciffuna-vol.-vii-an-o-4-2018-2",
-      "cover_url": "https://archive.org/services/img/reciffuna-vol.-vii-an-o-4-2018-2",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "reciffuna-vol.-vii-an-o-4-2018-2",
-        "internet_archive": "reciffuna-vol.-vii-an-o-4-2018-2"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "reciffuna-vol.-vii-an-o-4-2018-2",
-          "source_url": "https://archive.org/details/reciffuna-vol.-vii-an-o-4-2018-2",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
@@ -133382,94 +133702,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:fad27d74c7bcaa30fee92b60",
-      "title": "RODBlox Documents — RODBlox Community 2",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "RODBlox"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "roblox",
-        "rodblox",
-        "youtuber",
-        "content creator",
-        "document",
-        "docx",
-        "xmll",
-        "archive",
-        "text",
-        "note",
-        "internet",
-        "discord",
-        "youtube",
-        "spanish",
-        "2020",
-        "2021",
-        "2022",
-        "2023",
-        "2024",
-        "information",
-        "data",
-        "files",
-        "archives",
-        "documents",
-        "file",
-        "google",
-        "word",
-        "ms word",
-        "office",
-        "microsoft",
-        "odt",
-        "analytics",
-        "statistics",
-        "history",
-        "source",
-        "stats",
-        "community",
-        "rodblox community"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/rodblox-documents-rodblox-community-2",
-      "cover_url": "https://archive.org/services/img/rodblox-documents-rodblox-community-2",
-      "formats": [
-        {
-          "type": "text",
-          "url": "https://archive.org/download/rodblox-documents-rodblox-community-2/RODBlox%20Community%202.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "rodblox-documents-rodblox-community-2",
-        "internet_archive": "rodblox-documents-rodblox-community-2"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "rodblox-documents-rodblox-community-2",
-          "source_url": "https://archive.org/details/rodblox-documents-rodblox-community-2",
-          "language": "es",
-          "formats": [
-            {
-              "type": "text",
-              "url": "https://archive.org/download/rodblox-documents-rodblox-community-2/RODBlox%20Community%202.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -145863,6 +146095,69 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:184ae5b2ecd6a7e4136c1ffc",
+      "title": "Textos Póstumos",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Felisberto Hernández"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Felisberto Hernández",
+        "Uruguay",
+        "dominio público",
+        "literatura uruguaya",
+        "autores.uy"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/FelisbertoHernandezTextosPostumos",
+      "cover_url": "https://archive.org/services/img/FelisbertoHernandezTextosPostumos",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/FelisbertoHernandezTextosPostumos/Textos%20p%C3%B3stumos%20-%20Felisberto%20Hern%C3%A1ndez%20-%20Uruguay%20-%20Dominio%20P%C3%BAblico.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/FelisbertoHernandezTextosPostumos/Textos%20p%C3%B3stumos%20-%20Felisberto%20Hern%C3%A1ndez%20-%20Uruguay%20-%20Dominio%20P%C3%BAblico_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "FelisbertoHernandezTextosPostumos",
+        "internet_archive": "FelisbertoHernandezTextosPostumos"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "FelisbertoHernandezTextosPostumos",
+          "source_url": "https://archive.org/details/FelisbertoHernandezTextosPostumos",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/FelisbertoHernandezTextosPostumos/Textos%20p%C3%B3stumos%20-%20Felisberto%20Hern%C3%A1ndez%20-%20Uruguay%20-%20Dominio%20P%C3%BAblico.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/FelisbertoHernandezTextosPostumos/Textos%20p%C3%B3stumos%20-%20Felisberto%20Hern%C3%A1ndez%20-%20Uruguay%20-%20Dominio%20P%C3%BAblico_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -178068,48 +178363,6 @@
       ]
     },
     {
-      "id": "work:a1d3ec68c8d5844fbc815c16",
-      "title": "Those Very Welcome",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ulises Del Grecco"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Relato",
-        "diálogo."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ThoseVeryWelcome",
-      "cover_url": "https://archive.org/services/img/ThoseVeryWelcome",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ThoseVeryWelcome",
-        "internet_archive": "ThoseVeryWelcome"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ThoseVeryWelcome",
-          "source_url": "https://archive.org/details/ThoseVeryWelcome",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:ea769b6a936989cc8e534131",
       "title": "Through the Looking-Glass",
       "subtitle": "",
@@ -183164,6 +183417,73 @@
       ]
     },
     {
+      "id": "work:f28339e5033dbe3225cf0f8e",
+      "title": "Trigonometría — TRILCE Academia",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Trilce Academia"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "trilce"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/trilce-academia-trigonometria",
+      "cover_url": "https://archive.org/services/img/trilce-academia-trigonometria",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/trilce-academia-trigonometria/Extra%20-%20%C3%81ngulo%20Trigonom%C3%A9trico.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/trilce-academia-trigonometria/Anual%20SM%20-%20Sistemas%20de%20Medici%C3%B3n%20Angular%20II_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/trilce-academia-trigonometria/Anual%20SM%20-%20Sistemas%20de%20Medici%C3%B3n%20Angular%20II_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "trilce-academia-trigonometria",
+        "internet_archive": "trilce-academia-trigonometria"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "trilce-academia-trigonometria",
+          "source_url": "https://archive.org/details/trilce-academia-trigonometria",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/trilce-academia-trigonometria/Extra%20-%20%C3%81ngulo%20Trigonom%C3%A9trico.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/trilce-academia-trigonometria/Anual%20SM%20-%20Sistemas%20de%20Medici%C3%B3n%20Angular%20II_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/trilce-academia-trigonometria/Anual%20SM%20-%20Sistemas%20de%20Medici%C3%B3n%20Angular%20II_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:fca4a909e87e5bc590176e99",
       "title": "Troilus and Cressida",
       "subtitle": "",
@@ -184679,157 +184999,6 @@
       ]
     },
     {
-      "id": "work:a87f448c637db3f235c6588c",
-      "title": "Tubert, S. (ed.) Del Sexo Al Género. Los Equívocos De Un Concepto [ocr] [2003]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "S. Tubert (ed.)"
-      ],
-      "language": "es",
-      "year": 2003,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "feminismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003",
-      "cover_url": "https://archive.org/services/img/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003",
-        "internet_archive": "tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003",
-          "source_url": "https://archive.org/details/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/tubert-s.-ed.-del-sexo-al-genero.-los-equivocos-de-un-concepto-ocr-2003/Tubert%2C%20S.%20%28ed.%29%20-%20Del%20sexo%20al%20g%C3%A9nero.%20Los%20equ%C3%ADvocos%20de%20un%20concepto%20%5Bocr%5D%20%5B2003%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:852f62b7e646024422186c79",
-      "title": "Tuchman, Barbara W. Los Cañones De Agosto [EPL FS] [1962] [2019]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Barbara W. Tuchman"
-      ],
-      "language": "es",
-      "year": 2019,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "historia",
-        "guerra"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019",
-      "cover_url": "https://archive.org/services/img/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019",
-        "internet_archive": "tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019",
-          "source_url": "https://archive.org/details/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/tuchman-barbara-w.-los-canones-de-agosto-epl-fs-1962-2019/Tuchman%2C%20Barbara%20W.%20-%20Los%20ca%C3%B1ones%20de%20agosto%20%5BEPL-FS%5D%20%5B1962%5D%20%5B2019%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:98a95846b82b24419a6d2306",
       "title": "Türkische Übersetzungen aus dem Arabischen und Persischen",
       "subtitle": "Akteure, Adaption und Rezeption in der Frühen Neuzeit",
@@ -186001,53 +186170,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:8d03030bda6b9a29ec79bfa4",
-      "title": "Un lector beligerante. Las lecturas de Manuel José de Lavardén",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Matías Maggio Ramírez"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historia de la prensa",
-        "Civilidad",
-        "Historia de la lectura",
-        "Costumbres",
-        "Identidad",
-        "Buenos Aires",
-        "Virreinato del Río de la Plata"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
-      "cover_url": "https://archive.org/services/img/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
-        "internet_archive": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
-          "source_url": "https://archive.org/details/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -188123,57 +188245,6 @@
       ]
     },
     {
-      "id": "work:352bed6f745a42807cd3e122",
-      "title": "Vente Venezuela Wikipedia, La Enciclopedia Libre",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "VanillaMizc"
-      ],
-      "language": "es",
-      "year": 2019,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Viva Venezuela"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ventevenezuelawikipedialaenciclopedialibre_201909",
-      "cover_url": "https://archive.org/services/img/ventevenezuelawikipedialaenciclopedialibre_201909",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/ventevenezuelawikipedialaenciclopedialibre_201909/Vente%20Venezuela%20-%20Wikipedia%2C%20la%20enciclopedia%20libre.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ventevenezuelawikipedialaenciclopedialibre_201909",
-        "internet_archive": "ventevenezuelawikipedialaenciclopedialibre_201909"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ventevenezuelawikipedialaenciclopedialibre_201909",
-          "source_url": "https://archive.org/details/ventevenezuelawikipedialaenciclopedialibre_201909",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/ventevenezuelawikipedialaenciclopedialibre_201909/Vente%20Venezuela%20-%20Wikipedia%2C%20la%20enciclopedia%20libre.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:306c8f04c88ee2cfd107852b",
       "title": "Venus im Pelz",
       "subtitle": "",
@@ -190220,82 +190291,6 @@
       ]
     },
     {
-      "id": "work:6f7d2a03dbb2d9da3f2ebee1",
-      "title": "Ward, Aengus. Estoria De Los Godos [2006]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "A. Ward"
-      ],
-      "language": "es",
-      "year": 2006,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "historia de España",
-        "History of Spain"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ward-aengus.-estoria-de-los-godos-2006_202107",
-      "cover_url": "https://archive.org/services/img/ward-aengus.-estoria-de-los-godos-2006_202107",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ward-aengus.-estoria-de-los-godos-2006_202107",
-        "internet_archive": "ward-aengus.-estoria-de-los-godos-2006_202107"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ward-aengus.-estoria-de-los-godos-2006_202107",
-          "source_url": "https://archive.org/details/ward-aengus.-estoria-de-los-godos-2006_202107",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/ward-aengus.-estoria-de-los-godos-2006_202107/Ward%2C%20Aengus.%20-%20Estoria%20de%20los%20Godos%20%5B2006%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:809cb28c3eb5637b4520dbec",
       "title": "Wärmepolitik zwischen Ölkrisen und Klimawandel",
       "subtitle": "Die staatliche Regulierung des energiesparenden Heizens in der Bundesrepublik Deutschland, 1970-1995",
@@ -191908,6 +191903,51 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:02dc7e2d40d52f9706630729",
+      "title": "Wiki - FamilySearch Research Wiki (es)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "The Church of Jesus Christ of Latter-day Saints"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "MediaWiki",
+        "wiki",
+        "wikiteam",
+        "genealogy",
+        "FamilySearch"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/wiki-familysearch.org_es_wiki",
+      "cover_url": "https://archive.org/services/img/wiki-familysearch.org_es_wiki",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "wiki-familysearch.org_es_wiki",
+        "internet_archive": "wiki-familysearch.org_es_wiki"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "wiki-familysearch.org_es_wiki",
+          "source_url": "https://archive.org/details/wiki-familysearch.org_es_wiki",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
