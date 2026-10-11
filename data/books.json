@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T11:17:45.031902Z",
+  "generated_at": "2026-10-11T11:30:03.063168Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -12272,6 +12272,57 @@
       ]
     },
     {
+      "id": "work:15ec2a76da001c119fb7232d",
+      "title": "Analu's Blog ☆",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "cherryaanalu"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "blog"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/httpsanalu.dariomorales.me",
+      "cover_url": "https://archive.org/services/img/httpsanalu.dariomorales.me",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/httpsanalu.dariomorales.me/analu%27s%20blog%20%E2%98%86.html"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "httpsanalu.dariomorales.me",
+        "internet_archive": "httpsanalu.dariomorales.me"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "httpsanalu.dariomorales.me",
+          "source_url": "https://archive.org/details/httpsanalu.dariomorales.me",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/httpsanalu.dariomorales.me/analu%27s%20blog%20%E2%98%86.html"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:25617b50dec6df643d289186",
       "title": "Analysis of Algorithms, Deluxe Edition",
       "subtitle": "",
@@ -22282,113 +22333,113 @@
       ]
     },
     {
-      "id": "work:cad07889f1a567b1492bb43f",
+      "id": "work:97ac0b02a67182057c6a0f72",
       "title": "Biology",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Neil Allison Campbell"
+        "Neil Alexander Campbell"
       ],
-      "language": "fr",
+      "language": "en",
       "year": 1987,
       "publisher": "10th edition (2014)",
       "isbn": [
-        "0321536169",
-        "0321544242",
-        "0201718227",
-        "3868942599",
-        "8479039981",
-        "9780321175892",
-        "9781292008721",
-        "9780201718225",
-        "0805318801",
-        "9780321762573",
-        "9780805368192",
-        "9780131943285",
-        "0805371710",
-        "9780321775658",
-        "0131943286",
-        "9780582831520",
-        "0805319409",
-        "9780130625922",
-        "9780805320183",
-        "0134446526",
-        "9780805368444",
-        "9780805318401",
-        "0582831520",
-        "0130625922",
-        "9780321544247",
-        "9781269898690",
-        "020150331X",
-        "9780321686510",
-        "0805368191",
-        "9780321536167",
-        "0805318054",
-        "0134189116",
-        "0321175891",
-        "9783868942590",
-        "0805319573",
-        "9780321543257",
-        "9780321269843",
-        "9780805371710",
-        "9780805318807",
-        "0805366245",
-        "9780805371468",
-        "9780805371604",
-        "9780201503319",
-        "0805368442",
-        "9780805366785",
-        "9781442502215",
-        "1292008725",
-        "2761313798",
-        "9780321332943",
-        "9780536631237",
         "0321939050",
-        "0321494342",
-        "9780805319309",
-        "9780805318050",
-        "1269898698",
-        "0273678388",
-        "080537146X",
-        "9783827413529",
-        "9782761306539",
-        "0321686519",
-        "0321269845",
-        "9780321494344",
-        "9782761313797",
-        "0321778308",
-        "9780805319408",
-        "0805319301",
-        "0805318402",
-        "9788479039981",
-        "0321332946",
-        "0805365737",
-        "0805371605",
-        "9780805318005",
+        "9780321536167",
+        "9783868942590",
         "9780321623539",
-        "9780321778307",
-        "9780273678380",
-        "2761306538",
-        "9780321939050",
-        "9780805319576",
-        "0321543254",
-        "9780134447285",
-        "0321775651",
-        "9780805366242",
-        "0805366784",
+        "0805368442",
+        "9780321494344",
+        "2761313798",
+        "0805368191",
+        "0805365664",
+        "0805318054",
+        "9780130625922",
+        "8479039981",
         "0321623533",
+        "9780805368192",
+        "9780134189116",
+        "9780321544247",
+        "0805366784",
+        "080537146X",
+        "0805318003",
+        "9780321939050",
+        "9783827413529",
+        "0536631239",
+        "9780201718225",
+        "020150331X",
+        "9788479039981",
+        "0321494342",
+        "9780805318401",
+        "9780321269843",
+        "9782761313797",
+        "9780805319309",
+        "9780805365733",
+        "0321175891",
+        "0805366245",
+        "0805319301",
+        "9780321543257",
+        "0805365737",
         "0805320180",
         "9780805365665",
-        "0536631239",
-        "0805318003",
-        "1442502215",
-        "013444728X",
         "3827413524",
-        "0805365664",
-        "9780805365733",
-        "9780134446523",
+        "9780321175892",
+        "9780321686510",
+        "0805318801",
+        "0582831520",
+        "9780321775658",
+        "013444728X",
+        "0805319573",
         "0321762576",
-        "9780134189116"
+        "0321778308",
+        "1442502215",
+        "0134446526",
+        "9780805371468",
+        "9780134446523",
+        "9780273678380",
+        "9780805371710",
+        "0131943286",
+        "0805319409",
+        "9780805320183",
+        "0805318402",
+        "0321544242",
+        "0321269845",
+        "9780201503319",
+        "0321686519",
+        "0321543254",
+        "0134189116",
+        "9780805366785",
+        "1269898698",
+        "0130625922",
+        "9780805318807",
+        "9780321332943",
+        "2761306538",
+        "1292008725",
+        "0805371605",
+        "9780321762573",
+        "9782761306539",
+        "9780131943285",
+        "9780805368444",
+        "9780805371604",
+        "9780805366242",
+        "9780536631237",
+        "0321775651",
+        "9781292008721",
+        "9780805319576",
+        "9780321778307",
+        "9781442502215",
+        "9780805318050",
+        "9780805319408",
+        "9780582831520",
+        "3868942599",
+        "9780134447285",
+        "0201718227",
+        "9780805318005",
+        "9781269898690",
+        "0273678388",
+        "0321332946",
+        "0805371710",
+        "0321536169"
       ],
       "doi": "",
       "subjects": [],
@@ -22411,7 +22462,7 @@
           "source": "Open Library",
           "source_id": "OL1983087W",
           "source_url": "https://openlibrary.org/works/OL1983087W",
-          "language": "fr",
+          "language": "en",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -45885,6 +45936,75 @@
       ]
     },
     {
+      "id": "work:95bb540e6c57c9b934799e10",
+      "title": "Distinguidas Damas visitan la Estacion",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Agricultural Experiment Station Library"
+      ],
+      "language": "es",
+      "year": 1963,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "publication",
+        "estacion experimental agricola",
+        "universidad de Puerto Rico"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/hoja-nota-informativa-eea-num-46-22enero-1963pdf",
+      "cover_url": "https://archive.org/services/img/hoja-nota-informativa-eea-num-46-22enero-1963pdf",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "hoja-nota-informativa-eea-num-46-22enero-1963pdf",
+        "internet_archive": "hoja-nota-informativa-eea-num-46-22enero-1963pdf"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "hoja-nota-informativa-eea-num-46-22enero-1963pdf",
+          "source_url": "https://archive.org/details/hoja-nota-informativa-eea-num-46-22enero-1963pdf",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-46-22enero-1963pdf/Hoja-NotaInformativaEEA_num46_22enero1963pdf_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:98c46119b30a9501a075a0ec",
       "title": "Distributed Productivities",
       "subtitle": "Digital Transcreation and the New World Order of Cultural Production",
@@ -49713,47 +49833,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:2684e98643b9aa9281c11492",
-      "title": "El Conocimiento De La Nza En La KU Oroño Matias",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Matías Hernán Oroño"
-      ],
-      "language": "es",
-      "year": 2011,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Filosofía germana"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/el-conocimiento-de-la-nza-en-la-ku-orono-matias",
-      "cover_url": "https://archive.org/services/img/el-conocimiento-de-la-nza-en-la-ku-orono-matias",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "el-conocimiento-de-la-nza-en-la-ku-orono-matias",
-        "internet_archive": "el-conocimiento-de-la-nza-en-la-ku-orono-matias"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "el-conocimiento-de-la-nza-en-la-ku-orono-matias",
-          "source_url": "https://archive.org/details/el-conocimiento-de-la-nza-en-la-ku-orono-matias",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -67904,70 +67983,6 @@
       ]
     },
     {
-      "id": "work:4e0db1c9b8b8832e32f09410",
-      "title": "Hardcorp",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Maielis González Fernández, NGC 3660"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Hardcorp",
-        "NGC 3660",
-        "Maielis González Fernández",
-        "Relato ciencia ficción",
-        "Ciencia ficción",
-        "Relato"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Hardcorp_maielis",
-      "cover_url": "https://archive.org/services/img/Hardcorp_maielis",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Hardcorp_maielis/Hardcorp.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Hardcorp_maielis/Hardcorp_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Hardcorp_maielis",
-        "internet_archive": "Hardcorp_maielis"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Hardcorp_maielis",
-          "source_url": "https://archive.org/details/Hardcorp_maielis",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Hardcorp_maielis/Hardcorp.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Hardcorp_maielis/Hardcorp_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:4233a978ffe1cefef402efbb",
       "title": "Harmful Trademarks",
       "subtitle": "Towards a New Understanding of Moral Bars in GCC Registration",
@@ -68127,51 +68142,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:cb15c211677f9eb65b328e7b",
-      "title": "Harry Potter",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Alejandra Noroña"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Magia",
-        "amistad",
-        "maldad",
-        "heroismo",
-        "etc."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HarryPotter_201503",
-      "cover_url": "https://archive.org/services/img/HarryPotter_201503",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HarryPotter_201503",
-        "internet_archive": "HarryPotter_201503"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HarryPotter_201503",
-          "source_url": "https://archive.org/details/HarryPotter_201503",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by/3.0/",
           "verified_legal": true
         }
       ]
@@ -69332,6 +69302,76 @@
       ]
     },
     {
+      "id": "work:ad9d0c514b128b0a66d1b631",
+      "title": "Heller, Michel. El Hombre Nuevo Sovietico. De La Utopia A La Realidad [ocr] [1985]",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "M. Heller"
+      ],
+      "language": "es",
+      "year": 1985,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "historia",
+        "totalitarismo",
+        "utopia",
+        "comunismo"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985",
+      "cover_url": "https://archive.org/services/img/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985",
+        "internet_archive": "heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985",
+          "source_url": "https://archive.org/details/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/heller-michel.-el-hombre-nuevo-sovietico.-de-la-utopia-a-la-realidad-ocr-1985/Heller%2C%20Michel.%20-%20El%20hombre%20nuevo%20sovietico.%20De%20la%20utopia%20a%20la%20realidad%20%5Bocr%5D%20%5B1985%5D_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:17fb10f89643fa289f69703b",
       "title": "Hemingway, Ecology and Culture",
       "subtitle": "Re-reading Hemingway in the Anthropocene",
@@ -69510,6 +69550,81 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:77deee316ec713611c134c19",
+      "title": "Henry E. Allison, El Idealismo Trascendental De Kant Una Interpretación Y Defensa",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Henry E. Allison"
+      ],
+      "language": "es",
+      "year": 1998,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Filosofía"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa",
+      "cover_url": "https://archive.org/services/img/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa",
+        "internet_archive": "henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa",
+          "source_url": "https://archive.org/details/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/henry-e.-allison-el-idealismo-trascendental-de-kant-una-interpretacion-y-defensa/Henry%20E.%20Allison%2C%20El%20idealismo%20trascendental%20de%20Kant%20una%20interpretaci%C3%B3n%20y%20defensa_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -70558,64 +70673,144 @@
       ]
     },
     {
-      "id": "work:41596929b854374f8bd6b414",
-      "title": "HFChilena",
+      "id": "work:cce033ac658e81fbb3b1d032",
+      "title": "HeraldoDeNisea2305",
       "subtitle": "",
       "description": "",
-      "authors": [
-        "Linda Billikopf"
-      ],
+      "authors": [],
       "language": "es",
-      "year": 2017,
+      "year": 2023,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "genealogia",
-        "chile",
-        "chilena",
-        "historia familiar",
-        "arbol genealogico"
+        "nisea",
+        "periódico",
+        "diario",
+        "srtn"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HFChilena_201709",
-      "cover_url": "https://archive.org/services/img/HFChilena_201709",
+      "source_url": "https://archive.org/details/hn-2305",
+      "cover_url": "https://archive.org/services/img/hn-2305",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/HFChilena_201709/HFChilena.pdf"
+          "url": "https://archive.org/download/hn-2305/HN2305.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/hn-2305/HN2305_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/HFChilena_201709/HFChilena_djvu.txt"
+          "url": "https://archive.org/download/hn-2305/HN2305_djvu.txt"
         }
       ],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "HFChilena_201709",
-        "internet_archive": "HFChilena_201709"
+        "source_id": "hn-2305",
+        "internet_archive": "hn-2305"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "HFChilena_201709",
-          "source_url": "https://archive.org/details/HFChilena_201709",
+          "source_id": "hn-2305",
+          "source_url": "https://archive.org/details/hn-2305",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/HFChilena_201709/HFChilena.pdf"
+              "url": "https://archive.org/download/hn-2305/HN2305.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/hn-2305/HN2305_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/HFChilena_201709/HFChilena_djvu.txt"
+              "url": "https://archive.org/download/hn-2305/HN2305_djvu.txt"
             }
           ],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c1ed311f5f6f592d7adb2eda",
+      "title": "Herman Bavinck, El Reino De Dios El Bien Supremo",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Herman Bavinck y Israel Leiva"
+      ],
+      "language": "es",
+      "year": 2021,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Teología Espiritual"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/herman-bavinck-el-reino-de-dios-el-bien-supremo",
+      "cover_url": "https://archive.org/services/img/herman-bavinck-el-reino-de-dios-el-bien-supremo",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "herman-bavinck-el-reino-de-dios-el-bien-supremo",
+        "internet_archive": "herman-bavinck-el-reino-de-dios-el-bien-supremo"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "herman-bavinck-el-reino-de-dios-el-bien-supremo",
+          "source_url": "https://archive.org/details/herman-bavinck-el-reino-de-dios-el-bien-supremo",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/herman-bavinck-el-reino-de-dios-el-bien-supremo/Herman%20Bavinck%2C%20El%20Reino%20de%20Dios%20El%20Bien%20Supremo_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -70814,81 +71009,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6a4a3289e0fd5700284043a8",
-      "title": "Higiene",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Wikipedia"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Wikipedia",
-        "Article",
-        "Articles",
-        "Wikipedia Article",
-        "Wikipedia Articles",
-        "Artículo",
-        "Artículos",
-        "Artículo de Wikipedia",
-        "Artículos de Wikipedia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Higiene",
-      "cover_url": "https://archive.org/services/img/Higiene",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Higiene/Higiene.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/Higiene/Higiene_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Higiene/Higiene_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Higiene",
-        "internet_archive": "Higiene"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Higiene",
-          "source_url": "https://archive.org/details/Higiene",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Higiene/Higiene.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/Higiene/Higiene_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Higiene/Higiene_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -71157,6 +71277,81 @@
       ]
     },
     {
+      "id": "work:65ccfd0e16f58d5e3bad7883",
+      "title": "Histologia Ross 6ta edicion",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "ross"
+      ],
+      "language": "es",
+      "year": 2007,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "histologia"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/histologia-ross",
+      "cover_url": "https://archive.org/services/img/histologia-ross",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/histologia-ross/Histologia_Ross.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/histologia-ross/Histologia_Ross.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/histologia-ross/Histologia_Ross_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/histologia-ross/Histologia_Ross_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "histologia-ross",
+        "internet_archive": "histologia-ross"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "histologia-ross",
+          "source_url": "https://archive.org/details/histologia-ross",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/histologia-ross/Histologia_Ross.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/histologia-ross/Histologia_Ross.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/histologia-ross/Histologia_Ross_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/histologia-ross/Histologia_Ross_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:c2d82487138a50f27d8c550d",
       "title": "Histología veterinaria básica",
       "subtitle": "",
@@ -71209,6 +71404,73 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:7757455651624689c1b6860d",
+      "title": "Historia animalium",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Universidad de Barcelona. Secció de Zoologia"
+      ],
+      "language": "und",
+      "year": 1992,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Zoology"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/historiaanimaliu1199univ",
+      "cover_url": "https://archive.org/services/img/historiaanimaliu1199univ",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "historiaanimaliu1199univ",
+        "internet_archive": "historiaanimaliu1199univ"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "historiaanimaliu1199univ",
+          "source_url": "https://archive.org/details/historiaanimaliu1199univ",
+          "language": "und",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/historiaanimaliu1199univ/historiaanimaliu1199univ_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
           "verified_legal": true
         }
       ]
@@ -71382,6 +71644,156 @@
       ]
     },
     {
+      "id": "work:e8acca0d31dd1502140c2283",
+      "title": "Historia De La Filosofía. De Spinoza A Kant. Tomo 4, Giovanni Reale Y Dario Antiseri",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Giovanni Reale - Darío Antíseri"
+      ],
+      "language": "es",
+      "year": 2003,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Filosofía europea post-Descartes hasta Immanuel Kant"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri",
+      "cover_url": "https://archive.org/services/img/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri",
+        "internet_archive": "historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri",
+          "source_url": "https://archive.org/details/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/historia-de-la-filosofia.-de-spinoza-a-kant.-tomo-4-giovanni-reale-y-dario-antiseri/Historia%20de%20la%20Filosof%C3%ADa.%20De%20Spinoza%20a%20Kant.%20Tomo%204%2C%20Giovanni%20Reale%20y%20Dario%20Antiseri_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:96981e0e678426ebd1742b85",
+      "title": "Historia De La Filosofía Griega Tomo Ll, Luciano De Crescenzo",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Luciano de Crescenzo"
+      ],
+      "language": "es",
+      "year": 2001,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Filosofía"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo",
+      "cover_url": "https://archive.org/services/img/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo",
+        "internet_archive": "historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo",
+          "source_url": "https://archive.org/details/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/historia-de-la-filosofia-griega-tomo-ll-luciano-de-crescenzo/Historia%20de%20la%20filosof%C3%ADa%20griega%20tomo%20ll%2C%20Luciano%20de%20Crescenzo_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f9e1d476de55a3d3032139ce",
       "title": "Historia de la informática en Latinoamérica y el Caribe",
       "subtitle": "",
@@ -71426,135 +71838,142 @@
       ]
     },
     {
-      "id": "work:f15390016d5ff7a0fdf2828b",
-      "title": "Historia De Los Animales",
+      "id": "work:a16dc96eee0b0f4848650600",
+      "title": "Historia De Las Farmacias En La Ciudad De La Paz Entre Los Siglos XIX Y XX",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Aristoteles"
+        "Claudia Sejas Rivero"
       ],
       "language": "es",
-      "year": 1000,
+      "year": 2010,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "aristoteles",
-        "historia de los animales",
-        "animalium"
+        "Farmacias",
+        "boticas",
+        "historia",
+        "La Paz",
+        "Bolivia",
+        "medicina",
+        "ciudad"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HistoriaDeLosAnimales",
-      "cover_url": "https://archive.org/services/img/HistoriaDeLosAnimales",
+      "source_url": "https://archive.org/details/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx",
+      "cover_url": "https://archive.org/services/img/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales.pdf"
+          "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX.pdf"
         },
         {
-          "type": "epub",
-          "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales.epub"
+          "type": "html",
+          "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales_djvu.txt"
+          "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX_djvu.txt"
         }
       ],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "HistoriaDeLosAnimales",
-        "internet_archive": "HistoriaDeLosAnimales"
+        "source_id": "historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx",
+        "internet_archive": "historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "HistoriaDeLosAnimales",
-          "source_url": "https://archive.org/details/HistoriaDeLosAnimales",
+          "source_id": "historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx",
+          "source_url": "https://archive.org/details/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales.pdf"
+              "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX.pdf"
             },
             {
-              "type": "epub",
-              "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales.epub"
+              "type": "html",
+              "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/HistoriaDeLosAnimales/Historia%20de%20los%20animales_djvu.txt"
+              "url": "https://archive.org/download/historia-de-las-farmacias-en-la-ciudad-de-la-paz-entre-los-siglos-xix-y-xx/Historia%20de%20las%20farmacias%20en%20la%20Ciudad%20de%20La%20Paz%20entre%20los%20siglos%20XIX%20y%20XX_djvu.txt"
             }
           ],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
     },
     {
-      "id": "work:37c4c4dca8ac11ba6977b1f7",
-      "title": "Historia del emperador Carlo Magno, en la qual se trata de las grandes proezas, y hazañas de los doze pares de Francia, y de como fueron vendidos por el traydor Ganalon, y de la cruda batalla que huuo Oliueros, con Fierabras rey de Alexandria, hijo del Almirante Balan.",
+      "id": "work:2c01fcbe9e9f160fe9954aef",
+      "title": "Historia De Polybio Megalopolitano",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Nicolás de Piemonte"
+        "Polibio"
       ],
       "language": "es",
-      "year": 1675,
+      "year": null,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Hystoria de Carlomagno",
-        "Jean Bagnyon",
-        "medieval literature",
-        "Spanish translation",
-        "Middle Ages",
-        "Renaissance",
-        "Spain"
+        "Polibio",
+        "Historia"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HistoriaDelEmperadorCarloMagno1675",
-      "cover_url": "https://archive.org/services/img/HistoriaDelEmperadorCarloMagno1675",
+      "source_url": "https://archive.org/details/historia-de-polybio-megalopolitano",
+      "cover_url": "https://archive.org/services/img/historia-de-polybio-megalopolitano",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/HistoriaDelEmperadorCarloMagno1675/Historia_del_Emperador_Carlo_Magno_1675.pdf"
+          "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/HistoriaDelEmperadorCarloMagno1675/Historia_del_Emperador_Carlo_Magno_1675_djvu.txt"
+          "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano_djvu.txt"
         }
       ],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "HistoriaDelEmperadorCarloMagno1675",
-        "internet_archive": "HistoriaDelEmperadorCarloMagno1675"
+        "source_id": "historia-de-polybio-megalopolitano",
+        "internet_archive": "historia-de-polybio-megalopolitano"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "HistoriaDelEmperadorCarloMagno1675",
-          "source_url": "https://archive.org/details/HistoriaDelEmperadorCarloMagno1675",
+          "source_id": "historia-de-polybio-megalopolitano",
+          "source_url": "https://archive.org/details/historia-de-polybio-megalopolitano",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/HistoriaDelEmperadorCarloMagno1675/Historia_del_Emperador_Carlo_Magno_1675.pdf"
+              "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/HistoriaDelEmperadorCarloMagno1675/Historia_del_Emperador_Carlo_Magno_1675_djvu.txt"
+              "url": "https://archive.org/download/historia-de-polybio-megalopolitano/Historia_de_Polybio_Megalopolitano_djvu.txt"
             }
           ],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -71795,80 +72214,6 @@
       ]
     },
     {
-      "id": "work:33e6d4410698a9cfa93ddfd8",
-      "title": "History of the South American Telephone and Telegraph Systems (1921)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Berthold, Victor Maximilian"
-      ],
-      "language": "es",
-      "year": 1921,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "telephone",
-        "telegraph",
-        "south america",
-        "argentine",
-        "brazil",
-        "chile",
-        "colombia",
-        "uruguay"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HistorySouthAmericanTelephoneTelegraphSystems",
-      "cover_url": "https://archive.org/services/img/HistorySouthAmericanTelephoneTelegraphSystems",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HistorySouthAmericanTelephoneTelegraphSystems",
-        "internet_archive": "HistorySouthAmericanTelephoneTelegraphSystems"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HistorySouthAmericanTelephoneTelegraphSystems",
-          "source_url": "https://archive.org/details/HistorySouthAmericanTelephoneTelegraphSystems",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HistorySouthAmericanTelephoneTelegraphSystems/HistorySouthAmericanTelephoneTelegraphSystems_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:89b03b7f1a97aa9c1cefd87f",
       "title": "History of Tom Jones, a Foundling",
       "subtitle": "",
@@ -72034,67 +72379,77 @@
       ]
     },
     {
-      "id": "work:f90a2adfb1fb1d67074b5864",
-      "title": "Hoja De Venta MARROQUINERIA 2015",
+      "id": "work:b6642304088e8fba6e5ff455",
+      "title": "Hölkeskamp, Karl Joachim. La Cultura Política De La República Romana [2019]",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Cabero Group 1916, S.A."
+        "Karl-Joachim Hölkeskamp"
       ],
       "language": "es",
-      "year": 2014,
+      "year": 2019,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "FINOCAM",
-        "AGENDA",
-        "OUTLET",
-        "CARTERAS",
-        "PIEL",
-        "MONEDEROS",
-        "TARJETEROS",
-        "ESTUCHES"
+        "historia romana",
+        "historia de Roma"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HojaDeVentaMARROQUINERIA2015",
-      "cover_url": "https://archive.org/services/img/HojaDeVentaMARROQUINERIA2015",
+      "source_url": "https://archive.org/details/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019",
+      "cover_url": "https://archive.org/services/img/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/HojaDeVentaMARROQUINERIA2015/Hoja%20de%20venta%20MARROQUINERIA%202015.pdf"
+          "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/HojaDeVentaMARROQUINERIA2015/Hoja%20de%20venta%20MARROQUINERIA%202015_djvu.txt"
+          "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D_djvu.txt"
         }
       ],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "HojaDeVentaMARROQUINERIA2015",
-        "internet_archive": "HojaDeVentaMARROQUINERIA2015"
+        "source_id": "holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019",
+        "internet_archive": "holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "HojaDeVentaMARROQUINERIA2015",
-          "source_url": "https://archive.org/details/HojaDeVentaMARROQUINERIA2015",
+          "source_id": "holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019",
+          "source_url": "https://archive.org/details/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/HojaDeVentaMARROQUINERIA2015/Hoja%20de%20venta%20MARROQUINERIA%202015.pdf"
+              "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/HojaDeVentaMARROQUINERIA2015/Hoja%20de%20venta%20MARROQUINERIA%202015_djvu.txt"
+              "url": "https://archive.org/download/holkeskamp-karl-joachim.-la-cultura-politica-de-la-republica-romana-2019/H%C3%B6lkeskamp%2C%20Karl-Joachim.%20-%20La%20cultura%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20Romana%20%5B2019%5D_djvu.txt"
             }
           ],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -72176,36 +72531,103 @@
       ]
     },
     {
-      "id": "work:c87dfafd9d60599a0869dce7",
-      "title": "Homologación Desmotadores 11 Noviembre 2014",
+      "id": "work:d9a55dd8f2ce851c044b3cd6",
+      "title": "Homo sacer I. El poder soberano y la nuda vida",
       "subtitle": "",
       "description": "",
       "authors": [
-        "F.T.C.I.O.D y A.R.A."
+        "Giorgio Agamben"
       ],
       "language": "es",
-      "year": 2014,
+      "year": null,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "obreros desmotadores de algodón",
-        "convenio colectivo de trabajo",
-        "F.T.C.I.O.D y A.R.A.",
-        "Federación de Trabajadores del Complejo Industrial Oleaginoso",
-        "Desmotadores de Algodón y Afines de la República Argentina"
+        "Homo sacer",
+        "Filosofía",
+        "Soberanía"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HomologacionDesmotadores11Noviembre2014",
-      "cover_url": "https://archive.org/services/img/HomologacionDesmotadores11Noviembre2014",
+      "source_url": "https://archive.org/details/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben",
+      "cover_url": "https://archive.org/services/img/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/HomologacionDesmotadores11Noviembre2014/Homologaci%C3%B3n%20Desmotadores%20-%2011%20noviembre%202014.pdf"
+          "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/HomologacionDesmotadores11Noviembre2014/Homologaci%C3%B3n%20Desmotadores%20-%2011%20noviembre%202014_djvu.txt"
+          "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben",
+        "internet_archive": "homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben",
+          "source_url": "https://archive.org/details/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/homo-sacer-i.-el-poder-soberano-y-la-nud-giorgio-agamben/Homo%20sacer%20I.%20El%20poder%20soberano%20y%20la%20nud%20-%20Giorgio%20Agamben_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8f62f279b0de20eabadaf903",
+      "title": "hooks",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "HOok"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/hooks_202108",
+      "cover_url": "https://archive.org/services/img/hooks_202108",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/hooks_202108/hooks.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/hooks_202108/hooks_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/hooks_202108/hooks_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -72213,23 +72635,27 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "HomologacionDesmotadores11Noviembre2014",
-        "internet_archive": "HomologacionDesmotadores11Noviembre2014"
+        "source_id": "hooks_202108",
+        "internet_archive": "hooks_202108"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "HomologacionDesmotadores11Noviembre2014",
-          "source_url": "https://archive.org/details/HomologacionDesmotadores11Noviembre2014",
+          "source_id": "hooks_202108",
+          "source_url": "https://archive.org/details/hooks_202108",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/HomologacionDesmotadores11Noviembre2014/Homologaci%C3%B3n%20Desmotadores%20-%2011%20noviembre%202014.pdf"
+              "url": "https://archive.org/download/hooks_202108/hooks.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/hooks_202108/hooks_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/HomologacionDesmotadores11Noviembre2014/Homologaci%C3%B3n%20Desmotadores%20-%2011%20noviembre%202014_djvu.txt"
+              "url": "https://archive.org/download/hooks_202108/hooks_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -72638,301 +73064,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:321f18941451b0091f4c5a62",
-      "title": "Hoy año I nr. 103 (12 septiembre 1938)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1938,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cuba",
-        "Historia",
-        "Periodismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HoyAnoINr10312Septiembre1938",
-      "cover_url": "https://archive.org/services/img/HoyAnoINr10312Septiembre1938",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HoyAnoINr10312Septiembre1938/Hoy_ano_I_nr_103_12_septiembre_1938.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HoyAnoINr10312Septiembre1938/Hoy_ano_I_nr_103_12_septiembre_1938_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HoyAnoINr10312Septiembre1938",
-        "internet_archive": "HoyAnoINr10312Septiembre1938"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HoyAnoINr10312Septiembre1938",
-          "source_url": "https://archive.org/details/HoyAnoINr10312Septiembre1938",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HoyAnoINr10312Septiembre1938/Hoy_ano_I_nr_103_12_septiembre_1938.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HoyAnoINr10312Septiembre1938/Hoy_ano_I_nr_103_12_septiembre_1938_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a7a542c77fe1430c3d7a3dac",
-      "title": "Hoy año I nr. 106 (15 septiembre 1938)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1938,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cuba",
-        "Historia",
-        "Periodismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HoyAnoINr10615Septiembre1938",
-      "cover_url": "https://archive.org/services/img/HoyAnoINr10615Septiembre1938",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HoyAnoINr10615Septiembre1938/Hoy_ano_I_nr_106_15_septiembre_1938.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HoyAnoINr10615Septiembre1938/Hoy_ano_I_nr_106_15_septiembre_1938_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HoyAnoINr10615Septiembre1938",
-        "internet_archive": "HoyAnoINr10615Septiembre1938"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HoyAnoINr10615Septiembre1938",
-          "source_url": "https://archive.org/details/HoyAnoINr10615Septiembre1938",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HoyAnoINr10615Septiembre1938/Hoy_ano_I_nr_106_15_septiembre_1938.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HoyAnoINr10615Septiembre1938/Hoy_ano_I_nr_106_15_septiembre_1938_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:b23ee1542f3eaaccb4521cc5",
-      "title": "Hoy año I nr. 116 (27 septiembre 1938)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1938,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cuba",
-        "Historia",
-        "Periodismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HoyAnoINr11627Septiembre1938",
-      "cover_url": "https://archive.org/services/img/HoyAnoINr11627Septiembre1938",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HoyAnoINr11627Septiembre1938/Hoy_ano_I_nr_116_27_septiembre_1938.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HoyAnoINr11627Septiembre1938/Hoy_ano_I_nr_116_27_septiembre_1938_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HoyAnoINr11627Septiembre1938",
-        "internet_archive": "HoyAnoINr11627Septiembre1938"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HoyAnoINr11627Septiembre1938",
-          "source_url": "https://archive.org/details/HoyAnoINr11627Septiembre1938",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HoyAnoINr11627Septiembre1938/Hoy_ano_I_nr_116_27_septiembre_1938.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HoyAnoINr11627Septiembre1938/Hoy_ano_I_nr_116_27_septiembre_1938_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:0113ab9e388cca760aff38ef",
-      "title": "Hoy año I nr. 164 (25 noviembre 1938)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1938,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cuba",
-        "Historia",
-        "Periodismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HoyAnoINr16425Noviembre1938",
-      "cover_url": "https://archive.org/services/img/HoyAnoINr16425Noviembre1938",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HoyAnoINr16425Noviembre1938/Hoy_ano_I_nr_164_25_noviembre_1938.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HoyAnoINr16425Noviembre1938/Hoy_ano_I_nr_164_25_noviembre_1938_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HoyAnoINr16425Noviembre1938",
-        "internet_archive": "HoyAnoINr16425Noviembre1938"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HoyAnoINr16425Noviembre1938",
-          "source_url": "https://archive.org/details/HoyAnoINr16425Noviembre1938",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HoyAnoINr16425Noviembre1938/Hoy_ano_I_nr_164_25_noviembre_1938.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HoyAnoINr16425Noviembre1938/Hoy_ano_I_nr_164_25_noviembre_1938_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:15e02d6627296ae8b33713cd",
-      "title": "Hoy año I nr. 175 (8 diciembre 1938)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1938,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Cuba",
-        "Historia",
-        "Periodismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HoyAnoINr1758Diciembre1938",
-      "cover_url": "https://archive.org/services/img/HoyAnoINr1758Diciembre1938",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HoyAnoINr1758Diciembre1938/Hoy_ano_I_nr_175_8_diciembre_1938.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HoyAnoINr1758Diciembre1938/Hoy_ano_I_nr_175_8_diciembre_1938_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HoyAnoINr1758Diciembre1938",
-        "internet_archive": "HoyAnoINr1758Diciembre1938"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HoyAnoINr1758Diciembre1938",
-          "source_url": "https://archive.org/details/HoyAnoINr1758Diciembre1938",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HoyAnoINr1758Diciembre1938/Hoy_ano_I_nr_175_8_diciembre_1938.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HoyAnoINr1758Diciembre1938/Hoy_ano_I_nr_175_8_diciembre_1938_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -74347,84 +74478,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f0c2ae1b04d155a23c6bdea6",
-      "title": "Iglesias en Diálogo con Tradiciones Asiáticas (Historia Menonita Mundial: Asia)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Lapp, John A. (ed.)",
-        "C. Arnold Snyder (ed.)",
-        "I. P. Asheervadam",
-        "Adhi Dharma",
-        "Alie Hoekema",
-        "Kyong-Jung Kim",
-        "Luke Martin",
-        "Regina Lyn Móndez",
-        "Chiou-Lang Pan",
-        "Nguyen Thanh Tam",
-        "Nguyen Thi Tam",
-        "Takanobu Tojo",
-        "Nguyen Quang Trung",
-        "Masakazu Yamade",
-        "Earl Zimmerman"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historia Menonita Mundial",
-        "Mennonite Global History Project",
-        "Asia",
-        "historia menonita",
-        "historia anabautista",
-        "anabautismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HMMAsia",
-      "cover_url": "https://archive.org/services/img/HMMAsia",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HMMAsia/HMMAsia.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HMMAsia/HMMAsia_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HMMAsia",
-        "internet_archive": "HMMAsia"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HMMAsia",
-          "source_url": "https://archive.org/details/HMMAsia",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HMMAsia/HMMAsia.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HMMAsia/HMMAsia_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -87651,47 +87704,6 @@
       ]
     },
     {
-      "id": "work:343940c797511fa1169824d1",
-      "title": "Koinonia Y Justicia En La República Y Parménides De Platón",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Raúl Gutiérrez"
-      ],
-      "language": "es",
-      "year": 2022,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Filosofía"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311",
-      "cover_url": "https://archive.org/services/img/koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311",
-        "internet_archive": "koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311",
-          "source_url": "https://archive.org/details/koinonia-y-justicia-en-la-republica-y-parmenides-de-platon_202311",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:7050d0e760a0503180c87e9a",
       "title": "Kommunale Wohnungspolitik in Zeiten der Krise",
       "subtitle": "Konflikte um Gestaltungsmacht in Tübingen, Frankfurt am Main und Dresden",
@@ -88538,80 +88550,6 @@
           ],
           "access": "open_access",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ca4bc6c5861d141de668777c",
-      "title": "La Fe y la Tradición Puestas a Prueba (Historia Menonita Mundial: Europa)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Lapp, John A. (ed.)",
-        "C. Arnold Snyder (ed.)",
-        "Claude Baecher",
-        "Neal Blough",
-        "James Jakob Fehr",
-        "Alie G. Hoekema",
-        "Hanspeter Jecker",
-        "John N. Klassen",
-        "Diether Gótz Lichdi",
-        "Ed van Straten",
-        "Annelies Verbeek"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Historia Menonita Mundial",
-        "Mennonite Global History Project",
-        "Europa",
-        "historia menonita",
-        "historia anabautista",
-        "anabautismo"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/HMMEuropa",
-      "cover_url": "https://archive.org/services/img/HMMEuropa",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/HMMEuropa/HMMEuropa.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/HMMEuropa/HMMEuropa_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "HMMEuropa",
-        "internet_archive": "HMMEuropa"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "HMMEuropa",
-          "source_url": "https://archive.org/details/HMMEuropa",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/HMMEuropa/HMMEuropa.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/HMMEuropa/HMMEuropa_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -110496,6 +110434,47 @@
       ]
     },
     {
+      "id": "work:817e95e92097a97537083272",
+      "title": "Oficio Segunda Remesa 2019 PEDZE",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gobierno Regional de Arica y Parinacota"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "PEDZE 2019"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
+      "cover_url": "https://archive.org/services/img/oficiosegundaremesa2019pedze",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "oficiosegundaremesa2019pedze",
+        "internet_archive": "oficiosegundaremesa2019pedze"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "oficiosegundaremesa2019pedze",
+          "source_url": "https://archive.org/details/oficiosegundaremesa2019pedze",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:3c4fc87d3b7a59cf935b6836",
       "title": "Oliver Twist, Vol. 2 (of 3)",
       "subtitle": "",
@@ -114764,6 +114743,77 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:82bb0dee66cba59b2e6e04ff",
+      "title": "Palabras del Gobernador, Hon. Luis A. Ferré, en la madrugada del 6 noviembre de 1968",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ferré, Luis Alberto, 1904-2003"
+      ],
+      "language": "es",
+      "year": 1968,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Puerto Rican speeches",
+        "Discursos puertorriqueños",
+        "Ferré, Luis Alberto, 1904-2003",
+        "Puerto Rico politics and government 1952",
+        "Política y gobierno de Puerto Rico 1952-1998"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/hon.-luis-a.-ferre-gobernador-de-puerto-rico",
+      "cover_url": "https://archive.org/services/img/hon.-luis-a.-ferre-gobernador-de-puerto-rico",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "hon.-luis-a.-ferre-gobernador-de-puerto-rico",
+        "internet_archive": "hon.-luis-a.-ferre-gobernador-de-puerto-rico"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "hon.-luis-a.-ferre-gobernador-de-puerto-rico",
+          "source_url": "https://archive.org/details/hon.-luis-a.-ferre-gobernador-de-puerto-rico",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/hon.-luis-a.-ferre-gobernador-de-puerto-rico/Hon.%20Luis%20A.%20Ferre%20Gobernador%20de%20Puerto%20Rico_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -124113,6 +124163,47 @@
       ]
     },
     {
+      "id": "work:bcdca1f24f04416dc39375eb",
+      "title": "Q 400",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "20"
+      ],
+      "language": "es",
+      "year": 1990,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "jgjgjg"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/aaa50005000_gmail_Q400_201311",
+      "cover_url": "https://archive.org/services/img/aaa50005000_gmail_Q400_201311",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "aaa50005000_gmail_Q400_201311",
+        "internet_archive": "aaa50005000_gmail_Q400_201311"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "aaa50005000_gmail_Q400_201311",
+          "source_url": "https://archive.org/details/aaa50005000_gmail_Q400_201311",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:58182d5efbc7f0613aa00f2c",
       "title": "Q-rious About Play",
       "subtitle": "The Case for Playful Intelligence",
@@ -127073,6 +127164,47 @@
       ]
     },
     {
+      "id": "work:2d3ad772dac810f30654ee38",
+      "title": "Reisen",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ejumboeke"
+      ],
+      "language": "es",
+      "year": 1988,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Reisen Ejumboeke Evda Hyparco Spain"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Reisen",
+      "cover_url": "https://archive.org/services/img/Reisen",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Reisen",
+        "internet_archive": "Reisen"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Reisen",
+          "source_url": "https://archive.org/details/Reisen",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:dd7383eff60aec9d215f732b",
       "title": "Relaciones intelectuales entre Nicolai Hartmann y José Ortega y Gasset en los años 1906-1914",
       "subtitle": "",
@@ -129313,67 +129445,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f060784d510c7f878c8a2f6b",
-      "title": "Revista Dominio de las Ciencias",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Polo de Capacitación, Investigación y Publicación (POCAIP)"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "revista científica indexada",
-        "artículo científico Ecuador",
-        "revisión por pares"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Httpdominiodelasciencias.comojsindex.phpes",
-      "cover_url": "https://archive.org/services/img/Httpdominiodelasciencias.comojsindex.phpes",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Httpdominiodelasciencias.comojsindex.phpes/1%20Art.%20Nicolau%20Bioco.doc.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Httpdominiodelasciencias.comojsindex.phpes/1%20Art.%20Nicolau%20Bioco.doc_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Httpdominiodelasciencias.comojsindex.phpes",
-        "internet_archive": "Httpdominiodelasciencias.comojsindex.phpes"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Httpdominiodelasciencias.comojsindex.phpes",
-          "source_url": "https://archive.org/details/Httpdominiodelasciencias.comojsindex.phpes",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Httpdominiodelasciencias.comojsindex.phpes/1%20Art.%20Nicolau%20Bioco.doc.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Httpdominiodelasciencias.comojsindex.phpes/1%20Art.%20Nicolau%20Bioco.doc_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -137833,67 +137904,6 @@
       ]
     },
     {
-      "id": "work:4c4e081ddf38eb7733242c79",
-      "title": "Sevilla en la Guerra de Africa, (1859-1860) : cuadros de hace medio siglo",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Chaves Rey, Manuel, 1870-1914"
-      ],
-      "language": "es",
-      "year": 1910,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Fondo de Humanidades",
-        "Libros del Siglo XX",
-        "Sevilla. Historia de Sevilla"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Hca045021",
-      "cover_url": "https://archive.org/services/img/Hca045021",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Hca045021/HCa045021.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Hca045021/HCa045021_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Hca045021",
-        "internet_archive": "Hca045021"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Hca045021",
-          "source_url": "https://archive.org/details/Hca045021",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Hca045021/HCa045021.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Hca045021/HCa045021_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:1331bb36fff848ee1dd422b3",
       "title": "Sex and Gender",
       "subtitle": "Understanding Entanglement, Transforming Practice",
@@ -137959,47 +137969,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:3360c61ec9718068aeb55407",
-      "title": "sexualidad",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "ziortza LLona Lasagabaster"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "comic feminista sexualidad"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/sexualidad_201801",
-      "cover_url": "https://archive.org/services/img/sexualidad_201801",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "sexualidad_201801",
-        "internet_archive": "sexualidad_201801"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "sexualidad_201801",
-          "source_url": "https://archive.org/details/sexualidad_201801",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -138710,6 +138679,61 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b6674e6aca27cc0381cb1bac",
+      "title": "Situación hídrica en San José del Rincón",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Arenas de Rincon"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "riesgo",
+        "hidrico",
+        "san_jose_del_rincon",
+        "arenas",
+        "santafe",
+        "nestor",
+        "carvallo",
+        "betzabet",
+        "morero",
+        "martin",
+        "morales",
+        "enzo",
+        "visentin",
+        "eugenia",
+        "nocioni"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/arenas-informe-riesgo-hidrico-20170816",
+      "cover_url": "https://archive.org/services/img/arenas-informe-riesgo-hidrico-20170816",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "arenas-informe-riesgo-hidrico-20170816",
+        "internet_archive": "arenas-informe-riesgo-hidrico-20170816"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "arenas-informe-riesgo-hidrico-20170816",
+          "source_url": "https://archive.org/details/arenas-informe-riesgo-hidrico-20170816",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -145766,6 +145790,75 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:938327c51858e40e6e293377",
+      "title": "Técnicos de la Estación asistirán a Séptimo Congreso Latinoamericano de Química en la Ciudad de Mejico",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Agricultural Experiment Station Library"
+      ],
+      "language": "es",
+      "year": 1959,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "publication",
+        "agricultural experiment station",
+        "university of Puerto Rico"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/hoja-nota-informativa-eea-num-9-26-marz-1959",
+      "cover_url": "https://archive.org/services/img/hoja-nota-informativa-eea-num-9-26-marz-1959",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "hoja-nota-informativa-eea-num-9-26-marz-1959",
+        "internet_archive": "hoja-nota-informativa-eea-num-9-26-marz-1959"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "hoja-nota-informativa-eea-num-9-26-marz-1959",
+          "source_url": "https://archive.org/details/hoja-nota-informativa-eea-num-9-26-marz-1959",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/hoja-nota-informativa-eea-num-9-26-marz-1959/Hoja-NotaInformativaEEA_Num9_26Marz1959_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
