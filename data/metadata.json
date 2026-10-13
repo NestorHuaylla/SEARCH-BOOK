@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T13:20:39.590157Z",
-  "total_records": 2277,
-  "catalog_sha256": "1e4f23cae174e2a0b36f5a03c7de28591448b6a3c11a52ef2a3971276ba827d3",
+  "generated_at": "2026-10-13T12:49:29.714479Z",
+  "total_records": 2278,
+  "catalog_sha256": "2b69abfe9cb6b458b430292d1b37f0d523206124bc0826f59644e5210dbfb960",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -11,7 +11,7 @@
       "error": "DOAB: request failed: 403 Client Error: Forbidden for url: https://directory.doabooks.org/rest/search?query=dc.type%3Abook&expand=metadata%2Cbitstreams&limit=25&offset=0&sort=dc.date.accessioned_dt&order=DESC"
     },
     "Free Programming Books": {
-      "records": 173,
+      "records": 174,
       "status": "ok",
       "retained": false
     },
@@ -57,17 +57,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2606680
+      "bytes": 2616623
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2687765
+      "bytes": 2691251
     },
     {
       "path": "data/shards/books-0002.json",
-      "records": 277,
-      "bytes": 841451
+      "records": 278,
+      "bytes": 847038
     }
   ]
 }
