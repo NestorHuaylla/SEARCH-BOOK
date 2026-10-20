@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T10:59:51.386438Z",
+  "generated_at": "2026-10-20T10:13:28.670178Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -6509,6 +6509,48 @@
       ]
     },
     {
+      "id": "work:a0ba8ba26c77f8d7cff364b4",
+      "title": "Actividad 23 Ejemplos De Usos Creativos De Las Tecnologías Digitales ( 1)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Dorantes Castañeda María Fernanda y Zurita Giles Juan Manuel"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuadro descriptivo",
+        "tecnologías digitales"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603",
+      "cover_url": "https://archive.org/services/img/actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603",
+        "internet_archive": "actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603",
+          "source_url": "https://archive.org/details/actividad-23-ejemplos-de-usos-creativos-de-las-tecnologias-digitales-1_20230603",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:b313fbc42bfc9423927e0197",
       "title": "Activism in Design Education",
       "subtitle": "Health, Equity, and Climate Action",
@@ -7531,6 +7573,76 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:ca5bd9f9aed53fb39a212cb1",
+      "title": "Aegidii Bellemerae... in Primam Secundi Decret. Lib. partem Praelectiones...",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Bellemère, Gilles de, 1337-1407",
+        "Senneton, Hermanos"
+      ],
+      "language": "es",
+      "year": 1549,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Fondo Antiguo",
+        "Libros del Siglo XVI",
+        "Proyecto 2026"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ARes18106",
+      "cover_url": "https://archive.org/services/img/ARes18106",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/ARes18106/ARes18106.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/ARes18106/ARes18106_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/ARes18106/ARes18106_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ARes18106",
+        "internet_archive": "ARes18106"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ARes18106",
+          "source_url": "https://archive.org/details/ARes18106",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/ARes18106/ARes18106.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/ARes18106/ARes18106_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/ARes18106/ARes18106_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -11008,76 +11120,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · CC-BY · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:0bc81c5f0f358147202870a7",
-      "title": "Alymkar",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "NimoStar"
-      ],
-      "language": "es",
-      "year": 2022,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Artículo",
-        "Artículos",
-        "Fantasía",
-        "Fantasía Cósmica"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Alymkar",
-      "cover_url": "https://archive.org/services/img/tuscriaturas-miraheze-org-wiki-Alymkar",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tuscriaturas-miraheze-org-wiki-Alymkar",
-        "internet_archive": "tuscriaturas-miraheze-org-wiki-Alymkar"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tuscriaturas-miraheze-org-wiki-Alymkar",
-          "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Alymkar",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -19524,6 +19566,75 @@
       ]
     },
     {
+      "id": "work:b0a17f1b45a5abe650b2cc2c",
+      "title": "Autoridades y Jerarcas de la Administración Pública Nacional (1977)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Presidencia de la República"
+      ],
+      "language": "es",
+      "year": 1977,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "uruguay",
+        "jerarcas",
+        "presidencia"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/UruguayAutoridadesNacionalesJerarcas1977",
+      "cover_url": "https://archive.org/services/img/UruguayAutoridadesNacionalesJerarcas1977",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "UruguayAutoridadesNacionalesJerarcas1977",
+        "internet_archive": "UruguayAutoridadesNacionalesJerarcas1977"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "UruguayAutoridadesNacionalesJerarcas1977",
+          "source_url": "https://archive.org/details/UruguayAutoridadesNacionalesJerarcas1977",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/UruguayAutoridadesNacionalesJerarcas1977/UruguayAutoridadesNacionalesJerarcas1977_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:f941573ffecdcd754ff9f9d4",
       "title": "Autoritäre Bedrohungen der Wissenschaftsfreiheit",
       "subtitle": "",
@@ -23511,6 +23622,102 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by/4.0/ · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c0bde509d6ed8b205594a1fc",
+      "title": "Boletín Barómetro Internacional 04.02.2016",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Barómetro Prensa"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Diego Olivera Evia",
+        "crisis",
+        "capitalismo",
+        "CELAC",
+        "crisis global",
+        "burbuja inmobiliaria",
+        "Macri",
+        "Chile",
+        "Responsabilidad",
+        "Marxista",
+        "Izquierda",
+        "Derecha"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/BoletnBarrmetroInternacional04.02.2016",
+      "cover_url": "https://archive.org/services/img/BoletnBarrmetroInternacional04.02.2016",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "BoletnBarrmetroInternacional04.02.2016",
+        "internet_archive": "BoletnBarrmetroInternacional04.02.2016"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "BoletnBarrmetroInternacional04.02.2016",
+          "source_url": "https://archive.org/details/BoletnBarrmetroInternacional04.02.2016",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:daea7821091a2ec788d1f03e",
+      "title": "Boletin de Barometro Internacional 11.09.2017",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "BAROMETRO INTERNACIONAL"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "bi",
+        "barometro",
+        "boletin",
+        "11"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional11.09.2017",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional11.09.2017",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "BoletinDeBarometroInternacional11.09.2017",
+        "internet_archive": "BoletinDeBarometroInternacional11.09.2017"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "BoletinDeBarometroInternacional11.09.2017",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional11.09.2017",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-sa/3.0/",
           "verified_legal": true
         }
       ]
@@ -32372,6 +32579,47 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:d857f7a8a59c370fe5b81a9d",
+      "title": "CONOCIENDO LAS SEÑ ALES DE LOS TIEMPOS Epub",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "JOSVEN"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "SEÑALES DE LOS TIEMPOS 2031"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/conociendolassenalesdelostiemposepub",
+      "cover_url": "https://archive.org/services/img/conociendolassenalesdelostiemposepub",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "conociendolassenalesdelostiemposepub",
+        "internet_archive": "conociendolassenalesdelostiemposepub"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "conociendolassenalesdelostiemposepub",
+          "source_url": "https://archive.org/details/conociendolassenalesdelostiemposepub",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -50210,122 +50458,42 @@
       ]
     },
     {
-      "id": "work:74e55d0caf52f9877c589986",
-      "title": "El Fígaro (Tomo I, #10)",
+      "id": "work:8e221c214351a7d7d416b7b8",
+      "title": "El Gaucho De Los Cerrillos",
       "subtitle": "",
       "description": "",
-      "authors": [],
+      "authors": [
+        "Ulises Del Grecco"
+      ],
       "language": "es",
-      "year": 1894,
+      "year": 2014,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Autores salvadoreños",
-        "Autores SV",
-        "El Salvador",
-        "Literatura salvadoreña",
-        "Periódico literario"
+        "Cuento"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Nmero10",
-      "cover_url": "https://archive.org/services/img/Nmero10",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Nmero10/n%C3%BAmero%2010.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Nmero10/n%C3%BAmero%2010_djvu.txt"
-        }
-      ],
+      "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
+      "cover_url": "https://archive.org/services/img/ElGauchoDeLosCerrillos",
+      "formats": [],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "Nmero10",
-        "internet_archive": "Nmero10"
+        "source_id": "ElGauchoDeLosCerrillos",
+        "internet_archive": "ElGauchoDeLosCerrillos"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "Nmero10",
-          "source_url": "https://archive.org/details/Nmero10",
+          "source_id": "ElGauchoDeLosCerrillos",
+          "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
           "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Nmero10/n%C3%BAmero%2010.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Nmero10/n%C3%BAmero%2010_djvu.txt"
-            }
-          ],
+          "formats": [],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:85710f160296de98b9a688dc",
-      "title": "El Fígaro (Tomo I, #4)",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 1894,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Autores salvadoreños",
-        "Autores SV",
-        "El Salvador",
-        "Literatura salvadoreña"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Nmero4",
-      "cover_url": "https://archive.org/services/img/Nmero4",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Nmero4/n%C3%BAmero%204.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Nmero4/n%C3%BAmero%204_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Nmero4",
-        "internet_archive": "Nmero4"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Nmero4",
-          "source_url": "https://archive.org/details/Nmero4",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Nmero4/n%C3%BAmero%204.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Nmero4/n%C3%BAmero%204_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -54053,6 +54221,47 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:a20a2fa85f079877c2b7ee2d",
+      "title": "Época De Muda",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Manu Amagi"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuento argentina Amagi"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/EpocaDeMuda",
+      "cover_url": "https://archive.org/services/img/EpocaDeMuda",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "EpocaDeMuda",
+        "internet_archive": "EpocaDeMuda"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "EpocaDeMuda",
+          "source_url": "https://archive.org/details/EpocaDeMuda",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
           "verified_legal": true
         }
       ]
@@ -91499,6 +91708,50 @@
       ]
     },
     {
+      "id": "work:4a5183373e50f293b683927b",
+      "title": "Ley De Adopción",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Amanda Palacios, Sofia Cubillos, Katalina Cisternas y Francisca Cuevas"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Adopcion",
+        "Homosexual",
+        "lgbtiq",
+        "adoption"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LeyDeAdopcion",
+      "cover_url": "https://archive.org/services/img/LeyDeAdopcion",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LeyDeAdopcion",
+        "internet_archive": "LeyDeAdopcion"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LeyDeAdopcion",
+          "source_url": "https://archive.org/details/LeyDeAdopcion",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:485ae6efad51c4fb0aaa2894",
       "title": "Library as Publisher",
       "subtitle": "New Models of Scholarly Communication for a New Era",
@@ -91646,6 +91899,47 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6cf0acc3805f6f87515993fa",
+      "title": "Libreto Radiofonico",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Celinda"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "amor a los padres"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LibretoRadiofonico_20150428",
+      "cover_url": "https://archive.org/services/img/LibretoRadiofonico_20150428",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LibretoRadiofonico_20150428",
+        "internet_archive": "LibretoRadiofonico_20150428"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LibretoRadiofonico_20150428",
+          "source_url": "https://archive.org/details/LibretoRadiofonico_20150428",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -97365,6 +97659,73 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:306eccc47315cd1d421339fd",
+      "title": "MANUAL AHMSA 2013 2",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "AHMSA"
+      ],
+      "language": "es",
+      "year": 2013,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "acero"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/manual-ahmsa-2013-2",
+      "cover_url": "https://archive.org/services/img/manual-ahmsa-2013-2",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "manual-ahmsa-2013-2",
+        "internet_archive": "manual-ahmsa-2013-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "manual-ahmsa-2013-2",
+          "source_url": "https://archive.org/details/manual-ahmsa-2013-2",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/manual-ahmsa-2013-2/MANUAL_AHMSA_2013-2_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -104927,63 +105288,6 @@
       ]
     },
     {
-      "id": "work:355439927773881b2ed77296",
-      "title": "Nace La Nueva Comunidad De Fe",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Enséñanos tus caminos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NaceLaNuevaComunidadDeFe",
-      "cover_url": "https://archive.org/services/img/NaceLaNuevaComunidadDeFe",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NaceLaNuevaComunidadDeFe",
-        "internet_archive": "NaceLaNuevaComunidadDeFe"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NaceLaNuevaComunidadDeFe",
-          "source_url": "https://archive.org/details/NaceLaNuevaComunidadDeFe",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/NaceLaNuevaComunidadDeFe/Nace%20la%20nueva%20comunidad%20de%20fe_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:477f4773a9aad24c8ffbfc86",
       "title": "Nach der Befreiung",
       "subtitle": "",
@@ -105968,59 +106272,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:ea455bf6bb6b8f75270c4c03",
-      "title": "Nervial Roblox",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Nervial"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ROBLOX",
-        "2017",
-        "Nervial"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NervialRoblox",
-      "cover_url": "https://archive.org/services/img/NervialRoblox",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/NervialRoblox/Nervial%20-%20Roblox.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NervialRoblox",
-        "internet_archive": "NervialRoblox"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NervialRoblox",
-          "source_url": "https://archive.org/details/NervialRoblox",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/NervialRoblox/Nervial%20-%20Roblox.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -107884,152 +108135,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:62e3a22cfe1db21b18908ce1",
-      "title": "Ninja New Wave Episodio 1",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Raúl Lacasa Lázaro"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ninja"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NinjaNewWaveEpisodio1_20121204",
-      "cover_url": "https://archive.org/services/img/NinjaNewWaveEpisodio1_20121204",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NinjaNewWaveEpisodio1_20121204",
-        "internet_archive": "NinjaNewWaveEpisodio1_20121204"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NinjaNewWaveEpisodio1_20121204",
-          "source_url": "https://archive.org/details/NinjaNewWaveEpisodio1_20121204",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a58933fb5324d47ae694c13f",
-      "title": "¡NO DES NI RECIBAS LA COMUNIÓN EN LA MANO!",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Enrique Quimbiulco C."
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ablución",
-        "comunion en la mano",
-        "concilio de trento",
-        "cristo",
-        "eucaristia",
-        "fragmentos",
-        "iglesia",
-        "liturgia",
-        "milagro eucarístico",
-        "negligencia",
-        "pablo vi",
-        "partículas",
-        "patena de la comunión",
-        "purificacion",
-        "razones",
-        "rúbricas santa misa tridentina",
-        "sacrilegio",
-        "santa misa",
-        "tradicion",
-        "transustanciacion",
-        "communion hand",
-        "church",
-        "mass",
-        "liturgy"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NODESNIRECIBASLACOMUNIONENLAMANO",
-      "cover_url": "https://archive.org/services/img/NODESNIRECIBASLACOMUNIONENLAMANO",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NODESNIRECIBASLACOMUNIONENLAMANO",
-        "internet_archive": "NODESNIRECIBASLACOMUNIONENLAMANO"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NODESNIRECIBASLACOMUNIONENLAMANO",
-          "source_url": "https://archive.org/details/NODESNIRECIBASLACOMUNIONENLAMANO",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:7d87cded8c825aa726f726d2",
-      "title": "No Eres",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "luis héctor gerbaldo"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ausencia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NoEres",
-      "cover_url": "https://archive.org/services/img/NoEres",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NoEres",
-        "internet_archive": "NoEres"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NoEres",
-          "source_url": "https://archive.org/details/NoEres",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
           "verified_legal": true
         }
       ]
@@ -117776,69 +117881,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:5d4a97553cf27638edf76699",
-      "title": "PLANOS CARRETERA SARATXO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "rayala"
-      ],
-      "language": "es",
-      "year": 2013,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "saratxo",
-        "alava",
-        "araba",
-        "carretera",
-        "amurrio"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/PLANOSCARRETERASARATXO",
-      "cover_url": "https://archive.org/services/img/PLANOSCARRETERASARATXO",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "PLANOSCARRETERASARATXO",
-        "internet_archive": "PLANOSCARRETERASARATXO"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "PLANOSCARRETERASARATXO",
-          "source_url": "https://archive.org/details/PLANOSCARRETERASARATXO",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/PLANOSCARRETERASARATXO/PLANOS_CARRETERA_SARATXO_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -138701,47 +138743,6 @@
       ]
     },
     {
-      "id": "work:3360c61ec9718068aeb55407",
-      "title": "sexualidad",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "ziortza LLona Lasagabaster"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "comic feminista sexualidad"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/sexualidad_201801",
-      "cover_url": "https://archive.org/services/img/sexualidad_201801",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "sexualidad_201801",
-        "internet_archive": "sexualidad_201801"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "sexualidad_201801",
-          "source_url": "https://archive.org/details/sexualidad_201801",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:f139be74cdd1f14181e8f528",
       "title": "Shakespeare's family",
       "subtitle": "",
@@ -141356,47 +141357,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:bb2c5facfa1215161b7f60d5",
-      "title": "Southwesthelll",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "dfrghj"
-      ],
-      "language": "es",
-      "year": 2000,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "dfgjm"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/southwesthelll_202608",
-      "cover_url": "https://archive.org/services/img/southwesthelll_202608",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "southwesthelll_202608",
-        "internet_archive": "southwesthelll_202608"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "southwesthelll_202608",
-          "source_url": "https://archive.org/details/southwesthelll_202608",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -189698,6 +189658,65 @@
       ]
     },
     {
+      "id": "work:96b8dacbd2c0027b32fee005",
+      "title": "VERSION AUTOBIOGRAFIA SANANDA",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "JORGE CARRERA"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "SANANDA JESÚS AUTOBIOGRAFÍA REVISADA"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/VERSIONAUTOBIOGRAFIASANANDA",
+      "cover_url": "https://archive.org/services/img/VERSIONAUTOBIOGRAFIASANANDA",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/VERSIONAUTOBIOGRAFIASANANDA/VERSION%20AUTOBIOGRAFIA%20SANANDA.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/VERSIONAUTOBIOGRAFIASANANDA/VERSION%20AUTOBIOGRAFIA%20SANANDA_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "VERSIONAUTOBIOGRAFIASANANDA",
+        "internet_archive": "VERSIONAUTOBIOGRAFIASANANDA"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "VERSIONAUTOBIOGRAFIASANANDA",
+          "source_url": "https://archive.org/details/VERSIONAUTOBIOGRAFIASANANDA",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/VERSIONAUTOBIOGRAFIASANANDA/VERSION%20AUTOBIOGRAFIA%20SANANDA.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/VERSIONAUTOBIOGRAFIASANANDA/VERSION%20AUTOBIOGRAFIA%20SANANDA_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:d4641ecd96ea378e7e164ff1",
       "title": "›Versus ad picturas‹ – Text/Image Relation in Greek, Latin and Arabic Poetry",
       "subtitle": "From Late Antiquity to the Middle Ages",
@@ -191444,67 +191463,6 @@
           ],
           "access": "open_access",
           "license": "All rights reserved",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:03cb976d6afbd59c500e8c00",
-      "title": "['web', 'No Hicimos Nada Por Los Perros Juan Carlos Boveri']",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Juan Carlos Boveri"
-      ],
-      "language": "es",
-      "year": 2010,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "libros",
-        "novelas",
-        "ficción"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708",
-      "cover_url": "https://archive.org/services/img/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708/No%20hicimos%20nada%20por%20los%20perros-Juan%20Carlos%20Boveri.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708/No%20hicimos%20nada%20por%20los%20perros-Juan%20Carlos%20Boveri_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708",
-        "internet_archive": "NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708",
-          "source_url": "https://archive.org/details/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708/No%20hicimos%20nada%20por%20los%20perros-Juan%20Carlos%20Boveri.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/NoHicimosNadaPorLosPerrosJuanCarlosBoveri_201708/No%20hicimos%20nada%20por%20los%20perros-Juan%20Carlos%20Boveri_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
