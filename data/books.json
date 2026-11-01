@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T11:02:10.212616Z",
+  "generated_at": "2026-11-01T11:56:25.241967Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -19659,89 +19659,6 @@
       ]
     },
     {
-      "id": "work:dd2034d80419014c9e8befc3",
-      "title": "Barlasch of the Guard",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Henry Seton Merriman"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Standard Ebooks",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Napoleonic Wars, 1800-1815--Campaigns--Russia--Fiction",
-        "Fiction"
-      ],
-      "source": "Standard Ebooks",
-      "source_url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard",
-      "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/cover-thumbnail.jpg",
-      "formats": [
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard_advanced.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.kepub.epub?source=feed"
-        },
-        {
-          "type": "azw3",
-          "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.azw3?source=feed"
-        },
-        {
-          "type": "html",
-          "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/text/single-page"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain / CC0 in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard"
-      },
-      "providers": [
-        {
-          "source": "Standard Ebooks",
-          "source_id": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard",
-          "source_url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard",
-          "language": "en",
-          "formats": [
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard_advanced.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.kepub.epub?source=feed"
-            },
-            {
-              "type": "azw3",
-              "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/henry-seton-merriman_barlasch-of-the-guard.azw3?source=feed"
-            },
-            {
-              "type": "html",
-              "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/text/single-page"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain / CC0 in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:2faba1ab81a93e4fb5194178",
       "title": "Barry Locke, half-back",
       "subtitle": "",
@@ -23469,6 +23386,58 @@
       ]
     },
     {
+      "id": "work:c0bde509d6ed8b205594a1fc",
+      "title": "Boletín Barómetro Internacional 04.02.2016",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Barómetro Prensa"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Diego Olivera Evia",
+        "crisis",
+        "capitalismo",
+        "CELAC",
+        "crisis global",
+        "burbuja inmobiliaria",
+        "Macri",
+        "Chile",
+        "Responsabilidad",
+        "Marxista",
+        "Izquierda",
+        "Derecha"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/BoletnBarrmetroInternacional04.02.2016",
+      "cover_url": "https://archive.org/services/img/BoletnBarrmetroInternacional04.02.2016",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "BoletnBarrmetroInternacional04.02.2016",
+        "internet_archive": "BoletnBarrmetroInternacional04.02.2016"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "BoletnBarrmetroInternacional04.02.2016",
+          "source_url": "https://archive.org/details/BoletnBarrmetroInternacional04.02.2016",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:daea7821091a2ec788d1f03e",
       "title": "Boletin de Barometro Internacional 11.09.2017",
       "subtitle": "",
@@ -23612,6 +23581,68 @@
             {
               "type": "text",
               "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1952-05-14/1952-05-14_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:e87af3a0e9a3a68a4448eafb",
+      "title": "Boletín Oficial de la República Argentina. 1968 1ra sección",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "República Argentina"
+      ],
+      "language": "es",
+      "year": 1968,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "boletin",
+        "oficial",
+        "argentina",
+        "leyes"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18",
+      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18/1968-03-18.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18/1968-03-18_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18",
+        "internet_archive": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18",
+          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18/1968-03-18.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1968-03-18/1968-03-18_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -33433,47 +33464,6 @@
       ]
     },
     {
-      "id": "work:e5a1563c11a331ba31fa3496",
-      "title": "conv_Gama_2017",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Hector M."
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Interview"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/conv_Gama_2017",
-      "cover_url": "https://archive.org/services/img/conv_Gama_2017",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "conv_Gama_2017",
-        "internet_archive": "conv_Gama_2017"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "conv_Gama_2017",
-          "source_url": "https://archive.org/details/conv_Gama_2017",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:a02ec248406f1e0d40d84f15",
       "title": "Conversations on Humanity and Creativity",
       "subtitle": "",
@@ -36295,57 +36285,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f28696a2771abf6567dad5dc",
-      "title": "CRUCIGRAMA FRASES DE FILOSOFOS",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Frank Fustillos"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ardora evaluacion"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/CRUCIGRAMAFRASESDEFILOSOFOS",
-      "cover_url": "https://archive.org/services/img/CRUCIGRAMAFRASESDEFILOSOFOS",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/CRUCIGRAMAFRASESDEFILOSOFOS/CRUCIGRAMA_FRASES_DE_FILOSOFOS.htm"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "CRUCIGRAMAFRASESDEFILOSOFOS",
-        "internet_archive": "CRUCIGRAMAFRASESDEFILOSOFOS"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "CRUCIGRAMAFRASESDEFILOSOFOS",
-          "source_url": "https://archive.org/details/CRUCIGRAMAFRASESDEFILOSOFOS",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/CRUCIGRAMAFRASESDEFILOSOFOS/CRUCIGRAMA_FRASES_DE_FILOSOFOS.htm"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -39347,53 +39286,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:c7f073e097dc06ff5668e1cf",
-      "title": "Dejar de pecar es un DEBER cristiano",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Omar García Pérez"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "dejar de pecar",
-        "cómo",
-        "en la biblia",
-        "pecado",
-        "pecar",
-        "biblia",
-        "cómo dejar de pecar"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/dejar-de-pecar",
-      "cover_url": "https://archive.org/services/img/dejar-de-pecar",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "dejar-de-pecar",
-        "internet_archive": "dejar-de-pecar"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "dejar-de-pecar",
-          "source_url": "https://archive.org/details/dejar-de-pecar",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
           "verified_legal": true
         }
       ]
@@ -42746,87 +42638,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:1ded011948ef1e02bbca4773",
-      "title": "Diario Helvecia 1927 10 15 01308",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Helvecia"
-      ],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Sala de Auxilios",
-        "Congreso Magisterial de Colonia Suiza",
-        "Luis Alberto Gulla",
-        "Marcelino Perez",
-        "Juan Werner Berger",
-        "Banda musical local",
-        "Club Ajedrez de Rosario",
-        "Apertura de Biblioteca escolar y popular Escuela 40",
-        "festival deportivo Semillero Atletico Club en Estanzuela",
-        "Fiesta Escolar Costa de Rosario",
-        "Fallece obrero en panadería Dupré en Rosario",
-        "Templo Evangélico",
-        "Instituto musical Colonia Suiza",
-        "Asamblea del Centro Helvético",
-        "Casamiento Francisco Perera y María Celia Galli."
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/diario-helvecia-1927-10-15-01308",
-      "cover_url": "https://archive.org/services/img/diario-helvecia-1927-10-15-01308",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "diario-helvecia-1927-10-15-01308",
-        "internet_archive": "diario-helvecia-1927-10-15-01308"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "diario-helvecia-1927-10-15-01308",
-          "source_url": "https://archive.org/details/diario-helvecia-1927-10-15-01308",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/diario-helvecia-1927-10-15-01308/Diario_Helvecia-1927-10-15_01308_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -47723,6 +47534,50 @@
       ]
     },
     {
+      "id": "work:bd0f954b3073cb2f4d0a7238",
+      "title": "Dungeon Hunter 5, Alzate Ante Los Demonios Y Devuelve La Gloria A Valenthia",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Cristian Teixeira"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "android",
+        "dungeon hunter 5",
+        "ios",
+        "juegos"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia",
+      "cover_url": "https://archive.org/services/img/DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia",
+        "internet_archive": "DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia",
+          "source_url": "https://archive.org/details/DungeonHunter5AlzateAnteLosDemoniosYDevuelveLaGloriaAValenthia",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:19a00a389f847e53cbd36bff",
       "title": "Earth System Law",
       "subtitle": "Governing Planetary Transformations in the Anthropocene",
@@ -50154,6 +50009,47 @@
       ]
     },
     {
+      "id": "work:8e221c214351a7d7d416b7b8",
+      "title": "El Gaucho De Los Cerrillos",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ulises Del Grecco"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuento"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
+      "cover_url": "https://archive.org/services/img/ElGauchoDeLosCerrillos",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ElGauchoDeLosCerrillos",
+        "internet_archive": "ElGauchoDeLosCerrillos"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ElGauchoDeLosCerrillos",
+          "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:89134570d898ae5690c263bd",
       "title": "El gran libro del diseño web",
       "subtitle": "",
@@ -50217,6 +50113,50 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f58d6e797cb2d0bbf1f09d22",
+      "title": "El Guero",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "alejandro pena"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "corrido",
+        "elguero",
+        "alterado",
+        "movimiento"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ElGuero",
+      "cover_url": "https://archive.org/services/img/ElGuero",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ElGuero",
+        "internet_archive": "ElGuero"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ElGuero",
+          "source_url": "https://archive.org/details/ElGuero",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -53579,6 +53519,51 @@
       ]
     },
     {
+      "id": "work:01e589178e4eda7392ec0c36",
+      "title": "Entrevistas Ball Modern Trinitat Vella",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "esportic"
+      ],
+      "language": "es",
+      "year": 2013,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "esportic",
+        "baile",
+        "moderno",
+        "trinitat",
+        "barcelona"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/EntrevistaKevinBallModernTrinitatVella",
+      "cover_url": "https://archive.org/services/img/EntrevistaKevinBallModernTrinitatVella",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "EntrevistaKevinBallModernTrinitatVella",
+        "internet_archive": "EntrevistaKevinBallModernTrinitatVella"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "EntrevistaKevinBallModernTrinitatVella",
+          "source_url": "https://archive.org/details/EntrevistaKevinBallModernTrinitatVella",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:1f0d08949c709f90477732c1",
       "title": "Entstehung, Angebot und bildungsrelevante Lerneffekte des Digitalen Spiels ›Discovery Tour: Ancient Greece‹",
       "subtitle": "",
@@ -53941,6 +53926,47 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:a20a2fa85f079877c2b7ee2d",
+      "title": "Época De Muda",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Manu Amagi"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuento argentina Amagi"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/EpocaDeMuda",
+      "cover_url": "https://archive.org/services/img/EpocaDeMuda",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "EpocaDeMuda",
+        "internet_archive": "EpocaDeMuda"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "EpocaDeMuda",
+          "source_url": "https://archive.org/details/EpocaDeMuda",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
           "verified_legal": true
         }
       ]
@@ -55712,6 +55738,74 @@
           "formats": [],
           "access": "creative_commons",
           "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8b34f5d93820e63e9b1fe356",
+      "title": "Fallo crítico",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "José Antonio Suárez"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Fallo crítico",
+        "NGC 3660",
+        "José Antonio Suárez",
+        "Relato CF",
+        "CF",
+        "Ciencia ficción",
+        "Relato",
+        "Telescopio espacial",
+        "Fenómeno espacial",
+        "Reparaciones."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/fallocritico",
+      "cover_url": "https://archive.org/services/img/fallocritico",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/fallocritico/fallocritico.pdf"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/fallocritico/fallocritico_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "fallocritico",
+        "internet_archive": "fallocritico"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "fallocritico",
+          "source_url": "https://archive.org/details/fallocritico",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/fallocritico/fallocritico.pdf"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/fallocritico/fallocritico_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -76171,6 +76265,47 @@
       ]
     },
     {
+      "id": "work:f25e200491982a1dea7c7856",
+      "title": "index",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Daniela Lobos"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "gsdfg"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/index_20251009",
+      "cover_url": "https://archive.org/services/img/index_20251009",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "index_20251009",
+        "internet_archive": "index_20251009"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "index_20251009",
+          "source_url": "https://archive.org/details/index_20251009",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:71758207992516ac59c91738",
       "title": "Indians in the United States of America",
       "subtitle": "India Migration Report 2025",
@@ -77105,6 +77240,49 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:08b5ab35b5eb6dee261532fd",
+      "title": "Informe Serpaj 2017",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "SERPAJ"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "derechos humanos",
+        "uruguay",
+        "literatura uruguaya"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/InformeSerpaj2017",
+      "cover_url": "https://archive.org/services/img/InformeSerpaj2017",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "InformeSerpaj2017",
+        "internet_archive": "InformeSerpaj2017"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "InformeSerpaj2017",
+          "source_url": "https://archive.org/details/InformeSerpaj2017",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -81869,47 +82047,6 @@
       ]
     },
     {
-      "id": "work:e76a943ce13b6a8f0c30f5ce",
-      "title": "Isena Now On Tap",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Francisco Marbel"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Google Now"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IsenaNowOnTap",
-      "cover_url": "https://archive.org/services/img/IsenaNowOnTap",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IsenaNowOnTap",
-        "internet_archive": "IsenaNowOnTap"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IsenaNowOnTap",
-          "source_url": "https://archive.org/details/IsenaNowOnTap",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:1e9d449e6aec2b4b68fea5a1",
       "title": "Islam, Education, and Freedom",
       "subtitle": "An Uncommon Perspective on Leadership",
@@ -82063,6 +82200,89 @@
           ],
           "access": "open_access",
           "license": "All rights reserved",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c567108f1c62cd41c7d32281",
+      "title": "Ivanov",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Standard Ebooks",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Chekhov, Anton Pavlovich, 1860-1904--Translations into English",
+        "Drama"
+      ],
+      "source": "Standard Ebooks",
+      "source_url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett",
+      "cover_url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/cover-thumbnail.jpg",
+      "formats": [
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett_advanced.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.kepub.epub?source=feed"
+        },
+        {
+          "type": "azw3",
+          "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.azw3?source=feed"
+        },
+        {
+          "type": "html",
+          "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/text/single-page"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain / CC0 in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett"
+      },
+      "providers": [
+        {
+          "source": "Standard Ebooks",
+          "source_id": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett",
+          "source_url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett",
+          "language": "en",
+          "formats": [
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett_advanced.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.kepub.epub?source=feed"
+            },
+            {
+              "type": "azw3",
+              "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/anton-chekhov_ivanov_constance-garnett.azw3?source=feed"
+            },
+            {
+              "type": "html",
+              "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/text/single-page"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -89701,6 +89921,47 @@
       ]
     },
     {
+      "id": "work:d66a77c89f8c6cafebe6c0fa",
+      "title": "La historia de Apple y el origen de su logo",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Logo Apple"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LogoApple",
+      "cover_url": "https://archive.org/services/img/LogoApple",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LogoApple",
+        "internet_archive": "LogoApple"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LogoApple",
+          "source_url": "https://archive.org/details/LogoApple",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:2c3a0732777444494e1660c6",
       "title": "La historia de HOH",
       "subtitle": "",
@@ -89878,6 +90139,45 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:13bc9b28729d4f7c193748d7",
+      "title": "La Prudencia - Santiago M. Ramirez O. P.",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Santiago Ramirez Virtude Cardeal Prudência Tomismo Santo Tomás"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/la-prudencia-santiago-m.-ramirez-o.-p._202405",
+      "cover_url": "https://archive.org/services/img/la-prudencia-santiago-m.-ramirez-o.-p._202405",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "la-prudencia-santiago-m.-ramirez-o.-p._202405",
+        "internet_archive": "la-prudencia-santiago-m.-ramirez-o.-p._202405"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "la-prudencia-santiago-m.-ramirez-o.-p._202405",
+          "source_url": "https://archive.org/details/la-prudencia-santiago-m.-ramirez-o.-p._202405",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -95499,81 +95799,6 @@
       ]
     },
     {
-      "id": "work:2cfbfdb86cad11abcb9f0676",
-      "title": "Lucifer : $b roman moderne",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Magre, Maurice"
-      ],
-      "language": "fr",
-      "year": null,
-      "publisher": "Project Gutenberg",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "French fiction -- 20th century"
-      ],
-      "source": "Project Gutenberg",
-      "source_url": "https://www.gutenberg.org/ebooks/78064",
-      "cover_url": "https://www.gutenberg.org/cache/epub/78064/pg78064.cover.medium.jpg",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://www.gutenberg.org/ebooks/78064.html.images"
-        },
-        {
-          "type": "epub",
-          "url": "https://www.gutenberg.org/ebooks/78064.epub3.images"
-        },
-        {
-          "type": "mobi",
-          "url": "https://www.gutenberg.org/ebooks/78064.kf8.images"
-        },
-        {
-          "type": "text",
-          "url": "https://www.gutenberg.org/ebooks/78064.txt.utf-8"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "78064",
-        "gutenberg_id": "78064"
-      },
-      "providers": [
-        {
-          "source": "Project Gutenberg",
-          "source_id": "78064",
-          "source_url": "https://www.gutenberg.org/ebooks/78064",
-          "language": "fr",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://www.gutenberg.org/ebooks/78064.html.images"
-            },
-            {
-              "type": "epub",
-              "url": "https://www.gutenberg.org/ebooks/78064.epub3.images"
-            },
-            {
-              "type": "mobi",
-              "url": "https://www.gutenberg.org/ebooks/78064.kf8.images"
-            },
-            {
-              "type": "text",
-              "url": "https://www.gutenberg.org/ebooks/78064.txt.utf-8"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:eeed19e0d7ad863c32b9f0b9",
       "title": "LʼInternazionale dimenticata",
       "subtitle": "Storia del movimento cooperativo nellʼOttocento europeo (1848-1895)",
@@ -99154,6 +99379,49 @@
       ]
     },
     {
+      "id": "work:617d6d9bd0f31ede3c0c6b79",
+      "title": "Manuales Para Obreros De La Palabra Y La Imagen",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Medios libres y comunitarios de Latinoamérica"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "medios libres",
+        "comunicación popular",
+        "comunitaria"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ManualesParaObrerosDeLaPalabraYLaImagen",
+      "cover_url": "https://archive.org/services/img/ManualesParaObrerosDeLaPalabraYLaImagen",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ManualesParaObrerosDeLaPalabraYLaImagen",
+        "internet_archive": "ManualesParaObrerosDeLaPalabraYLaImagen"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ManualesParaObrerosDeLaPalabraYLaImagen",
+          "source_url": "https://archive.org/details/ManualesParaObrerosDeLaPalabraYLaImagen",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a1433be128c8ffdbdd57ca34",
       "title": "Marginalization and Marginal Groups in Byzantium",
       "subtitle": "Prostitutes, Actors, and Tavernkeepers",
@@ -101767,48 +102035,6 @@
       ]
     },
     {
-      "id": "work:ab92a10985cca06e13ce8dc6",
-      "title": "megawad.doom.necropia.7z",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "megawad",
-        "doom",
-        "doom2",
-        "heretic"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/megawad.doom.necropia.7z",
-      "cover_url": "https://archive.org/services/img/megawad.doom.necropia.7z",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "megawad.doom.necropia.7z",
-        "internet_archive": "megawad.doom.necropia.7z"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "megawad.doom.necropia.7z",
-          "source_url": "https://archive.org/details/megawad.doom.necropia.7z",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:89a28ef09396b99d0672ea61",
       "title": "Memoirs of a Confucius Institute Director, Volume 2",
       "subtitle": "Global China Shaped by Local Realities",
@@ -103190,48 +103416,6 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
-        }
-      ]
-    },
-    {
-      "id": "work:add3924d3eafb44174539de8",
-      "title": "Mi Libro",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Learning",
-        "Kids",
-        "Down Syndrome",
-        "Book"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/rea-sd",
-      "cover_url": "https://archive.org/services/img/rea-sd",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "rea-sd",
-        "internet_archive": "rea-sd"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "rea-sd",
-          "source_url": "https://archive.org/details/rea-sd",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
         }
       ]
     },
@@ -106987,121 +107171,121 @@
       ]
     },
     {
-      "id": "work:1b4343f53a3ce1c5b732611f",
+      "id": "work:92f70920e19573717a72e341",
       "title": "Neuromancer",
       "subtitle": "",
       "description": "",
       "authors": [
         "William Gibson"
       ],
-      "language": "pt",
+      "language": "it",
       "year": 1984,
-      "publisher": "Éditions J'ai lu",
+      "publisher": "Heyne",
       "isbn": [
-        "9781570421563",
-        "0932096417",
-        "9786055532666",
-        "3453056655",
-        "8804752238",
-        "9780586066454",
-        "9788576571919",
-        "0441569560",
-        "8842907464",
-        "9789029042475",
-        "8203203329",
-        "9783453056657",
         "8576571919",
+        "6055532662",
+        "7539951338",
+        "0441569587",
+        "1004055056",
+        "0006480411",
+        "9788576571919",
+        "9780932096418",
+        "9788758804118",
+        "8445075950",
+        "9788445076620",
+        "0586066454",
+        "9780007491520",
+        "9781473217386",
+        "8445015257",
+        "9892353161",
+        "9788790136291",
+        "9788445075951",
+        "9752103677",
+        "9783453056657",
+        "8203203329",
+        "0007383290",
+        "9788842907466",
+        "9781570421563",
+        "2277223255",
+        "9780002252324",
+        "8842910686",
+        "9780575034709",
+        "9781004055050",
+        "9788445070840",
+        "9788445015254",
+        "9788804752233",
+        "0002252325",
+        "9789892353166",
+        "110114646X",
+        "9780441007462",
+        "0143111604",
+        "9788804516446",
+        "1570420599",
+        "9780736638364",
+        "9780441569571",
+        "9782277223252",
+        "9788585887902",
+        "0441012035",
+        "9788203203329",
         "8790136292",
         "9780007119585",
-        "8445009443",
-        "9789892353166",
-        "9781004055050",
-        "9788445009444",
-        "9780441569588",
-        "0586066454",
-        "8842910686",
-        "9788758804118",
-        "0441569587",
-        "9781473217386",
-        "0307969940",
-        "9029042478",
-        "8445075950",
-        "9780307969941",
-        "9789510172049",
-        "3453313895",
-        "0441000681",
-        "9788203203329",
-        "0441007465",
-        "0441012035",
-        "110114646X",
-        "0441569579",
-        "9780441007462",
-        "9780441569571",
-        "8445070843",
-        "9789752103672",
-        "9788804516446",
-        "9780006480419",
-        "8445015257",
-        "9788445072899",
-        "9781101146460",
-        "1399607774",
-        "9780575034709",
-        "9780007491520",
-        "9781399607773",
-        "3608504885",
         "9780441569595",
-        "8585887907",
-        "9788842907466",
-        "1570421560",
-        "0006480411",
-        "1473217385",
-        "9788445015254",
-        "9510172049",
-        "0441569595",
-        "9788804752233",
-        "8758804110",
-        "0007383290",
-        "8445072897",
-        "9780441000685",
-        "0007491522",
-        "9788445070840",
-        "0143111604",
-        "9752103677",
-        "9783453313897",
-        "9782290308202",
-        "9781570420597",
-        "1570420599",
-        "0736638369",
-        "9780932096418",
-        "9788790136291",
-        "2277223255",
-        "9788585887902",
-        "9780613922517",
-        "0007119585",
-        "9788445076620",
-        "7539951338",
-        "229030820X",
-        "9788445075951",
-        "1473217377",
-        "9782277223252",
-        "9780736638364",
-        "0613922514",
-        "9780143111603",
-        "9892353161",
-        "9781473217379",
-        "8445076620",
-        "9780007383290",
-        "9780441012039",
-        "1004055056",
-        "6055532662",
-        "9780441569564",
-        "0002252325",
-        "9788842910688",
-        "9783608504880",
-        "8804516445",
-        "057503470X",
         "9787539951331",
-        "9780002252324"
+        "0441569579",
+        "9783453313897",
+        "0932096417",
+        "9780441012039",
+        "8804752238",
+        "9780441000685",
+        "9780143111603",
+        "0441000681",
+        "3453056655",
+        "0007491522",
+        "9029042478",
+        "0736638369",
+        "1473217385",
+        "0441569595",
+        "9788445072899",
+        "9788842910688",
+        "1399607774",
+        "9780007383290",
+        "0007119585",
+        "8445072897",
+        "8585887907",
+        "9781101146460",
+        "1570421560",
+        "229030820X",
+        "9781399607773",
+        "3453313895",
+        "9781570420597",
+        "1473217377",
+        "9780613922517",
+        "9789029042475",
+        "9788445009444",
+        "8445076620",
+        "9786055532666",
+        "8445009443",
+        "9789752103672",
+        "8445070843",
+        "0307969940",
+        "8842907464",
+        "8758804110",
+        "9781473217379",
+        "9789510172049",
+        "9780441569564",
+        "0441569560",
+        "0441007465",
+        "0613922514",
+        "9780307969941",
+        "9780441569588",
+        "9782290308202",
+        "9780006480419",
+        "9780586066454",
+        "9783608504880",
+        "057503470X",
+        "3608504885",
+        "9510172049",
+        "8804516445"
       ],
       "doi": "",
       "subjects": [],
@@ -107124,7 +107308,7 @@
           "source": "Open Library",
           "source_id": "OL27258W",
           "source_url": "https://openlibrary.org/works/OL27258W",
-          "language": "pt",
+          "language": "it",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -107542,47 +107726,6 @@
           "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:9592a0a55c5a6cce7622cecd",
-      "title": "Nimio De Anquin, De Las 2 Inhabitaciones En El Hombre",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Nimio de Anquin"
-      ],
-      "language": "es",
-      "year": 1978,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Filosofía \"Tomista\""
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre",
-      "cover_url": "https://archive.org/services/img/nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre",
-        "internet_archive": "nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre",
-          "source_url": "https://archive.org/details/nimio-de-anquin-de-las-2-inhabitaciones-en-el-hombre",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -109994,62 +110137,6 @@
       ]
     },
     {
-      "id": "work:657bf2e1f001320d2ef5d739",
-      "title": "Numerical Methods in Coupled Systems",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "R. W. Lewis",
-        "P. Bittess",
-        "Emma D. Hinton",
-        "H. Saunders"
-      ],
-      "language": "en",
-      "year": 1989,
-      "publisher": "Journal of vibration and acoustics",
-      "isbn": [],
-      "doi": "10.1115/1.3269894",
-      "subjects": [
-        "Advanced Numerical Methods in Computational Mathematics",
-        "Fluid Dynamics Simulations and Interactions",
-        "Computational Fluid Dynamics and Aerodynamics"
-      ],
-      "source": "OpenAlex",
-      "source_url": "https://doi.org/10.1115/1.3269894",
-      "cover_url": "",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/111/4/498/5436309/498_1.pdf"
-        }
-      ],
-      "access": "open_access",
-      "license": "Open Access; license not reported by OpenAlex",
-      "verified_legal": true,
-      "resource_type": "article",
-      "identifiers": {
-        "source_id": "W2028585664",
-        "openalex_id": "W2028585664"
-      },
-      "providers": [
-        {
-          "source": "OpenAlex",
-          "source_id": "W2028585664",
-          "source_url": "https://doi.org/10.1115/1.3269894",
-          "language": "en",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://asmedigitalcollection.asme.org/vibrationacoustics/article-pdf/111/4/498/5436309/498_1.pdf"
-            }
-          ],
-          "access": "open_access",
-          "license": "Open Access; license not reported by OpenAlex",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:6dffcac4aca4a9106ca9ef84",
       "title": "Numerical Methods in Finance",
       "subtitle": "",
@@ -110663,91 +110750,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:2531ac190b50987b73880c27",
-      "title": "Oberland",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Dorothy M. Richardson"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Standard Ebooks",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Autobiographical fiction",
-        "Women--England--Fiction",
-        "England--Social life and customs--20th century--Fiction",
-        "Fiction"
-      ],
-      "source": "Standard Ebooks",
-      "source_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland",
-      "cover_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/cover-thumbnail.jpg",
-      "formats": [
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland_advanced.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.kepub.epub?source=feed"
-        },
-        {
-          "type": "azw3",
-          "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.azw3?source=feed"
-        },
-        {
-          "type": "html",
-          "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/text/single-page"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain / CC0 in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland"
-      },
-      "providers": [
-        {
-          "source": "Standard Ebooks",
-          "source_id": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland",
-          "source_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland",
-          "language": "en",
-          "formats": [
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland_advanced.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.kepub.epub?source=feed"
-            },
-            {
-              "type": "azw3",
-              "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/dorothy-m-richardson_oberland.azw3?source=feed"
-            },
-            {
-              "type": "html",
-              "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/text/single-page"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -116678,47 +116680,6 @@
       ]
     },
     {
-      "id": "work:0d98741c0cacefc6fd91ab75",
-      "title": "Periscope, realizar vídeo en streaming nunca fue tan fácil",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Francisco Marbel"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Periscope"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IsenacodePeriscope",
-      "cover_url": "https://archive.org/services/img/IsenacodePeriscope",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IsenacodePeriscope",
-        "internet_archive": "IsenacodePeriscope"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IsenacodePeriscope",
-          "source_url": "https://archive.org/details/IsenacodePeriscope",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:b80ff10c39ff74c975db24dd",
       "title": "Permanent Citizens’ Assemblies",
       "subtitle": "A New Model for Public Deliberation",
@@ -120338,47 +120299,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:afe80f60cc25b0f46eead97b",
-      "title": "PRI Arica, Enero 2018",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "UOT-DIPLADE-GORE"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Planificación 50 años"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/PRIAricaEnero2018",
-      "cover_url": "https://archive.org/services/img/PRIAricaEnero2018",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "PRIAricaEnero2018",
-        "internet_archive": "PRIAricaEnero2018"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "PRIAricaEnero2018",
-          "source_url": "https://archive.org/details/PRIAricaEnero2018",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -126902,47 +126822,6 @@
       ]
     },
     {
-      "id": "work:08d01a10aad9af92c14cad1b",
-      "title": "Recetinas De Extremadura De Sara GS",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Sara GS"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Recetas"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/recetinas-de-extremadura-de-sara-gs_202503",
-      "cover_url": "https://archive.org/services/img/recetinas-de-extremadura-de-sara-gs_202503",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "recetinas-de-extremadura-de-sara-gs_202503",
-        "internet_archive": "recetinas-de-extremadura-de-sara-gs_202503"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "recetinas-de-extremadura-de-sara-gs_202503",
-          "source_url": "https://archive.org/details/recetinas-de-extremadura-de-sara-gs_202503",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:f4b58bc7933f0a76994e5745",
       "title": "['RECIFFUNA – VOL. I – AÑO 1 – 2015 ( 1)', '– VOL. I – AÑO 1 – 2015 ( 1)']",
       "subtitle": "",
@@ -130036,47 +129915,6 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6f6f7600f0a335fb3af2718c",
-      "title": "Review OlloclipOlloclip 4-in-1, el accesorio ideal para los amantes de la fotografí",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Francisco Marbel"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ollo clip 4 in 1"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IsenaReviewOlloclip",
-      "cover_url": "https://archive.org/services/img/IsenaReviewOlloclip",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IsenaReviewOlloclip",
-        "internet_archive": "IsenaReviewOlloclip"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IsenaReviewOlloclip",
-          "source_url": "https://archive.org/details/IsenaReviewOlloclip",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -138200,47 +138038,6 @@
       ]
     },
     {
-      "id": "work:b0254448549e9f4eeff8816c",
-      "title": "Saúl Llama México AUTTP ATHDTC You Tube",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Saul Rene Gomez Quiroz"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Saul"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a",
-      "cover_url": "https://archive.org/services/img/httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a",
-        "internet_archive": "httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a",
-          "source_url": "https://archive.org/details/httpswww.youtube.comchannelucj4ryysfzyiffvjjxyl-m-a",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:72c585762c5d0e020f50f5a8",
       "title": "Scala con Ejemplos",
       "subtitle": "",
@@ -140079,6 +139876,93 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:3882be8244795e5a6f572f97",
+      "title": "Short Fiction",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "John Buchan"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Standard Ebooks",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Science fiction",
+        "Short stories",
+        "Fantasy fiction",
+        "Scotland--Fiction",
+        "Fiction",
+        "Shorts"
+      ],
+      "source": "Standard Ebooks",
+      "source_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction",
+      "cover_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/cover-thumbnail.jpg",
+      "formats": [
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction_advanced.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.kepub.epub?source=feed"
+        },
+        {
+          "type": "azw3",
+          "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.azw3?source=feed"
+        },
+        {
+          "type": "html",
+          "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/text/single-page"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain / CC0 in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "https://standardebooks.org/ebooks/john-buchan/short-fiction"
+      },
+      "providers": [
+        {
+          "source": "Standard Ebooks",
+          "source_id": "https://standardebooks.org/ebooks/john-buchan/short-fiction",
+          "source_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction",
+          "language": "en",
+          "formats": [
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction_advanced.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.kepub.epub?source=feed"
+            },
+            {
+              "type": "azw3",
+              "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/john-buchan_short-fiction.azw3?source=feed"
+            },
+            {
+              "type": "html",
+              "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/text/single-page"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -142616,6 +142500,47 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:bb2c5facfa1215161b7f60d5",
+      "title": "Southwesthelll",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "dfrghj"
+      ],
+      "language": "es",
+      "year": 2000,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "dfgjm"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/southwesthelll_202608",
+      "cover_url": "https://archive.org/services/img/southwesthelll_202608",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "southwesthelll_202608",
+        "internet_archive": "southwesthelll_202608"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "southwesthelll_202608",
+          "source_url": "https://archive.org/details/southwesthelll_202608",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -145530,6 +145455,59 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:9894e6ae3f9340ad804705a8",
+      "title": "Summary of sinc numerical methods",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Frank Stenger"
+      ],
+      "language": "en",
+      "year": 2000,
+      "publisher": "Journal of Computational and Applied Mathematics",
+      "isbn": [],
+      "doi": "10.1016/s0377-0427(00)00348-4",
+      "subjects": [
+        "Mathematical functions and polynomials",
+        "Numerical methods for differential equations",
+        "Mathematical Analysis and Transform Methods"
+      ],
+      "source": "OpenAlex",
+      "source_url": "https://doi.org/10.1016/s0377-0427(00)00348-4",
+      "cover_url": "",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0377042700003484/pdf"
+        }
+      ],
+      "access": "open_access",
+      "license": "Open Access; license not reported by OpenAlex",
+      "verified_legal": true,
+      "resource_type": "article",
+      "identifiers": {
+        "source_id": "W2085291969",
+        "openalex_id": "W2085291969"
+      },
+      "providers": [
+        {
+          "source": "OpenAlex",
+          "source_id": "W2085291969",
+          "source_url": "https://doi.org/10.1016/s0377-0427(00)00348-4",
+          "language": "en",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0377042700003484/pdf"
+            }
+          ],
+          "access": "open_access",
+          "license": "Open Access; license not reported by OpenAlex",
           "verified_legal": true
         }
       ]
@@ -151414,6 +151392,84 @@
             {
               "type": "text",
               "url": "https://www.gutenberg.org/ebooks/78108.txt.utf-8"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:fb1b5e7c5fdc2c8f7b6704d0",
+      "title": "The black pearl",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Lion, Marie"
+      ],
+      "language": "en",
+      "year": null,
+      "publisher": "Project Gutenberg",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "French -- Australia -- Fiction",
+        "Man-woman relationships -- Fiction",
+        "Theosophy -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "source": "Project Gutenberg",
+      "source_url": "https://www.gutenberg.org/ebooks/78087",
+      "cover_url": "https://www.gutenberg.org/cache/epub/78087/pg78087.cover.medium.jpg",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://www.gutenberg.org/ebooks/78087.html.images"
+        },
+        {
+          "type": "epub",
+          "url": "https://www.gutenberg.org/ebooks/78087.epub3.images"
+        },
+        {
+          "type": "mobi",
+          "url": "https://www.gutenberg.org/ebooks/78087.kf8.images"
+        },
+        {
+          "type": "text",
+          "url": "https://www.gutenberg.org/ebooks/78087.txt.utf-8"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "78087",
+        "gutenberg_id": "78087"
+      },
+      "providers": [
+        {
+          "source": "Project Gutenberg",
+          "source_id": "78087",
+          "source_url": "https://www.gutenberg.org/ebooks/78087",
+          "language": "en",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://www.gutenberg.org/ebooks/78087.html.images"
+            },
+            {
+              "type": "epub",
+              "url": "https://www.gutenberg.org/ebooks/78087.epub3.images"
+            },
+            {
+              "type": "mobi",
+              "url": "https://www.gutenberg.org/ebooks/78087.kf8.images"
+            },
+            {
+              "type": "text",
+              "url": "https://www.gutenberg.org/ebooks/78087.txt.utf-8"
             }
           ],
           "access": "public_domain",
@@ -159618,92 +159674,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:46731bf8ad4c0afb91949b93",
-      "title": "The House of the Arrow",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "A. E. W. Mason"
-      ],
-      "language": "en",
-      "year": 2026,
-      "publisher": "Standard Ebooks",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Detective and mystery stories",
-        "Fiction",
-        "Inheritance and succession--Fiction",
-        "Murder--Investigation--Fiction",
-        "Mystery"
-      ],
-      "source": "Standard Ebooks",
-      "source_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow",
-      "cover_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/cover-thumbnail.jpg",
-      "formats": [
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow_advanced.epub?source=feed"
-        },
-        {
-          "type": "epub",
-          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.kepub.epub?source=feed"
-        },
-        {
-          "type": "azw3",
-          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.azw3?source=feed"
-        },
-        {
-          "type": "html",
-          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/text/single-page"
-        }
-      ],
-      "access": "public_domain",
-      "license": "Public domain / CC0 in the United States",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow"
-      },
-      "providers": [
-        {
-          "source": "Standard Ebooks",
-          "source_id": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow",
-          "source_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow",
-          "language": "en",
-          "formats": [
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow_advanced.epub?source=feed"
-            },
-            {
-              "type": "epub",
-              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.kepub.epub?source=feed"
-            },
-            {
-              "type": "azw3",
-              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/a-e-w-mason_the-house-of-the-arrow.azw3?source=feed"
-            },
-            {
-              "type": "html",
-              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/text/single-page"
-            }
-          ],
-          "access": "public_domain",
-          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -168308,6 +168278,92 @@
           "formats": [],
           "access": "open_access",
           "license": "public-domain",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:24984c0908e257ddc21f8e99",
+      "title": "The Prisoner in the Opal",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "A. E. W. Mason"
+      ],
+      "language": "en",
+      "year": 2026,
+      "publisher": "Standard Ebooks",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction",
+        "Murder--Investigation--Fiction",
+        "Occult crime",
+        "Mystery"
+      ],
+      "source": "Standard Ebooks",
+      "source_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal",
+      "cover_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/cover-thumbnail.jpg",
+      "formats": [
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal_advanced.epub?source=feed"
+        },
+        {
+          "type": "epub",
+          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.kepub.epub?source=feed"
+        },
+        {
+          "type": "azw3",
+          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.azw3?source=feed"
+        },
+        {
+          "type": "html",
+          "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/text/single-page"
+        }
+      ],
+      "access": "public_domain",
+      "license": "Public domain / CC0 in the United States",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal"
+      },
+      "providers": [
+        {
+          "source": "Standard Ebooks",
+          "source_id": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal",
+          "source_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal",
+          "language": "en",
+          "formats": [
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal_advanced.epub?source=feed"
+            },
+            {
+              "type": "epub",
+              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.kepub.epub?source=feed"
+            },
+            {
+              "type": "azw3",
+              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/a-e-w-mason_the-prisoner-in-the-opal.azw3?source=feed"
+            },
+            {
+              "type": "html",
+              "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/text/single-page"
+            }
+          ],
+          "access": "public_domain",
+          "license": "Public domain / CC0 in the United States",
           "verified_legal": true
         }
       ]
@@ -181126,47 +181182,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:55649349847bc73d44d7fa93",
-      "title": "Todos los premios de la MWC 2016",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Francisco Marbel"
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Premios MWC16"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/IsenaTodosLosPremiosMwc2016",
-      "cover_url": "https://archive.org/services/img/IsenaTodosLosPremiosMwc2016",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "IsenaTodosLosPremiosMwc2016",
-        "internet_archive": "IsenaTodosLosPremiosMwc2016"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "IsenaTodosLosPremiosMwc2016",
-          "source_url": "https://archive.org/details/IsenaTodosLosPremiosMwc2016",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
