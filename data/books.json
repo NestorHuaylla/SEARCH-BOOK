@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T13:26:34.923528Z",
+  "generated_at": "2026-11-06T13:07:40.418726Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -312,51 +312,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a959b4bace8363a84b4fc0f8",
-      "title": "1er Encuentro de Turismo Rural Sustentable en Sonora",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Rafael Pacheco R."
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "encuentro",
-        "turismo",
-        "rural",
-        "sustentable",
-        "sonora"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Track01_20141014",
-      "cover_url": "https://archive.org/services/img/Track01_20141014",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Track01_20141014",
-        "internet_archive": "Track01_20141014"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Track01_20141014",
-          "source_url": "https://archive.org/details/Track01_20141014",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -6308,76 +6263,6 @@
       ]
     },
     {
-      "id": "work:1cb2b95944defe5a2862cd54",
-      "title": "Acta escrutinio definitivo - Elecciones PASO de Córdoba (2017)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Cámara Nacional Electoral de Argentina"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Elecciones PASO",
-        "Argentina",
-        "Santa Fe",
-        "Elecciones"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cordoba-2017-paso",
-      "cover_url": "https://archive.org/services/img/cordoba-2017-paso",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cordoba-2017-paso",
-        "internet_archive": "cordoba-2017-paso"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cordoba-2017-paso",
-          "source_url": "https://archive.org/details/cordoba-2017-paso",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cordoba-2017-paso/CORDOBA%20-%202017%20-%20PASO_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:e242680eb4f5d1c0b1fe1933",
       "title": "Actitud docente e inclusión educativa: Una mirada desde la primera infancia",
       "subtitle": "",
@@ -6500,6 +6385,49 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:daccc777b19fab47abd2f5bf",
+      "title": "Actividad 23. Cuadro descriptivo.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Felix Apolinar Erika Darlene & Hernández Castañeda Jael"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Tecnología",
+        "digital",
+        "creatividad"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/uso-de-tecnologi-as_202306",
+      "cover_url": "https://archive.org/services/img/uso-de-tecnologi-as_202306",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "uso-de-tecnologi-as_202306",
+        "internet_archive": "uso-de-tecnologi-as_202306"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "uso-de-tecnologi-as_202306",
+          "source_url": "https://archive.org/details/uso-de-tecnologi-as_202306",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -11100,6 +11028,76 @@
       ]
     },
     {
+      "id": "work:0bc81c5f0f358147202870a7",
+      "title": "Alymkar",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "NimoStar"
+      ],
+      "language": "es",
+      "year": 2022,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Artículo",
+        "Artículos",
+        "Fantasía",
+        "Fantasía Cósmica"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Alymkar",
+      "cover_url": "https://archive.org/services/img/tuscriaturas-miraheze-org-wiki-Alymkar",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "tuscriaturas-miraheze-org-wiki-Alymkar",
+        "internet_archive": "tuscriaturas-miraheze-org-wiki-Alymkar"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "tuscriaturas-miraheze-org-wiki-Alymkar",
+          "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Alymkar",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Alymkar/tuscriaturas-miraheze-org-wiki-Alymkar_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:2e7db3d2faf9d0801d653314",
       "title": "América Latina en Noruega​",
       "subtitle": "​​Producción lingüística, literaria y cultural de una comunidad migrante​",
@@ -14633,6 +14631,47 @@
       ]
     },
     {
+      "id": "work:f2ee44c07444b24b77ca4f82",
+      "title": "Apple confirma el 9 de septiembre como fecha oficial para la presentación de los iPhone",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Apple Keynote"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IsenaKeynoteSeptiembre",
+      "cover_url": "https://archive.org/services/img/IsenaKeynoteSeptiembre",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IsenaKeynoteSeptiembre",
+        "internet_archive": "IsenaKeynoteSeptiembre"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IsenaKeynoteSeptiembre",
+          "source_url": "https://archive.org/details/IsenaKeynoteSeptiembre",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:77368e07e7af72533b22409c",
       "title": "Aprenda a pensar como un programador (con Python)",
       "subtitle": "",
@@ -16735,6 +16774,51 @@
       ]
     },
     {
+      "id": "work:b69aaeb901eb53204006cdeb",
+      "title": "Arte de los medios y transformaciones sociales durante la transición en Chile 1990-2014",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Valentina Montero"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "media arts",
+        "politic",
+        "chile",
+        "dictatorship",
+        "new media"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/montero_tesis",
+      "cover_url": "https://archive.org/services/img/montero_tesis",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "montero_tesis",
+        "internet_archive": "montero_tesis"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "montero_tesis",
+          "source_url": "https://archive.org/details/montero_tesis",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:5bbca17c4cfaa9960b81bfd6",
       "title": "Artemis Fowl and the Eternity Code",
       "subtitle": "",
@@ -16884,6 +16968,48 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:1d5494817e12cd40f1f9584d",
+      "title": "ARTESANÍ A, TECNOLOGÍ A Y NUEVAS FORMAS DE TRABAJO",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Diana Rivera"
+      ],
+      "language": "es",
+      "year": 2019,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ARTESANÍA",
+        "TECNOLOGÍA Y NUEVAS FORMAS DE TRABAJO"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617",
+      "cover_url": "https://archive.org/services/img/ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617",
+        "internet_archive": "ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617",
+          "source_url": "https://archive.org/details/ARTESANATECNOLOGAYNUEVASFORMASDETRABAJO_20190617",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -23517,201 +23643,91 @@
       ]
     },
     {
-      "id": "work:b23227f9a52222323e49064c",
-      "title": "Boletín de la Obra de las vocaciones sacerdotales, núm. 170 (octubre 1963)",
+      "id": "work:daea7821091a2ec788d1f03e",
+      "title": "Boletin de Barometro Internacional 11.09.2017",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Seminari Conciliar de Barcelona"
+        "BAROMETRO INTERNACIONAL"
       ],
       "language": "es",
-      "year": 1963,
+      "year": 2017,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Boletín de la Obra de las vocaciones sacerdotales",
-        "Revistes",
-        "Seminari Conciliar de Barcelona"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre",
-      "cover_url": "https://archive.org/services/img/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre",
-        "internet_archive": "boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre",
-          "source_url": "https://archive.org/details/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/boletin-de-la-obra-de-las-vocaciones-sacerdotales-1963-170-octubre/Bolet%C3%ADn%20de%20la%20obra%20de%20las%20vocaciones%20sacerdotales_1963.%20%5B10%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f8105bfdc1bdcbf16b98fd56",
-      "title": "BOLETÍN DE LA real; academia de la historia TOMO XXIX boletnrealacad29realuoft",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "REAL ACADEMIA DE LA HISTORIA"
-      ],
-      "language": "es",
-      "year": 1896,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "TOMO XXIX",
-        "Boletín",
-        "Real Academia de la Historia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/boletnrealacad29realuoft_202306",
-      "cover_url": "https://archive.org/services/img/boletnrealacad29realuoft_202306",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "boletnrealacad29realuoft_202306",
-        "internet_archive": "boletnrealacad29realuoft_202306"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "boletnrealacad29realuoft_202306",
-          "source_url": "https://archive.org/details/boletnrealacad29realuoft_202306",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/boletnrealacad29realuoft_202306/boletnrealacad29realuoft_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:aa020296544aed1369d95853",
-      "title": "Boletín Oficial de la República Argentina. 1993 1ra sección",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "República Argentina"
-      ],
-      "language": "es",
-      "year": 1993,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
+        "bi",
+        "barometro",
         "boletin",
-        "oficial",
-        "argentina",
-        "leyes"
+        "11"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20_djvu.txt"
-        }
-      ],
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional11.09.2017",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional11.09.2017",
+      "formats": [],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-        "internet_archive": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20"
+        "source_id": "BoletinDeBarometroInternacional11.09.2017",
+        "internet_archive": "BoletinDeBarometroInternacional11.09.2017"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
+          "source_id": "BoletinDeBarometroInternacional11.09.2017",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional11.09.2017",
           "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20_djvu.txt"
-            }
-          ],
+          "formats": [],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:217e58c11cd1389d49ca5bf1",
+      "title": "Boletin de Barometro Internacional 12.07.2018",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "BAROMETRO INTERNACIONAL"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "bi",
+        "barometro",
+        "boletin",
+        "12",
+        "julio",
+        "analisis"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/BoletinDeBarometroInternacional12.07.2018",
+      "cover_url": "https://archive.org/services/img/BoletinDeBarometroInternacional12.07.2018",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "BoletinDeBarometroInternacional12.07.2018",
+        "internet_archive": "BoletinDeBarometroInternacional12.07.2018"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "BoletinDeBarometroInternacional12.07.2018",
+          "source_url": "https://archive.org/details/BoletinDeBarometroInternacional12.07.2018",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -23936,230 +23952,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6701eb8be93dc8cd74430a7e",
-      "title": "Bresciano, J. A. La Historiografía En El Amanecer De La Cultura Digital. Innovaciones Metodológicas, Discursivas E Institucionales [2010]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "J. A. Bresciano"
-      ],
-      "language": "es",
-      "year": 2010,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "historiografía",
-        "cultura digital"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci",
-      "cover_url": "https://archive.org/services/img/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci",
-        "internet_archive": "bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci",
-          "source_url": "https://archive.org/details/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/bresciano-j.-a.-la-historiografia-en-el-amanecer-de-la-cultura-digital.-innovaci/Bresciano%2C%20J.%20A.%20-%20La%20historiograf%C3%ADa%20en%20el%20amanecer%20de%20la%20cultura%20digital.%20Innovaciones%20metodol%C3%B3gicas%2C%20discursivas%20e%20institucionales%20%5B2010%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:fd59aae48729256a914d6e86",
-      "title": "Breve discurso en que se modera la nueva orthographia de España ...",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Gonzalo Bravo Grajera"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Lengua española-Ortografía"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-...",
-      "cover_url": "https://archive.org/services/img/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-...",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20....pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20..._hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20..._djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-...",
-        "internet_archive": "breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-..."
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-...",
-          "source_url": "https://archive.org/details/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-...",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20....pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20..._hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/breve-discurso-en-que-se-modera-la-nueva-orthographia-de-espana-.../Breve%20discurso%20en%20que%20se%20modera%20la%20nueva%20orthographia%20de%20Espa%C3%B1a%20..._djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:33cea0d7779a9d7c4dc462d6",
-      "title": "Breve Tratado Sobre El Humor Ricardo Zarate Y Claudie",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ricardo Zárate and Claudie"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "humor",
-        "essay",
-        "artificial intelligence",
-        "AI",
-        "free ebook",
-        "comedy",
-        "philosophy"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie",
-      "cover_url": "https://archive.org/services/img/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie",
-        "internet_archive": "breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie",
-          "source_url": "https://archive.org/details/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/breve-tratado-sobre-el-humor-ricardo-zarate-y-claudie/Breve%20Tratado%20sobre%20el%20Humor%20-%20Ricardo%20Zarate%20y%20Claudie_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -25864,119 +25656,6 @@
       ]
     },
     {
-      "id": "work:fcfe346f5d44fc95866398fe",
-      "title": "CÁ NTAROS MANUAL DE USO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Marina Salinas"
-      ],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Diseño"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-      "cover_url": "https://archive.org/services/img/ca-ntaros-manual-de-uso",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ca-ntaros-manual-de-uso",
-        "internet_archive": "ca-ntaros-manual-de-uso"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ca-ntaros-manual-de-uso",
-          "source_url": "https://archive.org/details/ca-ntaros-manual-de-uso",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:c625ee2ae24db16f20f646ed",
-      "title": "Cala Aiguablava",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Juan Carlos Martínez"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Letra",
-        "Cala",
-        "Aiguablava",
-        "Autor",
-        "Compositor",
-        "Juan Carlos Martínez"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cala-aiguablava_202302",
-      "cover_url": "https://archive.org/services/img/cala-aiguablava_202302",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cala-aiguablava_202302",
-        "internet_archive": "cala-aiguablava_202302"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cala-aiguablava_202302",
-          "source_url": "https://archive.org/details/cala-aiguablava_202302",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cala-aiguablava_202302/Cala%20Aiguablava_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:7856b0c8c71df43af042a853",
       "title": "Cálculo Cientifico con MATLAB y Octave",
       "subtitle": "",
@@ -26965,74 +26644,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:b95da13d887c06192e50c70c",
-      "title": "Carretero, Juan Manuel. La Rusia De Catalina II [ocr] [1997]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Juan Manuel Carretero"
-      ],
-      "language": "es",
-      "year": 1997,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "historia",
-        "Rusia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997",
-      "cover_url": "https://archive.org/services/img/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997",
-        "internet_archive": "carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997",
-          "source_url": "https://archive.org/details/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/carretero-juan-manuel.-la-rusia-de-catalina-ii-ocr-1997/Carretero%2C%20Juan%20Manuel.%20-%20La%20Rusia%20de%20Catalina%20II%20%5Bocr%5D%20%5B1997%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -28978,47 +28589,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:6593dfeefc3149bae61863a8",
-      "title": "chrome",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "lm"
-      ],
-      "language": "es",
-      "year": 1999,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "buena"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/chrome_201509",
-      "cover_url": "https://archive.org/services/img/chrome_201509",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "chrome_201509",
-        "internet_archive": "chrome_201509"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "chrome_201509",
-          "source_url": "https://archive.org/details/chrome_201509",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -32422,150 +31992,6 @@
       ]
     },
     {
-      "id": "work:a28c1f2f2b15e5ebb38dfe5a",
-      "title": "Comte Sponville, A. Lucrecio. La Miel Y La Absenta [ocr] [2009]",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "A. Comte-Sponville"
-      ],
-      "language": "es",
-      "year": 2009,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ensayo",
-        "filosofía"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502",
-      "cover_url": "https://archive.org/services/img/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D.pdf"
-        },
-        {
-          "type": "epub",
-          "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D.epub"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502",
-        "internet_archive": "comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502",
-          "source_url": "https://archive.org/details/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D.pdf"
-            },
-            {
-              "type": "epub",
-              "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D.epub"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/comte-sponville-a.-lucrecio.-la-miel-y-la-absenta-ocr-2009_202502/Comte-Sponville%2C%20A.%20-%20Lucrecio.%20La%20miel%20y%20la%20absenta%20%5Bocr%5D%20%5B2009%5D_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:e4150c9bb61c10c846d838ee",
-      "title": "CONALEP QUERETARO INFORME DE ACTIVIDADES Y RENDICION DE CUENTAS 2021-2022",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "CONALEP QUERÉTARO"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "CONALEP QUERETARO",
-        "INFORME DE ACTIVIDADES Y RENDICION DE CUENTAS"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/conalepqro-idayrc-2021-2022",
-      "cover_url": "https://archive.org/services/img/conalepqro-idayrc-2021-2022",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "conalepqro-idayrc-2021-2022",
-        "internet_archive": "conalepqro-idayrc-2021-2022"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "conalepqro-idayrc-2021-2022",
-          "source_url": "https://archive.org/details/conalepqro-idayrc-2021-2022",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/conalepqro-idayrc-2021-2022/2021-2022/ACO/Acta_Aco_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:491049487eaec096fb51f206",
       "title": "Conceptions of Data Protection and Privacy",
       "subtitle": "Legal and Philosophical Perspectives",
@@ -33194,71 +32620,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:414cbab28e21d275e44f5be2",
-      "title": "Construccion Ciudad V 19.09.2001",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": 2001,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "town planing"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/construccion-ciudad-v-19.09.2001",
-      "cover_url": "https://archive.org/services/img/construccion-ciudad-v-19.09.2001",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "construccion-ciudad-v-19.09.2001",
-        "internet_archive": "construccion-ciudad-v-19.09.2001"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "construccion-ciudad-v-19.09.2001",
-          "source_url": "https://archive.org/details/construccion-ciudad-v-19.09.2001",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/construccion-ciudad-v-19.09.2001/Construccion%20ciudad%20v%2019.09.2001_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -34042,58 +33403,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:57360e231d5ca9020dab2853",
-      "title": "Contribuciones De David PS 2re 4.",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "David Tejedor Olea"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "DavidPS2Re4",
-        "3DJuegos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/contribuciones-de-david-ps-2re-4.",
-      "cover_url": "https://archive.org/services/img/contribuciones-de-david-ps-2re-4.",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/contribuciones-de-david-ps-2re-4./Contribuciones%20de%20DavidPS2re4..html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "contribuciones-de-david-ps-2re-4.",
-        "internet_archive": "contribuciones-de-david-ps-2re-4."
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "contribuciones-de-david-ps-2re-4.",
-          "source_url": "https://archive.org/details/contribuciones-de-david-ps-2re-4.",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/contribuciones-de-david-ps-2re-4./Contribuciones%20de%20DavidPS2re4..html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -36011,77 +35320,6 @@
       ]
     },
     {
-      "id": "work:293587851183195273d14833",
-      "title": "cosmosopa",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Noiryaguara"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "zine",
-        "fanzine",
-        "minizine",
-        "IZN",
-        "International Zine Month"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cosmosopa",
-      "cover_url": "https://archive.org/services/img/cosmosopa",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cosmosopa/cosmosopa-BN.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cosmosopa/cosmosopa-BN_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cosmosopa/cosmosopa-BN_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cosmosopa",
-        "internet_archive": "cosmosopa"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cosmosopa",
-          "source_url": "https://archive.org/details/cosmosopa",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cosmosopa/cosmosopa-BN.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cosmosopa/cosmosopa-BN_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cosmosopa/cosmosopa-BN_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:31d4a1b702b2ece50c2a1801",
       "title": "»Countless Brains«",
       "subtitle": "The Neuropathological Specimens from Prisoners of War, Occupied Territories, and Nazi Executions",
@@ -36428,6 +35666,49 @@
       ]
     },
     {
+      "id": "work:34d6cc2a621684b6be8001fe",
+      "title": "Cover V 1 N 1",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Revista Científica ConCiencia Jurídica"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "conciencia jurídica",
+        "revista científica",
+        "investigación"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/revistaconcienciajuridicav1n1",
+      "cover_url": "https://archive.org/services/img/revistaconcienciajuridicav1n1",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "revistaconcienciajuridicav1n1",
+        "internet_archive": "revistaconcienciajuridicav1n1"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "revistaconcienciajuridicav1n1",
+          "source_url": "https://archive.org/details/revistaconcienciajuridicav1n1",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:54c929f9fc4799421ef6c6fc",
       "title": "COVID narrativ kartiert",
       "subtitle": "Eine narrative Diskursanalyse von journalistischen Raumerzählungen der COVID-19 Pandemie. Zwei Fallbeispiele aus dem Ostseeraum",
@@ -36695,6 +35976,71 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:fe425460fb8d1f9c82f4ee1c",
+      "title": "Cristo No Era Revolucionario",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Luis Gonzaga Palomar Morán"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "cristo",
+        "revolución",
+        "homilías",
+        "tradición",
+        "modernismo",
+        "sacerdotes progresistas",
+        "sacerdotes marxistas"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/cristo-no-era-revolucionario",
+      "cover_url": "https://archive.org/services/img/cristo-no-era-revolucionario",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "cristo-no-era-revolucionario",
+        "internet_archive": "cristo-no-era-revolucionario"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "cristo-no-era-revolucionario",
+          "source_url": "https://archive.org/details/cristo-no-era-revolucionario",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/cristo-no-era-revolucionario/Cristo%20no%20era%20revolucionario_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
           "verified_legal": true
         }
       ]
@@ -37248,212 +36594,46 @@
       ]
     },
     {
-      "id": "work:ae2a467c810f0bb3b73df710",
-      "title": "Cuadernos De Educacion N 20 Cd E",
+      "id": "work:45febe4f52655f0aa53bb366",
+      "title": "CUADRO DESCRIPTIVO Uso De Tecnologías Digitales ( 1)",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Cuadernos de Educación"
+        "Danfe Saharí Neri Solís"
       ],
       "language": "es",
-      "year": null,
+      "year": 2023,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "agentes sistema educacional",
-        "ciencia",
-        "cultura",
-        "democracia",
-        "derechos humanos",
-        "dictadura militar en chile",
-        "educación superior",
-        "educación técnica",
-        "chile",
-        "gobierno universitario",
-        "historia",
-        "educación",
-        "política pública",
-        "reformas educativas tecnología e innovación",
-        "universidades"
+        "Cuidado de si",
+        "emprendimiento",
+        "equidad de genero",
+        "teconología",
+        "cuadro descrptivo"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cuadernos-de-educacion-n-20-cd-e",
-      "cover_url": "https://archive.org/services/img/cuadernos-de-educacion-n-20-cd-e",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE_djvu.txt"
-        }
-      ],
+      "source_url": "https://archive.org/details/cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306",
+      "cover_url": "https://archive.org/services/img/cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306",
+      "formats": [],
       "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "cuadernos-de-educacion-n-20-cd-e",
-        "internet_archive": "cuadernos-de-educacion-n-20-cd-e"
+        "source_id": "cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306",
+        "internet_archive": "cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "cuadernos-de-educacion-n-20-cd-e",
-          "source_url": "https://archive.org/details/cuadernos-de-educacion-n-20-cd-e",
+          "source_id": "cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306",
+          "source_url": "https://archive.org/details/cuadro-descriptivo-uso-de-tecnologias-digitales-1_202306",
           "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cuadernos-de-educacion-n-20-cd-e/Cuadernos%20de%20educacion%20N%2020_CdE_djvu.txt"
-            }
-          ],
+          "formats": [],
           "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:194cbd74e2de7c7666968c07",
-      "title": "Cuadrante 26",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Asociación de Amigos de Valle-Inclán"
-      ],
-      "language": "es",
-      "year": 2013,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Valle-Inclán",
-        "literatura",
-        "Vilanova de Arousa",
-        "Galicia",
-        "esperpento",
-        "teatro",
-        "historia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cuadrante-26-web",
-      "cover_url": "https://archive.org/services/img/cuadrante-26-web",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cuadrante-26-web/Cuadrante%2026%20web.pdf"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cuadrante-26-web",
-        "internet_archive": "cuadrante-26-web"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cuadrante-26-web",
-          "source_url": "https://archive.org/details/cuadrante-26-web",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cuadrante-26-web/Cuadrante%2026%20web.pdf"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:28bec695ce686a492399c9f4",
-      "title": "Cuadrante 5",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Asociación de Amigos de Valle-Inclán"
-      ],
-      "language": "es",
-      "year": 2001,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Valle-Inclán",
-        "literatura",
-        "Vilanova de Arousa",
-        "Galicia",
-        "esperpento",
-        "teatro",
-        "historia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cuadrante-no-5",
-      "cover_url": "https://archive.org/services/img/cuadrante-no-5",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cuadrante-no-5",
-        "internet_archive": "cuadrante-no-5"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cuadrante-no-5",
-          "source_url": "https://archive.org/details/cuadrante-no-5",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cuadrante-no-5/Cuadrante%20N%C2%BA%205_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -43500,6 +42680,47 @@
       ]
     },
     {
+      "id": "work:e708eca9da7a642ea50d24f6",
+      "title": "Día 1 MWC 2016: Samsung, LG y ZTE",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "mwc16"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IsenaPrimerasImpresionesMwc16",
+      "cover_url": "https://archive.org/services/img/IsenaPrimerasImpresionesMwc16",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IsenaPrimerasImpresionesMwc16",
+        "internet_archive": "IsenaPrimerasImpresionesMwc16"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IsenaPrimerasImpresionesMwc16",
+          "source_url": "https://archive.org/details/IsenaPrimerasImpresionesMwc16",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:db82c512022006780285d712",
       "title": "Diachrone Konstruktikographie",
       "subtitle": "Konditionalgefüge als Konstruktionsfamilie vom Mittelhochdeutschen bis zur Gegenwart",
@@ -46919,6 +46140,52 @@
       ]
     },
     {
+      "id": "work:254b899b7cbca1f072f91e35",
+      "title": "Diseño de la Investigación. Razonamiento Científico. UNAB.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Natalia Bravo, Camila Reyes, Jacqueline Soto, Nicole Meier, Constanza Díaz"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Marco Teórico",
+        "justificación de la investigación",
+        "diseño de la investigación",
+        "objetivos",
+        "preguntas de investigación",
+        "hipótesis."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IseoDeLaInvestigacin.RazonamientoCientfico.UNAB.",
+      "cover_url": "https://archive.org/services/img/IseoDeLaInvestigacin.RazonamientoCientfico.UNAB.",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IseoDeLaInvestigacin.RazonamientoCientfico.UNAB.",
+        "internet_archive": "IseoDeLaInvestigacin.RazonamientoCientfico.UNAB."
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IseoDeLaInvestigacin.RazonamientoCientfico.UNAB.",
+          "source_url": "https://archive.org/details/IseoDeLaInvestigacin.RazonamientoCientfico.UNAB.",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:d645b24cbe2f34ae91addea5",
       "title": "Diseño e implementación de bases de datos desde una perspectiva práctica",
       "subtitle": "",
@@ -48844,82 +48111,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:7ebd4ece15c36c55a2eb121b",
-      "title": "Easter Island Spanish Gospel Tract",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Free Gospel Tracts"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Jesus Christ",
-        "salvation",
-        "patriot",
-        "patriotism",
-        "country",
-        "flag",
-        "gospel tract",
-        "Christian",
-        "missionary",
-        "world"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/easter-island-spanish-gospel-tract",
-      "cover_url": "https://archive.org/services/img/easter-island-spanish-gospel-tract",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "easter-island-spanish-gospel-tract",
-        "internet_archive": "easter-island-spanish-gospel-tract"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "easter-island-spanish-gospel-tract",
-          "source_url": "https://archive.org/details/easter-island-spanish-gospel-tract",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/easter-island-spanish-gospel-tract/Easter%20Island%20-%20Spanish%20Gospel%20Tract_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -51050,6 +50241,47 @@
       ]
     },
     {
+      "id": "work:8e221c214351a7d7d416b7b8",
+      "title": "El Gaucho De Los Cerrillos",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ulises Del Grecco"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuento"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
+      "cover_url": "https://archive.org/services/img/ElGauchoDeLosCerrillos",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ElGauchoDeLosCerrillos",
+        "internet_archive": "ElGauchoDeLosCerrillos"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ElGauchoDeLosCerrillos",
+          "source_url": "https://archive.org/details/ElGauchoDeLosCerrillos",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:89134570d898ae5690c263bd",
       "title": "El gran libro del diseño web",
       "subtitle": "",
@@ -51513,76 +50745,6 @@
           ],
           "access": "open_access",
           "license": "All rights reserved",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:f47f5aa6b3a21e26264381e0",
-      "title": "El Mono Blanco",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Anónimo"
-      ],
-      "language": "es",
-      "year": 2007,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "cuento",
-        "china",
-        "tang",
-        "dinastía tang",
-        "mono",
-        "mono blanco",
-        "literatura china",
-        "traducción",
-        "cuentos en español",
-        "cuentos chinos",
-        "cuento corto",
-        "literatura oriental"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/el-mono-blanco",
-      "cover_url": "https://archive.org/services/img/el-mono-blanco",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/el-mono-blanco/El%20mono%20blanco_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/el-mono-blanco/El%20mono%20blanco_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "el-mono-blanco",
-        "internet_archive": "el-mono-blanco"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "el-mono-blanco",
-          "source_url": "https://archive.org/details/el-mono-blanco",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/el-mono-blanco/El%20mono%20blanco_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/el-mono-blanco/El%20mono%20blanco_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -52140,6 +51302,47 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f844cc13b6cf2dd65bfe1d77",
+      "title": "El último de la familia musical, iPod Touch",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "iPod Touch"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IpodTouch_201604",
+      "cover_url": "https://archive.org/services/img/IpodTouch_201604",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IpodTouch_201604",
+        "internet_archive": "IpodTouch_201604"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IpodTouch_201604",
+          "source_url": "https://archive.org/details/IpodTouch_201604",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -53959,47 +53162,6 @@
       ]
     },
     {
-      "id": "work:fb7d0b8b87cf7c6515da44bb",
-      "title": "Enfasis De Comunicaciones",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "valentina vasquez, karen Bejarano, Sara Ramirez, Natalia Rojas"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Campaña"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/EnfasisDeComunicaciones_201710",
-      "cover_url": "https://archive.org/services/img/EnfasisDeComunicaciones_201710",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "EnfasisDeComunicaciones_201710",
-        "internet_archive": "EnfasisDeComunicaciones_201710"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "EnfasisDeComunicaciones_201710",
-          "source_url": "https://archive.org/details/EnfasisDeComunicaciones_201710",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:d2a4ee737292ee01954b50ac",
       "title": "Enfoque metabólico en diabetes: abordaje y educación terapéutica",
       "subtitle": "",
@@ -54953,6 +54115,47 @@
       ]
     },
     {
+      "id": "work:a20a2fa85f079877c2b7ee2d",
+      "title": "Época De Muda",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Manu Amagi"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cuento argentina Amagi"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/EpocaDeMuda",
+      "cover_url": "https://archive.org/services/img/EpocaDeMuda",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "EpocaDeMuda",
+        "internet_archive": "EpocaDeMuda"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "EpocaDeMuda",
+          "source_url": "https://archive.org/details/EpocaDeMuda",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:29c40998678d157bd54e7098",
       "title": "Erinnerung, Identität und Demokratiekultur",
       "subtitle": "Studien des Leibniz-Instituts für Bildungsmedien",
@@ -55463,57 +54666,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:9412665b9f9bbbe835db168f",
-      "title": "Estrategia de apertura sobre movilidad metropolitana activa e inclusiva - Corredores Verdes",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Secretaría de Participación Ciudadana y Secretaría de Movilidad y Planeación Urbana del Gobierno del Estado de Nuevo León; Secretaría de Innovación y Gobierno Abierto (SIGA) del Municipio de Monterrey; y Secretaría de Innovación y Participación Ciudadana del Municipio de San Pedro Garza García."
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "estrategia de apertura",
-        "movilidad activa",
-        "movilidad inclusiva",
-        "corredores verdes",
-        "plan de accion local",
-        "gobiero abierto",
-        "movilidad sostenible",
-        "nuevo león",
-        "monterrey",
-        "comunicación efectiva",
-        "coordinación interinstitucional"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes",
-      "cover_url": "https://archive.org/services/img/estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes",
-        "internet_archive": "estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes",
-          "source_url": "https://archive.org/details/estrategia-de-apertura-sobre-movilidad-metropolitana-activa-e-inclusiva-corredores-verdes",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
           "verified_legal": true
         }
       ]
@@ -56815,6 +55967,51 @@
       ]
     },
     {
+      "id": "work:4c30e0d40d358a0e658b05cc",
+      "title": "Falkonection El Amansador - El Amansador Vol.2 Snippet",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Falkonection"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Falkonection",
+        "ElAmansador",
+        "DjBeltsazar",
+        "Columbia",
+        "Reggae"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/FalkonectionElAmansador-ElAmansadorVol.2Snippet",
+      "cover_url": "https://archive.org/services/img/FalkonectionElAmansador-ElAmansadorVol.2Snippet",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "FalkonectionElAmansador-ElAmansadorVol.2Snippet",
+        "internet_archive": "FalkonectionElAmansador-ElAmansadorVol.2Snippet"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "FalkonectionElAmansador-ElAmansadorVol.2Snippet",
+          "source_url": "https://archive.org/details/FalkonectionElAmansador-ElAmansadorVol.2Snippet",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a1ce87bbfe544cc23848057c",
       "title": "Famiglie ai vertici del comune di Genova",
       "subtitle": "(1099-1216)",
@@ -57901,7 +57098,7 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "Maurice Nivat B"
+        "Maurice Nivat"
       ],
       "language": "en",
       "year": 1988,
@@ -58456,47 +57653,6 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:3e98dab7ac3a9502e786d4fd",
-      "title": "firefox",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "luis"
-      ],
-      "language": "es",
-      "year": 1998,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "luis"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/firefox_201710",
-      "cover_url": "https://archive.org/services/img/firefox_201710",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "firefox_201710",
-        "internet_archive": "firefox_201710"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "firefox_201710",
-          "source_url": "https://archive.org/details/firefox_201710",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -59533,47 +58689,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:1ea9911d747e9e301f6b4782",
-      "title": "folleto",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Aníbal Foz"
-      ],
-      "language": "es",
-      "year": 2014,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "folleto"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/folleto_201512",
-      "cover_url": "https://archive.org/services/img/folleto_201512",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "folleto_201512",
-        "internet_archive": "folleto_201512"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "folleto_201512",
-          "source_url": "https://archive.org/details/folleto_201512",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -62658,127 +61773,6 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:5517686eae1ec7a8fd012f0c",
-      "title": "Geometric Explosion: Language and Literature Studies in Honour of René Lenarduzzi",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ignacio Arroyo Hernández",
-        "Eugenia Sainz Gonzalez",
-        "Inmaculada Solís García",
-        "Florencio del Barrio de la Rosa"
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "LAN009000",
-        "2ADS",
-        "CF",
-        "CJ",
-        "DS",
-        "DSA",
-        "DSB",
-        "DSM",
-        "JBCC",
-        "JHMC",
-        "Affirmative response operators",
-        "(A)gramaticality",
-        "Agreement",
-        "Anche / también",
-        "Antonio Tiepolo",
-        "Argentina",
-        "Argentinian literature",
-        "Argumentation",
-        "Aspectuality",
-        "Bilingualism",
-        "Carmen Martín Gaite",
-        "Children’s literature",
-        "Cinema",
-        "Conditional verb forms",
-        "Costantino Garzoni",
-        "Creative writing",
-        "Discourse analysis",
-        "Discourse markers",
-        "Dyslexia",
-        "E-learning",
-        "Es probable",
-        "Estanislao del Campo",
-        "Ethics",
-        "Evidenciality",
-        "Future verb forms",
-        "Gaucho literature",
-        "Giovanni Pacini",
-        "Grammars",
-        "Grammatical operators",
-        "Henry James",
-        "Infinitive",
-        "Information structure",
-        "Interaction",
-        "Interlanguage",
-        "Jimena Néspolo",
-        "La chica del Sur",
-        "Lexical availability",
-        "Lexical reduplication",
-        "Metaliterature",
-        "Metaoperational grammar",
-        "Migration linguistics",
-        "Miguel de Cervantes",
-        "Miguel de Unamuno",
-        "Narrowing",
-        "Noun phrase",
-        "Opinion verbs",
-        "Orality",
-        "Painting",
-        "Palinody",
-        "Pinocchio",
-        "Pragmatics",
-        "Prosody",
-        "Republic of Venice",
-        "Ser / Estar",
-        "Sin embargo",
-        "Spanish as foreign language",
-        "Spanish as foreing language",
-        "Spanish novel",
-        "Spanish varieties",
-        "Syntax",
-        "Theatre",
-        "Translation",
-        "Unos",
-        "Verisimilitude",
-        "Viceversa",
-        "Vocabulary",
-        "Writing",
-        "Written competence"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/c4b31ae9-7afd-4b19-acbe-16bbdb1b0112",
-      "cover_url": "https://archive.org/services/img/c4b31ae9-7afd-4b19-acbe-16bbdb1b0112",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "c4b31ae9-7afd-4b19-acbe-16bbdb1b0112",
-        "internet_archive": "c4b31ae9-7afd-4b19-acbe-16bbdb1b0112"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "c4b31ae9-7afd-4b19-acbe-16bbdb1b0112",
-          "source_url": "https://archive.org/details/c4b31ae9-7afd-4b19-acbe-16bbdb1b0112",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by/4.0/",
           "verified_legal": true
         }
       ]
@@ -66664,6 +65658,47 @@
       ]
     },
     {
+      "id": "work:150daea2937b4814ca3668f9",
+      "title": "Guión EPS",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Alberto Retamero"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Guion comercial cursos de mecanica de motos"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/GuionEPS",
+      "cover_url": "https://archive.org/services/img/GuionEPS",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "GuionEPS",
+        "internet_archive": "GuionEPS"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "GuionEPS",
+          "source_url": "https://archive.org/details/GuionEPS",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:19f3839f4233431eb73aafce",
       "title": "Gulliver's Travels into Several Remote Nations of the World",
       "subtitle": "",
@@ -66753,6 +65788,47 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c13ef5350a9f562fcfd8bc80",
+      "title": "H Es",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Default"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Subs"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/h-es_20231114",
+      "cover_url": "https://archive.org/services/img/h-es_20231114",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "h-es_20231114",
+        "internet_archive": "h-es_20231114"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "h-es_20231114",
+          "source_url": "https://archive.org/details/h-es_20231114",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -73490,6 +72566,51 @@
       ]
     },
     {
+      "id": "work:200620801ead1abfd725d0f5",
+      "title": "Holograma# 8",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Kony and the holograms"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "kony and the holograms",
+        "kony",
+        "holograma",
+        "kawaii",
+        "indie pop"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Holograma8",
+      "cover_url": "https://archive.org/services/img/Holograma8",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Holograma8",
+        "internet_archive": "Holograma8"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Holograma8",
+          "source_url": "https://archive.org/details/Holograma8",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:e5a07510692a836e77214202",
       "title": "Horizontes educativos en ciencias, diversidad, sociedad y tecnología",
       "subtitle": "",
@@ -76156,6 +75277,47 @@
       ]
     },
     {
+      "id": "work:7bb0a1cb0ead57d44acb30dc",
+      "title": "IMG 20150826 145906",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "monica lorena lopez"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "biblioteca"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IMG20150826145906",
+      "cover_url": "https://archive.org/services/img/IMG20150826145906",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IMG20150826145906",
+        "internet_archive": "IMG20150826145906"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IMG20150826145906",
+          "source_url": "https://archive.org/details/IMG20150826145906",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:aa3b5e5bcca5e0756a694c61",
       "title": "Immaterieller Schadensersatz und der Wandel völkerrechtlicher Privatrechtsanalogien",
       "subtitle": "",
@@ -77145,6 +76307,47 @@
       ]
     },
     {
+      "id": "work:f25e200491982a1dea7c7856",
+      "title": "index",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Daniela Lobos"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "gsdfg"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/index_20251009",
+      "cover_url": "https://archive.org/services/img/index_20251009",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "index_20251009",
+        "internet_archive": "index_20251009"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "index_20251009",
+          "source_url": "https://archive.org/details/index_20251009",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:71758207992516ac59c91738",
       "title": "Indians in the United States of America",
       "subtitle": "India Migration Report 2025",
@@ -78079,6 +77282,49 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:08b5ab35b5eb6dee261532fd",
+      "title": "Informe Serpaj 2017",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "SERPAJ"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "derechos humanos",
+        "uruguay",
+        "literatura uruguaya"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/InformeSerpaj2017",
+      "cover_url": "https://archive.org/services/img/InformeSerpaj2017",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "InformeSerpaj2017",
+        "internet_archive": "InformeSerpaj2017"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "InformeSerpaj2017",
+          "source_url": "https://archive.org/details/InformeSerpaj2017",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -82838,71 +82084,6 @@
           "formats": [],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:4fd964056fe6191b29d017d3",
-      "title": "Isla de Jauja descubierta por el Capitán, llamado Longares, de Setlom, y de Gorgas",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "relación"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/317-isla-de-jauja",
-      "cover_url": "https://archive.org/services/img/317-isla-de-jauja",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "317-isla-de-jauja",
-        "internet_archive": "317-isla-de-jauja"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "317-isla-de-jauja",
-          "source_url": "https://archive.org/details/317-isla-de-jauja",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -89564,6 +88745,47 @@
       ]
     },
     {
+      "id": "work:555631a6cc32679344e34906",
+      "title": "KM 14.02.17",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Martino Di Pierro"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "streaming"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/KM14.02.17",
+      "cover_url": "https://archive.org/services/img/KM14.02.17",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "KM14.02.17",
+        "internet_archive": "KM14.02.17"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "KM14.02.17",
+          "source_url": "https://archive.org/details/KM14.02.17",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:7050d0e760a0503180c87e9a",
       "title": "Kommunale Wohnungspolitik in Zeiten der Krise",
       "subtitle": "Konflikte um Gestaltungsmacht in Tübingen, Frankfurt am Main und Dresden",
@@ -89814,47 +89036,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:367f101547cbb7da56a09052",
-      "title": "KPSP Diamond Edition",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "KPSP"
-      ],
-      "language": "es",
-      "year": 2018,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "KPSP Diamond Edition"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/DiamondED",
-      "cover_url": "https://archive.org/services/img/DiamondED",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "DiamondED",
-        "internet_archive": "DiamondED"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "DiamondED",
-          "source_url": "https://archive.org/details/DiamondED",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -90964,54 +90145,40 @@
       ]
     },
     {
-      "id": "work:0c11cdecb139f83de0a66400",
-      "title": "La Oración De Jesús",
+      "id": "work:13bc9b28729d4f7c193748d7",
+      "title": "La Prudencia - Santiago M. Ramirez O. P.",
       "subtitle": "",
       "description": "",
-      "authors": [
-        "Agustín Guerrero"
-      ],
+      "authors": [],
       "language": "es",
-      "year": 2018,
+      "year": null,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Jesucristo",
-        "oración",
-        "evangelio Mateo"
+        "Santiago Ramirez Virtude Cardeal Prudência Tomismo Santo Tomás"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/LaOracinDeJess_201810",
-      "cover_url": "https://archive.org/services/img/LaOracinDeJess_201810",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/LaOracinDeJess_201810/La%20oraci%C3%B3n%20de%20Jes%C3%BAs.html"
-        }
-      ],
+      "source_url": "https://archive.org/details/la-prudencia-santiago-m.-ramirez-o.-p._202405",
+      "cover_url": "https://archive.org/services/img/la-prudencia-santiago-m.-ramirez-o.-p._202405",
+      "formats": [],
       "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "LaOracinDeJess_201810",
-        "internet_archive": "LaOracinDeJess_201810"
+        "source_id": "la-prudencia-santiago-m.-ramirez-o.-p._202405",
+        "internet_archive": "la-prudencia-santiago-m.-ramirez-o.-p._202405"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "LaOracinDeJess_201810",
-          "source_url": "https://archive.org/details/LaOracinDeJess_201810",
+          "source_id": "la-prudencia-santiago-m.-ramirez-o.-p._202405",
+          "source_url": "https://archive.org/details/la-prudencia-santiago-m.-ramirez-o.-p._202405",
           "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/LaOracinDeJess_201810/La%20oraci%C3%B3n%20de%20Jes%C3%BAs.html"
-            }
-          ],
+          "formats": [],
           "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -91272,6 +90439,59 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-sa/4.0/ · CC-BY-SA · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:99b03bb1e245723a07037a60",
+      "title": "La ventana donde miro",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Daniel Triunfo"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "la",
+        "ventana",
+        "miro",
+        "internet",
+        "archive",
+        "daniel",
+        "triunfo",
+        "fotos",
+        "bajar",
+        "gratis",
+        "mirar",
+        "free",
+        "download"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Gmail1",
+      "cover_url": "https://archive.org/services/img/Gmail1",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Gmail1",
+        "internet_archive": "Gmail1"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Gmail1",
+          "source_url": "https://archive.org/details/Gmail1",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -92185,6 +91405,88 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:ecbf5dc5e4dd5b7a5f222991",
+      "title": "Las mejores series de TV anunciadas en la Comic-Con 2015",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Comic-con"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IsenaComicConSeries",
+      "cover_url": "https://archive.org/services/img/IsenaComicConSeries",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IsenaComicConSeries",
+        "internet_archive": "IsenaComicConSeries"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IsenaComicConSeries",
+          "source_url": "https://archive.org/details/IsenaComicConSeries",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:36dbbee89165ba076cbb5573",
+      "title": "Las redes sociales y los delitos 2.0",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Redes Sociales"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Isena2.0Delitos",
+      "cover_url": "https://archive.org/services/img/Isena2.0Delitos",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Isena2.0Delitos",
+        "internet_archive": "Isena2.0Delitos"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Isena2.0Delitos",
+          "source_url": "https://archive.org/details/Isena2.0Delitos",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -93366,8 +92668,8 @@
       "subtitle": "",
       "description": "",
       "authors": [
-        "Hans‐Joachim Bungartz",
-        "Ronald H. W. Hoppe",
+        "K Hoffmann",
+        "Christopher Zenger",
         "Christoph Zenger"
       ],
       "language": "en",
@@ -94334,6 +93636,50 @@
       ]
     },
     {
+      "id": "work:4a5183373e50f293b683927b",
+      "title": "Ley De Adopción",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Amanda Palacios, Sofia Cubillos, Katalina Cisternas y Francisca Cuevas"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Adopcion",
+        "Homosexual",
+        "lgbtiq",
+        "adoption"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LeyDeAdopcion",
+      "cover_url": "https://archive.org/services/img/LeyDeAdopcion",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LeyDeAdopcion",
+        "internet_archive": "LeyDeAdopcion"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LeyDeAdopcion",
+          "source_url": "https://archive.org/details/LeyDeAdopcion",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:485ae6efad51c4fb0aaa2894",
       "title": "Library as Publisher",
       "subtitle": "New Models of Scholarly Communication for a New Era",
@@ -94395,6 +93741,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:6cf0acc3805f6f87515993fa",
+      "title": "Libreto Radiofonico",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Celinda"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "amor a los padres"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LibretoRadiofonico_20150428",
+      "cover_url": "https://archive.org/services/img/LibretoRadiofonico_20150428",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LibretoRadiofonico_20150428",
+        "internet_archive": "LibretoRadiofonico_20150428"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LibretoRadiofonico_20150428",
+          "source_url": "https://archive.org/details/LibretoRadiofonico_20150428",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -95978,81 +95365,6 @@
           ],
           "access": "author_free",
           "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:71ee8a86be669d095f3f1649",
-      "title": "Los casos de Bernardo Aranda, 1959 Y Mario Luis Palmieri, 1982 - Informe Final de la Comisión de Verdad y Justicia (CVJ) de Paraguay",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Comisión de Verdad y Justicia (CVJ) de Paraguay"
-      ],
-      "language": "es",
-      "year": 2008,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Dictadura stronista",
-        "Bernardo Aranda",
-        "Palmieri",
-        "derechos humanos",
-        "violencia institucional",
-        "homosexualidad",
-        "persecución política",
-        "memoria histórica",
-        "Paraguay"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cvj-caso-aranda-y-palmieri",
-      "cover_url": "https://archive.org/services/img/cvj-caso-aranda-y-palmieri",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "cvj-caso-aranda-y-palmieri",
-        "internet_archive": "cvj-caso-aranda-y-palmieri"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "cvj-caso-aranda-y-palmieri",
-          "source_url": "https://archive.org/details/cvj-caso-aranda-y-palmieri",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/cvj-caso-aranda-y-palmieri/CVJ%20Caso%20Aranda%20y%20Palmieri_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc/4.0/",
           "verified_legal": true
         }
       ]
@@ -99850,47 +99162,6 @@
       ]
     },
     {
-      "id": "work:dda3ffc1e51a09532e134599",
-      "title": "MANUAL BASICO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ana Guadalupe; Paulina Álvarez; Quiñonez Deiker; Cedeño Diana; Moreira Leonela; Vicente Sandra; Crespo Josué; Medranda Betsi; Gaibor Mayra; Barreiro Maricarmen & Duchiranga Loida"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "manual para presentar una demanda"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/manual-basico",
-      "cover_url": "https://archive.org/services/img/manual-basico",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "manual-basico",
-        "internet_archive": "manual-basico"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "manual-basico",
-          "source_url": "https://archive.org/details/manual-basico",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:98c652b2ad17cf753a6e51c0",
       "title": "Manual de AngularJS",
       "subtitle": "",
@@ -100324,6 +99595,90 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:217ec35ad3e6fc85a673ecba",
+      "title": "manual1-analytics",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Google Analytics"
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Google Analytics"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/manual1-analytics",
+      "cover_url": "https://archive.org/services/img/manual1-analytics",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "manual1-analytics",
+        "internet_archive": "manual1-analytics"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "manual1-analytics",
+          "source_url": "https://archive.org/details/manual1-analytics",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:617d6d9bd0f31ede3c0c6b79",
+      "title": "Manuales Para Obreros De La Palabra Y La Imagen",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Medios libres y comunitarios de Latinoamérica"
+      ],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "medios libres",
+        "comunicación popular",
+        "comunitaria"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ManualesParaObrerosDeLaPalabraYLaImagen",
+      "cover_url": "https://archive.org/services/img/ManualesParaObrerosDeLaPalabraYLaImagen",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ManualesParaObrerosDeLaPalabraYLaImagen",
+        "internet_archive": "ManualesParaObrerosDeLaPalabraYLaImagen"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ManualesParaObrerosDeLaPalabraYLaImagen",
+          "source_url": "https://archive.org/details/ManualesParaObrerosDeLaPalabraYLaImagen",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc/3.0/",
           "verified_legal": true
         }
       ]
@@ -110276,6 +109631,57 @@
       ]
     },
     {
+      "id": "work:6008cb4a2e4a094918d80398",
+      "title": "Nouveau Panorama 2",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "michel"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "prano"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/NouveauPanorama2_201612",
+      "cover_url": "https://archive.org/services/img/NouveauPanorama2_201612",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/NouveauPanorama2_201612/Nouveau%20panorama2.html"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "NouveauPanorama2_201612",
+        "internet_archive": "NouveauPanorama2_201612"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "NouveauPanorama2_201612",
+          "source_url": "https://archive.org/details/NouveauPanorama2_201612",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/NouveauPanorama2_201612/Nouveau%20panorama2.html"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:8a79d39219fc2e52224aefc7",
       "title": "Novos horizontes entre a pandemia e pós-pandemia",
       "subtitle": "",
@@ -116446,6 +115852,48 @@
       ]
     },
     {
+      "id": "work:bf3f29008c36177f78f87d97",
+      "title": "Palabras: poemas",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Luis Alfredo De Souza Pereira"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "autores.uy",
+        "poesía uruguaya"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/de-souza-pereirapalabras",
+      "cover_url": "https://archive.org/services/img/de-souza-pereirapalabras",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "de-souza-pereirapalabras",
+        "internet_archive": "de-souza-pereirapalabras"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "de-souza-pereirapalabras",
+          "source_url": "https://archive.org/details/de-souza-pereirapalabras",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:6499f1dd877e578190a00c7d",
       "title": "Pandemic Policies and Resistance",
       "subtitle": "Southern Feminist Critiques in Times of Covid-19",
@@ -118666,6 +118114,76 @@
       ]
     },
     {
+      "id": "work:b368c4eb57f4def8a528cd98",
+      "title": "Planoetas",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "NimoStar"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Artículo",
+        "Artículos",
+        "Fantasía",
+        "Fantasía Cósmica"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Planoetas",
+      "cover_url": "https://archive.org/services/img/tuscriaturas-miraheze-org-wiki-Planoetas",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "tuscriaturas-miraheze-org-wiki-Planoetas",
+        "internet_archive": "tuscriaturas-miraheze-org-wiki-Planoetas"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "tuscriaturas-miraheze-org-wiki-Planoetas",
+          "source_url": "https://archive.org/details/tuscriaturas-miraheze-org-wiki-Planoetas",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/tuscriaturas-miraheze-org-wiki-Planoetas/tuscriaturas-miraheze-org-wiki-Planoetas_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a6ec957466a079f95baf88ae",
       "title": "Plants",
       "subtitle": "",
@@ -119899,71 +119417,6 @@
           ],
           "access": "creative_commons",
           "license": "Creative Commons Attribution-NonCommercial-ShareAlike License 4.0",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:1191c0f713b2c21321a95830",
-      "title": "Por don Simon de Herrera y Leyba, vezino de la ciudad de la Laguna de la Isla de Tenerife en Canarias: en el pleyto con Juan de Loucel, por si, y como cessonario de Nicolás Mustilier ... sobre la cobrança de",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Herrera y Leyba, Simón de",
-        "Loucel, Juan de",
-        "Mustilier, Nicolás",
-        "Velasco, Andrés de"
-      ],
-      "language": "es",
-      "year": 1685,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Fondo Antiguo",
-        "Libros del Siglo XVII",
-        "Tomos de varios",
-        "Porcones. Alegaciones Jurídicas. Pleitos"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/A10913208",
-      "cover_url": "https://archive.org/services/img/A10913208",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/A10913208/A10913208.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/A10913208/A10913208_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "A10913208",
-        "internet_archive": "A10913208"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "A10913208",
-          "source_url": "https://archive.org/details/A10913208",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/A10913208/A10913208.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/A10913208/A10913208_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -123696,47 +123149,6 @@
       ]
     },
     {
-      "id": "work:2df0a8b51ccdaa0dbe02b9e0",
-      "title": "PROBLEMAS MORALES DE LA EXISTENCIA HUMANA",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "cristobal"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "etica"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/PROBLEMASMORALESDELAEXISTENCIAHUMANA",
-      "cover_url": "https://archive.org/services/img/PROBLEMASMORALESDELAEXISTENCIAHUMANA",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "PROBLEMASMORALESDELAEXISTENCIAHUMANA",
-        "internet_archive": "PROBLEMASMORALESDELAEXISTENCIAHUMANA"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "PROBLEMASMORALESDELAEXISTENCIAHUMANA",
-          "source_url": "https://archive.org/details/PROBLEMASMORALESDELAEXISTENCIAHUMANA",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3c2749efd7ba6da34919c156",
       "title": "Problemas Resueltos de Metodos Numericos",
       "subtitle": "",
@@ -124688,47 +124100,6 @@
       ]
     },
     {
-      "id": "work:9016cb2d02ca833f3113dc7f",
-      "title": "Propuesta De Acción En Formación Docente",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Karina Alejandra Mallamaci"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "formación docente AMBA"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
-      "cover_url": "https://archive.org/services/img/propuesta-de-accion-en-formacion-docente",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "propuesta-de-accion-en-formacion-docente",
-        "internet_archive": "propuesta-de-accion-en-formacion-docente"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "propuesta-de-accion-en-formacion-docente",
-          "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:c1bd79625a9a0375911c6a6a",
       "title": "Protecting Livelihoods",
       "subtitle": "A Global Comparison of Social Law Responses to the COVID-19 Crisis",
@@ -125662,47 +125033,6 @@
       ]
     },
     {
-      "id": "work:bcdca1f24f04416dc39375eb",
-      "title": "Q 400",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "20"
-      ],
-      "language": "es",
-      "year": 1990,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "jgjgjg"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/aaa50005000_gmail_Q400_201311",
-      "cover_url": "https://archive.org/services/img/aaa50005000_gmail_Q400_201311",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "aaa50005000_gmail_Q400_201311",
-        "internet_archive": "aaa50005000_gmail_Q400_201311"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "aaa50005000_gmail_Q400_201311",
-          "source_url": "https://archive.org/details/aaa50005000_gmail_Q400_201311",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:58182d5efbc7f0613aa00f2c",
       "title": "Q-rious About Play",
       "subtitle": "The Case for Playful Intelligence",
@@ -126286,6 +125616,50 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/ · CC-BY-NC-ND · Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:782afd13e16a984deda1bb35",
+      "title": "Quelentaro Bases Ernesto cortez",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gastón Guzmán y Ernesto Cortez"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Folk",
+        "duo leña gruesa",
+        "quelentaro",
+        "coplas"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Track01_201805",
+      "cover_url": "https://archive.org/services/img/Track01_201805",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Track01_201805",
+        "internet_archive": "Track01_201805"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Track01_201805",
+          "source_url": "https://archive.org/details/Track01_201805",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -127822,6 +127196,132 @@
       ]
     },
     {
+      "id": "work:f4b58bc7933f0a76994e5745",
+      "title": "['RECIFFUNA – VOL. I – AÑO 1 – 2015 ( 1)', '– VOL. I – AÑO 1 – 2015 ( 1)']",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Varios autores"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ciencias sociales",
+        "humanidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/reciffuna-vol.-i-an-o-1-2015-1",
+      "cover_url": "https://archive.org/services/img/reciffuna-vol.-i-an-o-1-2015-1",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "reciffuna-vol.-i-an-o-1-2015-1",
+        "internet_archive": "reciffuna-vol.-i-an-o-1-2015-1"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "reciffuna-vol.-i-an-o-1-2015-1",
+          "source_url": "https://archive.org/details/reciffuna-vol.-i-an-o-1-2015-1",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:2bb5d72c60ef389bfbfc7170",
+      "title": "RECIFFUNA – VOL. IX – AÑO 5 – 2019 ( 2)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Varios autores"
+      ],
+      "language": "es",
+      "year": 2019,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ciencias sociales",
+        "humanidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/reciffuna-vol.-ix-an-o-5-2019-2",
+      "cover_url": "https://archive.org/services/img/reciffuna-vol.-ix-an-o-5-2019-2",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "reciffuna-vol.-ix-an-o-5-2019-2",
+        "internet_archive": "reciffuna-vol.-ix-an-o-5-2019-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "reciffuna-vol.-ix-an-o-5-2019-2",
+          "source_url": "https://archive.org/details/reciffuna-vol.-ix-an-o-5-2019-2",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:59912ca0a8744ffedb662c59",
+      "title": "RECIFFUNA – VOL. V – AÑO 3 – 2017 ( 2)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Varios autores"
+      ],
+      "language": "es",
+      "year": 2017,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "ciencias sociales",
+        "humanidades"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/reciffuna-vol.-v-an-o-3-2017-2",
+      "cover_url": "https://archive.org/services/img/reciffuna-vol.-v-an-o-3-2017-2",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "reciffuna-vol.-v-an-o-3-2017-2",
+        "internet_archive": "reciffuna-vol.-v-an-o-3-2017-2"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "reciffuna-vol.-v-an-o-3-2017-2",
+          "source_url": "https://archive.org/details/reciffuna-vol.-v-an-o-3-2017-2",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:6d8a3bd5f44140755448d7a9",
       "title": "Reconceiving Extraterritorial Jurisdiction",
       "subtitle": "From Formality to Function",
@@ -128680,47 +128180,6 @@
       ]
     },
     {
-      "id": "work:2d3ad772dac810f30654ee38",
-      "title": "Reisen",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ejumboeke"
-      ],
-      "language": "es",
-      "year": 1988,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Reisen Ejumboeke Evda Hyparco Spain"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Reisen",
-      "cover_url": "https://archive.org/services/img/Reisen",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Reisen",
-        "internet_archive": "Reisen"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Reisen",
-          "source_url": "https://archive.org/details/Reisen",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:dd7383eff60aec9d215f732b",
       "title": "Relaciones intelectuales entre Nicolai Hartmann y José Ortega y Gasset en los años 1906-1914",
       "subtitle": "",
@@ -129156,73 +128615,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:afa03ce182137c0e86bb6514",
-      "title": "Republica, y policia christiana. Para reyes y principes: y para los que en el gouierno tienen sus vezes. Compuesto por fray Iuan de Santa Maria ..",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Juan, de Santa Maria, m. 1622"
-      ],
-      "language": "es",
-      "year": 1617,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "bub_upload"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/bub_gb_n8U_X4tPKawC",
-      "cover_url": "https://archive.org/services/img/bub_gb_n8U_X4tPKawC",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "bub_gb_n8U_X4tPKawC",
-        "internet_archive": "bub_gb_n8U_X4tPKawC"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "bub_gb_n8U_X4tPKawC",
-          "source_url": "https://archive.org/details/bub_gb_n8U_X4tPKawC",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/bub_gb_n8U_X4tPKawC/bub_gb_n8U_X4tPKawC_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -133737,6 +133129,47 @@
       ]
     },
     {
+      "id": "work:5e39c2e37fa4566fa34672b9",
+      "title": "Riki Oh Tomos 02 A 12",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Riki Oh Tomos 02 A 12"
+      ],
+      "language": "es",
+      "year": 2000,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Riki Oh Tomos"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/RikiOhTomo07",
+      "cover_url": "https://archive.org/services/img/RikiOhTomo07",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "RikiOhTomo07",
+        "internet_archive": "RikiOhTomo07"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "RikiOhTomo07",
+          "source_url": "https://archive.org/details/RikiOhTomo07",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:55d2c48d9d18b9eacd9151b7",
       "title": "Road Pricing and Provision",
       "subtitle": "Changed Traffic Conditions Ahead",
@@ -138001,52 +137434,6 @@
       ]
     },
     {
-      "id": "work:9284956767ee7e031e1bad47",
-      "title": "RTN 9 Enero 2009",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Editor General: José Mejía Lacayo. Subdirectora: Lilly Soto Vásquez"
-      ],
-      "language": "es",
-      "year": 2009,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ciencias Naturales",
-        "Geografía",
-        "Arqueología",
-        "Historia",
-        "Derecho",
-        "Universales"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/rtn-9-enero-2009",
-      "cover_url": "https://archive.org/services/img/rtn-9-enero-2009",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "rtn-9-enero-2009",
-        "internet_archive": "rtn-9-enero-2009"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "rtn-9-enero-2009",
-          "source_url": "https://archive.org/details/rtn-9-enero-2009",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3fda8de07561fea0d8be5e7b",
       "title": "Ruby en 20 minutos",
       "subtitle": "",
@@ -140830,6 +140217,47 @@
       ]
     },
     {
+      "id": "work:3360c61ec9718068aeb55407",
+      "title": "sexualidad",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "ziortza LLona Lasagabaster"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "comic feminista sexualidad"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/sexualidad_201801",
+      "cover_url": "https://archive.org/services/img/sexualidad_201801",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "sexualidad_201801",
+        "internet_archive": "sexualidad_201801"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "sexualidad_201801",
+          "source_url": "https://archive.org/details/sexualidad_201801",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:e601ed78ee82ad2d18719b80",
       "title": "Shared Places",
       "subtitle": "On Religion and Space",
@@ -141542,61 +140970,6 @@
       ]
     },
     {
-      "id": "work:b6674e6aca27cc0381cb1bac",
-      "title": "Situación hídrica en San José del Rincón",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Arenas de Rincon"
-      ],
-      "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "riesgo",
-        "hidrico",
-        "san_jose_del_rincon",
-        "arenas",
-        "santafe",
-        "nestor",
-        "carvallo",
-        "betzabet",
-        "morero",
-        "martin",
-        "morales",
-        "enzo",
-        "visentin",
-        "eugenia",
-        "nocioni"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/arenas-informe-riesgo-hidrico-20170816",
-      "cover_url": "https://archive.org/services/img/arenas-informe-riesgo-hidrico-20170816",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "arenas-informe-riesgo-hidrico-20170816",
-        "internet_archive": "arenas-informe-riesgo-hidrico-20170816"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "arenas-informe-riesgo-hidrico-20170816",
-          "source_url": "https://archive.org/details/arenas-informe-riesgo-hidrico-20170816",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:bd3b33724f9dc134f6d3d092",
       "title": "Skills underlying mathematics: The role of executive function in the development of mathematics proficiency",
       "subtitle": "",
@@ -141899,93 +141272,93 @@
       ]
     },
     {
-      "id": "work:05bec451a235c5e0443471ea",
+      "id": "work:6e57f9b80c07ffb7836a2eef",
       "title": "Snow Crash",
       "subtitle": "",
       "description": "",
       "authors": [
         "Neal Stephenson"
       ],
-      "language": "it",
+      "language": "de",
       "year": 1992,
-      "publisher": "Goldmann",
+      "publisher": "Subterranean",
       "isbn": [
-        "849620832X",
-        "9780593599730",
-        "1299064027",
-        "8493066354",
-        "9788576572046",
-        "1586211137",
-        "0241629837",
-        "9788804754428",
-        "9780141884813",
-        "9780140232929",
-        "9780553562613",
-        "9781455883707",
-        "9789731023021",
-        "9788835720966",
-        "2221079469",
-        "8496208621",
-        "0141884800",
-        "0553380958",
-        "0606216367",
-        "9780553898194",
-        "344223686X",
-        "0140230211",
-        "9780141924045",
-        "0141924047",
-        "9781596061576",
-        "9788493066352",
-        "0141884819",
-        "9780141886275",
         "4150113513",
         "344242450X",
-        "9780141884806",
-        "0241953189",
-        "9780553088533",
-        "0553351923",
-        "9783442424504",
-        "8835720966",
-        "9782221079461",
-        "9781491515051",
-        "0553898191",
-        "1455883700",
-        "9780241953181",
-        "9781586211110",
-        "3596705592",
-        "344245302X",
-        "9780613361620",
-        "9783596705597",
-        "159606157X",
-        "9783442453023",
-        "0613361628",
-        "9781586211134",
-        "0553562614",
-        "9788576570547",
-        "2253072214",
-        "8804754427",
-        "1586211110",
-        "9784150113513",
-        "1491515058",
-        "8576570548",
-        "9788496208322",
-        "0141886277",
-        "9780241629833",
-        "0739480235",
-        "055308853X",
-        "9781299064027",
-        "9780606216364",
-        "9780553351927",
-        "9780739480236",
         "059359973X",
         "9783442236862",
-        "9780553380958",
-        "9788496208629",
+        "9781586211134",
+        "8835720966",
+        "0141886277",
+        "1455883700",
+        "0140230211",
+        "9780141924045",
+        "9780140232929",
+        "9789731023021",
+        "2253072214",
+        "0141884819",
+        "0241953189",
+        "055308853X",
+        "344223686X",
+        "2221079469",
+        "9780613361620",
+        "8493066354",
+        "0553380958",
+        "9784150113513",
+        "159606157X",
+        "9780553351927",
+        "9781491515051",
+        "9780739480236",
         "9782253072218",
-        "0140232923",
+        "9788493066352",
+        "9780141886275",
+        "9780553562613",
+        "8576572044",
+        "344245302X",
+        "9780593599730",
+        "1299064027",
+        "0141924047",
+        "9788576570547",
+        "9781455883707",
+        "9788576572046",
+        "0739480235",
+        "1491515058",
+        "3596705592",
+        "9783442424504",
+        "9780606216364",
+        "1586211137",
+        "9780553088533",
+        "1586211110",
+        "9783596705597",
+        "9788804754428",
+        "0553562614",
         "9780140230215",
+        "9780241629833",
+        "8496208621",
+        "8576570548",
+        "0553351923",
+        "9781586211110",
+        "0241629837",
+        "0141884800",
+        "0140232923",
+        "9780141884813",
+        "0606216367",
+        "0613361628",
+        "8804754427",
+        "9788496208322",
+        "9788496208629",
+        "849620832X",
+        "9780553380958",
+        "9788835720966",
+        "9780553898194",
+        "0553898191",
+        "9783442453023",
+        "9782221079461",
+        "9780241953181",
+        "9781596061576",
         "973102302X",
-        "8576572044"
+        "9781299064027",
+        "9780141884806"
       ],
       "doi": "",
       "subjects": [],
@@ -142008,7 +141381,7 @@
           "source": "Open Library",
           "source_id": "OL38501W",
           "source_url": "https://openlibrary.org/works/OL38501W",
-          "language": "it",
+          "language": "de",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -144970,6 +144343,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:2fd27d74e5b792e970d90248",
+      "title": "Star Trek: Más Allá llegará a la pantalla en 2017",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Francisco Marbel"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Star Trek"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/IsenaStarTrek",
+      "cover_url": "https://archive.org/services/img/IsenaStarTrek",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "IsenaStarTrek",
+        "internet_archive": "IsenaStarTrek"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "IsenaStarTrek",
+          "source_url": "https://archive.org/details/IsenaStarTrek",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -148015,49 +147429,6 @@
       ]
     },
     {
-      "id": "work:86ff2f7ebd1da0c9f4bd212d",
-      "title": "Tapas - Investigación Criptomonedas en Paraguay",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "ONG TEDIC"
-      ],
-      "language": "es",
-      "year": 2022,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Investigacion criptomonedas",
-        "historia criptomonedas",
-        "criptomonedas"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/criptomonedas-paraguay",
-      "cover_url": "https://archive.org/services/img/criptomonedas-paraguay",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "criptomonedas-paraguay",
-        "internet_archive": "criptomonedas-paraguay"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "criptomonedas-paraguay",
-          "source_url": "https://archive.org/details/criptomonedas-paraguay",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:038126641e0c1f0822540136",
       "title": "Teacher Education in Crisis",
       "subtitle": "The State, The Market and the Universities in England",
@@ -149171,48 +148542,6 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
-        }
-      ]
-    },
-    {
-      "id": "work:1733e018ab300a165268e6f7",
-      "title": "Textos Escogidos de la Reforma Radical",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Yoder, John H."
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Theology",
-        "Anabaptism"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/YoderTERR_201906",
-      "cover_url": "https://archive.org/services/img/YoderTERR_201906",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "YoderTERR_201906",
-        "internet_archive": "YoderTERR_201906"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "YoderTERR_201906",
-          "source_url": "https://archive.org/details/YoderTERR_201906",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
         }
       ]
     },
@@ -179228,6 +178557,48 @@
       ]
     },
     {
+      "id": "work:a1d3ec68c8d5844fbc815c16",
+      "title": "Those Very Welcome",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Ulises Del Grecco"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Relato",
+        "diálogo."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/ThoseVeryWelcome",
+      "cover_url": "https://archive.org/services/img/ThoseVeryWelcome",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "ThoseVeryWelcome",
+        "internet_archive": "ThoseVeryWelcome"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "ThoseVeryWelcome",
+          "source_url": "https://archive.org/details/ThoseVeryWelcome",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:d5f0d64e2cc78110136654fe",
       "title": "Three sevens : $b A detective story",
       "subtitle": "",
@@ -182277,6 +181648,47 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f80afc49ab109f0d08b4f1a3",
+      "title": "Track 01 Carlos Sagnay de la Bastida en Radio Cristal, 16 Julio 2014.",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Carlos Sagnay de la Bastida."
+      ],
+      "language": "es",
+      "year": 2014,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Carlos Sagnay de la Bastida en Radio Cristal."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Track01_201409",
+      "cover_url": "https://archive.org/services/img/Track01_201409",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Track01_201409",
+        "internet_archive": "Track01_201409"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Track01_201409",
+          "source_url": "https://archive.org/details/Track01_201409",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -186353,174 +185765,6 @@
       ]
     },
     {
-      "id": "work:362a5227eb87eb77d7fe6aef",
-      "title": "Tyabandha Journal of Arts and Science (Online), Vol 20, No 50, September 2026",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "KIT Tyabandha, PhD"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "in vivo",
-        "in vitro",
-        "in litho",
-        "monolingual",
-        "pilgrim's path's Jerusalem",
-        "thank you Jesus!"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tj-v20-n50",
-      "cover_url": "https://archive.org/services/img/tj-v20-n50",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tj-v20-n50/espa01spn3301traic06s1p1kit1o2026tem29.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tj-v20-n50",
-        "internet_archive": "tj-v20-n50"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tj-v20-n50",
-          "source_url": "https://archive.org/details/tj-v20-n50",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tj-v20-n50/espa01spn3301traic06s1p1kit1o2026tem29.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:33c78fd8967850740b8b35cc",
-      "title": "Tyabandha Journal of Arts and Science (Online), Vol 20, No 51, September 2026",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "KIT Tyabandha, PhD"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "in vivo",
-        "in vitro",
-        "in litho",
-        "monolingual",
-        "pilgrim's path's Jerusalem",
-        "thank you Jesus!"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tj-v20-n51",
-      "cover_url": "https://archive.org/services/img/tj-v20-n51",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tj-v20-n51/espa01spn3301traic07s1p1kit1.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tj-v20-n51",
-        "internet_archive": "tj-v20-n51"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tj-v20-n51",
-          "source_url": "https://archive.org/details/tj-v20-n51",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tj-v20-n51/espa01spn3301traic07s1p1kit1.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:19abcabb785db00d1a89d02a",
-      "title": "Tyabandha Journal of Arts and Science (Online), Vol 20, No 53, September 2026",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "KIT Tyabandha, PhD"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "in vivo",
-        "in vitro",
-        "in litho",
-        "monolingual",
-        "pilgrim's path's Jerusalem",
-        "thank you Jesus!"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/tj-v20-n53",
-      "cover_url": "https://archive.org/services/img/tj-v20-n53",
-      "formats": [
-        {
-          "type": "html",
-          "url": "https://archive.org/download/tj-v20-n53/espa01spn3301traic09s1t1p1kit1.html"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "tj-v20-n53",
-        "internet_archive": "tj-v20-n53"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "tj-v20-n53",
-          "source_url": "https://archive.org/details/tj-v20-n53",
-          "language": "es",
-          "formats": [
-            {
-              "type": "html",
-              "url": "https://archive.org/download/tj-v20-n53/espa01spn3301traic09s1t1p1kit1.html"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:6b6fc295243b4b6c6e0641e0",
       "title": "TypeScript Deep Dive",
       "subtitle": "",
@@ -186969,6 +186213,53 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:8d03030bda6b9a29ec79bfa4",
+      "title": "Un lector beligerante. Las lecturas de Manuel José de Lavardén",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Matías Maggio Ramírez"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Historia de la prensa",
+        "Civilidad",
+        "Historia de la lectura",
+        "Costumbres",
+        "Identidad",
+        "Buenos Aires",
+        "Virreinato del Río de la Plata"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
+      "cover_url": "https://archive.org/services/img/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
+        "internet_archive": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
+          "source_url": "https://archive.org/details/887-texto-del-articulo-en-fichero-de-microsoft-word-o-libre-office-necesario-881-1-10-20200605",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -188342,6 +187633,47 @@
       ]
     },
     {
+      "id": "work:ac4ade46d3772177cdc8ffbe",
+      "title": "Untitled",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Borjes"
+      ],
+      "language": "es",
+      "year": 2016,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Evernote"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Untitled_20160427_1645",
+      "cover_url": "https://archive.org/services/img/Untitled_20160427_1645",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "Untitled_20160427_1645",
+        "internet_archive": "Untitled_20160427_1645"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "Untitled_20160427_1645",
+          "source_url": "https://archive.org/details/Untitled_20160427_1645",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:4cdc87d781f8205ffe96c802",
       "title": "Upcycling Research",
       "subtitle": "Global Perspectives on Product, Fashion and Theory",
@@ -188700,47 +188032,6 @@
       ]
     },
     {
-      "id": "work:3cce39b0be2aa8b9e6eb76c5",
-      "title": "Valledupar Tic",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Mauren Ardila"
-      ],
-      "language": "es",
-      "year": 2015,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Biblioteca-tic"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/ValleduparTic",
-      "cover_url": "https://archive.org/services/img/ValleduparTic",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "ValleduparTic",
-        "internet_archive": "ValleduparTic"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "ValleduparTic",
-          "source_url": "https://archive.org/details/ValleduparTic",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:9b56bc6efe97fe3af9192669",
       "title": "Value Struggles",
       "subtitle": "Looking at Capitalism through the Wine Glass",
@@ -189040,6 +188331,54 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:34f5a9b0006c1ef9331887f0",
+      "title": "Veliko Zine #1 - Otoño 2024",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gonxalo Verde"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Zine",
+        "veliko",
+        "Claudio Kobelt",
+        "Gonxalo Verde",
+        "Soñé Calavera",
+        "Alfredo Viudez Barrera",
+        "Verde y los Caballos a Marte",
+        "Interzona"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/veliko-zine-1-otonio-2024",
+      "cover_url": "https://archive.org/services/img/veliko-zine-1-otonio-2024",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "veliko-zine-1-otonio-2024",
+        "internet_archive": "veliko-zine-1-otonio-2024"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "veliko-zine-1-otonio-2024",
+          "source_url": "https://archive.org/details/veliko-zine-1-otonio-2024",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -192703,8 +192042,8 @@
       ]
     },
     {
-      "id": "work:8a7d5a446f526834251905ec",
-      "title": "Wiki - Enciclopedia Libre",
+      "id": "work:2102015dddbecba1cde5195b",
+      "title": "Wiki - WikiJournal (es)",
       "subtitle": "",
       "description": "",
       "authors": [],
@@ -192717,25 +192056,25 @@
         "MediaWiki",
         "wiki",
         "wikiteam",
-        "TuxFamily"
+        "WikiJournal"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
-      "cover_url": "https://archive.org/services/img/wiki-enciclopediatuxfamilyorg",
+      "source_url": "https://archive.org/details/wiki-eswikijournalorg_w_wiki",
+      "cover_url": "https://archive.org/services/img/wiki-eswikijournalorg_w_wiki",
       "formats": [],
       "access": "creative_commons",
       "license": "https://creativecommons.org/licenses/by-sa/4.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "wiki-enciclopediatuxfamilyorg",
-        "internet_archive": "wiki-enciclopediatuxfamilyorg"
+        "source_id": "wiki-eswikijournalorg_w_wiki",
+        "internet_archive": "wiki-eswikijournalorg_w_wiki"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "wiki-enciclopediatuxfamilyorg",
-          "source_url": "https://archive.org/details/wiki-enciclopediatuxfamilyorg",
+          "source_id": "wiki-eswikijournalorg_w_wiki",
+          "source_url": "https://archive.org/details/wiki-eswikijournalorg_w_wiki",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
@@ -194351,40 +193690,42 @@
       ]
     },
     {
-      "id": "work:216c6c4792c3b33b9feecf5a",
-      "title": "yocontengomultit0000yong[1]",
+      "id": "work:57e514ba529cd5db2180575d",
+      "title": "Ya están aquí los nuevos iPhone 6S y 6S Plus",
       "subtitle": "",
       "description": "",
-      "authors": [],
+      "authors": [
+        "Francisco Marbel"
+      ],
       "language": "es",
-      "year": null,
+      "year": 2015,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "salud"
+        "iPhone 6S"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/yocontengomultit0000yong1",
-      "cover_url": "https://archive.org/services/img/yocontengomultit0000yong1",
+      "source_url": "https://archive.org/details/IssenaIphone6s",
+      "cover_url": "https://archive.org/services/img/IssenaIphone6s",
       "formats": [],
       "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "yocontengomultit0000yong1",
-        "internet_archive": "yocontengomultit0000yong1"
+        "source_id": "IssenaIphone6s",
+        "internet_archive": "IssenaIphone6s"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "yocontengomultit0000yong1",
-          "source_url": "https://archive.org/details/yocontengomultit0000yong1",
+          "source_id": "IssenaIphone6s",
+          "source_url": "https://archive.org/details/IssenaIphone6s",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "license": "http://creativecommons.org/licenses/by-nd/3.0/",
           "verified_legal": true
         }
       ]
