@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T14:44:53.887654Z",
+  "generated_at": "2026-11-18T14:27:23.405838Z",
   "books": [
     {
       "id": "work:ff6ef01ee519cd0e4c6cde29",
@@ -960,6 +960,47 @@
           "formats": [],
           "access": "digital_lending",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:43d6f3564fb5486e10aa6b40",
+      "title": "6 George Berkeley Y El Idealismo Subjetivo Autor Squarespace",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Edison Torres"
+      ],
+      "language": "es",
+      "year": 2008,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Filosofía"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
+      "cover_url": "https://archive.org/services/img/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
+        "internet_archive": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
+          "source_url": "https://archive.org/details/6-george-berkeley-y-el-idealismo-subjetivo-autor-squarespace",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -16118,6 +16159,83 @@
       ]
     },
     {
+      "id": "work:03b273a2b74d4d60d820ab35",
+      "title": "Arqueología de La Cordillera Andina de Mérida. Timote, Chibcha y Arawako",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gladys Gordones Rojas / Lino Meneses Pacheco"
+      ],
+      "language": "es",
+      "year": 2020,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Cordillera de Mérida, Timote, Tabay, Chiguará, Acequias, Bailadores, Santa Cruz de Mora, El Vigía",
+        "arqueología andina",
+        "timote",
+        "chibcha",
+        "arawako",
+        "lagunillas",
+        "Mucuchíes",
+        "Tabay",
+        "Cordillera Andina",
+        "Timoto-cuica",
+        "lingüística"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako",
+      "cover_url": "https://archive.org/services/img/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako",
+        "internet_archive": "gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako",
+          "source_url": "https://archive.org/details/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/gladys-gordones-y-lino-meneses-pacheco-arqueologia-de-merida-timote-chibcha-y-arawako/Gladys%20Gordones%20y%20Lino%20Meneses%20Pacheco%20Arqueolog%C3%ADa%20de%20Merida%2C%20timote%2C%20chibcha%20y%20arawako_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:e70e90780ac90a9b23159d32",
       "title": "Arrian on coursing : $b the Cynegeticus of the younger Xenophon, translated from the Greek, with classical and practical annotations, and a brief sketch of the life and writings of the author. To which is added an appendix, containing some account of the Canes Venatici of classical antiquity",
       "subtitle": "",
@@ -19738,75 +19856,91 @@
       ]
     },
     {
-      "id": "work:8654a1d1cfa94e6b3b1de8c1",
-      "title": "Balanceo de reacciones Redox v1_0",
+      "id": "work:cc7b3033528b42932d80c584",
+      "title": "Barney's Version",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Rafael Govea Villaseñor"
+        "Mordecai Richler"
       ],
       "language": "es",
-      "year": 2017,
-      "publisher": "",
-      "isbn": [],
+      "year": 1997,
+      "publisher": "Canadian Broadcasting Corporation (CBC Audio)",
+      "isbn": [
+        "9788439703730",
+        "0671028464",
+        "8845915700",
+        "9053336923",
+        "9780517462737",
+        "0307741095",
+        "8496867781",
+        "9782226109590",
+        "9789053336922",
+        "9783404921034",
+        "0345812239",
+        "0099554461",
+        "9780660190440",
+        "9780099554462",
+        "9788377990582",
+        "9780676970784",
+        "9780345812230",
+        "9780099939207",
+        "9780307401120",
+        "9780307741097",
+        "3404921038",
+        "9788496867789",
+        "030747688X",
+        "0517462737",
+        "0676970788",
+        "2226109595",
+        "2253149950",
+        "0676971741",
+        "5983581864",
+        "0099939207",
+        "9780307476883",
+        "067940418X",
+        "9780679404187",
+        "9780701162726",
+        "9785983581869",
+        "3446198512",
+        "9788845915703",
+        "9780676971743",
+        "2226218734",
+        "9782226218735",
+        "8439703732",
+        "030740112X",
+        "837799058X",
+        "0660190443",
+        "0701162724",
+        "9782253149958",
+        "9783446198517",
+        "9780671028466"
+      ],
       "doi": "",
-      "subjects": [
-        "balanceo",
-        "oxidación",
-        "reaccion quimica",
-        "redox",
-        "reducción",
-        "número redox",
-        "coeficientes",
-        "procedimiento"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/govea-vr-q-2-balanceo-redox-v-1-0",
-      "cover_url": "https://archive.org/services/img/govea-vr-q-2-balanceo-redox-v-1-0",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "subjects": [],
+      "source": "Open Library",
+      "source_url": "https://openlibrary.org/works/OL675012W",
+      "cover_url": "https://covers.openlibrary.org/b/id/6462413-M.jpg",
+      "formats": [],
+      "access": "digital_lending",
+      "license": "",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "govea-vr-q-2-balanceo-redox-v-1-0",
-        "internet_archive": "govea-vr-q-2-balanceo-redox-v-1-0"
+        "source_id": "OL675012W",
+        "openlibrary_work": "OL675012W",
+        "openlibrary_edition": "OL40428029M",
+        "internet_archive": "wersjabarneya0000rich"
       },
       "providers": [
         {
-          "source": "Internet Archive",
-          "source_id": "govea-vr-q-2-balanceo-redox-v-1-0",
-          "source_url": "https://archive.org/details/govea-vr-q-2-balanceo-redox-v-1-0",
+          "source": "Open Library",
+          "source_id": "OL675012W",
+          "source_url": "https://openlibrary.org/works/OL675012W",
           "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/govea-vr-q-2-balanceo-redox-v-1-0/Govea_VR-Q2-BalanceoRedox-v1_0-_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "formats": [],
+          "access": "digital_lending",
+          "license": "",
           "verified_legal": true
         }
       ]
@@ -23590,68 +23724,6 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:aa020296544aed1369d95853",
-      "title": "Boletín Oficial de la República Argentina. 1993 1ra sección",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "República Argentina"
-      ],
-      "language": "es",
-      "year": 1993,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "boletin",
-        "oficial",
-        "argentina",
-        "leyes"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-      "cover_url": "https://archive.org/services/img/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20.pdf"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-        "internet_archive": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-          "source_url": "https://archive.org/details/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20.pdf"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/Boletin_Oficial_Republica_Argentina_1ra_seccion_1993-05-20/1993-05-20_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -28702,47 +28774,6 @@
       ]
     },
     {
-      "id": "work:6593dfeefc3149bae61863a8",
-      "title": "chrome",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "lm"
-      ],
-      "language": "es",
-      "year": 1999,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "buena"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/chrome_201509",
-      "cover_url": "https://archive.org/services/img/chrome_201509",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "chrome_201509",
-        "internet_archive": "chrome_201509"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "chrome_201509",
-          "source_url": "https://archive.org/details/chrome_201509",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:c209b357efe117520563ed8a",
       "title": "Chroniques de J. Froissart, tome 09/13 : $b 1377-1380 (Depuis la prise de Bergerac jusqu'à la mort de Charles V)",
       "subtitle": "",
@@ -33291,72 +33322,6 @@
       ]
     },
     {
-      "id": "work:5c8978149c82ffa24319c0f5",
-      "title": "Contemporary Mathematics in Context",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "McGraw-Hill"
-      ],
-      "language": "es",
-      "year": 2002,
-      "publisher": "Schools",
-      "isbn": [
-        "9780078275371",
-        "0078275415",
-        "0078275423",
-        "0078275466",
-        "0078275377",
-        "0078307287",
-        "0078618193",
-        "9780078275401",
-        "9780078693007",
-        "9780078618208",
-        "9780078275388",
-        "9780078275418",
-        "9780078275494",
-        "9780078275463",
-        "9780078275500",
-        "0078618207",
-        "9780078275425",
-        "0078275504",
-        "9780078618192",
-        "0078275407",
-        "9780078307287",
-        "0078693004",
-        "0078275490",
-        "0078275385"
-      ],
-      "doi": "",
-      "subjects": [],
-      "source": "Open Library",
-      "source_url": "https://openlibrary.org/works/OL14996311W",
-      "cover_url": "https://covers.openlibrary.org/b/id/1089430-M.jpg",
-      "formats": [],
-      "access": "digital_lending",
-      "license": "",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "OL14996311W",
-        "openlibrary_work": "OL14996311W",
-        "openlibrary_edition": "OL9263944M",
-        "internet_archive": "contemporarymath00mcgr_0"
-      },
-      "providers": [
-        {
-          "source": "Open Library",
-          "source_id": "OL14996311W",
-          "source_url": "https://openlibrary.org/works/OL14996311W",
-          "language": "es",
-          "formats": [],
-          "access": "digital_lending",
-          "license": "",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:3fb5a9a37114fb2cbe45e1a3",
       "title": "Contemporary Trends in Sharia",
       "subtitle": "Critical Debates in Historical Contexts",
@@ -36740,38 +36705,40 @@
       ]
     },
     {
-      "id": "work:87ef2669c45cbc2ecef5c666",
-      "title": "Cuernos Consentidos",
+      "id": "work:9b8a7ff161cba30a5a458a41",
+      "title": "• Cuentas Escargot de Mathias Nicolas Rodriguez Techera y Nicholas Duffy Fudge",
       "subtitle": "",
       "description": "",
       "authors": [
-        "es.cuernos"
+        "Mathias Nicolas Rodriguez Techera"
       ],
       "language": "es",
-      "year": 2025,
+      "year": 2026,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "Cuckold"
+        "Centro Número 5",
+        "Escuela de Felipe Sanguinetti",
+        "Grupo Escolar Felipe Sanguinetti"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/cuernos-consentidos",
-      "cover_url": "https://archive.org/services/img/cuernos-consentidos",
+      "source_url": "https://archive.org/details/msn_20261011",
+      "cover_url": "https://archive.org/services/img/msn_20261011",
       "formats": [],
       "access": "creative_commons",
       "license": "https://creativecommons.org/publicdomain/mark/1.0/",
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "cuernos-consentidos",
-        "internet_archive": "cuernos-consentidos"
+        "source_id": "msn_20261011",
+        "internet_archive": "msn_20261011"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "cuernos-consentidos",
-          "source_url": "https://archive.org/details/cuernos-consentidos",
+          "source_id": "msn_20261011",
+          "source_url": "https://archive.org/details/msn_20261011",
           "language": "es",
           "formats": [],
           "access": "creative_commons",
@@ -42822,6 +42789,187 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:dddd5446a8f4d8292d58b168",
+      "title": "Diario Helvecia 1940 02 28 02544",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Helvecia"
+      ],
+      "language": "es",
+      "year": 2021,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Panorama internacional sombrío",
+        "Guerra",
+        "Helvecia llama a la paz",
+        "Golpiza policial a curanderas en Joaquín Suarez",
+        "Asamblea de Fomento Rural",
+        "Centro Queseros",
+        "Confitería Meny",
+        "Licitación Centro Auxiliar de Salud pública",
+        "Reabre sus puertas el Cine Helvético",
+        "Candidato en La Plata reparte un millon y medio de pesos",
+        "Seleccion de Basketaball de Uruguay inaugura estadio en Brasil",
+        "Boxeo",
+        "Joe Louis contra chileno Arturo Godoy",
+        "Valentin Campolo de Argentina",
+        "Joe louis defiende el titulo por decima vez",
+        "Maestros de Rosario",
+        "Libro de Blas de Nobar",
+        "Baile en Mal Abrigo",
+        "Familia Tavares-Nollenberger",
+        "Asamblea de la Sociedad C. de Socorros Mutuos",
+        "Boda Cioli-Sánchez",
+        "Lidia Eugster de Gilomen",
+        "Fallece Santiago Justet",
+        "Fiestas en Centro Helvético",
+        "Bandas de Buenos Aires",
+        "Obreros lesionados en Canteras de Cufré."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/diario-helvecia-1940-02-28-02544",
+      "cover_url": "https://archive.org/services/img/diario-helvecia-1940-02-28-02544",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "diario-helvecia-1940-02-28-02544",
+        "internet_archive": "diario-helvecia-1940-02-28-02544"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "diario-helvecia-1940-02-28-02544",
+          "source_url": "https://archive.org/details/diario-helvecia-1940-02-28-02544",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/diario-helvecia-1940-02-28-02544/Diario_Helvecia-1940-02-28_02544_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:f3ec99b0aa2ee2e3ddf871ee",
+      "title": "Diario Helvecia 1940 03 02 02545",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Helvecia"
+      ],
+      "language": "es",
+      "year": 2021,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Renuncia de ministro Campos",
+        "Desalojos rurales",
+        "Bochas en Artesano",
+        "Ciclismo Waldemar Bernatzky",
+        "Nuevo comercio de Teodoro Ingold",
+        "Cafè y confitería en Cine Helvético",
+        "Pedro y Hedor Lima Indart",
+        "Cursos de Catecismo Congregación Evangélica",
+        "Cine Rex de Joaquin Suarez",
+        "Apertura sucesión Juan Pablo Werner",
+        "Lucha contra el abrojo grande",
+        "Saludos a HELVECIA en su aniversario",
+        "Periódico La Unión de Colonia",
+        "El Progreso de Tarariras",
+        "La Idea de Carmelo",
+        "Elecciones en Nacional",
+        "Boda Ettlin-Licio",
+        "Inauguración pista hípica en Ecilda Paullier",
+        "Cura Félix González",
+        "Familia Bratschi-Schopf nacimiento",
+        "Boda Cabrera-Telechea",
+        "Nacimiento familia Nollemberger-Helbling",
+        "Dante Bertotto Frey cumple 16 años."
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/diario-helvecia-1940-03-02-02545",
+      "cover_url": "https://archive.org/services/img/diario-helvecia-1940-03-02-02545",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "diario-helvecia-1940-03-02-02545",
+        "internet_archive": "diario-helvecia-1940-03-02-02545"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "diario-helvecia-1940-03-02-02545",
+          "source_url": "https://archive.org/details/diario-helvecia-1940-03-02-02545",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/diario-helvecia-1940-03-02-02545/Diario_Helvecia-1940-03-02_02545_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -49785,73 +49933,6 @@
       ]
     },
     {
-      "id": "work:b4da10183e6359b328ba1297",
-      "title": "El Agua Como Eje Ético",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Teresa Loret de Mola"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "#AQUAHELIX #CrisisdelAgua"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/el-agua-como-eje-etico_202504",
-      "cover_url": "https://archive.org/services/img/el-agua-como-eje-etico_202504",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "el-agua-como-eje-etico_202504",
-        "internet_archive": "el-agua-como-eje-etico_202504"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "el-agua-como-eje-etico_202504",
-          "source_url": "https://archive.org/details/el-agua-como-eje-etico_202504",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/el-agua-como-eje-etico_202504/El%20agua%20como%20eje%20%C3%A9tico_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:84e73f1ff5b87beba4624c21",
       "title": "El aprendizaje significativo como agente para el desarrollo psicológico: Interpretación des de Ausubel, Bruner y Vygotsky",
       "subtitle": "",
@@ -50296,6 +50377,208 @@
       ]
     },
     {
+      "id": "work:9cec418a6167df46f521bc43",
+      "title": "El Eslabón 537",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": null,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "rosario",
+        "argentina",
+        "periodismo",
+        "scribus"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/el-eslabon-537",
+      "cover_url": "https://archive.org/services/img/el-eslabon-537",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "el-eslabon-537",
+        "internet_archive": "el-eslabon-537"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "el-eslabon-537",
+          "source_url": "https://archive.org/details/el-eslabon-537",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/el-eslabon-537/el%20eslab%C3%B3n%20537_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:99c85a4cb73b95922765fdd8",
+      "title": "El Eslabón 668",
+      "subtitle": "",
+      "description": "",
+      "authors": [],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "rosario",
+        "periodismo",
+        "scribus"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/eleslabon_668",
+      "cover_url": "https://archive.org/services/img/eleslabon_668",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/eleslabon_668/eleslabon_668.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/eleslabon_668/eleslabon_668_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/eleslabon_668/eleslabon_668_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "eleslabon_668",
+        "internet_archive": "eleslabon_668"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "eleslabon_668",
+          "source_url": "https://archive.org/details/eleslabon_668",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/eleslabon_668/eleslabon_668.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/eleslabon_668/eleslabon_668_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/eleslabon_668/eleslabon_668_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:c84388f4f3780fa384dfadfa",
+      "title": "El Eterno Retorno apuntes",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Desconocido"
+      ],
+      "language": "es",
+      "year": 2025,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Filosofía"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/el-eterno-retornoapuntes",
+      "cover_url": "https://archive.org/services/img/el-eterno-retornoapuntes",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "el-eterno-retornoapuntes",
+        "internet_archive": "el-eterno-retornoapuntes"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "el-eterno-retornoapuntes",
+          "source_url": "https://archive.org/details/el-eterno-retornoapuntes",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/el-eterno-retornoapuntes/El%20eterno%20retornob%20%284%29_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:a556849f6b47e8c7cd6ddc76",
       "title": "El fantasma de la máquina de lenguaje",
       "subtitle": "",
@@ -50403,6 +50686,78 @@
           ],
           "access": "author_free",
           "license": "",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b3b9fa13fef4a535dbffae88",
+      "title": "El hostigamiento sexual de las trabajadoras en sus centros de empleo",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Martínez, Lourdes"
+      ],
+      "language": "es",
+      "year": 1988,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Sexual harassment of women in Puerto Rico",
+        "Sex discrimination in employment in Puerto Rico",
+        "Sex role in the work environment",
+        "Hostigamiento sexual de las mujeres en Puerto Rico",
+        "Discriminación sexual en el trabajo en Puerto Rico",
+        "Roles sexuales en el trabajo"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/el-hostigamiento-sexual-de-las-trabajadoras",
+      "cover_url": "https://archive.org/services/img/el-hostigamiento-sexual-de-las-trabajadoras",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "el-hostigamiento-sexual-de-las-trabajadoras",
+        "internet_archive": "el-hostigamiento-sexual-de-las-trabajadoras"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "el-hostigamiento-sexual-de-las-trabajadoras",
+          "source_url": "https://archive.org/details/el-hostigamiento-sexual-de-las-trabajadoras",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/el-hostigamiento-sexual-de-las-trabajadoras/El%20hostigamiento%20sexual%20de%20las%20trabajadoras_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -50751,41 +51106,43 @@
       ]
     },
     {
-      "id": "work:9cf6f0b5089f06881e532d79",
-      "title": "El MiR a los obreros, campesinos, pobladores y estudiantes.",
+      "id": "work:b882fc70fee111cdf83ae678",
+      "title": "El Mentor - N°594",
       "subtitle": "",
       "description": "",
       "authors": [
-        "Fundación Miguel Enríquez"
+        "Gerardo Palacios y Cesáreo Camino"
       ],
       "language": "es",
-      "year": 2023,
+      "year": 1933,
       "publisher": "",
       "isbn": [],
       "doi": "",
       "subjects": [
-        "MIR",
-        "\"UNIDAD POPULAR\"",
-        "OBREROS",
-        "CAMPESINOS",
-        "POBLADORES",
-        "ESTUDIANTES"
+        "diario",
+        "periódico",
+        "Choele Choel",
+        "hemeroteca",
+        "historia",
+        "Patagonia",
+        "1933",
+        "Rio Negro"
       ],
       "source": "Internet Archive",
-      "source_url": "https://archive.org/details/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970",
-      "cover_url": "https://archive.org/services/img/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970",
+      "source_url": "https://archive.org/details/el-mentor-n594",
+      "cover_url": "https://archive.org/services/img/el-mentor-n594",
       "formats": [
         {
           "type": "pdf",
-          "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29.pdf"
+          "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594.pdf"
         },
         {
           "type": "html",
-          "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29_hocr.html"
+          "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594_hocr.html"
         },
         {
           "type": "text",
-          "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29_djvu.txt"
+          "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594_djvu.txt"
         }
       ],
       "access": "creative_commons",
@@ -50793,27 +51150,105 @@
       "verified_legal": true,
       "resource_type": "book",
       "identifiers": {
-        "source_id": "el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970",
-        "internet_archive": "el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970"
+        "source_id": "el-mentor-n594",
+        "internet_archive": "el-mentor-n594"
       },
       "providers": [
         {
           "source": "Internet Archive",
-          "source_id": "el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970",
-          "source_url": "https://archive.org/details/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970",
+          "source_id": "el-mentor-n594",
+          "source_url": "https://archive.org/details/el-mentor-n594",
           "language": "es",
           "formats": [
             {
               "type": "pdf",
-              "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29.pdf"
+              "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594.pdf"
             },
             {
               "type": "html",
-              "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29_hocr.html"
+              "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594_hocr.html"
             },
             {
               "type": "text",
-              "url": "https://archive.org/download/el-mi-r-a-los-obreros-campesinos-pobladores-y-estudiantes.-agosto-1970/El%20MiR%20a%20los%20obreros%2C%20campesinos%2C%20pobladores%20y%20estudiantes.%20Agosto%201970%20%281%29_djvu.txt"
+              "url": "https://archive.org/download/el-mentor-n594/1933-10-07_N0594_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:20c1d955b477840c8b8df795",
+      "title": "El Mentor - N°613",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Gerardo Palacios y Cesáreo Camino"
+      ],
+      "language": "es",
+      "year": 1934,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "diario",
+        "periódico",
+        "Choele Choel",
+        "hemeroteca",
+        "historia",
+        "Patagonia",
+        "1934",
+        "Rio Negro",
+        "noticias",
+        "época",
+        "Valle Medio",
+        "Argentina"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/el-mentor-n613",
+      "cover_url": "https://archive.org/services/img/el-mentor-n613",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "el-mentor-n613",
+        "internet_archive": "el-mentor-n613"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "el-mentor-n613",
+          "source_url": "https://archive.org/details/el-mentor-n613",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/el-mentor-n613/1934-02-10_N0613_djvu.txt"
             }
           ],
           "access": "creative_commons",
@@ -51345,6 +51780,82 @@
           "access": "metadata_only",
           "license": "",
           "verified_legal": false
+        }
+      ]
+    },
+    {
+      "id": "work:aa0ce554b2ee06c447dc615c",
+      "title": "El Tiempo Y El Todo La Unificacion Del Universo W",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "anonimo"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Theory of Everything",
+        "Unified Field Theory",
+        "Quantum Physics",
+        "General Relativity",
+        "Quantum Gravity",
+        "Multidimensional Space",
+        "Spacetime",
+        "Unified Theory",
+        "Cosmology",
+        "Theoretical Physics"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/el-tiempo-y-el-todo-la-unificacion-del-universo-w",
+      "cover_url": "https://archive.org/services/img/el-tiempo-y-el-todo-la-unificacion-del-universo-w",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "el-tiempo-y-el-todo-la-unificacion-del-universo-w",
+        "internet_archive": "el-tiempo-y-el-todo-la-unificacion-del-universo-w"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "el-tiempo-y-el-todo-la-unificacion-del-universo-w",
+          "source_url": "https://archive.org/details/el-tiempo-y-el-todo-la-unificacion-del-universo-w",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/el-tiempo-y-el-todo-la-unificacion-del-universo-w/El%20tiempo%20y%20el%20todo%20la%20unificacion%20del%20universoW_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verified_legal": true
         }
       ]
     },
@@ -52802,6 +53313,74 @@
       ]
     },
     {
+      "id": "work:e189ceceb3ad2c31e03eaddb",
+      "title": "En las galaxias de tu alma",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Nelson David Pimentel Heredia"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "poema",
+        "imágenes"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/en-las-galaxias-de-tu-alma-nd-pimentel",
+      "cover_url": "https://archive.org/services/img/en-las-galaxias-de-tu-alma-nd-pimentel",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "en-las-galaxias-de-tu-alma-nd-pimentel",
+        "internet_archive": "en-las-galaxias-de-tu-alma-nd-pimentel"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "en-las-galaxias-de-tu-alma-nd-pimentel",
+          "source_url": "https://archive.org/details/en-las-galaxias-de-tu-alma-nd-pimentel",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/en-las-galaxias-de-tu-alma-nd-pimentel/En_las%20galaxias_de_tu_alma_ND_Pimentel_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:9595753eaaf2b7aa10e0baab",
       "title": "En Misiones, las universidades no vuelven a las aulas aún",
       "subtitle": "",
@@ -53801,6 +54380,126 @@
       ]
     },
     {
+      "id": "work:2d4a3e97aed8b21a75c316a1",
+      "title": "entornos_virtuales_presencialidad",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "María Ruiz Juri"
+      ],
+      "language": "es",
+      "year": 2015,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Entornos virtuales"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/entornos_virtuales_presencialidad_201505",
+      "cover_url": "https://archive.org/services/img/entornos_virtuales_presencialidad_201505",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "entornos_virtuales_presencialidad_201505",
+        "internet_archive": "entornos_virtuales_presencialidad_201505"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "entornos_virtuales_presencialidad_201505",
+          "source_url": "https://archive.org/details/entornos_virtuales_presencialidad_201505",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by/3.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:771dc527a4607d2441483350",
+      "title": "Entre Dos Tías Y Un Tío Juan Leon Mera",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Juan León Mera"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Ambato",
+        "Bonifacio",
+        "Tecla",
+        "Antonio",
+        "Jalupana"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/entre-dos-tias-y-un-tio-juan-leon-mera",
+      "cover_url": "https://archive.org/services/img/entre-dos-tias-y-un-tio-juan-leon-mera",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera.pdf"
+        },
+        {
+          "type": "epub",
+          "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera.epub"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "entre-dos-tias-y-un-tio-juan-leon-mera",
+        "internet_archive": "entre-dos-tias-y-un-tio-juan-leon-mera"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "entre-dos-tias-y-un-tio-juan-leon-mera",
+          "source_url": "https://archive.org/details/entre-dos-tias-y-un-tio-juan-leon-mera",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera.pdf"
+            },
+            {
+              "type": "epub",
+              "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera.epub"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/entre-dos-tias-y-un-tio-juan-leon-mera/Entre%20dos%20t%C3%ADas%20y%20un%20t%C3%ADo%20-%20Juan%20Leon%20Mera_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:bc17f7f53902dbbf2f66091c",
       "title": "Entre experiências e saberes",
       "subtitle": "transições de estudantes em mobilidade acadêmica",
@@ -54355,75 +55054,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:94be6ad0e23e3fa2350746fa",
-      "title": "EQUIVALENTE ELÉ CTRICO DEL ARCO AÓ RTICO",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Ricardo Silva, C. Vásquez, Antonio D'Alessandro Martínez"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "ANALOGO ELECTRICO",
-        "ARCO AORTICO",
-        "PSPICE"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/equivalente-ele-ctrico-del-arco-ao-rtico",
-      "cover_url": "https://archive.org/services/img/equivalente-ele-ctrico-del-arco-ao-rtico",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "equivalente-ele-ctrico-del-arco-ao-rtico",
-        "internet_archive": "equivalente-ele-ctrico-del-arco-ao-rtico"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "equivalente-ele-ctrico-del-arco-ao-rtico",
-          "source_url": "https://archive.org/details/equivalente-ele-ctrico-del-arco-ao-rtico",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/equivalente-ele-ctrico-del-arco-ao-rtico/EQUIVALENTE%20EL%C3%89CTRICO%20DEL%20ARCO%20A%C3%93RTICO_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -56481,78 +57111,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc/4.0/ · CC-BY-NC",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:b6b3e4cd45528406922ff673",
-      "title": "Fanzine 2 Edition",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Noreña Hoyos, K., Hernández Pelaez, C & Vanegas, D."
-      ],
-      "language": "es",
-      "year": 2021,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Colombia",
-        "Paro Nacional 2021",
-        "Movimiento social",
-        "Artistas",
-        "Comunidad",
-        "Agencia social"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/fanzine-2-edition",
-      "cover_url": "https://archive.org/services/img/fanzine-2-edition",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "fanzine-2-edition",
-        "internet_archive": "fanzine-2-edition"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "fanzine-2-edition",
-          "source_url": "https://archive.org/details/fanzine-2-edition",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/fanzine-2-edition/Fanzine%202%20edition_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -58949,117 +59507,6 @@
       ]
     },
     {
-      "id": "work:fb6e912509a99c936caac4e9",
-      "title": "Flérida y don Duardos -i a- 4.pdf",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Archivo Diego Catalán"
-      ],
-      "language": "es",
-      "year": 2023,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Flérida",
-        "Don Duardos",
-        "Diego Catalán",
-        "Romancero"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/flerida-y-don-duardos-i-a-4",
-      "cover_url": "https://archive.org/services/img/flerida-y-don-duardos-i-a-4",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "flerida-y-don-duardos-i-a-4",
-        "internet_archive": "flerida-y-don-duardos-i-a-4"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "flerida-y-don-duardos-i-a-4",
-          "source_url": "https://archive.org/details/flerida-y-don-duardos-i-a-4",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/flerida-y-don-duardos-i-a-4/Fl%C3%A9rida%20y%20don%20Duardos%20-i%20a-%204_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:48cc8f47c51cf2bcd4195bae",
-      "title": "Fnwmt",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Aarón"
-      ],
-      "language": "es",
-      "year": 2000,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Hola"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/fnwmt",
-      "cover_url": "https://archive.org/services/img/fnwmt",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "fnwmt",
-        "internet_archive": "fnwmt"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "fnwmt",
-          "source_url": "https://archive.org/details/fnwmt",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:1ea9911d747e9e301f6b4782",
       "title": "folleto",
       "subtitle": "",
@@ -59207,55 +59654,55 @@
       ]
     },
     {
-      "id": "work:6bd53f46b1a5463b5051999a",
+      "id": "work:3e265f03bcf9e9c2b79b79bb",
       "title": "Fooled by randomness",
       "subtitle": "",
       "description": "",
       "authors": [
         "Nassim Nicholas Taleb"
       ],
-      "language": "und",
+      "language": "fr",
       "year": 2001,
-      "publisher": "Wiley-VCH",
+      "publisher": "Random House Trade Paperbacks",
       "isbn": [
+        "3527500367",
+        "8449322251",
+        "9783527500369",
+        "0141031484",
+        "352750186X",
+        "1588367673",
+        "9780471511441",
+        "9780141032740",
+        "9780141976174",
+        "1400067936",
         "9781587991844",
-        "9780141031484",
+        "8927808126",
+        "9780812975215",
+        "1436192773",
+        "9781596592018",
+        "9788927808121",
+        "9788497323925",
+        "8497323920",
+        "9781400067930",
+        "7508633741",
+        "0812975219",
+        "1587991845",
+        "9781587990717",
+        "9788449322259",
         "158799190X",
         "9787508633749",
-        "9780471511441",
-        "3527500367",
-        "9788449322259",
-        "8497323920",
-        "9783527500369",
-        "8449322251",
-        "9788927808121",
-        "9780141930237",
-        "0812975219",
-        "1588367673",
-        "9781587990717",
-        "9781588367679",
-        "1587990717",
-        "9788497323925",
-        "1436192773",
-        "0471511447",
-        "7508633741",
-        "9780141976174",
-        "9781596592018",
-        "1587991845",
-        "159659201X",
-        "9781436192774",
-        "9781400067930",
         "9781587991905",
-        "0141031484",
-        "8927808126",
-        "0141976179",
-        "0141930233",
-        "9780812975215",
-        "1400067936",
-        "352750186X",
+        "9780141031484",
+        "159659201X",
+        "9781588367679",
+        "0471511447",
         "9783527501861",
-        "9780141032740",
-        "014103274X"
+        "1587990717",
+        "014103274X",
+        "9781436192774",
+        "0141976179",
+        "9780141930237",
+        "0141930233"
       ],
       "doi": "",
       "subjects": [],
@@ -59270,7 +59717,7 @@
       "identifiers": {
         "source_id": "OL3295029W",
         "openlibrary_work": "OL3295029W",
-        "openlibrary_edition": "OL31933630M",
+        "openlibrary_edition": "OL40204131M",
         "internet_archive": "haengunesokchima0000tale"
       },
       "providers": [
@@ -59278,7 +59725,7 @@
           "source": "Open Library",
           "source_id": "OL3295029W",
           "source_url": "https://openlibrary.org/works/OL3295029W",
-          "language": "und",
+          "language": "fr",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -64368,61 +64815,61 @@
       ]
     },
     {
-      "id": "work:e1714f3cfa52a739bcb1a4c2",
+      "id": "work:7205923ffc18ebce02545106",
       "title": "Gödel, Escher, Bach",
       "subtitle": "",
       "description": "",
       "authors": [
         "Douglas R. Hofstadter"
       ],
-      "language": "und",
+      "language": "fr",
       "year": 1979,
-      "publisher": "InterEditions",
+      "publisher": "Dunod",
       "isbn": [
-        "9780855277574",
-        "8483830248",
-        "0465026850",
-        "9046706869",
-        "9783608943382",
-        "9783423300179",
-        "9780394745022",
-        "9780465026852",
-        "9789046706862",
-        "0140055797",
-        "0140179976",
-        "9782100054350",
-        "9789025466534",
-        "9758240382",
-        "0855277572",
         "9025466532",
-        "8472234592",
-        "0140289208",
+        "0140055797",
+        "9758240382",
         "9789758240388",
-        "9788483830246",
-        "9780465026562",
-        "9788845907555",
-        "8845907554",
-        "9780140289206",
-        "3423300175",
         "9784650268850",
-        "9780140055795",
-        "9782729600402",
+        "9780465026852",
         "4650268850",
-        "9783608949063",
-        "9783608930375",
-        "6058795303",
-        "210005435X",
-        "272960040X",
         "0465026567",
-        "0394745027",
-        "0394756827",
+        "8472234592",
+        "9789025466534",
         "360893037X",
+        "210005435X",
+        "9783608949063",
+        "0855277572",
+        "9783423300179",
+        "9783608930375",
+        "9780140289206",
+        "0394745027",
+        "3423300175",
         "3608949062",
-        "3608943382",
-        "9780394756820",
-        "9780140179972",
+        "9782729600402",
+        "9788845907555",
+        "0394756827",
+        "9780140055795",
+        "8483830248",
+        "6058795303",
+        "9783608943382",
+        "0140179976",
+        "9789046706862",
+        "9780855277574",
+        "272960040X",
+        "9786058795303",
+        "9780465026562",
+        "9788483830246",
         "9788472234598",
-        "9786058795303"
+        "9046706869",
+        "9780394745022",
+        "9780140179972",
+        "0465026850",
+        "9780394756820",
+        "8845907554",
+        "0140289208",
+        "9782100054350",
+        "3608943382"
       ],
       "doi": "",
       "subjects": [],
@@ -64445,7 +64892,7 @@
           "source": "Open Library",
           "source_id": "OL716850W",
           "source_url": "https://openlibrary.org/works/OL716850W",
-          "language": "und",
+          "language": "fr",
           "formats": [],
           "access": "digital_lending",
           "license": "",
@@ -65092,11 +65539,11 @@
       "publisher": "Planeta Junior",
       "isbn": [
         "9781484746691",
-        "9786070741050",
-        "6070741056",
-        "1484746694",
-        "6070741242",
         "1368002501",
+        "9786070741050",
+        "1484746694",
+        "6070741056",
+        "6070741242",
         "9786070741241",
         "9781368002509"
       ],
@@ -66067,77 +66514,6 @@
       ]
     },
     {
-      "id": "work:275c21454b0ad55a785260dd",
-      "title": "Guia Instalacion Picom Multilenguaje",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "pp4mnk"
-      ],
-      "language": "es",
-      "year": 2026,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "PICOM",
-        "INSTALLATION",
-        "MULTILINGUAL",
-        "PP4MNK",
-        "EASYOS"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/guia-instalacion-picom-multilenguaje",
-      "cover_url": "https://archive.org/services/img/guia-instalacion-picom-multilenguaje",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "guia-instalacion-picom-multilenguaje",
-        "internet_archive": "guia-instalacion-picom-multilenguaje"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "guia-instalacion-picom-multilenguaje",
-          "source_url": "https://archive.org/details/guia-instalacion-picom-multilenguaje",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/guia-instalacion-picom-multilenguaje/Guia%20Instalacion%20Picom%20Multilenguaje_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:aa8f45ff3fb069192cf8279e",
       "title": "Guía Oficial de Django",
       "subtitle": "",
@@ -66383,73 +66759,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · Other open license",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a5b4e18ce77eff08fce8861e",
-      "title": "Habla San Diego. Periódico. 1997-12. Nº 77. Sevilla (España)",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Asociación de Vecinos Andalucía San Diego (Sevilla, España, 1977-)"
-      ],
-      "language": "es",
-      "year": 1997,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Habla San Diego"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana",
-      "cover_url": "https://archive.org/services/img/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana",
-        "internet_archive": "habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana",
-          "source_url": "https://archive.org/details/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/habla-san-diego-periodico-diciembre-1997-n-77-sevilla-espana/SD-FCE-P-077-000-Peri%C3%B3dico-Habla-San-Diego-Diciembre-1997-Sevilla_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -82448,71 +82757,6 @@
       ]
     },
     {
-      "id": "work:4fd964056fe6191b29d017d3",
-      "title": "Isla de Jauja descubierta por el Capitán, llamado Longares, de Setlom, y de Gorgas",
-      "subtitle": "",
-      "description": "",
-      "authors": [],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "relación"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/317-isla-de-jauja",
-      "cover_url": "https://archive.org/services/img/317-isla-de-jauja",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "317-isla-de-jauja",
-        "internet_archive": "317-isla-de-jauja"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "317-isla-de-jauja",
-          "source_url": "https://archive.org/details/317-isla-de-jauja",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/317-isla-de-jauja/317%20Isla%20de%20Jauja_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:1e9d449e6aec2b4b68fea5a1",
       "title": "Islam, Education, and Freedom",
       "subtitle": "An Uncommon Perspective on Leadership",
@@ -85916,77 +86160,6 @@
           ],
           "access": "creative_commons",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND · All rights reserved",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:c0f1554667a7431aa2d30a40",
-      "title": "Juventudes bajo acecho: jóvenes y policías en un enclave urbano",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "María Laura Serrano Santos"
-      ],
-      "language": "es",
-      "year": 2016,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "jóvenes",
-        "policías",
-        "estigmas",
-        "pobreza",
-        "violencia"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/e8042766",
-      "cover_url": "https://archive.org/services/img/e8042766",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/e8042766/serrano.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/e8042766/serrano_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/e8042766/serrano_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "e8042766",
-        "internet_archive": "e8042766"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "e8042766",
-          "source_url": "https://archive.org/details/e8042766",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/e8042766/serrano.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/e8042766/serrano_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/e8042766/serrano_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -90761,6 +90934,59 @@
           "formats": [],
           "access": "open_access",
           "license": "Other open license",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:0c11cdecb139f83de0a66400",
+      "title": "La Oración De Jesús",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Agustín Guerrero"
+      ],
+      "language": "es",
+      "year": 2018,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "Jesucristo",
+        "oración",
+        "evangelio Mateo"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/LaOracinDeJess_201810",
+      "cover_url": "https://archive.org/services/img/LaOracinDeJess_201810",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/LaOracinDeJess_201810/La%20oraci%C3%B3n%20de%20Jes%C3%BAs.html"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "LaOracinDeJess_201810",
+        "internet_archive": "LaOracinDeJess_201810"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "LaOracinDeJess_201810",
+          "source_url": "https://archive.org/details/LaOracinDeJess_201810",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/LaOracinDeJess_201810/La%20oraci%C3%B3n%20de%20Jes%C3%BAs.html"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
@@ -112321,88 +112547,6 @@
       ]
     },
     {
-      "id": "work:adce0cc7f8309d3df14713a1",
-      "title": "Origen de la Vida v4",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Rafael Govea Villaseñor"
-      ],
-      "language": "es",
-      "year": 2024,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Origen de la vida",
-        "abiogenesis",
-        "teorias abiogenesicas",
-        "generacion espontanea",
-        "panspermia",
-        "meteorica",
-        "quimiosintetica",
-        "sintesis abiotica",
-        "Oparin",
-        "Miller",
-        "Redi",
-        "Spallanzani",
-        "Needham",
-        "probiontes",
-        "eubiontes",
-        "teoria cientifica"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/govea-vr-b-1-07-origendelavida-v-4",
-      "cover_url": "https://archive.org/services/img/govea-vr-b-1-07-origendelavida-v-4",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "govea-vr-b-1-07-origendelavida-v-4",
-        "internet_archive": "govea-vr-b-1-07-origendelavida-v-4"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "govea-vr-b-1-07-origendelavida-v-4",
-          "source_url": "https://archive.org/details/govea-vr-b-1-07-origendelavida-v-4",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/govea-vr-b-1-07-origendelavida-v-4/Govea_VR-B1-07-origendelavidaV4_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:894583c847e287ea98333396",
       "title": "Orthographieerwerb im Kontext Deutsch als Fremdsprache",
       "subtitle": "Eine korpusbasierte Untersuchung zur Rechtschreibkompetenz chinesischer Deutschlernender",
@@ -123592,47 +123736,6 @@
       ]
     },
     {
-      "id": "work:9016cb2d02ca833f3113dc7f",
-      "title": "Propuesta De Acción En Formación Docente",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Karina Alejandra Mallamaci"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "formación docente AMBA"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
-      "cover_url": "https://archive.org/services/img/propuesta-de-accion-en-formacion-docente",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "propuesta-de-accion-en-formacion-docente",
-        "internet_archive": "propuesta-de-accion-en-formacion-docente"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "propuesta-de-accion-en-formacion-docente",
-          "source_url": "https://archive.org/details/propuesta-de-accion-en-formacion-docente",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
       "id": "work:c1bd79625a9a0375911c6a6a",
       "title": "Protecting Livelihoods",
       "subtitle": "A Global Comparison of Social Law Responses to the COVID-19 Crisis",
@@ -125576,47 +125679,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:64702e26dc2395fd73614bad",
-      "title": "Raegan",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "José Angel Argento Victoria"
-      ],
-      "language": "es",
-      "year": null,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Raegan"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/LaCadaDelDraggn.2",
-      "cover_url": "https://archive.org/services/img/LaCadaDelDraggn.2",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "LaCadaDelDraggn.2",
-        "internet_archive": "LaCadaDelDraggn.2"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "LaCadaDelDraggn.2",
-          "source_url": "https://archive.org/details/LaCadaDelDraggn.2",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
           "verified_legal": true
         }
       ]
@@ -130057,47 +130119,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by/4.0/ · CC-BY",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:a27926b460af146ed3c53718",
-      "title": "REVISTA LITERARIA ACUARELA 20251203 214903 0000",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Colectivo Cultural Atelier"
-      ],
-      "language": "es",
-      "year": 2025,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Revista Acuarela Colectivo Cultural Atelier"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/revista-literaria-acuarela-20251203-214903-0000",
-      "cover_url": "https://archive.org/services/img/revista-literaria-acuarela-20251203-214903-0000",
-      "formats": [],
-      "access": "creative_commons",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "revista-literaria-acuarela-20251203-214903-0000",
-        "internet_archive": "revista-literaria-acuarela-20251203-214903-0000"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "revista-literaria-acuarela-20251203-214903-0000",
-          "source_url": "https://archive.org/details/revista-literaria-acuarela-20251203-214903-0000",
-          "language": "es",
-          "formats": [],
-          "access": "creative_commons",
-          "license": "https://creativecommons.org/publicdomain/mark/1.0/",
           "verified_legal": true
         }
       ]
@@ -136069,6 +136090,85 @@
           ],
           "access": "open_access",
           "license": "Open Access; license not reported by OpenAlex",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:b846cc50ee67654bfb9d85f4",
+      "title": "RODBlox Documents — Censo N° 1 - RODBlox Community (Respuestas)",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "RODBlox"
+      ],
+      "language": "es",
+      "year": 2024,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "roblox",
+        "rodblox",
+        "youtuber",
+        "content creator",
+        "document",
+        "docx",
+        "xmll",
+        "archive",
+        "text",
+        "note",
+        "internet",
+        "discord",
+        "youtube",
+        "spanish",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "information",
+        "data",
+        "files",
+        "archives",
+        "documents",
+        "file",
+        "google",
+        "word",
+        "ms word",
+        "office",
+        "microsoft",
+        "odt",
+        "analytics",
+        "statistics",
+        "history",
+        "source",
+        "stats",
+        "census",
+        "censo 1",
+        "rodblox community"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/censo-n-1-rodblox-community-respuestas",
+      "cover_url": "https://archive.org/services/img/censo-n-1-rodblox-community-respuestas",
+      "formats": [],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "censo-n-1-rodblox-community-respuestas",
+        "internet_archive": "censo-n-1-rodblox-community-respuestas"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "censo-n-1-rodblox-community-respuestas",
+          "source_url": "https://archive.org/details/censo-n-1-rodblox-community-respuestas",
+          "language": "es",
+          "formats": [],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
           "verified_legal": true
         }
       ]
@@ -185900,6 +186000,62 @@
       ]
     },
     {
+      "id": "work:19abcabb785db00d1a89d02a",
+      "title": "Tyabandha Journal of Arts and Science (Online), Vol 20, No 53, September 2026",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "KIT Tyabandha, PhD"
+      ],
+      "language": "es",
+      "year": 2026,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "in vivo",
+        "in vitro",
+        "in litho",
+        "monolingual",
+        "pilgrim's path's Jerusalem",
+        "thank you Jesus!"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/tj-v20-n53",
+      "cover_url": "https://archive.org/services/img/tj-v20-n53",
+      "formats": [
+        {
+          "type": "html",
+          "url": "https://archive.org/download/tj-v20-n53/espa01spn3301traic09s1t1p1kit1.html"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "tj-v20-n53",
+        "internet_archive": "tj-v20-n53"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "tj-v20-n53",
+          "source_url": "https://archive.org/details/tj-v20-n53",
+          "language": "es",
+          "formats": [
+            {
+              "type": "html",
+              "url": "https://archive.org/download/tj-v20-n53/espa01spn3301traic09s1t1p1kit1.html"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
       "id": "work:6b6fc295243b4b6c6e0641e0",
       "title": "TypeScript Deep Dive",
       "subtitle": "",
@@ -186348,6 +186504,93 @@
           ],
           "access": "public_domain",
           "license": "Public domain in the United States",
+          "verified_legal": true
+        }
+      ]
+    },
+    {
+      "id": "work:e212418104196168162da746",
+      "title": "Un emblema en el siglo XXI mexicano",
+      "subtitle": "",
+      "description": "",
+      "authors": [
+        "Jesús Pérez Caballero"
+      ],
+      "language": "es",
+      "year": 2023,
+      "publisher": "",
+      "isbn": [],
+      "doi": "",
+      "subjects": [
+        "México",
+        "emblema",
+        "Andrés Alciato",
+        "Bernardino Daza Pinciano",
+        "El Mañana de Nuevo Laredo",
+        "prensa de México",
+        "ensayo",
+        "jamsa",
+        "mano pantea",
+        "Dextera Dei",
+        "mano de Fátima",
+        "La Mano con Ojos",
+        "delincuencia organizada",
+        "propaganda",
+        "violencia",
+        "emblemática",
+        "símbolo",
+        "alegoría",
+        "Diego de Saavedra Fajardo",
+        "Empresas políticas",
+        "prudencia"
+      ],
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/emblema-mexico-mano-con-ojos-prudencia",
+      "cover_url": "https://archive.org/services/img/emblema-mexico-mano-con-ojos-prudencia",
+      "formats": [
+        {
+          "type": "pdf",
+          "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B.pdf"
+        },
+        {
+          "type": "html",
+          "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B_hocr.html"
+        },
+        {
+          "type": "text",
+          "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B_djvu.txt"
+        }
+      ],
+      "access": "creative_commons",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "verified_legal": true,
+      "resource_type": "book",
+      "identifiers": {
+        "source_id": "emblema-mexico-mano-con-ojos-prudencia",
+        "internet_archive": "emblema-mexico-mano-con-ojos-prudencia"
+      },
+      "providers": [
+        {
+          "source": "Internet Archive",
+          "source_id": "emblema-mexico-mano-con-ojos-prudencia",
+          "source_url": "https://archive.org/details/emblema-mexico-mano-con-ojos-prudencia",
+          "language": "es",
+          "formats": [
+            {
+              "type": "pdf",
+              "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B.pdf"
+            },
+            {
+              "type": "html",
+              "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B_hocr.html"
+            },
+            {
+              "type": "text",
+              "url": "https://archive.org/download/emblema-mexico-mano-con-ojos-prudencia/Emblema%20siglo%20XXI.%2020231125-B-04-B_djvu.txt"
+            }
+          ],
+          "access": "creative_commons",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0/",
           "verified_legal": true
         }
       ]
@@ -189229,76 +189472,6 @@
           ],
           "access": "creative_commons",
           "license": "open access · https://creativecommons.org/licenses/by-nc-nd/4.0/ · CC-BY-NC-ND",
-          "verified_legal": true
-        }
-      ]
-    },
-    {
-      "id": "work:850e6d5065a9d20a872b32d1",
-      "title": "Viaje de un profesor alemán a Eldorado",
-      "subtitle": "",
-      "description": "",
-      "authors": [
-        "Damián H. Zanette"
-      ],
-      "language": "es",
-      "year": 2020,
-      "publisher": "",
-      "isbn": [],
-      "doi": "",
-      "subjects": [
-        "Ludwig Boltzmann",
-        "Eldorado",
-        "Berkeley",
-        "California"
-      ],
-      "source": "Internet Archive",
-      "source_url": "https://archive.org/details/eldorado_202212",
-      "cover_url": "https://archive.org/services/img/eldorado_202212",
-      "formats": [
-        {
-          "type": "pdf",
-          "url": "https://archive.org/download/eldorado_202212/eldorado.pdf"
-        },
-        {
-          "type": "html",
-          "url": "https://archive.org/download/eldorado_202212/eldorado_hocr.html"
-        },
-        {
-          "type": "text",
-          "url": "https://archive.org/download/eldorado_202212/eldorado_djvu.txt"
-        }
-      ],
-      "access": "creative_commons",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
-      "verified_legal": true,
-      "resource_type": "book",
-      "identifiers": {
-        "source_id": "eldorado_202212",
-        "internet_archive": "eldorado_202212"
-      },
-      "providers": [
-        {
-          "source": "Internet Archive",
-          "source_id": "eldorado_202212",
-          "source_url": "https://archive.org/details/eldorado_202212",
-          "language": "es",
-          "formats": [
-            {
-              "type": "pdf",
-              "url": "https://archive.org/download/eldorado_202212/eldorado.pdf"
-            },
-            {
-              "type": "html",
-              "url": "https://archive.org/download/eldorado_202212/eldorado_hocr.html"
-            },
-            {
-              "type": "text",
-              "url": "https://archive.org/download/eldorado_202212/eldorado_djvu.txt"
-            }
-          ],
-          "access": "creative_commons",
-          "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
           "verified_legal": true
         }
       ]
