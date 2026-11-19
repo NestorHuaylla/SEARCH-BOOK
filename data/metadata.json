@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T14:27:23.405838Z",
+  "generated_at": "2026-11-19T14:36:02.780026Z",
   "total_records": 2281,
-  "catalog_sha256": "8d8d4e257236b2d3a71da88109660d92207f2294be6b77cc0cfe355f521d3f3a",
+  "catalog_sha256": "9a5a7390fe18eb637a45e709373e77587856a8b1ffe2f2a8e4c6d157577af568",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -33,9 +33,8 @@
     },
     "OpenAlex": {
       "records": 100,
-      "status": "error",
-      "retained": true,
-      "error": "OpenAlex: request failed: HTTPSConnectionPool(host='api.openalex.org', port=443): Max retries exceeded with url: /works?search=numerical+methods&filter=open_access.is_oa%3Atrue%2Chas_oa_accepted_or_published_version%3Atrue&per_page=25&select=id%2Cdoi%2Ctitle%2Cauthorships%2Cpublication_year%2Cbest_oa_location%2Copen_access%2Ctopics%2Clanguage%2Ctype (Caused by ResponseError('too many 503 error responses'))"
+      "status": "ok",
+      "retained": false
     },
     "OpenStax": {
       "records": 110,
@@ -46,7 +45,7 @@
       "records": 320,
       "status": "error",
       "retained": true,
-      "error": "Project Gutenberg: request failed: HTTPSConnectionPool(host='gutendex.com', port=443): Max retries exceeded with url: /books/?page=8 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='gutendex.com', port=443): Read timed out. (read timeout=30)\"))"
+      "error": "Project Gutenberg: request failed: HTTPSConnectionPool(host='gutendex.com', port=443): Max retries exceeded with url: /books/?page=3 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='gutendex.com', port=443): Read timed out. (read timeout=30)\"))"
     },
     "Standard Ebooks": {
       "records": 15,
@@ -58,17 +57,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2578062
+      "bytes": 2582574
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2723476
+      "bytes": 2715564
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 281,
-      "bytes": 841859
+      "bytes": 835477
     }
   ]
 }
