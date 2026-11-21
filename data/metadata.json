@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T14:14:17.290319Z",
+  "generated_at": "2026-11-21T13:43:00.760425Z",
   "total_records": 2282,
-  "catalog_sha256": "0baa4abc56964082ea6220a3acbdf0819f406b7eb702526cb8954977e505ca92",
+  "catalog_sha256": "0b6c72311579765944a85bc237cc72f42c6afcf41ecece21dacb82c2669aa3ac",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -57,17 +57,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2578308
+      "bytes": 2581569
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2714786
+      "bytes": 2713928
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 282,
-      "bytes": 839254
+      "bytes": 838839
     }
   ]
 }
