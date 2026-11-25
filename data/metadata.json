@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T16:04:38.183947Z",
+  "generated_at": "2026-11-25T15:51:25.042069Z",
   "total_records": 2283,
-  "catalog_sha256": "a37b4f43a92f22860a9d784f68ee7792436211ea3dc91ae918903621bb76a955",
+  "catalog_sha256": "cd0e700e12096cec3b68ccb858eb9af8eab1b80bba6f2b09bc79562917c88236",
   "providers": {
     "DOAB": {
       "records": 750,
@@ -43,9 +43,8 @@
     },
     "Project Gutenberg": {
       "records": 320,
-      "status": "error",
-      "retained": true,
-      "error": "Project Gutenberg: request failed: HTTPSConnectionPool(host='gutendex.com', port=443): Max retries exceeded with url: /books/?page=7 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='gutendex.com', port=443): Read timed out. (read timeout=30)\"))"
+      "status": "ok",
+      "retained": false
     },
     "Standard Ebooks": {
       "records": 15,
@@ -57,17 +56,17 @@
     {
       "path": "data/shards/books-0000.json",
       "records": 1000,
-      "bytes": 2579100
+      "bytes": 2583086
     },
     {
       "path": "data/shards/books-0001.json",
       "records": 1000,
-      "bytes": 2706071
+      "bytes": 2721227
     },
     {
       "path": "data/shards/books-0002.json",
       "records": 283,
-      "bytes": 855105
+      "bytes": 859165
     }
   ]
 }
